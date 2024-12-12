@@ -4,7 +4,7 @@
  id="chinese.i18n.yeddawang"
  name="OxyCNUI"
  description="最地道的简体中文界面"
- version="0.0.1"
+ version="0.0.2"
  vendor="王烨"
  class="ro.sync.exml.plugin.Plugin">
  <extension type="AdditionalUITranslation" href="translation.xml"/>
