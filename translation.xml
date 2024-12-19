@@ -1739,7 +1739,8 @@
         <val lang="zh_CN">HTML文件转换为XHTML</val>
     </key>
     <key value="Popular">
-        <comment>Popular</comment>
+        <comment>{Original}: Popular</comment>
+        <comment>{Dialogue box: New}: "Popular"</comment>
         <comment><val lang="en_US">Popular</val></comment>
         <val lang="zh_CN">常用模板</val>
     </key>
@@ -8079,9 +8080,10 @@
         <val lang="zh_CN">状态栏背景</val>
     </key>
     <key value="View_titles_font">
-        <comment>Name of the option that controls the view titles font.</comment>
+        <comment>{Original}: Name of the option that controls the view titles font.</comment>
+        <comment>{Dialogue box: Preferences}: [Appearance]/[Fonts]/"View titles font"</comment>
         <comment><val lang="en_US">View titles font</val></comment>
-        <val lang="zh_CN">查看标题字体</val>
+        <val lang="zh_CN">视图标题</val>
     </key>
     <key value="Certificate_expired">
         <comment>For add-ons install process, the add-on was signed with an expired certificate.</comment>
@@ -8436,7 +8438,8 @@
         <val lang="zh_CN">使用文件名作为根ID属性的值</val>
     </key>
     <key value="Choose_a_file_template">
-        <comment>Choose a file template label</comment>
+        <comment>{Original}: Choose a file template label</comment>
+        <comment>{Dialogue box: New}: "Choose a file template"</comment>
         <comment><val lang="en_US">Choose a file template</val></comment>
         <val lang="zh_CN">选择文件类型或模板</val>
     </key>
@@ -13170,7 +13173,8 @@
         <val lang="zh_CN">如果使用的是XQuery Update，则应选择此模型</val>
     </key>
     <key value="Create_new">
-        <comment>Section name in welcome dialog.</comment>
+        <comment>{Original}: Section name in welcome dialog.</comment>
+        <comment>{Dialogue box: Welcome}: "Create New"</comment>
         <comment><val lang="en_US">Create New</val></comment>
         <val lang="zh_CN">新建</val>
     </key>
@@ -13185,42 +13189,50 @@
         <val lang="zh_CN">如果检测到，使用零缩进</val>
     </key>
     <key value="Mailing_list">
-        <comment>Action name in welcome dialog.</comment>
+        <comment>{Original}: Action name in welcome dialog.</comment>
+        <comment>{Dialogue box: Welcome}: "Mailing List"</comment>
         <comment><val lang="en_US">Mailing List</val></comment>
         <val lang="zh_CN">邮件列表</val>
     </key>
     <key value="Discussion_forum">
-        <comment>Action name in welcome dialog.</comment>
+        <comment>{Original}: Action name in welcome dialog.</comment>
+        <comment>{Dialogue box: Welcome}: "Discussion Forum"</comment>
         <comment><val lang="en_US">Discussion Forum</val></comment>
         <val lang="zh_CN">用户论坛</val>
     </key>
     <key value="User_guide">
-        <comment>Action name in welcome dialog.</comment>
+        <comment>{Original}: Action name in welcome dialog.</comment>
+        <comment>{Dialogue box: Welcome}: "User Guide"</comment>
         <comment><val lang="en_US">User Guide</val></comment>
         <val lang="zh_CN">使用手册</val>
     </key>
     <key value="Upcoming_events">
-        <comment>Section name in welcome dialog.</comment>
+        <comment>{Original}: Section name in welcome dialog.</comment>
+        <comment>{Dialogue box: Welcome}: "Upcoming Events"</comment>
         <comment><val lang="en_US">Upcoming Events</val></comment>
         <val lang="zh_CN">活动预告</val>
     </key>
     <key value="Learn_oxygen">
-        <comment>Section name in welcome dialog.</comment>
+        <comment>{Original}: Section name in welcome dialog.</comment>
+        <comment>{Dialogue box: Welcome}: "Learn Oxygen"</comment>
         <comment><val lang="en_US">Learn Oxygen</val></comment>
         <val lang="zh_CN">学习Oxygen</val>
     </key>
     <key value="Open_file">
-        <comment>Action name in welcome dialog.</comment>
+        <comment>{Original}: Action name in welcome dialog.</comment>
+        <comment>{Dialogue box: Welcome}: "Open file"</comment>
         <comment><val lang="en_US">Open file</val></comment>
         <val lang="zh_CN">打开文件</val>
     </key>
     <key value="Recent_files">
-        <comment>Section name in welcome dialog.</comment>
+        <comment>{Original}: Section name in welcome dialog.</comment>
+        <comment>{Dialogue box: Welcome}: "Recent files"</comment>
         <comment><val lang="en_US">Recent Files</val></comment>
         <val lang="zh_CN">最近打开过的文件</val>
     </key>
     <key value="Recent_projects">
-        <comment>Section name in welcome dialog.</comment>
+        <comment>{Original}: Section name in welcome dialog.</comment>
+        <comment>{Dialogue box: Welcome}: "Recent projects"</comment>
         <comment><val lang="en_US">Recent Projects</val></comment>
         <val lang="zh_CN">最近打开过的项目</val>
     </key>
@@ -21357,17 +21369,20 @@
         <val lang="zh_CN">顺序</val>
     </key>
     <key value="Recently_used">
-        <comment>Recently used editor templates</comment>
+        <comment>{Original}: Recently used editor templates</comment>
+        <comment>{Dialogue box: New}: "Recently used"</comment>
         <comment><val lang="en_US">Recently used</val></comment>
-        <val lang="zh_CN">最近用过的模板</val>
+        <val lang="zh_CN">最近用过</val>
     </key>
     <key value="Framework_templates">
-        <comment>Framework templates category.</comment>
+        <comment>{Original}: Framework templates category.</comment>
+        <comment>{Dialogue box: New}: "Framework templates"</comment>
         <comment><val lang="en_US">Framework templates</val></comment>
         <val lang="zh_CN">框架模板</val>
     </key>
     <key value="Global_templates">
-        <comment>Global templates category.</comment>
+        <comment>{Original}: Global templates category.</comment>
+        <comment>{Dialogue box: New}: "Global templates"</comment>
         <comment><val lang="en_US">Global templates</val></comment>
         <val lang="zh_CN">全局模板</val>
     </key>
@@ -22390,8 +22405,9 @@
         <val lang="zh_CN">将其他资源复制到输出文件夹</val>
     </key>
     <key value="Resources">
-        <comment>Label used in "Custom format options" dialog used to generate schema/stylesheet
+        <comment>{Original}: Label used in "Custom format options" dialog used to generate schema/stylesheet
             documentation.</comment>
+        <comment>{Dialogue box: Welcome}: "Resources"</comment>
         <comment><val lang="en_US">Resources</val></comment>
         <val lang="zh_CN">用户支持</val>
     </key>
@@ -22584,7 +22600,8 @@
         <val lang="zh_CN">允许Oxygen向类路径添加高优先级库</val>
     </key>
     <key value="More_details">
-        <comment>Link label to a certain help page. Context: More details...</comment>
+        <comment>{Original}: Link label to a certain help page. Context: More details...</comment>
+        <comment>{Dialogue box: Welcome}: "More details"</comment>
         <comment><val lang="en_US">More details</val></comment>
         <val lang="zh_CN">了解详情</val>
     </key>
@@ -22866,7 +22883,8 @@
         <val lang="zh_CN">添加文件夹</val>
     </key>
     <key value="New_document">
-        <comment>Action label in the Database Explorer for SharePoint (was for Documentum).</comment>
+        <comment>{Original}: Action label in the Database Explorer for SharePoint (was for Documentum).</comment>
+        <comment>{Dialogue box: Welcome}: "New Document"</comment>
         <comment><val lang="en_US">New Document</val></comment>
         <val lang="zh_CN">文件</val>
     </key>
@@ -25779,14 +25797,16 @@
         <val lang="zh_CN">文件类型</val>
     </key>
     <key value="Author_mode">
-        <comment>The tooltip for the author view mode of the editor.</comment>
+        <comment>{Original}: The tooltip for the author view mode of the editor.</comment>
+        <comment>{Tooltip}: "Author mode"</comment>
         <comment><val lang="en_US">Author mode</val></comment>
         <val lang="zh_CN">写作模式</val>
     </key>
     <key value="Author_default_font">
-        <comment>Modify the Author default font.</comment>
+        <comment>{Original}: Modify the Author default font.</comment>
+        <comment>{Dialogue box: Preferences}: [Appearance]/[Fonts]/"Author default font"</comment>
         <comment><val lang="en_US">Author default font</val></comment>
-        <val lang="zh_CN">作者默认字体</val>
+        <val lang="zh_CN">写作模式默认字体</val>
     </key>
     <key value="Unsorted">
         <comment>Sort method for the CSS outliner.</comment>
@@ -27118,7 +27138,8 @@
         <val lang="zh_CN">网格布局</val>
     </key>
     <key value="Filter_hint">
-        <comment>Preferences filter hint to use the filter.</comment>
+        <comment>{Original}: Preferences filter hint to use the filter.</comment>
+        <comment>{Dialogue box: New}: "Type filter text"</comment>
         <comment><val lang="en_US">Type filter text</val></comment>
         <val lang="zh_CN">搜索文件类型或模板</val>
     </key>
@@ -29664,20 +29685,23 @@
         <val lang="zh_CN">匹配标记突出显示颜色</val>
     </key>
     <key distribution="common" value="Fonts">
-        <comment>The fonts option pane.</comment>
+        <comment>{Original}: The fonts option pane.</comment>
+        <comment>{Dialogue box: Preferences}: [Appearance]/[Fonts]</comment>
         <comment><val lang="en_US">Fonts</val></comment>
         <val lang="zh_CN">字体</val>
     </key>
     <key value="Text_comp">
-        <comment>Setting in the options regarding the font of other text components than the editing area.</comment>
+        <comment>{Original}: Setting in the options regarding the font of other text components than the editing area.</comment>
+        <comment>{Dialogue box: Preferences}: [Appearance]/[Fonts]/"Text components"</comment>
         <comment><val lang="en_US">Text components</val></comment>
-        <val lang="zh_CN">文本组件</val>
+        <val lang="zh_CN">视图文本</val>
     </key>
     <key value="GUI">
-        <comment>Setting in the options regarding the font of other components than the editing area and the text
+        <comment>{Original}: Setting in the options regarding the font of other components than the editing area and the text
             components.</comment>
+        <comment>{Dialogue box: Preferences}: [Appearance]/[Fonts]/"GUI"</comment>
         <comment><val lang="en_US">GUI</val></comment>
-        <val lang="zh_CN">图形用户界面</val>
+        <val lang="zh_CN">GUI</val>
     </key>
     <key value="Reset">
         <comment>"Reset" </comment>
@@ -31653,7 +31677,8 @@
         <val lang="zh_CN">项目首选项</val>
     </key>
     <key value="Customize">
-        <comment>Customize something. Used for eclipse.</comment>
+        <comment>{Original}: Customize something. Used for eclipse.</comment>
+        <comment>{Dialogue box: New}: [Customize]</comment>
         <comment><val lang="en_US">Customize</val></comment>
         <val lang="zh_CN">自定义</val>
     </key>
@@ -32576,9 +32601,10 @@
         <val lang="zh_CN">行分隔符</val>
     </key>
     <key value="Text_antialiasing">
-        <comment>Options/Preferences/Editor/Aspect. Using antialiasing for editor font.</comment>
+        <comment>{Original}: Options/Preferences/Editor/Aspect. Using antialiasing for editor font.</comment>
+        <comment>{Dialogue box: Preferences}: [Appearance]/[Font]/"Text antialiasing"</comment>
         <comment><val lang="en_US">Text antialiasing</val></comment>
-        <val lang="zh_CN">文本抗锯齿</val>
+        <val lang="zh_CN">消除锯齿</val>
     </key>
     <key distribution="common" value="Validate_with">
         <comment>Configuration of the XSL Transformer.</comment>
@@ -32667,11 +32693,13 @@
     <key distribution="common" value="Editor">
         <comment>{Original}: Refers to the editing area.</comment>
         <comment>{Menu}: [Document]/[Open Perspective]/[Editor]</comment>
+        <comment>{Dialogue box: Preferences}: [Appearance]/[Fonts]/"Editor"</comment>
         <comment><val lang="en_US">Editor</val></comment>
         <val lang="zh_CN">编辑器</val>
     </key>
     <key value="New_project">
-        <comment>Action that creates a new project.</comment>
+        <comment>{Original}Action that creates a new project.</comment>
+        <comment>{Dialogue box: Welcome}: "New project"</comment>
         <comment><val lang="en_US">New project</val></comment>
         <val lang="zh_CN">项目</val>
     </key>
@@ -32712,7 +32740,9 @@
         <val lang="zh_CN">删除</val>
     </key>
     <key value="New">
-        <comment>The File/New action. Creates a new document.</comment>
+        <comment>{Original}: The File/New action. Creates a new document.</comment>
+        <comment>{Menu}: [File]/[New]</comment>
+        <comment>{Dialogue box: New}: title</comment>
         <comment><val lang="en_US">New</val></comment>
         <val lang="zh_CN">新建</val>
     </key>
@@ -32898,7 +32928,8 @@
         <val lang="zh_CN">重命名</val>
     </key>
     <key value="Open_project">
-        <comment>Action name for opening a project.</comment>
+        <comment>{Original}: Action name for opening a project.</comment>
+        <comment>{Dialogue box: Welcome}: "Open project"</comment>
         <comment><val lang="en_US">Open project</val></comment>
         <val lang="zh_CN">打开项目</val>
     </key>
@@ -33142,7 +33173,8 @@
         <val lang="zh_CN">如果希望在XHTML面板中看到结果，请选择此选项</val>
     </key>
     <key value="Tip_of_the_day">
-        <comment/>
+        <comment>general</comment>
+        <comment>{Dialogue box: Welcome}: "Tip of the Day"</comment>
         <comment><val lang="en_US">Tip of the Day</val></comment>
         <val lang="zh_CN">天天小窍门</val>
     </key>
