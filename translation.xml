@@ -1199,7 +1199,7 @@
     <key value="Block_tags_without_element_names">
         <comment>Display mode for tags that shows block tags elements without text in tag.</comment>
         <comment><val lang="en_US">Block Tags without Element Names</val></comment>
-        <val lang="zh_CN">块标签没有元素名称</val>
+        <val lang="zh_CN">显示块元素的简易标签</val>
     </key>
     <key value="Required_addons_not_found_question">
         <comment>Message present inside the dialog that recommends installing required add-ons.</comment>
@@ -6539,9 +6539,10 @@
         <val lang="zh_CN">按回车键显示可用的内容完成建议</val>
     </key>
     <key value="Configure_tags_display_mode">
-        <comment>Entry in Tags Mode drop-down menu.</comment>
+        <comment>{Original}: Entry in Tags Mode drop-down menu.</comment>
+        <comment>{Menu}: [DITA]/[Tags display mode]/[Configure Tags Display Mode]</comment>
         <comment><val lang="en_US">Configure Tags Display Mode</val></comment>
-        <val lang="zh_CN">配置标记显示模式</val>
+        <val lang="zh_CN">设置标签显示模式</val>
     </key>
     <key value="No_network_connection">
         <comment>Dynamic help no network connection.</comment>
@@ -14084,7 +14085,7 @@
         <comment>{Original}: Information given when a marker is applied only on a markup (element tag).</comment>
         <comment>{Menu}: [Document]/[Markup]</comment>
         <comment><val lang="en_US">Markup</val></comment>
-        <val lang="zh_CN">元素标签</val>
+        <val lang="zh_CN">标签</val>
     </key>
     <key value="Include_resource_hierarchy">
         <comment>Option in the "Generate Schema Documentation" Dialog</comment>
@@ -24915,9 +24916,10 @@
         <val lang="zh_CN">JVM参数</val>
     </key>
     <key value="Inline_tags">
-        <comment>Author visualization mode.</comment>
+        <comment>{Original}: Author visualization mode.</comment>
+        <comment>{Menu}: [DITA]/[Tags display mode]/[Inline Tags]</comment>
         <comment><val lang="en_US">Inline Tags</val></comment>
-        <val lang="zh_CN">内联标记</val>
+        <val lang="zh_CN">显示行内元素标签</val>
     </key>
     <key value="Collection_type">
         <comment>Label in the topic reference insert dialog.</comment>
@@ -25084,9 +25086,10 @@
         <val lang="zh_CN">与分支/标记比较</val>
     </key>
     <key value="Full_tags_with_attributes">
-        <comment>Tagless editor display mode for tags</comment>
+        <comment>{Original}: Tagless editor display mode for tags</comment>
+        <comment>{Menu}: [DITA]/[Tags disply mode]/[Full Tags with Attributes]</comment>
         <comment><val lang="en_US">Full Tags with Attributes</val></comment>
-        <val lang="zh_CN">带属性的完整标记</val>
+        <val lang="zh_CN">显示标签和属性</val>
     </key>
     <key value="Directory">
         <comment>Directory</comment>
@@ -25486,9 +25489,10 @@
         <val lang="zh_CN">粘贴为XML</val>
     </key>
     <key value="Insert_entity">
-        <comment>Name of action for inserting an entity in the author document.</comment>
+        <comment>{Original}: Name of action for inserting an entity in the author document.</comment>
+        <comment>{Menu}: [Document]/[Markup]/[Insert Entity]</comment>
         <comment><val lang="en_US">Insert Entity</val></comment>
-        <val lang="zh_CN">插入实体</val>
+        <val lang="zh_CN">插入字符实体</val>
     </key>
     <key value="For_author_cust_see_also_the_dt">
         <comment>Link to another option page.</comment>
@@ -25741,9 +25745,10 @@
         <val lang="zh_CN">类路径</val>
     </key>
     <key value="Tags_display_mode">
-        <comment>Author display modes for tags</comment>
+        <comment>{Original}: Author display modes for tags</comment>
+        <comment>{Menu}: [DITA]/[Tags display mode]</comment>
         <comment><val lang="en_US">Tags display mode</val></comment>
-        <val lang="zh_CN">标记显示模式</val>
+        <val lang="zh_CN">标签显示模式</val>
     </key>
     <key value="You_must_specify_a_document_type_name">
         <comment>Error message shown when the user tries to define a document type without a name</comment>
@@ -25878,24 +25883,28 @@
         <val lang="zh_CN">段落语言</val>
     </key>
     <key value="Full_tags">
-        <comment>Tagless editor display mode for tags</comment>
+        <comment>{Original}: Tagless editor display mode for tags</comment>
+        <comment>{Menu}: [DITA]/[Tags display mode]/[Full Tags]</comment>
         <comment><val lang="en_US">Full Tags</val></comment>
-        <val lang="zh_CN">完整标签</val>
+        <val lang="zh_CN">显示标签</val>
     </key>
     <key value="Block_tags">
-        <comment>Tagless editor display mode for tags</comment>
+        <comment>{Original}: Tagless editor display mode for tags</comment>
+        <comment>{Menu}: [DITA]/[Tags display mode]/[Block Tags]</comment>
         <comment><val lang="en_US">Block Tags</val></comment>
-        <val lang="zh_CN">块标记</val>
+        <val lang="zh_CN">显示块元素标签</val>
     </key>
     <key value="Partial_tags">
-        <comment>Tagless editor display mode for tags</comment>
+        <comment>{Original}: Tagless editor display mode for tags</comment>
+        <comment>{Menu}: [DITA]/[Tags display mode]/[Partial Tags]</comment>
         <comment><val lang="en_US">Partial Tags</val></comment>
-        <val lang="zh_CN">部分标记</val>
+        <val lang="zh_CN">显示行内元素的简易标签</val>
     </key>
     <key value="No_tags">
         <comment>Tagless editor display mode for tags</comment>
+        <comment>{Menu}: [DITA]/[Tags display mode]/[No Tags]</comment>
         <comment><val lang="en_US">No Tags</val></comment>
-        <val lang="zh_CN">没有标签</val>
+        <val lang="zh_CN">不显示标签</val>
     </key>
     <key value="Validation_support_not_available">
         <comment>Validation warning shown when the engine does not support the validation.</comment>
@@ -29567,7 +29576,7 @@
         <comment>{Menu}: [Document]/[Refactoring]</comment>
         <comment>{Contextual Menu}: [Refactoring]</comment>
         <comment><val lang="en_US">Refactoring</val></comment>
-        <val lang="zh_CN">文档重构</val>
+        <val lang="zh_CN">重构</val>
     </key>
     <key value="Enter_a_template_name">
         <comment>Title for the ask user for template name dialog</comment>
