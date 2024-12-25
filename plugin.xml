@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plugin SYSTEM "../plugin.dtd">
+<plugin
+ id="chinese.i18n.yeddawang"
+ name="OxyCNUI"
+ description="最地道的简体中文界面"
+ version="0.0.1"
+ vendor="王烨"
+ class="ro.sync.exml.plugin.Plugin">
+ <extension type="AdditionalUITranslation" href="translation.xml"/>
+</plugin>
