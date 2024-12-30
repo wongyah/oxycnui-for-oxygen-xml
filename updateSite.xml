@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xt:extensions xmlns:xt="http://www.oxygenxml.com/ns/extension"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.oxygenxml.com/ns/extension http://www.oxygenxml.com/ns/extension/extensions.xsd">
+    <xt:extension id="chinese.i18n.yeddawang">
+        <xt:location href="https://github.com/wongyah/oxycnui-for-oxygen-xml/releases/download/v0.0.1/oxycnui-plugin-v0.0.1.jar"/>
+        <xt:version>0.0.1</xt:version>
+        <xt:oxy_version>21.0+</xt:oxy_version>
+        <xt:type>plugin</xt:type>
+        <xt:author>王烨</xt:author>
+        <xt:name>OxyCNUI</xt:name>
+        <xt:description xmlns="http://www.w3.org/1999/xhtml">
+            <html>
+                <head>
+                    <title>OxyCNUI</title>
+                </head>
+                <body>
+                    <div>
+                        <h2>OxyCNUI</h2>
+                        <p>OxyCNUI 是为 Oxygen XML 编辑器提供中文界面的一个小插件。在 Oxygen XML 编辑器原有中文界面的基础上， OxyCNUI 对一些菜单、图标、对话框、消息等内容重新进行了人工翻译，使之更符合中文用户的使用习惯。</p>
+                        <p>更多详情，请参见 <a href="https://github.com/wongyah/oxycnui-for-oxygen-xml">OxyCNUI 的 GitHub 存储库</a>。</p>
+                    </div>
+                </body>
+            </html>
+        </xt:description>
+        <xt:license>
+<![CDATA[ 版权所有：王烨 Copyright 2024
+
+本项目使用 Apache 2.0 许可证（以下简称“许可证”）。您可以按照许可证中的条款使用本项目中的文件。
+
+您可以通过以下链接获取许可证的副本：
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+除非法律要求或书面同意，按照许可证分发的软件均按“原样”提供，不附带任何明示或暗示的担保或条件。有关特定语言方面的授权和限制条款，请参阅许可证文件。
+
+]]></xt:license>
+    </xt:extension>
+</xt:extensions>
