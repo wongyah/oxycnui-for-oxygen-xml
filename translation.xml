@@ -414,15 +414,15 @@
         <val lang="zh_CN">无法检查新版本</val>
     </key>
     <key value="Addons_signature_hint">
-        <comment>Part of the description of the Addons Wizard page. It is a hint about what the user that it must
+        <comment>{Oxygen}: Part of the description of the Addons Wizard page. It is a hint about what the user that it must
             inspect the signature in this page.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: "Please note that the installation of third-party add-ons allows ..."</comment>
         <comment><val lang="en_US">Please note that the installation of third-party add-ons allows them to access 
         	and use data stored on your device or local network. This presents a risk when using add-ons 
         	from untrusted or unknown sources. We strongly recommend thoroughly researching the publisher of any third-party 
        	 	add-on before installation and only installing add-ons from reputable sources.</val></comment>
-        <val lang="zh_CN">请注意，安装第三方附加组件允许外部代码访问和使用存储在你的设备或本地网络上的数据。
-			在使用来自不受信任或未知来源的附加组件时，这构成了一个重要的风险。我们强烈建议在安装前彻底研
-			究所有第三方附加组件的发布者并只安装来源合法可信的附加组件。</val>
+        <val lang="zh_CN">请注意，您安装的第三方插件包有权访问存储在您的设备或本地网络中的数据。安装来源不明或未受信任的插件包会带来安全风险。
+            我们强烈建议您，在安装第三方插件包前全面了解发布者信息，只安装那些来源可信的插件包。</val>
     </key>
     <key value="Show_only_keys_with_closest_relative_keyscope">
         <comment>Filtering action in DITA Reusable Components</comment>
@@ -527,9 +527,9 @@
         <val lang="zh_CN">在括号结尾处显示属性名称</val>
     </key>
     <key value="Addon_status_disabled_enabled_after_update">
-        <comment>Description of an disabled add-on that informs the user that the add-on will be enabled after update.</comment>
+        <comment>{Oxygen}: Description of an disabled add-on that informs the user that the add-on will be enabled after update.</comment>
         <comment><val lang="en_US">The add-on will automatically be enabled after updating.</val></comment>
-        <val lang="zh_CN">更新后，该附加组件将自动启用。</val>
+        <val lang="zh_CN">更新后，该插件包将自动启用。</val>
     </key>
 	<key value="Illegal_character_in_attribute_value" distribution="common">
         <comment>Warning that value of an attribute should not contain any spaces.</comment>
@@ -563,9 +563,9 @@
         <val lang="zh_CN">保存（自动保存已启用）</val>
     </key>
     <key value="Addon_status_disabled_tooltip">
-        <comment>Tooltip for the status of an add-on that informs the user that the add-on is installed but disabled.</comment>
+        <comment>{Oxygen}: Tooltip for the status of an add-on that informs the user that the add-on is installed but disabled.</comment>
         <comment><val lang="en_US">The add-on is disabled. You can enable it in Options &gt; Preferences &gt; Plugins.</val></comment>
-        <val lang="zh_CN">加载项已禁用。您可以在选项菜单 &gt; 首选项 &gt; 插件中启用它。</val>
+        <val lang="zh_CN">该软件包已禁用。您可以通过主菜单【选项】/【首选项】打开首选项对话框，然后在插件选项卡中重新启用该软件包。</val>
     </key>
     <key value="Choose_another_schema" distribution="common">
         <comment>Messages shown in the dialog displayed when extracting a definition from a schema to another.</comment>
@@ -1233,30 +1233,35 @@
         <val lang="zh_CN">在加载项首选项页面中为自动安装配置了一个或多个加载项，但在配置的更新站点中找不到以下加载项:\n{0}</val>
     </key>
     <key value="Update_sites_urls">
-        <comment>Add-ons update sites URLs column title from add-ons option pane. It represents a location where an
+        <comment>{Oxygen}: Add-ons update sites URLs column title from add-ons option pane. It represents a location where an
             add-ons descriptor is found. This descriptor contains the information required to install add-ons.</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/Column title "Add-on Update Site URLs"</comment>
         <comment><val lang="en_US">Add-on Update Site URLs</val></comment>
-        <val lang="zh_CN">插件更新站点 URL</val>
+        <val lang="zh_CN">插件包更新站点的网址 (URL)</val>
     </key>
     <key value="Automatically_install_addons">
-        <comment>Label presented before a list of add-ons that will be installed automatically.</comment>
+        <comment>{Oxygen}: Label presented before a list of add-ons that will be installed automatically.</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/"Automatically install add-ons"</comment>
         <comment><val lang="en_US">Automatically install add-ons</val></comment>
-        <val lang="zh_CN">自动安装插件</val>
+        <val lang="zh_CN">自动安装插件包</val>
     </key>
     <key value="Required_addons_description">
-        <comment>A description of the required add-ons.</comment>
+        <comment>{Oxygen}: A description of the required add-ons.</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/"The installation of these add-ons will be triggered automatically."</comment>
         <comment><val lang="en_US">The installation of these add-ons will be triggered automatically.</val></comment>
-        <val lang="zh_CN">这些插件的安装将自动触发.</val>
+        <val lang="zh_CN">自动安装的插件包如下：</val>
     </key>
     <key value="Required_addons_separator_hint">
-        <comment>A hint under the text area in which the user must specify the ids of required add-ons.</comment>
+        <comment>{Oxygen}: A hint under the text area in which the user must specify the ids of required add-ons.</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/"Multiple add-on IDs can be separated by either a space or a new line."</comment>
         <comment><val lang="en_US">Multiple add-on IDs can be separated by either a space or a new line.</val></comment>
-        <val lang="zh_CN">多个插件ID 可以用空格或换行符分隔.</val>
+        <val lang="zh_CN">输入多个插件包 ID 时，使用空格或换行符作为分隔符。</val>
     </key>
     <key value="Required_addons_cc_hint">
-        <comment>A hint under the text area in which the user must specify the ids of required add-ons.</comment>
+        <comment>{Oxygen}: A hint under the text area in which the user must specify the ids of required add-ons.</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/"Use {0} to see the add-ons detected from the update sites listed above."</comment>
         <comment><val lang="en_US">Use {0} to see the add-ons detected from the update sites listed above.</val></comment>
-        <val lang="zh_CN">使用 {0} 查看从上面列出的更新站点检测到的加载项.</val>
+        <val lang="zh_CN">使用快捷键 {0} 可以查看从上表中的更新站点检测到的插件包。</val>
     </key>
     <key value="Create_placeholder_for_editor">
         <comment>Keep last edited files open as placeholders without re-loading</comment>
@@ -5188,20 +5193,23 @@
         <val lang="zh_CN">模式用逗号分隔，其中*=任何字符串？=任何角色！x=排除x。</val>
     </key>
     <key value="All_available_sites">
-        <comment>Option in the Install New Add-ons Wizard. By selecting it, we will detect the add-ons published on all
+        <comment>{Oxygen}: Option in the Install New Add-ons Wizard. By selecting it, we will detect the add-ons published on all
             configured update sites URLs. The entry appears like so: --All Available Sites--</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Update Site drop-down list value "All Available Sites"</comment>
         <comment><val lang="en_US">All Available Sites</val></comment>
-        <val lang="zh_CN">所有可用站点</val>
+        <val lang="zh_CN">所有站点</val>
     </key>
     <key value="Default_update_site">
-        <comment>In Install new add-ons dialog, show this label instead of default update site link.</comment>
+        <comment>{Oxygen}: In Install new add-ons dialog, show this label instead of default update site link.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Update Site drop-down list value "Default Update Site"</comment>
         <comment><val lang="en_US">Default Update Site</val></comment>
-        <val lang="zh_CN">默认更新站点</val>
+        <val lang="zh_CN">默认站点</val>
     </key>
     <key value="Community_update_site">
-        <comment>In Install new add-ons dialog, show this label instead of community update site link.</comment>
+        <comment>{Oxygen}: In Install new add-ons dialog, show this label instead of community update site link.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Update Site drop-down list value "Community Update Site"</comment>
         <comment><val lang="en_US">Community Update Site</val></comment>
-        <val lang="zh_CN">社区更新站点</val>
+        <val lang="zh_CN">社区站点</val>
     </key>
     <key value="Ant_build">
         <comment>Ant build</comment>
@@ -5641,7 +5649,8 @@
         <val lang="zh_CN">打开</val>
     </key>
     <key value="Edit_verb">
-        <comment>The "edit" verb.</comment>
+        <comment>{Oxygen}: The "edit" verb.</comment>
+        <comment>General</comment>
         <comment><val lang="en_US">edit</val></comment>
         <val lang="zh_CN">编辑</val>
     </key>
@@ -5948,9 +5957,10 @@
         <val lang="zh_CN">行号{0}缩进错误。</val>
     </key>
     <key value="Vendor">
-        <comment>Plugin's vendor.</comment>
+        <comment>{Oxygen}: Plugin's vendor.</comment>
+        <comment>{Dialogue Box: Preferences}: [Plugins tab]/"Vendor"</comment>
         <comment><val lang="en_US">Vendor</val></comment>
-        <val lang="zh_CN">厂商</val>
+        <val lang="zh_CN">开发者</val>
     </key>
     <key value="Topic_type">
         <comment>Label in the "Fast Create Topics" dialog.</comment>
@@ -6447,9 +6457,10 @@
         <val lang="zh_CN">插入媒体</val>
     </key>
     <key value="License_terms_must_be_accepted">
-        <comment>Message that informs the user he must accept all license terms before continuing.</comment>
+        <comment>{Oxygen}: Message that informs the user he must accept all license terms before continuing.</comment>
+        <comment>{Message Box}: "All terms of the End User License Agreement must be accepted before continuing."</comment>
         <comment><val lang="en_US">All terms of the End User License Agreement must be accepted before continuing.</val></comment>
-        <val lang="zh_CN">在继续之前，必须接受最终用户许可协议的所有条款。</val>
+        <val lang="zh_CN">安装插件之前，请先接受最终用户许可协议中的所有条款。</val>
     </key>
     <key value="taskList_description" distribution="common">
         <comment>Insert Task List action description.</comment>
@@ -8087,15 +8098,17 @@
         <val lang="zh_CN">视图标题</val>
     </key>
     <key value="Certificate_expired">
-        <comment>For add-ons install process, the add-on was signed with an expired certificate.</comment>
+        <comment>{Oxygen}: For add-ons install process, the add-on was signed with an expired certificate.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: [Signature tab]/"The certificate has expired on: {0}"</comment>
         <comment><val lang="en_US">The certificate has expired on: {0}</val></comment>
-        <val lang="zh_CN">证书已于{0}过期</val>
+        <val lang="zh_CN">签名已于{0}过期</val>
     </key>
     <key value="Validity_status">
-        <comment>For add-ons install process, this is the title of the section that tells if the certificate used to
+        <comment>{Oxygen}: For add-ons install process, this is the title of the section that tells if the certificate used to
             sign the addon is valid or if there are problems.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: [Signature tab]/"Validity status"</comment>
         <comment><val lang="en_US">Validity status</val></comment>
-        <val lang="zh_CN">有效性状态</val>
+        <val lang="zh_CN">签名状态</val>
     </key>
     <key value="Line_break">
         <comment>A section inside the preferences dialog. It represent a list of names or XPath expressions that
@@ -10133,7 +10146,8 @@
         <val lang="zh_CN">继续第页</val>
     </key>
     <key value="Back">
-        <comment>Name for the Go Back Action</comment>
+        <comment>{Oxygen}: Name for the Go Back Action</comment>
+        <comment>General</comment>
         <comment><val lang="en_US">Back</val></comment>
         <val lang="zh_CN">返回</val>
     </key>
@@ -10262,10 +10276,11 @@
         <val lang="zh_CN">显示快速辅助和快速修复提示</val>
     </key>
     <key value="Addons_install_page_hint">
-        <comment>Part of the description of the Addons Wizard page. It is a hint about what the user is supposed to do
+        <comment>{Oxygen}: Part of the description of the Addons Wizard page. It is a hint about what the user is supposed to do
             in this page.?</comment>
+        <comment>{Dialogue Box: Install new add-ons}: "Discover add-ons by choosing an update site, and select the ones to install."</comment>
         <comment><val lang="en_US">Discover add-ons by choosing an update site, and select the ones to install.</val></comment>
-        <val lang="zh_CN">通过选择更新站点发现加载项，然后选择要安装的加载项。</val>
+        <val lang="zh_CN">选择更新站点和需要安装的插件包。</val>
     </key>
     <key value="Autocorrect_label">
         <comment>Label for the checkbox enabling and disabling the autocorrect feature.</comment>
@@ -10324,47 +10339,54 @@
         <val lang="zh_CN">未检测到加载项。</val>
     </key>
     <key value="Oxygen_version_tooltip">
-        <comment>Tooltip over the required Oxygen version column of an add-on in the Install/Manage Add-ons
+        <comment>{Oxygen}: Tooltip over the required Oxygen version column of an add-on in the Install/Manage Add-ons
             Wizard.</comment>
+        <comment>{Add-ons tooltip}: "Required Oxygen version: {0}"</comment>
         <comment><val lang="en_US">Required Oxygen version: {0}</val></comment>
-        <val lang="zh_CN">所需Oxygen版本：{0}</val>
+        <val lang="zh_CN">适用的 Oxygen 版本：{0}</val>
     </key>
     <key value="Addon_version_tooltip">
-        <comment>Tooltip over the version column of an add-on in the Install/Manage Add-ons Wizard.</comment>
+        <comment>{Oxygen}: Tooltip over the version column of an add-on in the Install/Manage Add-ons Wizard.</comment>
+        <comment>{Add-ons Tooltip}: "Plugin/Framework version: {0}"</comment>
         <comment><val lang="en_US">Plugin/Framework version: {0}</val></comment>
-        <val lang="zh_CN">插件/框架版本：{0}</val>
+        <val lang="zh_CN">插件包或框架的版本：{0}</val>
     </key>
     <key value="Addons_license_hint">
-        <comment>part of the description of the Addons Wizard page. It is a hint about what the user is intended to to
+        <comment>{Oxygen}: part of the description of the Addons Wizard page. It is a hint about what the user is intended to to
             in this page</comment>
+        <comment>{Dialogue Box: Install new add-ons}: "Licenses must be reviewed and accepted before the software can be installed."</comment>
         <comment><val lang="en_US">Licenses must be reviewed and accepted before the software can be installed.</val></comment>
-        <val lang="zh_CN">在安装软件之前，必须检查并接受许可证。</val>
+        <val lang="zh_CN">查看并接受许可证之后，您才能安装插件包。</val>
     </key>
     <key value="Select_addons_import">
-        <comment>Title of first page from the Import from previous version Add-ons wizard.?</comment>
+        <comment>{Oxygen}: Title of first page from the Import from previous version Add-ons wizard.?</comment>
         <comment><val lang="en_US">Select the Add-ons to Import</val></comment>
-        <val lang="zh_CN">选择要导入的加载项</val>
+        <val lang="zh_CN">选择需要导入的插件包</val>
     </key>
     <key value="Select_addons_update">
-        <comment>Title of first page from the Manage Add-ons wizard.?</comment>
+        <comment>{Oxygen}: Title of first page from the Manage Add-ons wizard.?</comment>
+        <comment>{Dialogue Box: Manage add-ons}: "Select the Add-ons to Update"</comment>
         <comment><val lang="en_US">Select the Add-ons to Update</val></comment>
-        <val lang="zh_CN">选择要更新的加载项</val>
+        <val lang="zh_CN">选择需要更新的插件包</val>
     </key>
     <key value="Select_addons_update_uninstall">
-        <comment>Title of first page from the Manage Add-ons wizard.?</comment>
+        <comment>{Oxygen}: Title of first page from the Manage Add-ons wizard.?</comment>
+        <comment>{Dialogue Box: Manage Add-ons}: "Select the Add-ons to Update or Uninstall"</comment>
         <comment><val lang="en_US">Select the Add-ons to Update or Uninstall</val></comment>
-        <val lang="zh_CN">选择要更新或卸载的加载项</val>
+        <val lang="zh_CN">选择需要更新或卸载的插件包</val>
     </key>
     <key value="Select_addons_to_install">
-        <comment>Title of first page from the Install New Add-ons wizard.?</comment>
+        <comment>{Oxygen}: Title of first page from the Install New Add-ons wizard.?</comment>
+        <comment>{Dialogue Box: Install new add-ons}: "Select the Add-ons to Install"</comment>
         <comment><val lang="en_US">Select the Add-ons to Install</val></comment>
-        <val lang="zh_CN">选择要安装的加载项</val>
+        <val lang="zh_CN">选择需要安装的插件包</val>
     </key>
     <key value="Show_addons_from">
-        <comment>Label inside the Install New Add-ons wizard. It is next to the input where the user must paste, browse
+        <comment>{Oxygen}: Label inside the Install New Add-ons wizard. It is next to the input where the user must paste, browse
             or select an update site URL from where to detect add-ons.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Tag "Show add-ons from"</comment>
         <comment><val lang="en_US">Show add-ons from</val></comment>
-        <val lang="zh_CN">显示来自的加载项</val>
+        <val lang="zh_CN">更新站点</val>
     </key>
     <key value="Stop_words">
         <comment>Option for Open/Find resource. Refers to the list of very common words that are not relevant when
@@ -10374,9 +10396,10 @@
         <val lang="zh_CN">停止词</val>
     </key>
     <key value="Install_new_addons">
-        <comment>Action inside the Help menu to discover install new add-ons.</comment>
+        <comment>{Oxygen}: Action inside the Help menu to discover install new add-ons.</comment>
+        <comment>{Menu}: [Help]/[Install new add-ons]</comment>
         <comment><val lang="en_US">Install new add-ons</val></comment>
-        <val lang="zh_CN">安装新的加载项</val>
+        <val lang="zh_CN">安装新的插件包</val>
     </key>
     <key value="Current_view">
         <comment>The name of the menu that allows the user to select the current view for a SharePoint
@@ -15269,9 +15292,10 @@
         <val lang="zh_CN">更新站点</val>
     </key>
     <key value="Addons_installed_hint">
-        <comment>Label in the tab that presents all the add-ons already installed</comment>
+        <comment>{Oxygen}: Label in the tab that presents all the add-ons already installed</comment>
+        <comment>{Dialogue Box: Manage add-ons}: "These are the add-ons that are already installed in Oxygen."</comment>
         <comment><val lang="en_US">These are the add-ons that are already installed in Oxygen.</val></comment>
-        <val lang="zh_CN">这些是已经安装在Oxygen中的附加组件。</val>
+        <val lang="zh_CN">您已经安装的插件包如下：</val>
     </key>
     <key value="Document_type_rule_activation_message">
         <comment>Label included in the dialog for setting a rule for a document type. The message suggest that all
@@ -15379,16 +15403,18 @@
         <val lang="zh_CN">没有可用的更新</val>
     </key>
     <key value="Addons_web_link">
-        <comment>Link in the Add-ons options page that opens a web page where the user can find out more about add-ons
+        <comment>{Oxygen}: Link in the Add-ons options page that opens a web page where the user can find out more about add-ons
             as well as discover new add-ons.</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/[Find out more about Oxygen add-ons]</comment>
         <comment><val lang="en_US">Find out more about Oxygen add-ons</val></comment>
-        <val lang="zh_CN">了解更多有关Oxygen添加的信息</val>
+        <val lang="zh_CN">寻找更多 Oxygen 插件包</val>
     </key>
     <key value="Plugins_discover_hint">
-        <comment>Link in the Plugins page that provides a hint about the possibility to install plugins through the
+        <comment>{Oxygen}: Link in the Plugins page that provides a hint about the possibility to install plugins through the
             add-ons system. The link leads to the Add-ons page.</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/[Discover more plugins by using add-ons update sites]</comment>
         <comment><val lang="en_US">Discover more plugins by using add-ons update sites</val></comment>
-        <val lang="zh_CN">通过使用插件更新站点发现更多插件</val>
+        <val lang="zh_CN">通过插件包更新站点寻找更多插件</val>
     </key>
     <key value="Frameworks_discover_hint">
         <comment>Link in the Document Types Association page that provides a hint about the possibility to install
@@ -15497,67 +15523,74 @@
         <val lang="zh_CN">自动分配的颜色</val>
     </key>
     <key value="Addon_status_installed">
-        <comment>Status for an add-on that informs the user that the latest compatible version is already
+        <comment>{Oxygen}: Status for an add-on that informs the user that the latest compatible version is already
             installed.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Add-on status value "Installed"</comment>
         <comment><val lang="en_US">Installed</val></comment>
-        <val lang="zh_CN">安装</val>
+        <val lang="zh_CN">已安装</val>
     </key>
     <key value="Addon_status_incompatibile">
-        <comment>Status for an add-on that informs the user that it isn't compatible with the current Oxygen
+        <comment>{Oxygen}: Status for an add-on that informs the user that it isn't compatible with the current Oxygen
             version.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Add-on status value "Incompatible"</comment>
         <comment><val lang="en_US">Incompatible</val></comment>
-        <val lang="zh_CN">不相容的</val>
+        <val lang="zh_CN">不兼容</val>
     </key>
     <key value="Addon_status_update_available">
-        <comment>Status for an add-on that informs the user that this is a add-on already installed and a new version is
+        <comment>{Oxygen}: Status for an add-on that informs the user that this is a add-on already installed and a new version is
             available.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Add-on status value "Update available"</comment>
         <comment><val lang="en_US">Update available</val></comment>
-        <val lang="zh_CN">可用的更新</val>
+        <val lang="zh_CN">出新了</val>
     </key>
     <key value="Addon_status_installable_tt">
-        <comment>Tooltip for the status of an add-on that informs the user that this is a new add-on, that is compatible
+        <comment>{Oxygen}: Tooltip for the status of an add-on that informs the user that this is a new add-on, that is compatible
             and can be installed.</comment>
+        <comment>{Add-ons Tooltip}: Add-on status tt "New add-on. Can be installed."</comment>
         <comment><val lang="en_US">New add-on. Can be installed.</val></comment>
-        <val lang="zh_CN">新的附加组件。可以安装。</val>
+        <val lang="zh_CN">您还没有安装这个插件包。如果需要，可以立即安装。</val>
     </key>
     <key value="Addon_status_up_to_date_tt">
-        <comment>Tooltip for the status of an add-on that informs the user that the latest compatible version is already
+        <comment>{Oxygen}: Tooltip for the status of an add-on that informs the user that the latest compatible version is already
             installed.</comment>
+        <comment>{Add-ons Tooltip}: Add-on status tt "The latest compatible add-on version is already installed."</comment>
         <comment><val lang="en_US">The latest compatible add-on version is already installed.</val></comment>
-        <val lang="zh_CN">已安装最新兼容的加载项版本。</val>
+        <val lang="zh_CN">您安装的插件包已经是可兼容的最新版本了。</val>
     </key>
     <key value="Addon_status_update_available_tt">
-        <comment>Tooltip for the status of an add-on that informs the user that this is a add-on already installed and a
+        <comment>{Oxygen}: Tooltip for the status of an add-on that informs the user that this is a add-on already installed and a
             new version is available.</comment>
+        <comment>{Add-ons Tooltip}: Add-on status tt "Add-on already installed. New update available:"</comment>
         <comment><val lang="en_US">Add-on already installed. New update available:</val></comment>
-        <val lang="zh_CN">加载项已安装。新更新可用：</val>
+        <val lang="zh_CN">您安装的插件包出新版本了：</val>
     </key>
     <key value="Addon_status_installable">
-        <comment>Status for a new add-on that informs the user that this is a new add-on that is compatible and can be
+        <comment>{Oxygen}: Status for a new add-on that informs the user that this is a new add-on that is compatible and can be
             installed.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Add-on status value "Can be installed"</comment>
         <comment><val lang="en_US">Can be installed</val></comment>
-        <val lang="zh_CN">可以安装</val>
+        <val lang="zh_CN">可安装</val>
     </key>
     <key value="Addon_with_valid_signature">
-        <comment>Message presented when an add-on has a valid signature.</comment>
+        <comment>{Oxygen}: Message presented when an add-on has a valid signature.</comment>
         <comment><val lang="en_US">The add-on has a valid signature.</val></comment>
-        <val lang="zh_CN">加载项具有有效的签名。</val>
+        <val lang="zh_CN">该插件包的签名有效。</val>
     </key>
     <key value="Addon_with_invalid_signature">
-        <comment>Message presented when an add-on has an invalid signature.</comment>
+        <comment>{Oxygen}: Message presented when an add-on has an invalid signature.</comment>
         <comment><val lang="en_US">The add-on has an invalid signature.</val></comment>
-        <val lang="zh_CN">加载项的签名无效。</val>
+        <val lang="zh_CN">该插件包的签名无效。</val>
     </key>
     <key value="Addon_without_signature">
-        <comment>Message presented when an add-on is not signed.</comment>
+        <comment>{Oxygen}: Message presented when an add-on is not signed.</comment>
         <comment><val lang="en_US">The add-on is not signed.</val></comment>
-        <val lang="zh_CN">加载项未签名。</val>
+        <val lang="zh_CN">该插件包没有签名。</val>
     </key>
     <key value="Addons_signature_importance">
-        <comment>Message presented when an add-on is not signed or has an invalid signature.</comment>
+        <comment>{Oxygen}: Message presented when an add-on is not signed or has an invalid signature.</comment>
         <comment><val lang="en_US">By installing an add-on with an invalid or missing signature, you accept at your own risk a
             potential security threat, since you cannot verify the integrity of the add-on issuer.</val></comment>
-        <val lang="zh_CN">通过安装签名无效或丢失的加载项，您将自行承担潜在的安全威胁，因为您无法验证加载项颁发者的完整性。</val>
+        <val lang="zh_CN">如果您安装的插件包没有签名或者签名无效，您将无法验证插件包的发布者身份，由此带来的潜在风险由您自行承担。</val>
     </key>
     <key value="Load_layout">
         <comment>Load current views layout from a certain file</comment>
@@ -15565,15 +15598,15 @@
         <val lang="zh_CN">加载布局</val>
     </key>
     <key value="Addons_uninstall_confirm">
-        <comment>Confirmation for the add-on uninstall.</comment>
+        <comment>{Oxygen}: Confirmation for the add-on uninstall.</comment>
         <comment><val lang="en_US">Are you sure you want to uninstall the selected add-ons?</val></comment>
-        <val lang="zh_CN">确实要卸载选定的加载项吗？</val>
+        <val lang="zh_CN">您确定要卸载选中的插件包吗?</val>
     </key>
     <key value="Addons_signature_warn">
-        <comment>Warning presented when installing an add-on that is not signed or has an invalid signature.</comment>
+        <comment>{Oxygen}: Warning presented when installing an add-on that is not signed or has an invalid signature.</comment>
         <comment><val lang="en_US">Not all selected add-ons have valid signatures. {0}\nAdd-ons without a valid signature:
             {1}.</val></comment>
-        <val lang="zh_CN">并非所有选定的加载项都具有有效的签名。{0}\n添加没有有效签名的内容：{1}。</val>
+        <val lang="zh_CN">您将要安装的插件包里，有些没有有效的签名。{0}\n 个插件包没有有效的签名：{1}。</val>
     </key>
     <key value="Icon">
         <comment>Icon table column title.</comment>
@@ -15581,17 +15614,18 @@
         <val lang="zh_CN">图标</val>
     </key>
     <key value="Incompatible_addon_warning">
-        <comment>Warning message when the user has chosen to install an add-on that is not marked as compatible with the
+        <comment>{Oxygen}: Warning message when the user has chosen to install an add-on that is not marked as compatible with the
             running oxygen version. This situation can happen when importing add-ons from a previous Oxygen
             installation.</comment>
         <comment><val lang="en_US">The add-on is not compatible with the current Oxygen version and it might not work
             properly.</val></comment>
-        <val lang="zh_CN">附加组件与当前的Oxygen版本不兼容，可能无法正常工作。</val>
+        <val lang="zh_CN">该插件包与 Oxygen 的当前版本不兼容，可能无法正常工作。</val>
     </key>
     <key value="License_accept">
-        <comment>Check box in the install add-ons flow.</comment>
+        <comment>{Oxygen}: Check box in the install add-ons flow.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: "I accept all terms of the end user license agreements"</comment>
         <comment><val lang="en_US">I accept all terms of the end user license agreements</val></comment>
-        <val lang="zh_CN">我接受最终用户许可协议的所有条款</val>
+        <val lang="zh_CN">我接受最终用户许可协议中的所有条款</val>
     </key>
     <key value="Callouts_options">
         <comment>The callouts options action label.</comment>
@@ -15599,7 +15633,8 @@
         <val lang="zh_CN">标注选项</val>
     </key>
     <key value="Uninstall">
-        <comment>Button name in the manage add-ons dialog.</comment>
+        <comment>{Oxygen}: Button name in the manage add-ons dialog.</comment>
+        <comment>General</comment>
         <comment><val lang="en_US">Uninstall</val></comment>
         <val lang="zh_CN">卸载</val>
     </key>
@@ -15609,7 +15644,8 @@
         <val lang="zh_CN">管理</val>
     </key>
     <key value="Install">
-        <comment>Button name in the manage add-ons dialog.</comment>
+        <comment>{Oxygen}: Button name in the manage add-ons dialog.</comment>
+        <comment>General</comment>
         <comment><val lang="en_US">Install</val></comment>
         <val lang="zh_CN">安装</val>
     </key>
@@ -15619,25 +15655,29 @@
         <val lang="zh_CN">如何翻译框架</val>
     </key>
     <key value="License_and_signature">
-        <comment>Title of the dialog that presents the license agreement and the signature for the add-ons to
+        <comment>{Oxygen}: Title of the dialog that presents the license agreement and the signature for the add-ons to
             install.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: "License and signature"</comment>
         <comment><val lang="en_US">License and signature</val></comment>
         <val lang="zh_CN">许可证和签名</val>
     </key>
     <key value="Show_only_compatible_addons">
-        <comment>Check box in the manage add-ons dialog.</comment>
+        <comment>{Oxygen}: Check box in the manage add-ons dialog.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Checkbox "Show only compatible add-ons"</comment>
         <comment><val lang="en_US">Show only compatible add-ons</val></comment>
-        <val lang="zh_CN">仅显示兼容的加载项</val>
+        <val lang="zh_CN">只显示兼容的插件包</val>
     </key>
     <key value="Signature">
-        <comment>Signature tab title from add-ons update confirmation.</comment>
+        <comment>{Oxygen}: Signature tab title from add-ons update confirmation.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Tab "Signature"</comment>
         <comment><val lang="en_US">Signature</val></comment>
         <val lang="zh_CN">签名</val>
     </key>
     <key value="Check_for_addons_updates">
-        <comment>Action that checks for updates for the currently installed add-ons.</comment>
+        <comment>{Oxygen}: Action that checks for updates for the currently installed add-ons.</comment>
+        <comment>{Menu}: [Help]/[Check for add-ons updates]</comment>
         <comment><val lang="en_US">Check for add-ons updates</val></comment>
-        <val lang="zh_CN">检查加载项更新</val>
+        <val lang="zh_CN">检查并更新插件包</val>
     </key>
     <key value="Review_updates">
         <comment>Button text for reviewing updates that can update/be installed.</comment>
@@ -15680,14 +15720,16 @@
         <val lang="zh_CN">可用的更新</val>
     </key>
     <key value="Enable_automatic_checking_for_updates">
-        <comment>Option checkbox for automatic checking add-ons.</comment>
+        <comment>{Oxygen}: Option checkbox for automatic checking add-ons.</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/Checkbox "Enable automatic updates checking"</comment>
         <comment><val lang="en_US">Enable automatic updates checking</val></comment>
-        <val lang="zh_CN">启用自动更新检查</val>
+        <val lang="zh_CN">启用自动检查更新</val>
     </key>
     <key value="Addons">
-        <comment>Add-ons tag for add-ons manager.</comment>
+        <comment>{Oxygen}: Add-ons tag for add-ons manager.</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons tab]</comment>
         <comment><val lang="en_US">Add-ons</val></comment>
-        <val lang="zh_CN">附加组件</val>
+        <val lang="zh_CN">插件包</val>
     </key>
     <key value="Apply_validaton_scenarios">
         <comment>Tooltip on the validation button.</comment>
@@ -15716,9 +15758,10 @@
         <val lang="zh_CN">没有写入权限</val>
     </key>
     <key value="Show_latest_addons_versions">
-        <comment>Show latest versions of the add-ons from the add-ons manager dialog.</comment>
+        <comment>{Oxygen}: Show latest versions of the add-ons from the add-ons manager dialog.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Checkbox "Show only the latest versions of the add-ons"</comment>
         <comment><val lang="en_US">Show only the latest versions of the add-ons</val></comment>
-        <val lang="zh_CN">仅显示加载项的最新版本</val>
+        <val lang="zh_CN">只显示最新版插件包</val>
     </key>
     <key value="Show_associated_scenarios">
         <comment>Action name in the Transformation scenarios view</comment>
@@ -15756,9 +15799,10 @@
         <val lang="zh_CN">加载项更新网站</val>
     </key>
     <key value="Manage_addons">
-        <comment>Manage add-ons action name from Help menu.</comment>
+        <comment>{Oxygen}: Manage add-ons action name from Help menu.</comment>
+        <comment>{Menu}: [Help]/[Manage add-ons]</comment>
         <comment><val lang="en_US">Manage add-ons</val></comment>
-        <val lang="zh_CN">管理加载项</val>
+        <val lang="zh_CN">管理插件包</val>
     </key>
     <key value="Change_storage">
         <comment>Action name in the Scenarios view</comment>
@@ -16420,8 +16464,9 @@
         <val lang="zh_CN">查找突出显示颜色</val>
     </key>
     <key value="Browse_datasource_explorer" type="action">
-        <comment>Browse for a certain remote resource (Webdav, SFTP, Documentum, Exist, etc) in the Data Source Explorer
+        <comment>{Oxygen}: Browse for a certain remote resource (Webdav, SFTP, Documentum, Exist, etc) in the Data Source Explorer
             view.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: [Browse Icon]/[Browse Data Source Explorer]</comment>
         <comment><val lang="en_US">Browse Data Source Explorer</val></comment>
         <val lang="zh_CN">浏览数据库资源管理器</val>
     </key>
@@ -18860,7 +18905,8 @@
         <val lang="zh_CN">{0}函数签名没有参数</val>
     </key>
     <key value="Search_for_file">
-        <comment>Open a dialog (Open Resource) which allows you to search for a file located in your project.</comment>
+        <comment>{Oxygen}: Open a dialog (Open Resource) which allows you to search for a file located in your project.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: [Browse Icon]/[Search for file]</comment>
         <comment><val lang="en_US">Search for file</val></comment>
         <val lang="zh_CN">搜索文件</val>
     </key>
@@ -23112,7 +23158,8 @@
         <val lang="zh_CN">上一个提示</val>
     </key>
     <key value="Browse_for_archived_file">
-        <comment>Used from various places where a file from an archive can be input.</comment>
+        <comment>{Oxygen}: Used from various places where a file from an archive can be input.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: [Browse Icon]/[Browse for archived file]</comment>
         <comment><val lang="en_US">Browse for archived file</val></comment>
         <val lang="zh_CN">浏览存档文件</val>
     </key>
@@ -23530,7 +23577,9 @@
         <val lang="zh_CN">显示层次结构</val>
     </key>
     <key value="Status">
-        <comment>Status</comment>
+        <comment>{Oxygen}: Status</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Column title "Status"</comment>
+        <comment>{Dialogue Box: Preferences}: [Plugins tab]/"Status"</comment>
         <comment><val lang="en_US">Status</val></comment>
         <val lang="zh_CN">状态</val>
     </key>
@@ -24514,9 +24563,10 @@
         <val lang="zh_CN">完成</val>
     </key>
     <key value="Next">
-        <comment>Next button name from the wizard dialog.</comment>
+        <comment>{Oxygen}: Next button name from the wizard dialog.</comment>
+        <comment>General</comment>
         <comment><val lang="en_US">Next</val></comment>
-        <val lang="zh_CN">下一个</val>
+        <val lang="zh_CN">下一步</val>
     </key>
     <key value="No_scenarios_were_imported">
         <comment>Message when failing to import global scenarios.</comment>
@@ -26679,7 +26729,8 @@
         <val lang="zh_CN">参数名仅用于显示目的，但应该是唯一的。只有值和它们出现的顺序才起作用。</val>
     </key>
     <key value="Restore_defaults">
-        <comment>Restore default options button</comment>
+        <comment>{Oxygen}: Restore default options button</comment>
+        <comment>General</comment>
         <comment><val lang="en_US">Restore Defaults</val></comment>
         <val lang="zh_CN">恢复默认设置</val>
     </key>
@@ -26990,12 +27041,14 @@
         <val lang="zh_CN">添加子元素</val>
     </key>
     <key value="Project_options">
-        <comment>Checkbox which specifies if the options are loaded from the project.</comment>
+        <comment>{Oxygen}: Checkbox which specifies if the options are loaded from the project.</comment>
+        <comment>General</comment>
         <comment><val lang="en_US">Project Options</val></comment>
         <val lang="zh_CN">项目选项</val>
     </key>
     <key value="Global_options">
-        <comment>Checkbox which specifies if the options are loaded from global settings.</comment>
+        <comment>{Oxygen}: Checkbox which specifies if the options are loaded from global settings.</comment>
+        <comment>General</comment>
         <comment><val lang="en_US">Global Options</val></comment>
         <val lang="zh_CN">全局选项</val>
     </key>
@@ -27147,10 +27200,11 @@
         <val lang="zh_CN">网格布局</val>
     </key>
     <key value="Filter_hint">
-        <comment>{Original}: Preferences filter hint to use the filter.</comment>
+        <comment>{Oxygen}: Preferences filter hint to use the filter.</comment>
         <comment>{Dialogue box: New}: "Type filter text"</comment>
+        <comment>{Dialogue box: Install new add-ons}: "Type filter text"</comment>
         <comment><val lang="en_US">Type filter text</val></comment>
-        <val lang="zh_CN">搜索文件类型或模板</val>
+        <val lang="zh_CN">输入搜索关键字</val>
     </key>
     <key value="Close_results">
         <comment>Close results menu group from file control.</comment>
@@ -28147,7 +28201,9 @@
         <val lang="zh_CN">日期</val>
     </key>
     <key distribution="common" value="Author">
-        <comment>Author of a change</comment>
+        <comment>{Oxygen}: Author of a change</comment>
+        <comment>{Menu}: [Document]/[Editing Mode]/[Author] -- (Author Mode)</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Column title "Author" -- (Developer)</comment>
         <comment><val lang="en_US">Author</val></comment>
         <val lang="zh_CN">写作</val>
     </key>
@@ -28799,9 +28855,10 @@
         <val lang="zh_CN">永久接受此证书</val>
     </key>
     <key value="Certificate_information">
-        <comment>Label from SVN</comment>
+        <comment>{Oxygen}: Label from SVN</comment>
+        <comment>{Dialogue Box: Install new add-ons}: [Signature tab]/"Certificate information"</comment>
         <comment><val lang="en_US">Certificate information</val></comment>
-        <val lang="zh_CN">证书信息</val>
+        <val lang="zh_CN">签名信息</val>
     </key>
     <key value="Property">
         <comment>Label from SVN</comment>
@@ -28819,7 +28876,8 @@
         <val lang="zh_CN">全部更新</val>
     </key>
     <key value="Update">
-        <comment>Action name from SVN</comment>
+        <comment>{Oxygen}: Action name from SVN</comment>
+        <comment>General</comment>
         <comment><val lang="en_US">Update</val></comment>
         <val lang="zh_CN">更新</val>
     </key>
@@ -30096,7 +30154,8 @@
         <val lang="zh_CN">无法添加文件夹</val>
     </key>
     <key value="Extensions">
-        <comment>Title for XSLT Extensions page</comment>
+        <comment>{Oxygen}: Title for XSLT Extensions page</comment>
+        <comment>General</comment>
         <comment><val lang="en_US">Extensions</val></comment>
         <val lang="zh_CN">扩展</val>
     </key>
@@ -30166,7 +30225,8 @@
         <val lang="zh_CN">显示视图</val>
     </key>
     <key value="Enabled">
-        <comment>Generic Enabled string.</comment>
+        <comment>{Oxygen}: Generic Enabled string.</comment>
+        <comment>General</comment>
         <comment><val lang="en_US">Enabled</val></comment>
         <val lang="zh_CN">启用</val>
     </key>
@@ -30657,7 +30717,8 @@
         <val lang="zh_CN">排序</val>
     </key>
     <key value="Type">
-        <comment>Options label.</comment>
+        <comment>{Oxygen}: Options label.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Column title "Type"</comment>
         <comment><val lang="en_US">Type</val></comment>
         <val lang="zh_CN">类型</val>
     </key>
@@ -30958,9 +31019,10 @@
         <val lang="zh_CN">差异</val>
     </key>
     <key value="Processing">
-        <comment>Status window label.</comment>
+        <comment>{Oxygen}: Status window label.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: "Processing update site"</comment>
         <comment><val lang="en_US">Processing</val></comment>
-        <val lang="zh_CN">处理</val>
+        <val lang="zh_CN">连接</val>
     </key>
     <key value="Find_previous">
         <comment>Find menu.</comment>
@@ -32674,7 +32736,8 @@
         <val lang="zh_CN">是否确实要使用此快捷方式</val>
     </key>
     <key value="Browse_for_local_file">
-        <comment>Used from various places where a local file can be input.</comment>
+        <comment>{Oxygen}: Used from various places where a local file can be input.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: [Browse Icon]/[Browse for local file]</comment>
         <comment><val lang="en_US">Browse for local file</val></comment>
         <val lang="zh_CN">浏览本地文件</val>
     </key>
@@ -32690,7 +32753,8 @@
         <val lang="zh_CN">保存当前项目？</val>
     </key>
     <key value="Cancel">
-        <comment>The cancel button text.</comment>
+        <comment>{Oxygen}: The cancel button text.</comment>
+        <comment>General</comment>
         <comment><val lang="en_US">Cancel</val></comment>
         <val lang="zh_CN">取消</val>
     </key>
@@ -33071,7 +33135,8 @@
         <val lang="zh_CN">插入属性</val>
     </key>
     <key value="Delete">
-        <comment>Delete a node or a folder/file from the project.</comment>
+        <comment>{Oxygen}: Delete a node or a folder/file from the project.</comment>
+        <comment>General</comment>
         <comment><val lang="en_US">Delete</val></comment>
         <val lang="zh_CN">删除</val>
     </key>
@@ -33437,8 +33502,10 @@
         <val lang="zh_CN">无效的XPath表达式</val>
     </key>
     <key value="Name">
-        <comment>{Original}: Like in "name and value"</comment>
-        <comment>{Dialogue Box: In-place Attributes Editor}: tag "Name" (attribute name)</comment>
+        <comment>{Oxygen}: Like in "name and value"</comment>
+        <comment>{Dialogue Box: In-place Attributes Editor}: Column title "Name" --  (Attribute)</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Column title "Name" -- (Add-on)</comment>
+        <comment>{Dialogue Box: Preferences}: [Plugins tab]/"Name" -- (Plugin)</comment>
         <comment><val lang="en_US">Name</val></comment>
         <val lang="zh_CN">名称</val>
     </key>
@@ -33508,7 +33575,7 @@
         <val lang="zh_CN">去</val>
     </key>
     <key value="Add">
-        <comment/>
+        <comment>General</comment>
         <comment><val lang="en_US">Add</val></comment>
         <val lang="zh_CN">添加</val>
     </key>
@@ -33667,7 +33734,7 @@
         <val lang="zh_CN">未指定输出文件。</val>
     </key>
     <key value="Apply">
-        <comment/>
+        <comment>General</comment>
         <comment><val lang="en_US">Apply</val></comment>
         <val lang="zh_CN">应用</val>
     </key>
@@ -33682,14 +33749,17 @@
         <val lang="zh_CN">忽略带数字的单词</val>
     </key>
     <key value="Restart_application_multiple_changes">
-        <comment>Message box displayed when prompted for restart.</comment>
+        <comment>{Oxygen}: Message box displayed when prompted for restart.</comment>
+        <comment>{Message Box}: "To apply these changes, you must restart the application."</comment>
+        <comment>{Dialogue Box: Preferences}: [Plugins tab]/"To apply these changes, you must restart the application."</comment>
         <comment><val lang="en_US">To apply these changes, you must restart the application.</val></comment>
-        <val lang="zh_CN">要应用这些更改，必须重新启动应用程序。</val>
+        <val lang="zh_CN">要应用修改，请重新启动 Oxygen 软件。</val>
     </key>
     <key value="Restart_application">
-        <comment>Message box displayed when prompted for restart.</comment>
+        <comment>{Oxygen}: Message box displayed when prompted for restart.</comment>
+        <comment>{Message Box}: "To apply this changes, you must restart the application."</comment>
         <comment><val lang="en_US">To apply this change, you must restart the application.</val></comment>
-        <val lang="zh_CN">要应用此更改，必须重新启动应用程序。</val>
+        <val lang="zh_CN">要应用修改，请重新启动 Oxygen 软件。</val>
     </key>
     <key value="Insert_the_required_attributes">
         <comment>"Preferences" dialog/Editor/Tag Insight page option.</comment>
@@ -33817,7 +33887,7 @@
         <val lang="zh_CN">打开</val>
     </key>
     <key value="License">
-        <comment/>
+        <comment>General</comment>
         <comment><val lang="en_US">License</val></comment>
         <val lang="zh_CN">许可证</val>
     </key>
@@ -33957,9 +34027,9 @@
         <val lang="zh_CN">来自URL</val>
     </key>
     <key value="Description">
-        <comment/>
+        <comment>General</comment>
         <comment><val lang="en_US">Description</val></comment>
-        <val lang="zh_CN">说明</val>
+        <val lang="zh_CN">描述</val>
     </key>
     <key value="You_choosed">
         <comment>For example Options/Preferences/Global , when you change the language , the dialog title.</comment>
@@ -33982,7 +34052,7 @@
         <val lang="zh_CN">如果要在XML面板中查看结果，请选择此选项</val>
     </key>
     <key value="Plugins">
-        <comment>For example Main Menu</comment>
+        <comment>{Oxygen}: For example Main Menu</comment>
         <comment><val lang="en_US">Plugins</val></comment>
         <val lang="zh_CN">插件</val>
     </key>
@@ -34107,9 +34177,10 @@
         <val lang="zh_CN">查找/替换</val>
     </key>
     <key value="Location">
-        <comment>Create Templates.</comment>
+        <comment>{Oxygen}: Create Templates.</comment>
+        <comment>General</comment>
         <comment><val lang="en_US">Location</val></comment>
-        <val lang="zh_CN">位置</val>
+        <val lang="zh_CN">安装位置</val>
     </key>
     <key value="Check_punctuation">
         <comment>Edit/Check spelling menu, options dialog.</comment>
@@ -34203,7 +34274,8 @@
         <val lang="zh_CN">无标题</val>
     </key>
     <key value="Browse_for_remote_file">
-        <comment>Tooltip displayed in the Associate Schema dialog.</comment>
+        <comment>{Oxygen}: Tooltip displayed in the Associate Schema dialog.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: [Browse Icon]/[Browse for remote file]</comment>
         <comment><val lang="en_US">Browse for remote file</val></comment>
         <val lang="zh_CN">浏览远程文件</val>
     </key>
@@ -34389,7 +34461,9 @@
         <val lang="zh_CN">端口</val>
     </key>
     <key value="Version">
-        <comment>Current version of Oxygen.</comment>
+        <comment>{Oxygen}: Current version of Oxygen.</comment>
+        <comment>{Dialogue Box: Install new add-ons}: Column title "Version"</comment>
+        <comment>{Dialogue Box: Preferences}: [Plugins tab]/"Version"</comment>
         <comment><val lang="en_US">Version</val></comment>
         <val lang="zh_CN">版本</val>
     </key>
