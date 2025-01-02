@@ -1235,31 +1235,31 @@
     <key value="Update_sites_urls">
         <comment>{Oxygen}: Add-ons update sites URLs column title from add-ons option pane. It represents a location where an
             add-ons descriptor is found. This descriptor contains the information required to install add-ons.</comment>
-        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/Column title "Add-on Update Site URLs"</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons]/Column title "Add-on Update Site URLs"</comment>
         <comment><val lang="en_US">Add-on Update Site URLs</val></comment>
         <val lang="zh_CN">插件包更新站点的网址 (URL)</val>
     </key>
     <key value="Automatically_install_addons">
         <comment>{Oxygen}: Label presented before a list of add-ons that will be installed automatically.</comment>
-        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/"Automatically install add-ons"</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons]/"Automatically install add-ons"</comment>
         <comment><val lang="en_US">Automatically install add-ons</val></comment>
         <val lang="zh_CN">自动安装插件包</val>
     </key>
     <key value="Required_addons_description">
         <comment>{Oxygen}: A description of the required add-ons.</comment>
-        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/"The installation of these add-ons will be triggered automatically."</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons]/"The installation of these add-ons will be triggered automatically."</comment>
         <comment><val lang="en_US">The installation of these add-ons will be triggered automatically.</val></comment>
         <val lang="zh_CN">自动安装的插件包如下：</val>
     </key>
     <key value="Required_addons_separator_hint">
         <comment>{Oxygen}: A hint under the text area in which the user must specify the ids of required add-ons.</comment>
-        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/"Multiple add-on IDs can be separated by either a space or a new line."</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons]/"Multiple add-on IDs can be separated by either a space or a new line."</comment>
         <comment><val lang="en_US">Multiple add-on IDs can be separated by either a space or a new line.</val></comment>
         <val lang="zh_CN">输入多个插件包 ID 时，使用空格或换行符作为分隔符。</val>
     </key>
     <key value="Required_addons_cc_hint">
         <comment>{Oxygen}: A hint under the text area in which the user must specify the ids of required add-ons.</comment>
-        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/"Use {0} to see the add-ons detected from the update sites listed above."</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons]/"Use {0} to see the add-ons detected from the update sites listed above."</comment>
         <comment><val lang="en_US">Use {0} to see the add-ons detected from the update sites listed above.</val></comment>
         <val lang="zh_CN">使用快捷键 {0} 可以查看从上表中的更新站点检测到的插件包。</val>
     </key>
@@ -2314,9 +2314,10 @@
         <val lang="zh_CN">启用文本模式的文件比较</val>
     </key>
     <key value="Copy_as_xml">
-        <comment>"Copy as XML" label.</comment>
+        <comment>{Oxygen}: "Copy as XML" label.</comment>
+        <comment>{Menu}: [Document]/[Edit]/[Copy as XML]</comment>
         <comment><val lang="en_US">Copy as XML</val></comment>
-        <val lang="zh_CN">复制为XML格式</val>
+        <val lang="zh_CN">复制XML </val>
     </key>
     <key value="Allow_referenced_submaps_to_be_edited">
         <comment>Options message that allows inplace editing of referred content in DITA Maps Manager</comment>
@@ -2662,14 +2663,16 @@
         <val lang="zh_CN">查看有关 Oxygen 许可证服务器的更多信息</val>
     </key>
     <key value="Previous_error_highlight">
-        <comment>Goes to the previous error/highlight.</comment>
+        <comment>{Oxygen}: Goes to the previous error/highlight.</comment>
+        <comment>{Menu}: [Document]/[Automatic Validation]/[Previous Error/Highlight]</comment>
         <comment><val lang="en_US">Previous Error/Highlight</val></comment>
-        <val lang="zh_CN">上一个错误/突出显示</val>
+        <val lang="zh_CN">上一个错误或高亮</val>
     </key>
     <key value="Next_error_highlight">
-        <comment>Goes to the next error/highlight.</comment>
+        <comment>{Oxygen}: Goes to the next error/highlight.</comment>
+        <comment>{Menu}: [Document]/[Automatic Validation]/[Next Error/Highlight]</comment>
         <comment><val lang="en_US">Next Error/Highlight</val></comment>
-        <val lang="zh_CN">下一个错误/突出显示</val>
+        <val lang="zh_CN">下一个错误或高亮</val>
     </key>
     <key value="Package_name_info" distribution="common">
         <comment>Info about the package name field. (Java Classes Generator).</comment>
@@ -5958,7 +5961,7 @@
     </key>
     <key value="Vendor">
         <comment>{Oxygen}: Plugin's vendor.</comment>
-        <comment>{Dialogue Box: Preferences}: [Plugins tab]/"Vendor"</comment>
+        <comment>{Dialogue Box: Preferences}: [Plugins]/"Vendor"</comment>
         <comment><val lang="en_US">Vendor</val></comment>
         <val lang="zh_CN">开发者</val>
     </key>
@@ -8099,14 +8102,14 @@
     </key>
     <key value="Certificate_expired">
         <comment>{Oxygen}: For add-ons install process, the add-on was signed with an expired certificate.</comment>
-        <comment>{Dialogue Box: Install new add-ons}: [Signature tab]/"The certificate has expired on: {0}"</comment>
+        <comment>{Dialogue Box: Install new add-ons}: [Signature]/"The certificate has expired on: {0}"</comment>
         <comment><val lang="en_US">The certificate has expired on: {0}</val></comment>
         <val lang="zh_CN">签名已于{0}过期</val>
     </key>
     <key value="Validity_status">
         <comment>{Oxygen}: For add-ons install process, this is the title of the section that tells if the certificate used to
             sign the addon is valid or if there are problems.</comment>
-        <comment>{Dialogue Box: Install new add-ons}: [Signature tab]/"Validity status"</comment>
+        <comment>{Dialogue Box: Install new add-ons}: [Signature]/"Validity status"</comment>
         <comment><val lang="en_US">Validity status</val></comment>
         <val lang="zh_CN">签名状态</val>
     </key>
@@ -8142,15 +8145,17 @@
         <val lang="zh_CN">在CSS属性的值前添加空格</val>
     </key>
     <key value="No_valid_hexadecimal_sequence_to_convert">
-        <comment>Error message displayed when 'Convert hexadecimal sequence to character' action invoked.</comment>
+        <comment>{Oxygen}: Error message displayed when 'Convert hexadecimal sequence to character' action invoked.</comment>
+        <comment>{Message}: "No valid hexadecimal sequence to convert."</comment>
         <comment><val lang="en_US">No valid hexadecimal sequence to convert.</val></comment>
-        <val lang="zh_CN">没有要转换的有效十六进制序列。</val>
+        <val lang="zh_CN">没有可转换的十六进制字符编码。</val>
     </key>
     <key value="Convert_hexadecimal_sequence_to_character" distribution="common">
-        <comment>Name of the action that converts a hexadecimal sequence into the equivalent Unicode
+        <comment>{Oxygen}: Name of the action that converts a hexadecimal sequence into the equivalent Unicode
             character.</comment>
+        <comment>{Menu}: [Document]/[Source]/[Convert Hexadecimal Sequence to Character]</comment>
         <comment><val lang="en_US">Convert Hexadecimal Sequence to Character</val></comment>
-        <val lang="zh_CN">将十六进制序列转换为字符</val>
+        <val lang="zh_CN">将十六进制字符编码转换为字符</val>
     </key>
     <key value="Untrusted_host_connection_cofirmation_question">
         <comment>Remote host connection cofirmation message</comment>
@@ -9724,9 +9729,10 @@
         <val lang="zh_CN">将元素''{2}''中的无效值''{0}''替换为''{1}''。</val>
     </key>
     <key value="Inspect_styles">
-        <comment>Menu item in the Author contextual menu, the "About Element" group. Triggers the display of the Author
+        <comment>{Oxygen}: Menu item in the Author contextual menu, the "About Element" group. Triggers the display of the Author
             CSS Inspector for the current element. The CSS inspector shows the CSS styles matching the current
             element.</comment>
+        <comment>{Menu}: [Document]/[Author]/[Inspect Styles]</comment>
         <comment><val lang="en_US">Inspect Styles</val></comment>
         <val lang="zh_CN">检查样式</val>
     </key>
@@ -10213,7 +10219,8 @@
         <val lang="zh_CN">如果可能，使用HTML格式显示批注</val>
     </key>
     <key value="Paste_as_text">
-        <comment>Paste the content from clipboard as text</comment>
+        <comment>{Oxygen}: Paste the content from clipboard as text</comment>
+        <comment>{Menu}: [Document]/[Edit]/[Paste as text]</comment>
         <comment><val lang="en_US">Paste as text</val></comment>
         <val lang="zh_CN">粘贴为文本</val>
     </key>
@@ -14108,7 +14115,7 @@
         <comment>{Original}: Information given when a marker is applied only on a markup (element tag).</comment>
         <comment>{Menu}: [Document]/[Markup]</comment>
         <comment><val lang="en_US">Markup</val></comment>
-        <val lang="zh_CN">标签</val>
+        <val lang="zh_CN">标记</val>
     </key>
     <key value="Include_resource_hierarchy">
         <comment>Option in the "Generate Schema Documentation" Dialog</comment>
@@ -15405,14 +15412,14 @@
     <key value="Addons_web_link">
         <comment>{Oxygen}: Link in the Add-ons options page that opens a web page where the user can find out more about add-ons
             as well as discover new add-ons.</comment>
-        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/[Find out more about Oxygen add-ons]</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons]/[Find out more about Oxygen add-ons]</comment>
         <comment><val lang="en_US">Find out more about Oxygen add-ons</val></comment>
         <val lang="zh_CN">寻找更多 Oxygen 插件包</val>
     </key>
     <key value="Plugins_discover_hint">
         <comment>{Oxygen}: Link in the Plugins page that provides a hint about the possibility to install plugins through the
             add-ons system. The link leads to the Add-ons page.</comment>
-        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/[Discover more plugins by using add-ons update sites]</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons]/[Discover more plugins by using add-ons update sites]</comment>
         <comment><val lang="en_US">Discover more plugins by using add-ons update sites</val></comment>
         <val lang="zh_CN">通过插件包更新站点寻找更多插件</val>
     </key>
@@ -15669,7 +15676,7 @@
     </key>
     <key value="Signature">
         <comment>{Oxygen}: Signature tab title from add-ons update confirmation.</comment>
-        <comment>{Dialogue Box: Install new add-ons}: Tab "Signature"</comment>
+        <comment>{Dialogue Box: Install new add-ons}:  [Signature]</comment>
         <comment><val lang="en_US">Signature</val></comment>
         <val lang="zh_CN">签名</val>
     </key>
@@ -15721,13 +15728,13 @@
     </key>
     <key value="Enable_automatic_checking_for_updates">
         <comment>{Oxygen}: Option checkbox for automatic checking add-ons.</comment>
-        <comment>{Dialogue Box: Preferences}: [Add-ons tab]/Checkbox "Enable automatic updates checking"</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons]/Checkbox "Enable automatic updates checking"</comment>
         <comment><val lang="en_US">Enable automatic updates checking</val></comment>
         <val lang="zh_CN">启用自动检查更新</val>
     </key>
     <key value="Addons">
         <comment>{Oxygen}: Add-ons tag for add-ons manager.</comment>
-        <comment>{Dialogue Box: Preferences}: [Add-ons tab]</comment>
+        <comment>{Dialogue Box: Preferences}: [Add-ons]</comment>
         <comment><val lang="en_US">Add-ons</val></comment>
         <val lang="zh_CN">插件包</val>
     </key>
@@ -18584,7 +18591,8 @@
         <val lang="zh_CN">使用上下文菜单中的“{0}”操作。</val>
     </key>
     <key value="Edit_equation">
-        <comment>Edit equation action name.</comment>
+        <comment>{Oxygen}: Edit equation action name.</comment>
+        <comment>{Menu}: [Document]/[Edit]/[Edit Equation]</comment>
         <comment><val lang="en_US">Edit Equation</val></comment>
         <val lang="zh_CN">编辑公式</val>
     </key>
@@ -18911,19 +18919,22 @@
         <val lang="zh_CN">搜索文件</val>
     </key>
     <key value="Count_Words">
-        <comment>Count words either in the whole document or in the selection.</comment>
+        <comment>{Oxygen}: Count words either in the whole document or in the selection.</comment>
+        <comment>{Menu}: [Document]/[Source]/[Count Words]</comment>
         <comment><val lang="en_US">Count Words</val></comment>
-        <val lang="zh_CN">字数</val>
+        <val lang="zh_CN">字数统计</val>
     </key>
     <key value="Capitalize_Words">
-        <comment>Upper case the first letter of words from selection</comment>
+        <comment>{Oxygen}: Upper case the first letter of words from selection</comment>
+        <comment>{Menu}: [Document]/[Source]/[Capitalize Words]</comment>
         <comment><val lang="en_US">Capitalize Words</val></comment>
-        <val lang="zh_CN">大写单词</val>
+        <val lang="zh_CN">单词首字母大写</val>
     </key>
     <key value="Capitalize_Sentences">
-        <comment>Upper case the first letter of each sentence from selection</comment>
+        <comment>{Oxygen}: Upper case the first letter of each sentence from selection</comment>
+        <comment>{Menu}: [Document]/[Source]/[Capitalize Sentences]</comment>
         <comment><val lang="en_US">Capitalize Sentences</val></comment>
-        <val lang="zh_CN">句子大写</val>
+        <val lang="zh_CN">句子首字母大写</val>
     </key>
     <key value="For_evaluation_only">
         <comment>For evaluation only</comment>
@@ -21464,7 +21475,8 @@
         <val lang="zh_CN">处理角色</val>
     </key>
     <key distribution="common" value="Edit_Reference">
-        <comment>Action used to edit a reference to a topic in the DITA Maps Manager</comment>
+        <comment>{Oxygen}: Action used to edit a reference to a topic in the DITA Maps Manager</comment>
+        <comment>{Menu}: [Document]/[Edit]/[Edit Reference]</comment>
         <comment><val lang="en_US">Edit Reference</val></comment>
         <val lang="zh_CN">编辑引用</val>
     </key>
@@ -21595,7 +21607,8 @@
         <val lang="zh_CN">在DITAMap管理器视图中打开</val>
     </key>
     <key value="Automatic_validation">
-        <comment>'Document Checking' Pane option name</comment>
+        <comment>{Oxygen}: 'Document Checking' Pane option name</comment>
+        <comment>{Menu}: [Document]/[Automatic validatio]</comment>
         <comment><val lang="en_US">Automatic validation</val></comment>
         <val lang="zh_CN">自动验证</val>
     </key>
@@ -23251,9 +23264,10 @@
         <val lang="zh_CN">标签</val>
     </key>
     <key value="Parent">
-        <comment>Select parent from contextual menu action</comment>
+        <comment>{Oxygen}: Select parent from contextual menu action</comment>
+        <comment>{Menu}: [Document]/[Select]/[Parent]</comment>
         <comment><val lang="en_US">Parent</val></comment>
-        <val lang="zh_CN">起始</val>
+        <val lang="zh_CN">父元素</val>
     </key>
     <key value="Go_to_component">
         <comment>Component dependencies tree contextual action</comment>
@@ -23579,7 +23593,7 @@
     <key value="Status">
         <comment>{Oxygen}: Status</comment>
         <comment>{Dialogue Box: Install new add-ons}: Column title "Status"</comment>
-        <comment>{Dialogue Box: Preferences}: [Plugins tab]/"Status"</comment>
+        <comment>{Dialogue Box: Preferences}: [Plugins]/"Status"</comment>
         <comment><val lang="en_US">Status</val></comment>
         <val lang="zh_CN">状态</val>
     </key>
@@ -23614,25 +23628,29 @@
         <val lang="zh_CN">组件</val>
     </key>
     <key value="Search_declarations_in">
-        <comment>Editor action for search declarations of a component</comment>
+        <comment>{Oxygen}: Editor action for search declarations of a component</comment>
+        <comment>{Menu}: [Document]/[References]/[Search Search Declarations in]</comment> 
         <comment><val lang="en_US">Search Declarations in</val></comment>
-        <val lang="zh_CN">搜索声明</val>
+        <val lang="zh_CN">在文件中搜索声明</val>
     </key>
     <key value="Search_declarations">
-        <comment>Editor action for search declarations of a component</comment>
+        <comment>{Oxygen}: Editor action for search declarations of a component</comment>
+        <comment>{Menu}: [Document]/[References]/[Search Declarations]</comment> 
         <comment><val lang="en_US">Search Declarations</val></comment>
-        <val lang="zh_CN">搜索声明</val>
+        <val lang="zh_CN">在指定范围内搜索声明</val>
     </key>
     <key value="Search_occurrences_in_file">
-        <comment>The name of the action for searching a component references and declaration in the current
+        <comment>{Oxygen}: The name of the action for searching a component references and declaration in the current
             file.</comment>
+        <comment>{Menu}: [Document]/[References]/[Search Occurrences in file]</comment> 
         <comment><val lang="en_US">Search Occurrences in file</val></comment>
-        <val lang="zh_CN">在文件中搜索匹配项</val>
+        <val lang="zh_CN">在当前文件中搜索引用和声明</val>
     </key>
     <key value="Search_references_in">
-        <comment>The name of the action for searching a component references.</comment>
+        <comment>{Oxygen}: The name of the action for searching a component references.</comment>
+        <comment>{Menu}: [Document]/[References]/[Search References in]</comment>
         <comment><val lang="en_US">Search References in</val></comment>
-        <val lang="zh_CN">搜索引用</val>
+        <val lang="zh_CN">在文件中搜索引用</val>
     </key>
     <key value="Use_default_namespace_from_the_root">
         <comment>XPath default namespace option.</comment>
@@ -23645,9 +23663,10 @@
         <val lang="zh_CN">此命名空间</val>
     </key>
     <key distribution="common" value="Search_references">
-        <comment>Title for "Search References" dialog</comment>
+        <comment>{Oxygen}: Title for "Search References" dialog</comment>
+        <comment>{Menu}: [Document]/[References]/[Search References]</comment>
         <comment><val lang="en_US">Search References</val></comment>
-        <val lang="zh_CN">搜索引用</val>
+        <val lang="zh_CN">在指定范围内搜索引用</val>
     </key>
     <key value="Hide_facets">
         <comment>Hide facets</comment>
@@ -24442,7 +24461,7 @@
         <comment>{Menu}: [Document]/[Markup]/[Surround with Tags]</comment>
         <comment>{Contextual Menu}: [Refactoring]/[Surround with Tags]</comment>
         <comment><val lang="en_US">Surround with Tags</val></comment>
-        <val lang="zh_CN">添加元素标签</val>
+        <val lang="zh_CN">套上元素标签</val>
     </key>
     <key value="Choose_templates_directory">
         <comment>Title for the templates input dialog.</comment>
@@ -24922,9 +24941,10 @@
         <val lang="zh_CN">使用Saxon EE（架构友好）进行xslt2/xslt3查询语言绑定</val>
     </key>
     <key value="Edit_properties">
-        <comment>Name of action for editing properties of a node in the DITA map tree</comment>
+        <comment>{Oxygen}: Name of action for editing properties of a node in the DITA map tree</comment>
+        <comment>{Menu}: [DITA Maps]/[Edit Properties]</comment>
         <comment><val lang="en_US">Edit Properties</val></comment>
-        <val lang="zh_CN">编辑属性</val>
+        <val lang="zh_CN">编辑文件属性</val>
     </key>
     <key value="Allow_foreign_elements">
         <comment>Message used for the Schematron parameter allow-foreign in the option page, something like [x] Allow
@@ -25534,7 +25554,8 @@
         <val lang="zh_CN">找到的类数</val>
     </key>
     <key value="Paste_as_xml">
-        <comment>Paste the text from clipboard as an XML fragment</comment>
+        <comment>{Oxygen}: Paste the text from clipboard as an XML fragment</comment>
+        <comment>{Menu}: [Document]/[Edit]/[Paste as XML]</comment>
         <comment><val lang="en_US">Paste as XML</val></comment>
         <val lang="zh_CN">粘贴为XML</val>
     </key>
@@ -28008,9 +28029,10 @@
     </key>
     <key distribution="common" value="Edit_attributes">
         <comment>{Original}: Edit element's attributes (popup menu on outliner and schema diagram)</comment>
+        <comment>{Menu}: [Document]/[Edit]/[Edit Attributes]</comment>
         <comment>{Contextual Menu}: [Edit Attributes]</comment>
         <comment><val lang="en_US">Edit Attributes</val></comment>
-        <val lang="zh_CN">编辑属性</val>
+        <val lang="zh_CN">编辑元素属性</val>
     </key>
     <key value="Flatten_schema_confirm_message">
         <comment>Flat schema (included schemas elements are added in the current schema)</comment>
@@ -28670,14 +28692,16 @@
         <val lang="zh_CN">SVN</val>
     </key>
     <key value="To_upper">
-        <comment>Converts the selected text to upper case</comment>
+        <comment>{Oxygen}: Converts the selected text to upper case</comment>
+        <comment>{Menu}: [Document]/[Source]/[To Upper Case]</comment>
         <comment><val lang="en_US">To Upper Case</val></comment>
-        <val lang="zh_CN">转换成大写</val>
+        <val lang="zh_CN">转换成大写字母</val>
     </key>
     <key value="To_lower">
-        <comment>Converts the selected text to lower case</comment>
+        <comment>{Oxygen}: Converts the selected text to lower case</comment>
+        <comment>{Menu}: [Document]/[Source]/[To Lower Case]</comment>
         <comment><val lang="en_US">To Lower Case</val></comment>
-        <val lang="zh_CN">转换成小写</val>
+        <val lang="zh_CN">转换成小写字母</val>
     </key>
     <key value="Capitalize_lines">
         <comment>Changes the first letter of the line to upper case</comment>
@@ -28856,7 +28880,7 @@
     </key>
     <key value="Certificate_information">
         <comment>{Oxygen}: Label from SVN</comment>
-        <comment>{Dialogue Box: Install new add-ons}: [Signature tab]/"Certificate information"</comment>
+        <comment>{Dialogue Box: Install new add-ons}: [Signature]/"Certificate information"</comment>
         <comment><val lang="en_US">Certificate information</val></comment>
         <val lang="zh_CN">签名信息</val>
     </key>
@@ -29067,14 +29091,16 @@
         <val lang="zh_CN">更改文本方向</val>
     </key>
     <key distribution="eclipse" value="Toggle_comment_command">
-        <comment>Toggle comments action</comment>
+        <comment>{Oxygen}: Toggle comments action</comment>
+        <comment>{Menu}: [Document]/[Edit]/[Toggle Comment]</comment>
         <comment><val lang="en_US">Toggle Comment</val></comment>
-        <val lang="zh_CN">切换注释</val>
+        <val lang="zh_CN">注释/取消注释</val>
     </key>
     <key distribution="common" value="Toggle_comment">
-        <comment>Toggle comments action</comment>
+        <comment>{Oxygen}: Toggle comments action</comment>
+        <comment>{Menu}: [Document]/[Edit]/[Toggle Comment]</comment>
         <val lang="en_US" mnemonic="0">&amp;Toggle Comment</val>
-        <val lang="zh_CN">切换注释</val>
+        <val lang="zh_CN">注释/取消注释</val>
     </key>
     <key value="Debugger_stopped_by_break_conditions">
         <comment>Tooltip for break condition</comment>
@@ -29290,9 +29316,10 @@
         <val lang="zh_CN">已添加前缀</val>
     </key>
     <key value="Start_content_completion">
-        <comment>'Start content completion' action.</comment>
+        <comment>{Oxygen}: 'Start content completion' action.</comment>
+        <comment>{Menu}: [Document]/[Content Completion]/[Start Content Completion]</comment>
         <comment><val lang="en_US">Start Content Completion</val></comment>
-        <val lang="zh_CN">开始内容完成</val>
+        <val lang="zh_CN">开始内容补全</val>
     </key>
     <key value="Enable_content_completion_for_xpath_expressions">
         <comment>Enable content completion for XPath expressions. (check box in options page)</comment>
@@ -29300,9 +29327,10 @@
         <val lang="zh_CN">为XPath表达式启用内容完成</val>
     </key>
     <key distribution="common" value="Content_completion">
-        <comment>The feature of showing a list of values for a tag name.</comment>
+        <comment>{Oxygen}: The feature of showing a list of values for a tag name.</comment>
+        <comment>{Menu}: [Document]/[Content Completion]</comment>
         <comment><val lang="en_US">Content Completion</val></comment>
-        <val lang="zh_CN">内容完成</val>
+        <val lang="zh_CN">内容补全</val>
     </key>
     <key value="Automatic_retry_on_recoverable_error">
         <comment>Automatic retry on recoverable error.</comment>
@@ -29943,9 +29971,10 @@
         <val lang="zh_CN">没有与文档关联的架构或DTD。</val>
     </key>
     <key value="References">
-        <comment>Toolbar category</comment>
+        <comment>{Oxygen}: Toolbar category</comment>
+        <comment>{Menu}: [Document]/[References]</comment>
         <comment><val lang="en_US">References</val></comment>
-        <val lang="zh_CN">属性</val>
+        <val lang="zh_CN">引用</val>
     </key>
     <key value="forces_ascii_output_encoding">
         <comment>MSXML .NET options Forces ASCII output encoding</comment>
@@ -30190,24 +30219,28 @@
         <val lang="zh_CN">找不到字符串</val>
     </key>
     <key distribution="common" value="Toggle_fold">
-        <comment>Name for the Open fold action.</comment>
+        <comment>{Oxygen}: Name for the Open fold action.</comment>
+        <comment>{Menu}: [Document]/[Folding]/[Toggle Fold]</comment>
         <comment><val lang="en_US">Toggle Fold</val></comment>
-        <val lang="zh_CN">切换折叠</val>
+        <val lang="zh_CN">折叠/展开</val>
     </key>
     <key distribution="common" value="Collapse_other_folds">
-        <comment>Collapses other document folds that are siblings to the current one.</comment>
+        <comment>{Oxygen}: Collapses other document folds that are siblings to the current one.</comment>
+        <comment>{Menu}: [Document]/[Folding]/[Collapse Other Folds]</comment>
         <comment><val lang="en_US">Collapse Other Folds</val></comment>
-        <val lang="zh_CN">折叠其他节点</val>
+        <val lang="zh_CN">折叠其他元素</val>
     </key>
     <key distribution="common" value="Collapse_child_folds">
-        <comment>Collapse children folds action.</comment>
+        <comment>{Oxygen}: Collapse children folds action.</comment>
+        <comment>{Menu}: [Document]/[Folding]/[Collapse Child Folds]</comment>
         <comment><val lang="en_US">Collapse Child Folds</val></comment>
-        <val lang="zh_CN">折叠子节点</val>
+        <val lang="zh_CN">折叠子元素</val>
     </key>
     <key distribution="common" value="Expand_child_folds">
-        <comment>Expand child folds action.</comment>
+        <comment>{Oxygen}: Expand child folds action.</comment>
+        <comment>{Menu}: [Document]/[Folding]/[Expand Child Folds]</comment>
         <comment><val lang="en_US">Expand Child Folds</val></comment>
-        <val lang="zh_CN">展开子节点</val>
+        <val lang="zh_CN">展开子元素</val>
     </key>
     <key value="Lines_to_fold">
         <comment>Lines to fold tooltip.</comment>
@@ -30773,9 +30806,10 @@
         <val lang="zh_CN">二进制比较</val>
     </key>
     <key value="Compare">
-        <comment>"Compare" menu item from project tree.</comment>
+        <comment>{Oxygen}: "Compare" menu item from project tree.</comment>
+        <comment>{Menu}: [Document]/[File]/[Compare]</comment>
         <comment><val lang="en_US">Compare</val></comment>
-        <val lang="zh_CN">比较</val>
+        <val lang="zh_CN">比较文件</val>
     </key>
     <key value="Words">
         <comment>Algorithm name for differencing</comment>
@@ -31405,7 +31439,8 @@
     <key distribution="common" value="Elements">
         <comment>{original}: Node name in schema elements tree panel</comment>
         <comment>{Menu}: [Show View]/[Elements]</comment>
-        <comment>{Elements View}: view title, tab name</comment>
+        <comment>{Elements View}: View title "Elements"</comment>
+        <comment>{Elements View}: [Elements]</comment>
         <comment>{Contextual Menu}: [Elements]</comment>
         <comment><val lang="en_US">Elements</val></comment>
         <val lang="zh_CN">元素</val>
@@ -31574,7 +31609,7 @@
     <key value="Surround_with">
         <comment>Option in the editor pop-up menu.</comment>
         <comment><val lang="en_US">Surround with</val></comment>
-        <val lang="zh_CN">环绕</val>
+        <val lang="zh_CN">套上</val>
     </key>
     <key value="Detect_line_width_on_open">
         <comment>Detect line width on open option.</comment>
@@ -31592,7 +31627,8 @@
         <val lang="zh_CN">与</val>
     </key>
     <key value="Content">
-        <comment>Code template dialog label.</comment>
+        <comment>{Oxygen}: Code template dialog label.</comment>
+        <comment>{Menu}: [Document]/[Select]/[Content]</comment>
         <comment><val lang="en_US">Content</val></comment>
         <val lang="zh_CN">内容</val>
     </key>
@@ -31637,7 +31673,8 @@
         <val lang="zh_CN">创建Schematron文档</val>
     </key>
     <key value="Folding">
-        <comment>Name for the Folding menu item.</comment>
+        <comment>{Oxygen}: Name for the Folding menu item.</comment>
+        <comment>{Menu}: [Document]/[Folding]</comment>
         <comment><val lang="en_US">Folding</val></comment>
         <val lang="zh_CN">折叠</val>
     </key>
@@ -31662,9 +31699,10 @@
         <val lang="zh_CN">抵消</val>
     </key>
     <key value="Source">
-        <comment>Label Eclipse plugin's context menu.</comment>
+        <comment>{Oxygen}: Label Eclipse plugin's context menu.</comment>
+        <comment>{Menu}: [Document]/[Source]</comment>
         <comment><val lang="en_US">Source</val></comment>
-        <val lang="zh_CN">来源</val>
+        <val lang="zh_CN">源代码</val>
     </key>
     <key value="Save_all_files_before_transformation_or_validation">
         <comment>Save all files before transformation or validation option</comment>
@@ -32540,14 +32578,14 @@
         <val lang="zh_CN">输入网址</val>
     </key>
     <key distribution="common" value="Move_down_tooltip">
-        <comment>Tooltip for Move down button in cascade stylesheets dialog. </comment>
+        <comment>{Oxygen}: Tooltip for Move down button in cascade stylesheets dialog. </comment>
         <comment><val lang="en_US">Move Down</val></comment>
-        <val lang="zh_CN">下移</val>
+        <val lang="zh_CN">向下移动</val>
     </key>
     <key distribution="common" value="Move_up_tooltip">
-        <comment>Tooltip for Move up button in cascade stylesheets dialog.</comment>
+        <comment>{Oxygen}: Tooltip for Move up button in cascade stylesheets dialog.</comment>
         <comment><val lang="en_US">Move Up</val></comment>
-        <val lang="zh_CN">上移</val>
+        <val lang="zh_CN">向上移动</val>
     </key>
     <key value="Open_stylesheet_URL_tooltip">
         <comment>Tooltip for Open button in cascade stylesheets dialog.</comment>
@@ -33149,7 +33187,7 @@
     <key distribution="common" value="Move_down">
         <comment>Tree editor. Moves a node down.</comment>
         <comment><val lang="en_US">Move Down</val></comment>
-        <val lang="zh_CN">下移</val>
+        <val lang="zh_CN">向下移动</val>
     </key>
     <key value="In_progress">
         <comment>When an action is made on a thread. For instance transformation. "validation" in progress.
@@ -33407,7 +33445,7 @@
         <comment>{Original}: Tree Editor, the attribute panel. An XML attribute.</comment>
         <comment>{Dialogue Box: In-place Attributes editor}: column header "Attribute"</comment>
         <comment><val lang="en_US">Attribute</val></comment>
-        <val lang="zh_CN">属性</val>
+        <val lang="zh_CN">元素属性</val>
     </key>
     <key value="Edit_scenario">
         <comment>The transformation configuration dialog, the title.</comment>
@@ -33505,7 +33543,7 @@
         <comment>{Oxygen}: Like in "name and value"</comment>
         <comment>{Dialogue Box: In-place Attributes Editor}: Column title "Name" --  (Attribute)</comment>
         <comment>{Dialogue Box: Install new add-ons}: Column title "Name" -- (Add-on)</comment>
-        <comment>{Dialogue Box: Preferences}: [Plugins tab]/"Name" -- (Plugin)</comment>
+        <comment>{Dialogue Box: Preferences}: [Plugins]/"Name" -- (Plugin)</comment>
         <comment><val lang="en_US">Name</val></comment>
         <val lang="zh_CN">名称</val>
     </key>
@@ -33673,9 +33711,10 @@
         <val lang="zh_CN">可用的Java编码</val>
     </key>
     <key distribution="common" value="Expand_all">
-        <comment>Tree Editor and Outliner. Expands all nodes under the selection.</comment>
+        <comment>{Oxygen}: Tree Editor and Outliner. Expands all nodes under the selection.</comment>
+        <comment>{Menu}: [Document]/[Folding]/[Expand All]</comment>
         <comment><val lang="en_US">Expand All</val></comment>
-        <val lang="zh_CN">全部展开</val>
+        <val lang="zh_CN">展开所有元素</val>
     </key>
     <key value="XML_documents">
         <comment>Trang conversion dialog. The list of input documents for the conversion.</comment>
@@ -33751,7 +33790,7 @@
     <key value="Restart_application_multiple_changes">
         <comment>{Oxygen}: Message box displayed when prompted for restart.</comment>
         <comment>{Message Box}: "To apply these changes, you must restart the application."</comment>
-        <comment>{Dialogue Box: Preferences}: [Plugins tab]/"To apply these changes, you must restart the application."</comment>
+        <comment>{Dialogue Box: Preferences}: [Plugins]/"To apply these changes, you must restart the application."</comment>
         <comment><val lang="en_US">To apply these changes, you must restart the application.</val></comment>
         <val lang="zh_CN">要应用修改，请重新启动 Oxygen 软件。</val>
     </key>
@@ -33907,9 +33946,10 @@
         <val lang="zh_CN">被改进的</val>
     </key>
     <key value="Open_file_at_caret">
-        <comment>Editor pop-up menu.</comment>
+        <comment>{Oxygen}: Editor pop-up menu.</comment>
+        <comment>{Menu}: [Document]/[File]/[Open File at Cursor]</comment>
         <comment><val lang="en_US">Open File at Cursor</val></comment>
-        <val lang="zh_CN">在光标处打开文件</val>
+        <val lang="zh_CN">打开光标处的文件</val>
     </key>
     <key value="Spelling">
         <comment>Spell checking.</comment>
@@ -34063,7 +34103,8 @@
     </key>
     <key distribution="common" value="Outline">
         <comment>{Menu}: [Document]/[Show View]/[Outline]</comment>
-        <comment>{Outline View}: view title, tab name</comment>
+        <comment>{Outline View}: View title "Outline"</comment>
+        <comment>{Outline View}: [Outline]</comment>
         <comment><val lang="en_US">Outline</val></comment>
         <val lang="zh_CN">大纲</val>
     </key>
@@ -34110,11 +34151,12 @@
     <key distribution="common" value="Attributes">
         <comment>{Original}: Tree View,Information Panel.</comment>
         <comment>{Menu}: [Document]/[Show View]/[Attributes]</comment>
-        <comment>{Attributes View}: view title, tab name</comment>
+        <comment>{Attributes View}: View title "Attributes"</comment>
+        <comment>{Attributes View}: [Attributes]</comment>
         <comment>{Contextual Menu}: [Refactoring]/[Attributes]</comment>
-        <comment>{Dialogue Box: Edit Properties}: "Attributes" tab</comment>
+        <comment>{Dialogue Box: Edit Properties}: [Attributes]</comment>
         <comment><val lang="en_US">Attributes</val></comment>
-        <val lang="zh_CN">属性</val>
+        <val lang="zh_CN">元素属性</val>
     </key>
     <key value="Perform_FOP">
         <comment>Configure Transformation Scenario/Edit,FO Processor Tab.</comment>
@@ -34463,7 +34505,7 @@
     <key value="Version">
         <comment>{Oxygen}: Current version of Oxygen.</comment>
         <comment>{Dialogue Box: Install new add-ons}: Column title "Version"</comment>
-        <comment>{Dialogue Box: Preferences}: [Plugins tab]/"Version"</comment>
+        <comment>{Dialogue Box: Preferences}: [Plugins]/"Version"</comment>
         <comment><val lang="en_US">Version</val></comment>
         <val lang="zh_CN">版本</val>
     </key>
@@ -34630,7 +34672,7 @@
     </key>
     <key value="Element">
         <comment>{Menu}: [Document]/[Select]/[Element]</comment>
-        <comment>{Dialogue Box: In-place Attributes Editor}: "Element" tag</comment>
+        <comment>{Dialogue Box: In-place Attributes Editor}: "Element"</comment>
         <comment><val lang="en_US">Element</val></comment>
         <val lang="zh_CN">元素</val>
     </key>
@@ -34685,9 +34727,9 @@
         <val lang="zh_CN">无法打开指定的文件</val>
     </key>
     <key distribution="common" value="Move_up">
-        <comment>Moves a node up into the tree (XML Tree editor)</comment>
+        <comment>{Oxygen}: Moves a node up into the tree (XML Tree editor)</comment>
         <comment><val lang="en_US">Move Up</val></comment>
-        <val lang="zh_CN">上移</val>
+        <val lang="zh_CN">向上移动</val>
     </key>
     <key value="Header">
         <comment>The header for the result of the XSLT.</comment>
