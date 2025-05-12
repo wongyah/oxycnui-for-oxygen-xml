@@ -1744,7 +1744,7 @@
         <val lang="zh_CN">HTML文件转换为XHTML</val>
     </key>
     <key value="Popular">
-        <comment>{Original}: Popular</comment>
+        <comment>{Oxygen}: Popular</comment>
         <comment>{Dialogue box: New}: "Popular"</comment>
         <comment><val lang="en_US">Popular</val></comment>
         <val lang="zh_CN">常用模板</val>
@@ -6553,7 +6553,7 @@
         <val lang="zh_CN">按回车键显示可用的内容完成建议</val>
     </key>
     <key value="Configure_tags_display_mode">
-        <comment>{Original}: Entry in Tags Mode drop-down menu.</comment>
+        <comment>{Oxygen}: Entry in Tags Mode drop-down menu.</comment>
         <comment>{Menu}: [DITA]/[Tags display mode]/[Configure Tags Display Mode]</comment>
         <comment><val lang="en_US">Configure Tags Display Mode</val></comment>
         <val lang="zh_CN">设置标签显示模式</val>
@@ -8095,7 +8095,7 @@
         <val lang="zh_CN">状态栏背景</val>
     </key>
     <key value="View_titles_font">
-        <comment>{Original}: Name of the option that controls the view titles font.</comment>
+        <comment>{Oxygen}: Name of the option that controls the view titles font.</comment>
         <comment>{Dialogue box: Preferences}: [Appearance]/[Fonts]/"View titles font"</comment>
         <comment><val lang="en_US">View titles font</val></comment>
         <val lang="zh_CN">视图标题</val>
@@ -8457,7 +8457,7 @@
         <val lang="zh_CN">使用文件名作为根ID属性的值</val>
     </key>
     <key value="Choose_a_file_template">
-        <comment>{Original}: Choose a file template label</comment>
+        <comment>{Oxygen}: Choose a file template label</comment>
         <comment>{Dialogue box: New}: "Choose a file template"</comment>
         <comment><val lang="en_US">Choose a file template</val></comment>
         <val lang="zh_CN">选择文件类型或模板</val>
@@ -12625,13 +12625,13 @@
         <val lang="zh_CN">内部元素{0}</val>
     </key>
     <key value="Rename_in_file">
-        <comment>{Original}: The name of the action used to rename an ID in current file.</comment>
+        <comment>{Oxygen}: The name of the action used to rename an ID in current file.</comment>
         <comment>{Menu}: [Document]/[Refacoting]/[Rename in File]</comment>
         <comment><val lang="en_US">Rename in File</val></comment>
         <val lang="zh_CN">修改当前文件中的元素ID</val>
     </key>
     <key value="Rename_in">
-        <comment>{Original}: The name of the action used to rename an ID in a custom scope.</comment>
+        <comment>{Oxygen}: The name of the action used to rename an ID in a custom scope.</comment>
         <comment>{Menu}: [Document]/[Refacoting]/[Rename in]</comment>
         <comment><val lang="en_US">Rename in</val></comment>
         <val lang="zh_CN">修改元素ID</val>
@@ -13204,7 +13204,7 @@
         <val lang="zh_CN">如果使用的是XQuery Update，则应选择此模型</val>
     </key>
     <key value="Create_new">
-        <comment>{Original}: Section name in welcome dialog.</comment>
+        <comment>{Oxygen}: Section name in welcome dialog.</comment>
         <comment>{Dialogue box: Welcome}: "Create New"</comment>
         <comment><val lang="en_US">Create New</val></comment>
         <val lang="zh_CN">新建</val>
@@ -13220,49 +13220,49 @@
         <val lang="zh_CN">如果检测到，使用零缩进</val>
     </key>
     <key value="Mailing_list">
-        <comment>{Original}: Action name in welcome dialog.</comment>
+        <comment>{Oxygen}: Action name in welcome dialog.</comment>
         <comment>{Dialogue box: Welcome}: "Mailing List"</comment>
         <comment><val lang="en_US">Mailing List</val></comment>
         <val lang="zh_CN">邮件列表</val>
     </key>
     <key value="Discussion_forum">
-        <comment>{Original}: Action name in welcome dialog.</comment>
+        <comment>{Oxygen}: Action name in welcome dialog.</comment>
         <comment>{Dialogue box: Welcome}: "Discussion Forum"</comment>
         <comment><val lang="en_US">Discussion Forum</val></comment>
         <val lang="zh_CN">用户论坛</val>
     </key>
     <key value="User_guide">
-        <comment>{Original}: Action name in welcome dialog.</comment>
+        <comment>{Oxygen}: Action name in welcome dialog.</comment>
         <comment>{Dialogue box: Welcome}: "User Guide"</comment>
         <comment><val lang="en_US">User Guide</val></comment>
         <val lang="zh_CN">使用手册</val>
     </key>
     <key value="Upcoming_events">
-        <comment>{Original}: Section name in welcome dialog.</comment>
+        <comment>{Oxygen}: Section name in welcome dialog.</comment>
         <comment>{Dialogue box: Welcome}: "Upcoming Events"</comment>
         <comment><val lang="en_US">Upcoming Events</val></comment>
         <val lang="zh_CN">活动预告</val>
     </key>
     <key value="Learn_oxygen">
-        <comment>{Original}: Section name in welcome dialog.</comment>
+        <comment>{Oxygen}: Section name in welcome dialog.</comment>
         <comment>{Dialogue box: Welcome}: "Learn Oxygen"</comment>
         <comment><val lang="en_US">Learn Oxygen</val></comment>
         <val lang="zh_CN">学习Oxygen</val>
     </key>
     <key value="Open_file">
-        <comment>{Original}: Action name in welcome dialog.</comment>
+        <comment>{Oxygen}: Action name in welcome dialog.</comment>
         <comment>{Dialogue box: Welcome}: "Open file"</comment>
         <comment><val lang="en_US">Open file</val></comment>
         <val lang="zh_CN">打开文件</val>
     </key>
     <key value="Recent_files">
-        <comment>{Original}: Section name in welcome dialog.</comment>
+        <comment>{Oxygen}: Section name in welcome dialog.</comment>
         <comment>{Dialogue box: Welcome}: "Recent files"</comment>
         <comment><val lang="en_US">Recent Files</val></comment>
         <val lang="zh_CN">最近打开过的文件</val>
     </key>
     <key value="Recent_projects">
-        <comment>{Original}: Section name in welcome dialog.</comment>
+        <comment>{Oxygen}: Section name in welcome dialog.</comment>
         <comment>{Dialogue box: Welcome}: "Recent projects"</comment>
         <comment><val lang="en_US">Recent Projects</val></comment>
         <val lang="zh_CN">最近打开过的项目</val>
@@ -13306,7 +13306,7 @@
         <val lang="zh_CN">对于转换，请使用${i18n（translation。key。name）}，其中translation。key。name是translation。xml资源文件中消息的键</val>
     </key>
     <key value="Welcome">
-        <comment>{Original}: Name of the action available in help menu, action that display a welcome page.</comment>
+        <comment>{Oxygen}: Name of the action available in help menu, action that display a welcome page.</comment>
         <comment>{Menu}: [Help]/[Welcome]</comment>
         <comment><val lang="en_US">Welcome</val></comment>
         <val lang="zh_CN">欢迎使用</val>
@@ -14112,7 +14112,7 @@
         <val lang="zh_CN">配置审阅选项</val>
     </key>
     <key value="Markup">
-        <comment>{Original}: Information given when a marker is applied only on a markup (element tag).</comment>
+        <comment>{Oxygen}: Information given when a marker is applied only on a markup (element tag).</comment>
         <comment>{Menu}: [Document]/[Markup]</comment>
         <comment><val lang="en_US">Markup</val></comment>
         <val lang="zh_CN">标记</val>
@@ -18750,7 +18750,7 @@
         <val lang="zh_CN">上次更改</val>
     </key>
     <key value="Last_modification">
-        <comment>{Original}: Tooltip for Go To last modification action</comment>
+        <comment>{Oxygen}: Tooltip for Go To last modification action</comment>
         <comment>{Menu}: [Find]/[Last Modification]</comment>
         <comment>{Toolbar}: Last Modification button</comment>
         <comment><val lang="en_US">Last Modification</val></comment>
@@ -20185,7 +20185,7 @@
         <val lang="zh_CN">在预定义范围中搜索组件依赖项。</val>
     </key>
     <key value="Quick_assist">
-        <comment>{Original}: Quick Assist action</comment>
+        <comment>{Oxygen}: Quick Assist action</comment>
         <comment>{Menu}: [Document]/[Refacoting]/[Rename in File]</comment>
         <comment><val lang="en_US">Quick Assist</val></comment>
         <val lang="zh_CN">快捷辅助</val>
@@ -20538,7 +20538,7 @@
         <val lang="zh_CN">应用程序超出了可用内存：{0}MB。若要避免稳定性问题，请重新启动应用程序。\n如果问题仍然存在，建议增加应用程序可用的内存量。</val>
     </key>
     <key value="Fewer">
-        <comment>{Original}: Label used in the "Edit Attributes" dialog, placed near the button that hides attributes table.</comment>
+        <comment>{Oxygen}: Label used in the "Edit Attributes" dialog, placed near the button that hides attributes table.</comment>
         <comment>{Dialogue Box: In-place Attributes Editor}: "Fewer" button</comment>
         <comment><val lang="en_US">Fewer</val></comment>
         <val lang="zh_CN">更少</val>
@@ -21427,19 +21427,19 @@
         <val lang="zh_CN">顺序</val>
     </key>
     <key value="Recently_used">
-        <comment>{Original}: Recently used editor templates</comment>
+        <comment>{Oxygen}: Recently used editor templates</comment>
         <comment>{Dialogue box: New}: "Recently used"</comment>
         <comment><val lang="en_US">Recently used</val></comment>
         <val lang="zh_CN">最近用过</val>
     </key>
     <key value="Framework_templates">
-        <comment>{Original}: Framework templates category.</comment>
+        <comment>{Oxygen}: Framework templates category.</comment>
         <comment>{Dialogue box: New}: "Framework templates"</comment>
         <comment><val lang="en_US">Framework templates</val></comment>
         <val lang="zh_CN">框架模板</val>
     </key>
     <key value="Global_templates">
-        <comment>{Original}: Global templates category.</comment>
+        <comment>{Oxygen}: Global templates category.</comment>
         <comment>{Dialogue box: New}: "Global templates"</comment>
         <comment><val lang="en_US">Global templates</val></comment>
         <val lang="zh_CN">全局模板</val>
@@ -21695,7 +21695,7 @@
         <val lang="zh_CN">在保留空间元素中缩进（键入时）</val>
     </key>
     <key value="Filter_elements">
-        <comment>{Original}: Message used in the filter panel used in text outliner.</comment>
+        <comment>{Oxygen}: Message used in the filter panel used in text outliner.</comment>
         <comment>{Outline View}: prompt text in search box</comment>
         <comment><val lang="en_US">Element name filter</val></comment>
         <val lang="zh_CN">使用元素名称搜索</val>
@@ -22465,7 +22465,7 @@
         <val lang="zh_CN">将其他资源复制到输出文件夹</val>
     </key>
     <key value="Resources">
-        <comment>{Original}: Label used in "Custom format options" dialog used to generate schema/stylesheet
+        <comment>{Oxygen}: Label used in "Custom format options" dialog used to generate schema/stylesheet
             documentation.</comment>
         <comment>{Dialogue box: Welcome}: "Resources"</comment>
         <comment><val lang="en_US">Resources</val></comment>
@@ -22660,7 +22660,7 @@
         <val lang="zh_CN">允许Oxygen向类路径添加高优先级库</val>
     </key>
     <key value="More_details">
-        <comment>{Original}: Link label to a certain help page. Context: More details...</comment>
+        <comment>{Oxygen}: Link label to a certain help page. Context: More details...</comment>
         <comment>{Dialogue box: Welcome}: "More details"</comment>
         <comment><val lang="en_US">More details</val></comment>
         <val lang="zh_CN">了解详情</val>
@@ -22943,7 +22943,7 @@
         <val lang="zh_CN">添加文件夹</val>
     </key>
     <key value="New_document">
-        <comment>{Original}: Action label in the Database Explorer for SharePoint (was for Documentum).</comment>
+        <comment>{Oxygen}: Action label in the Database Explorer for SharePoint (was for Documentum).</comment>
         <comment>{Dialogue box: Welcome}: "New Document"</comment>
         <comment><val lang="en_US">New Document</val></comment>
         <val lang="zh_CN">文件</val>
@@ -24457,7 +24457,7 @@
         <val lang="zh_CN">无法将选定文件作为存档打开，因为它没有扩展名。</val>
     </key>
     <key value="Surround_with_tag">
-        <comment>{Original}: Option in the editor pop-up menu.</comment>
+        <comment>{Oxygen}: Option in the editor pop-up menu.</comment>
         <comment>{Menu}: [Document]/[Markup]/[Surround with Tags]</comment>
         <comment>{Contextual Menu}: [Refactoring]/[Surround with Tags]</comment>
         <comment><val lang="en_US">Surround with Tags</val></comment>
@@ -24986,7 +24986,7 @@
         <val lang="zh_CN">JVM参数</val>
     </key>
     <key value="Inline_tags">
-        <comment>{Original}: Author visualization mode.</comment>
+        <comment>{Oxygen}: Author visualization mode.</comment>
         <comment>{Menu}: [DITA]/[Tags display mode]/[Inline Tags]</comment>
         <comment><val lang="en_US">Inline Tags</val></comment>
         <val lang="zh_CN">显示行内元素标签</val>
@@ -25156,7 +25156,7 @@
         <val lang="zh_CN">与分支/标记比较</val>
     </key>
     <key value="Full_tags_with_attributes">
-        <comment>{Original}: Tagless editor display mode for tags</comment>
+        <comment>{Oxygen}: Tagless editor display mode for tags</comment>
         <comment>{Menu}: [DITA]/[Tags disply mode]/[Full Tags with Attributes]</comment>
         <comment><val lang="en_US">Full Tags with Attributes</val></comment>
         <val lang="zh_CN">显示标签和属性</val>
@@ -25560,7 +25560,7 @@
         <val lang="zh_CN">粘贴为XML</val>
     </key>
     <key value="Insert_entity">
-        <comment>{Original}: Name of action for inserting an entity in the author document.</comment>
+        <comment>{Oxygen}: Name of action for inserting an entity in the author document.</comment>
         <comment>{Menu}: [Document]/[Markup]/[Insert Entity]</comment>
         <comment><val lang="en_US">Insert Entity</val></comment>
         <val lang="zh_CN">插入字符实体</val>
@@ -25816,7 +25816,7 @@
         <val lang="zh_CN">类路径</val>
     </key>
     <key value="Tags_display_mode">
-        <comment>{Original}: Author display modes for tags</comment>
+        <comment>{Oxygen}: Author display modes for tags</comment>
         <comment>{Menu}: [DITA]/[Tags display mode]</comment>
         <comment><val lang="en_US">Tags display mode</val></comment>
         <val lang="zh_CN">标签显示模式</val>
@@ -25873,13 +25873,13 @@
         <val lang="zh_CN">文件类型</val>
     </key>
     <key value="Author_mode">
-        <comment>{Original}: The tooltip for the author view mode of the editor.</comment>
+        <comment>{Oxygen}: The tooltip for the author view mode of the editor.</comment>
         <comment>{Tooltip}: "Author mode"</comment>
         <comment><val lang="en_US">Author mode</val></comment>
         <val lang="zh_CN">写作模式</val>
     </key>
     <key value="Author_default_font">
-        <comment>{Original}: Modify the Author default font.</comment>
+        <comment>{Oxygen}: Modify the Author default font.</comment>
         <comment>{Dialogue box: Preferences}: [Appearance]/[Fonts]/"Author default font"</comment>
         <comment><val lang="en_US">Author default font</val></comment>
         <val lang="zh_CN">写作模式默认字体</val>
@@ -25954,19 +25954,19 @@
         <val lang="zh_CN">段落语言</val>
     </key>
     <key value="Full_tags">
-        <comment>{Original}: Tagless editor display mode for tags</comment>
+        <comment>{Oxygen}: Tagless editor display mode for tags</comment>
         <comment>{Menu}: [DITA]/[Tags display mode]/[Full Tags]</comment>
         <comment><val lang="en_US">Full Tags</val></comment>
         <val lang="zh_CN">显示标签</val>
     </key>
     <key value="Block_tags">
-        <comment>{Original}: Tagless editor display mode for tags</comment>
+        <comment>{Oxygen}: Tagless editor display mode for tags</comment>
         <comment>{Menu}: [DITA]/[Tags display mode]/[Block Tags]</comment>
         <comment><val lang="en_US">Block Tags</val></comment>
         <val lang="zh_CN">显示块元素标签</val>
     </key>
     <key value="Partial_tags">
-        <comment>{Original}: Tagless editor display mode for tags</comment>
+        <comment>{Oxygen}: Tagless editor display mode for tags</comment>
         <comment>{Menu}: [DITA]/[Tags display mode]/[Partial Tags]</comment>
         <comment><val lang="en_US">Partial Tags</val></comment>
         <val lang="zh_CN">显示行内元素的简易标签</val>
@@ -27056,7 +27056,7 @@
         <val lang="zh_CN">无法创建目录</val>
     </key>
     <key value="Append_child">
-        <comment>{Original}: Name of the append child action from the schema editor.</comment>
+        <comment>{Oxygen}: Name of the append child action from the schema editor.</comment>
         <comment>{Contextual Menu}: [Append Child]</comment>
         <comment><val lang="en_US">Append child</val></comment>
         <val lang="zh_CN">添加子元素</val>
@@ -27344,13 +27344,13 @@
         <val lang="zh_CN">关联XSLT/CSS样式表</val>
     </key>
     <key value="Insert_before">
-        <comment>{Original}: Grid view editor. Menu item name</comment>
+        <comment>{Oxygen}: Grid view editor. Menu item name</comment>
         <comment>{Contextual Menu}: [Insert Before]</comment>
         <comment><val lang="en_US">Insert Before</val></comment>
         <val lang="zh_CN">在前面插入</val>
     </key>
     <key value="Insert_after">
-        <comment>{Original}: Grid view editor. Menu item name</comment>
+        <comment>{Oxygen}: Grid view editor. Menu item name</comment>
         <comment>{Contextual Menu}: [Insert After]</comment>
         <comment><val lang="en_US">Insert After</val></comment>
         <val lang="zh_CN">在后面插入</val>
@@ -28028,7 +28028,7 @@
         <val lang="zh_CN">远程修订</val>
     </key>
     <key distribution="common" value="Edit_attributes">
-        <comment>{Original}: Edit element's attributes (popup menu on outliner and schema diagram)</comment>
+        <comment>{Oxygen}: Edit element's attributes (popup menu on outliner and schema diagram)</comment>
         <comment>{Menu}: [Document]/[Edit]/[Edit Attributes]</comment>
         <comment>{Contextual Menu}: [Edit Attributes]</comment>
         <comment><val lang="en_US">Edit Attributes</val></comment>
@@ -29640,19 +29640,19 @@
         <val lang="zh_CN">使用许可证服务器</val>
     </key>
     <key value="Increase_font">
-        <comment>{Original}: Increase the font size of the editor.</comment>
+        <comment>{Oxygen}: Increase the font size of the editor.</comment>
         <comment>{Menu}: [Document]/[Font Size]/[Increase Editor Font]</comment>
         <comment><val lang="en_US">Increase Editor Font</val></comment>
         <val lang="zh_CN">增大字号</val>
     </key>
     <key value="Normal_font_size">
-        <comment>{Original}: Normal font size of the editor.</comment>
+        <comment>{Oxygen}: Normal font size of the editor.</comment>
         <comment>{Menu}: [Document]/[Font Size]/[Normal Editor Font]</comment>
         <comment><val lang="en_US">Normal Editor Font</val></comment>
         <val lang="zh_CN">重置字号</val>
     </key>
     <key value="Decrease_font">
-        <comment>{Original}: Decrease the font size of the editor.</comment>
+        <comment>{Oxygen}: Decrease the font size of the editor.</comment>
         <comment>{Menu}: [Document]/[Font Size]/[Decrease Editor Font]</comment>
         <comment><val lang="en_US">Decrease Editor Font</val></comment>
         <val lang="zh_CN">减小字号</val>
@@ -29780,19 +29780,19 @@
         <val lang="zh_CN">匹配标记突出显示颜色</val>
     </key>
     <key distribution="common" value="Fonts">
-        <comment>{Original}: The fonts option pane.</comment>
+        <comment>{Oxygen}: The fonts option pane.</comment>
         <comment>{Dialogue box: Preferences}: [Appearance]/[Fonts]</comment>
         <comment><val lang="en_US">Fonts</val></comment>
         <val lang="zh_CN">字体</val>
     </key>
     <key value="Text_comp">
-        <comment>{Original}: Setting in the options regarding the font of other text components than the editing area.</comment>
+        <comment>{Oxygen}: Setting in the options regarding the font of other text components than the editing area.</comment>
         <comment>{Dialogue box: Preferences}: [Appearance]/[Fonts]/"Text components"</comment>
         <comment><val lang="en_US">Text components</val></comment>
         <val lang="zh_CN">视图文本</val>
     </key>
     <key value="GUI">
-        <comment>{Original}: Setting in the options regarding the font of other components than the editing area and the text
+        <comment>{Oxygen}: Setting in the options regarding the font of other components than the editing area and the text
             components.</comment>
         <comment>{Dialogue box: Preferences}: [Appearance]/[Fonts]/"GUI"</comment>
         <comment><val lang="en_US">GUI</val></comment>
@@ -30359,7 +30359,7 @@
         <val lang="zh_CN">新前缀名</val>
     </key>
     <key distribution="common" value="Rename_prefix">
-        <comment>{Original}: Name for action rename prefix</comment>
+        <comment>{Oxygen}: Name for action rename prefix</comment>
         <comment>{Menu}: [Document]/[Markup]/[Rename Prefix]</comment>
         <comment><val lang="en_US">Rename Prefix</val></comment>
         <val lang="zh_CN">修改命名空间前缀</val>
@@ -31437,7 +31437,7 @@
         <val lang="zh_CN">组</val>
     </key>
     <key distribution="common" value="Elements">
-        <comment>{original}: Node name in schema elements tree panel</comment>
+        <comment>{Oxygen}: Node name in schema elements tree panel</comment>
         <comment>{Menu}: [Show View]/[Elements]</comment>
         <comment>{Elements View}: View title "Elements"</comment>
         <comment>{Elements View}: [Elements]</comment>
@@ -31725,7 +31725,7 @@
         <val lang="zh_CN">值类型</val>
     </key>
     <key distribution="common" value="Delete_tags">
-        <comment>{Original}: Delete current elements tags action from editor popup menu</comment>
+        <comment>{Oxygen}: Delete current elements tags action from editor popup menu</comment>
         <comment>{Menu}: [Document]/[Markup]/[Delete Element Tags]</comment>
         <val lang="en_US" mnemonic="0">&amp;Delete Element Tags</val>
         <val lang="zh_CN">删除元素标签</val>
@@ -31786,7 +31786,7 @@
         <val lang="zh_CN">项目首选项</val>
     </key>
     <key value="Customize">
-        <comment>{Original}: Customize something. Used for eclipse.</comment>
+        <comment>{Oxygen}: Customize something. Used for eclipse.</comment>
         <comment>{Dialogue box: New}: [Customize]</comment>
         <comment><val lang="en_US">Customize</val></comment>
         <val lang="zh_CN">自定义</val>
@@ -31967,7 +31967,7 @@
         <val lang="zh_CN">拆分元素</val>
     </key>
     <key distribution="common" value="Split_element">
-        <comment>{Original}: Action from contextual menu</comment>
+        <comment>{Oxygen}: Action from contextual menu</comment>
         <comment>{Menu}: [Document]/[Markup]/[Split Element]</comment>
         <val lang="en_US" mnemonic="0">&amp;Split Element</val>
         <val lang="zh_CN">拆分元素</val>
@@ -31978,7 +31978,7 @@
         <val lang="zh_CN">连接元素</val>
     </key>
     <key distribution="common" value="Join_elements">
-        <comment>{Original}:Action from contextual menu</comment>
+        <comment>{Oxygen}:Action from contextual menu</comment>
         <comment>{Menu}: [Document]/[Markup]/[Join Element]</comment>
         <val lang="en_US" mnemonic="0">&amp;Join Elements</val>
         <val lang="zh_CN">合并元素</val>
@@ -31999,7 +31999,7 @@
         <val lang="zh_CN">重命名所有同名元素</val>
     </key>
     <key distribution="common" value="Rename_element">
-        <comment>{Original}: Action from contextual menu</comment>
+        <comment>{Oxygen}: Action from contextual menu</comment>
         <comment>{Menu}: [Document]/[Markup]/[Rename Element]</comment>
         <comment><val lang="en_US">Rename Element</val></comment>
         <val lang="zh_CN">修改元素标签</val>
@@ -32710,7 +32710,7 @@
         <val lang="zh_CN">行分隔符</val>
     </key>
     <key value="Text_antialiasing">
-        <comment>{Original}: Options/Preferences/Editor/Aspect. Using antialiasing for editor font.</comment>
+        <comment>{Oxygen}: Options/Preferences/Editor/Aspect. Using antialiasing for editor font.</comment>
         <comment>{Dialogue box: Preferences}: [Appearance]/[Font]/"Text antialiasing"</comment>
         <comment><val lang="en_US">Text antialiasing</val></comment>
         <val lang="zh_CN">消除锯齿</val>
@@ -32802,14 +32802,14 @@
         <val lang="zh_CN">重置提示</val>
     </key>
     <key distribution="common" value="Editor">
-        <comment>{Original}: Refers to the editing area.</comment>
+        <comment>{Oxygen}: Refers to the editing area.</comment>
         <comment>{Menu}: [Document]/[Open Perspective]/[Editor]</comment>
         <comment>{Dialogue box: Preferences}: [Appearance]/[Fonts]/"Editor"</comment>
         <comment><val lang="en_US">Editor</val></comment>
         <val lang="zh_CN">编辑器</val>
     </key>
     <key value="New_project">
-        <comment>{Original}Action that creates a new project.</comment>
+        <comment>{Oxygen}Action that creates a new project.</comment>
         <comment>{Dialogue box: Welcome}: "New project"</comment>
         <comment><val lang="en_US">New project</val></comment>
         <val lang="zh_CN">项目</val>
@@ -32845,13 +32845,13 @@
         <val lang="zh_CN">打开</val>
     </key>
     <key value="Remove">
-        <comment>{Original}: Remove- used in may places, as for remove nodes in the Tree View, or remove a file.</comment>
+        <comment>{Oxygen}: Remove- used in may places, as for remove nodes in the Tree View, or remove a file.</comment>
         <comment>general</comment>
         <comment><val lang="en_US">Remove</val></comment>
         <val lang="zh_CN">删除</val>
     </key>
     <key value="New">
-        <comment>{Original}: The File/New action. Creates a new document.</comment>
+        <comment>{Oxygen}: The File/New action. Creates a new document.</comment>
         <comment>{Menu}: [File]/[New]</comment>
         <comment>{Dialogue box: New}: title</comment>
         <comment><val lang="en_US">New</val></comment>
@@ -33039,7 +33039,7 @@
         <val lang="zh_CN">重命名</val>
     </key>
     <key value="Open_project">
-        <comment>{Original}: Action name for opening a project.</comment>
+        <comment>{Oxygen}: Action name for opening a project.</comment>
         <comment>{Dialogue box: Welcome}: "Open project"</comment>
         <comment><val lang="en_US">Open project</val></comment>
         <val lang="zh_CN">打开项目</val>
@@ -33442,7 +33442,7 @@
         <val lang="zh_CN">书签</val>
     </key>
     <key value="Attribute">
-        <comment>{Original}: Tree Editor, the attribute panel. An XML attribute.</comment>
+        <comment>{Oxygen}: Tree Editor, the attribute panel. An XML attribute.</comment>
         <comment>{Dialogue Box: In-place Attributes editor}: column header "Attribute"</comment>
         <comment><val lang="en_US">Attribute</val></comment>
         <val lang="zh_CN">元素属性</val>
@@ -33489,7 +33489,7 @@
         <val lang="zh_CN">复制</val>
     </key>
     <key value="Value">
-        <comment>{Original}: Like in "name and value"</comment>
+        <comment>{Oxygen}: Like in "name and value"</comment>
         <comment>{Dialogue Box: In-place Attributes Editor}: tag "Value" (attribute value)</comment>
         <comment><val lang="en_US">Value</val></comment>
         <val lang="zh_CN">值</val>
@@ -34149,7 +34149,7 @@
         <val lang="zh_CN">处理指令</val>
     </key>
     <key distribution="common" value="Attributes">
-        <comment>{Original}: Tree View,Information Panel.</comment>
+        <comment>{Oxygen}: Tree View,Information Panel.</comment>
         <comment>{Menu}: [Document]/[Show View]/[Attributes]</comment>
         <comment>{Attributes View}: View title "Attributes"</comment>
         <comment>{Attributes View}: [Attributes]</comment>
@@ -34585,7 +34585,7 @@
         <val lang="zh_CN">不允许使用空方案名称。</val>
     </key>
     <key value="Font_size">
-        <comment>{Original}: "Editor/Aspect" options.</comment>
+        <comment>{Oxygen}: "Editor/Aspect" options.</comment>
         <comment>{Menu}: [Document]/[Font Size]</comment>
         <comment><val lang="en_US">Font Size</val></comment>
         <val lang="zh_CN">编辑区字号</val>
