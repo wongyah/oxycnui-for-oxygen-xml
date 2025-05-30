@@ -3201,6 +3201,7 @@
         <val lang="zh_CN">按源文件筛选</val>
     </key>
     <key value="DITA" skipTranslation="true">
+        <comment>{Oxygen}: DITA. Skip translation.</comment>
         <comment>{Menu}: [Document]/[Open Perspective]/[DITA]</comment>
         <comment><val lang="en_US">DITA</val></comment>
         <val lang="zh_CN">DITA</val>
@@ -7599,7 +7600,7 @@
     <key distribution="common" value="Run_to_breakpoint">
         <comment> Run to Breakpoint debugger action. </comment>
         <val lang="en_US" mnemonic="7">Run to &amp;Breakpoint</val>
-        <val lang="zh_CN">运行到 断点</val>
+        <val lang="zh_CN">运行到断点</val>
     </key>
     <key value="Author_edit_properties_handler">
         <comment>Label in the Document Type editing dialog/ Extensions tab.</comment>
@@ -8838,6 +8839,7 @@
         <val lang="zh_CN">XML重构...</val>
     </key>
     <key value="Open_perspective">
+        <comment>{Oxygen}: Menu name.</comment>
         <comment>{Menu}: [Document]/[Open Perspective]</comment>
         <comment><val lang="en_US">Open Perspective</val></comment>
         <val lang="zh_CN">选择布局</val>
@@ -10023,7 +10025,7 @@
     <key distribution="eclipse" value="action.label.18" type="action">
         <comment>'Open URL' action label text.</comment>
         <comment><val lang="en_US">&amp;Open URL...</val></comment>
-        <val lang="zh_CN">打开URL...</val>
+        <val lang="zh_CN">打开URL</val>
     </key>
     <key distribution="eclipse" value="extension.name">
         <comment>The text of the menu from the toolbar that contains different XML tools.</comment>
@@ -10033,7 +10035,7 @@
     <key distribution="eclipse" value="menu.label.2">
         <comment>The text of the menu that contains different XML tools.</comment>
         <comment><val lang="en_US">XML &amp;Tools</val></comment>
-        <val lang="zh_CN">XML 工具</val>
+        <val lang="zh_CN">XML工具</val>
     </key>
     <key distribution="eclipse" value="action.label.25">
         <comment>The text of the 'XML Schema Regular Expression Builder' action from XML Tools menu.</comment>
@@ -10350,7 +10352,7 @@
             Wizard.</comment>
         <comment>{Add-ons tooltip}: "Required Oxygen version: {0}"</comment>
         <comment><val lang="en_US">Required Oxygen version: {0}</val></comment>
-        <val lang="zh_CN">适用的 Oxygen 版本：{0}</val>
+        <val lang="zh_CN">适用的Oxygen版本：{0}</val>
     </key>
     <key value="Addon_version_tooltip">
         <comment>{Oxygen}: Tooltip over the version column of an add-on in the Install/Manage Add-ons Wizard.</comment>
@@ -14704,7 +14706,7 @@
     <key distribution="eclipse" value="action.label.30">
         <comment>The text of the 'XML Schema Documentation' action from 'Generate documentation' menu entry.</comment>
         <comment><val lang="en_US">XML &amp;Schema Documentation...</val></comment>
-        <val lang="zh_CN">XML架构文档...</val>
+        <val lang="zh_CN">XML架构文档</val>
     </key>
     <key distribution="eclipse" value="action.tooltip.30" type="action">
         <comment>The tooltip text of the 'XML Schema Documentation' action from 'Generate documentation' menu
@@ -15352,17 +15354,17 @@
     <key distribution="eclipse" value="action.label.15" type="action">
         <comment>'Configure Transformation' action label text.</comment>
         <comment><val lang="en_US">&amp;Configure Transformation Scenario(s)...</val></comment>
-        <val lang="zh_CN">配置转换方案...</val>
+        <val lang="zh_CN">配置转换方案</val>
     </key>
     <key distribution="eclipse" value="action.label.16" type="action">
         <comment>'Apply Transformation' action label text.</comment>
         <comment><val lang="en_US">&amp;Apply Transformation Scenario(s)...</val></comment>
-        <val lang="zh_CN">应用转换方案...</val>
+        <val lang="zh_CN">应用转换方案</val>
     </key>
     <key distribution="eclipse" value="action.label.10" type="action">
         <comment>Configure validation scenario action label text.</comment>
         <comment><val lang="en_US">&amp;Configure validation scenario(s)...</val></comment>
-        <val lang="zh_CN">配置验证方案...</val>
+        <val lang="zh_CN">配置验证方案</val>
     </key>
     <key distribution="common" value="Configure_validation_scenario">
         <comment>Title for Configure validation scenario dialog.</comment>
@@ -15414,7 +15416,7 @@
             as well as discover new add-ons.</comment>
         <comment>{Dialogue Box: Preferences}: [Add-ons]/[Find out more about Oxygen add-ons]</comment>
         <comment><val lang="en_US">Find out more about Oxygen add-ons</val></comment>
-        <val lang="zh_CN">寻找更多 Oxygen 插件包</val>
+        <val lang="zh_CN">寻找更多Oxygen插件包</val>
     </key>
     <key value="Plugins_discover_hint">
         <comment>{Oxygen}: Link in the Plugins page that provides a hint about the possibility to install plugins through the
@@ -17479,7 +17481,7 @@
     <key distribution="eclipse" value="action.label.11" type="action">
         <comment>Validate With Schema action label text.</comment>
         <comment><val lang="en_US">Validate with &amp;Schema...</val></comment>
-        <val lang="zh_CN">使用架构验证...</val>
+        <val lang="zh_CN">使用架构验证</val>
     </key>
     <key distribution="eclipse" value="action.tooltip.11">
         <comment>Validate With Schema action tooltip text.</comment>
@@ -17504,7 +17506,7 @@
     <key distribution="eclipse" value="action.label.14" type="action">
         <comment>'Transform with' action label text.</comment>
         <comment><val lang="en_US">&amp;Transform with...</val></comment>
-        <val lang="zh_CN">转换为...</val>
+        <val lang="zh_CN">转换为</val>
     </key>
     <key distribution="eclipse" value="action.tooltip.14" type="action">
         <comment>'Transform with' action tooltip text.</comment>
@@ -17519,7 +17521,7 @@
     <key distribution="eclipse" value="action.label.17" type="action">
         <comment>'Check Spelling in files' action label text.</comment>
         <comment><val lang="en_US">Check &amp;Spelling in files...</val></comment>
-        <val lang="zh_CN">检查文件中的拼写...</val>
+        <val lang="zh_CN">检查文件中的拼写</val>
     </key>
     <key distribution="eclipse" value="action.tooltip.17" type="action">
         <comment>'Check Spelling in files' action tooltip text.</comment>
@@ -17539,7 +17541,7 @@
     <key distribution="eclipse" value="action.label.19" type="action">
         <comment>'Report Oxygen problem' action label text.</comment>
         <comment><val lang="en_US">&amp;Report Oxygen problem...</val></comment>
-        <val lang="zh_CN">报告Oxygen问题...</val>
+        <val lang="zh_CN">报告Oxygen问题</val>
     </key>
     <key distribution="eclipse" value="action.tooltip.19" type="action">
         <comment>'Report Oxygen problem' action tooltip text.</comment>
@@ -17549,7 +17551,7 @@
     <key distribution="eclipse" value="action.label.20" type="action">
         <comment>'Oxygen Improvement Program Options' action label text.</comment>
         <comment><val lang="en_US">&amp;Oxygen Improvement Program Options...</val></comment>
-        <val lang="zh_CN">Oxygen改善计划选项...</val>
+        <val lang="zh_CN">Oxygen改善计划选项</val>
     </key>
     <key distribution="eclipse" value="action.tooltip.20">
         <comment>'Oxygen Improvement Program Options' action tooltip text.</comment>
@@ -17559,7 +17561,7 @@
     <key distribution="eclipse" value="action.label.21" type="action">
         <comment>The text of the 'Verify Signature' action from XML Tools menu.</comment>
         <comment><val lang="en_US">&amp;Verify Signature...</val></comment>
-        <val lang="zh_CN">验证签名...</val>
+        <val lang="zh_CN">验证签名</val>
     </key>
     <key distribution="eclipse" value="action.label.22">
         <comment>The text of the 'XML to JSON' action from XML Tools menu.</comment>
@@ -17569,12 +17571,12 @@
     <key distribution="eclipse" value="action.label.23" type="action">
         <comment>The text of the 'Sign' action from XML Tools menu.</comment>
         <comment><val lang="en_US">&amp;Sign...</val></comment>
-        <val lang="zh_CN">签名...</val>
+        <val lang="zh_CN">签名</val>
     </key>
     <key distribution="eclipse" value="action.label.24" type="action">
         <comment>The text of the 'Canonicalize' action from XML Tools menu.</comment>
         <comment><val lang="en_US">&amp;Canonicalize...</val></comment>
-        <val lang="zh_CN">规范化...</val>
+        <val lang="zh_CN">规范化</val>
     </key>
     <key distribution="eclipse" value="action.tooltip.25">
         <comment>The tooltip text of the 'XML Schema Regular Expression Builder' action from XML Tools menu.</comment>
@@ -17584,17 +17586,17 @@
     <key distribution="eclipse" value="action.label.26" type="action">
         <comment>The text of the 'Convert DB Structure to XML Schema' action from XML Tools menu.</comment>
         <comment><val lang="en_US">Convert DB Structure to &amp;XML Schema...</val></comment>
-        <val lang="zh_CN">将数据库结构转换为XML架构...</val>
+        <val lang="zh_CN">将数据库结构转换为XML架构</val>
     </key>
     <key distribution="eclipse" value="action.label.27" type="action">
         <comment>The text of the 'Generate Sample XML Files' action from XML Tools menu.</comment>
         <comment><val lang="en_US">Generate Sample XML &amp;Files...</val></comment>
-        <val lang="zh_CN">生成示例XML文件...</val>
+        <val lang="zh_CN">生成示例XML文件</val>
     </key>
     <key distribution="eclipse" value="action.label.28">
         <comment>The text of the 'WSDL Documentation' action from 'Generate documentation' menu entry.</comment>
         <comment><val lang="en_US">&amp;WSDL Documentation...</val></comment>
-        <val lang="zh_CN">WSDL文档...</val>
+        <val lang="zh_CN">WSDL文档</val>
     </key>
     <key distribution="eclipse" value="action.tooltip.28" type="action">
         <comment>The tooltip text of the 'WSDL Documentation' action from 'Generate documentation' menu entry.</comment>
@@ -17604,7 +17606,7 @@
     <key distribution="eclipse" value="action.label.29">
         <comment>The text of the 'XQuery Documentation' action from 'Generate documentation' menu entry.</comment>
         <comment><val lang="en_US">&amp;XQuery Documentation...</val></comment>
-        <val lang="zh_CN">XQuery文档...</val>
+        <val lang="zh_CN">XQuery文档</val>
     </key>
     <key distribution="eclipse" value="action.tooltip.29" type="action">
         <comment>The tooltip text of the 'XQuery Documentation' action from 'Generate documentation' menu
@@ -17616,7 +17618,7 @@
         <comment>The text of the 'Stylesheet Documentation...' action from 'Generate documentation' menu
             entry.</comment>
         <comment><val lang="en_US">&amp;Stylesheet Documentation...</val></comment>
-        <val lang="zh_CN">样式表文档...</val>
+        <val lang="zh_CN">样式表文档</val>
     </key>
     <key distribution="eclipse" value="action.tooltip.31" type="action">
         <comment>The tooltip text of the 'Schema Documentation' action from 'Generate documentation' menu
@@ -17627,7 +17629,7 @@
     <key distribution="eclipse" value="action.label.32" type="action">
         <comment>The text of the 'Generate/Convert Schema' action from XML Tools menu.</comment>
         <comment><val lang="en_US">&amp;Generate/Convert Schema...</val></comment>
-        <val lang="zh_CN">生成/转换架构...</val>
+        <val lang="zh_CN">生成/转换架构</val>
     </key>
     <key distribution="eclipse" value="action.label.33" type="action">
         <comment>Compile XSL stylesheet for Saxon.</comment>
@@ -21599,7 +21601,7 @@
     <key distribution="common" value="Generate_xquery_documentation">
         <comment>Action in project tree used to generate XQuery documentation for the current file.</comment>
         <val lang="en_US" mnemonic="0">&amp;Generate XQuery Documentation</val>
-        <val lang="zh_CN">生成 XQuery文档</val>
+        <val lang="zh_CN">生成XQuery文档</val>
     </key>
     <key value="Open_in_dita_maps_manager_view">
         <comment>Open in DITA Maps Manager View action.</comment>
@@ -30253,6 +30255,7 @@
         <val lang="zh_CN">样式</val>
     </key>
     <key value="Show_view">
+        <comment>{Oxygen}: 'Show View' menu.</comment>
         <comment>{Menu}: [Show View].</comment>
         <comment><val lang="en_US">Show View</val></comment>
         <val lang="zh_CN">显示视图</val>
@@ -31134,6 +31137,7 @@
         <val lang="zh_CN">执行文件差异</val>
     </key>
     <key value="Database">
+        <comment>{Oxygen}: Database</comment>
         <comment>{Menu}: [Document]/[Open Perspective]/[Database]</comment>
         <comment><val lang="en_US">Database</val></comment>
         <val lang="zh_CN">数据库</val>
@@ -31607,7 +31611,7 @@
         <val lang="zh_CN">按Shift+F2对焦</val>
     </key>
     <key value="Surround_with">
-        <comment>Option in the editor pop-up menu.</comment>
+        <comment>{Oxygen}: Option in the editor pop-up menu.</comment>
         <comment><val lang="en_US">Surround with</val></comment>
         <val lang="zh_CN">套上</val>
     </key>
@@ -33250,7 +33254,7 @@
     <key value="Insert_element">
         <comment>Tree editor. Inserts a new element.</comment>
         <comment><val lang="en_US">Insert Element</val></comment>
-        <val lang="zh_CN">插入元素元素</val>
+        <val lang="zh_CN">插入元素</val>
     </key>
     <key value="Wrong_xerces_impl_1">
         <comment>1st line in the message complaining about a bad xerces version.</comment>
@@ -33285,6 +33289,7 @@
         <val lang="zh_CN">如果希望在XHTML面板中看到结果，请选择此选项</val>
     </key>
     <key value="Tip_of_the_day">
+        <comment>{Oxygen}: Nothing</comment>
         <comment>general</comment>
         <comment>{Dialogue box: Welcome}: "Tip of the Day"</comment>
         <comment><val lang="en_US">Tip of the Day</val></comment>
@@ -33613,6 +33618,7 @@
         <val lang="zh_CN">去</val>
     </key>
     <key value="Add">
+        <comment>{Oxygen: Nothing}</comment>
         <comment>General</comment>
         <comment><val lang="en_US">Add</val></comment>
         <val lang="zh_CN">添加</val>
@@ -33773,6 +33779,7 @@
         <val lang="zh_CN">未指定输出文件。</val>
     </key>
     <key value="Apply">
+        <comment>{Oxygen}: Nothing</comment>
         <comment>General</comment>
         <comment><val lang="en_US">Apply</val></comment>
         <val lang="zh_CN">应用</val>
@@ -33792,13 +33799,13 @@
         <comment>{Message Box}: "To apply these changes, you must restart the application."</comment>
         <comment>{Dialogue Box: Preferences}: [Plugins]/"To apply these changes, you must restart the application."</comment>
         <comment><val lang="en_US">To apply these changes, you must restart the application.</val></comment>
-        <val lang="zh_CN">要应用修改，请重新启动 Oxygen 软件。</val>
+        <val lang="zh_CN">要应用修改，请重新启动Oxygen软件。</val>
     </key>
     <key value="Restart_application">
         <comment>{Oxygen}: Message box displayed when prompted for restart.</comment>
         <comment>{Message Box}: "To apply this changes, you must restart the application."</comment>
         <comment><val lang="en_US">To apply this change, you must restart the application.</val></comment>
-        <val lang="zh_CN">要应用修改，请重新启动 Oxygen 软件。</val>
+        <val lang="zh_CN">要应用修改，请重新启动Oxygen软件。</val>
     </key>
     <key value="Insert_the_required_attributes">
         <comment>"Preferences" dialog/Editor/Tag Insight page option.</comment>
@@ -33926,6 +33933,7 @@
         <val lang="zh_CN">打开</val>
     </key>
     <key value="License">
+        <comment>{Oxygen}: Nothing</comment>
         <comment>General</comment>
         <comment><val lang="en_US">License</val></comment>
         <val lang="zh_CN">许可证</val>
@@ -34102,6 +34110,7 @@
         <val lang="zh_CN">此文件已添加</val>
     </key>
     <key distribution="common" value="Outline">
+        <comment>{Oxygen}: Nothing</comment>
         <comment>{Menu}: [Document]/[Show View]/[Outline]</comment>
         <comment>{Outline View}: View title "Outline"</comment>
         <comment>{Outline View}: [Outline]</comment>
@@ -34616,6 +34625,7 @@
         <val lang="zh_CN">继续</val>
     </key>
     <key value="Clear">
+        <comment>{Oxygen}: Nothing</comment>
         <comment>general</comment>
         <comment><val lang="en_US">Clear</val></comment>
         <val lang="zh_CN">清除</val>
@@ -35090,7 +35100,7 @@
     <key distribution="eclipse" value="action.label.46">
         <comment>action.label.46</comment>
         <comment><val lang="en_US">&amp;Escape Selection...</val></comment>
-        <val lang="zh_CN">转义选择...</val>
+        <val lang="zh_CN">转义选择</val>
     </key>
     <key distribution="eclipse" value="action.label.55">
         <comment>action.label.55</comment>
@@ -35110,27 +35120,27 @@
     <key distribution="eclipse" value="action.label.45">
         <comment>action.label.45</comment>
         <comment><val lang="en_US">&amp;Unescape Selection...</val></comment>
-        <val lang="zh_CN">取消选择...</val>
+        <val lang="zh_CN">取消选择</val>
     </key>
     <key distribution="eclipse" value="action.label.43">
         <comment>action.label.43</comment>
         <comment><val lang="en_US">Import Entities &amp;List...</val></comment>
-        <val lang="zh_CN">导入实体列表...</val>
+        <val lang="zh_CN">导入实体列表</val>
     </key>
     <key distribution="eclipse" value="action.label.39">
         <comment>action.label.39</comment>
         <comment><val lang="en_US">Create &amp;Stylesheet From Selection...</val></comment>
-        <val lang="zh_CN">从所选内容创建样式表...</val>
+        <val lang="zh_CN">从所选内容创建样式表</val>
     </key>
     <key distribution="eclipse" value="action.label.40">
         <comment>action.label.40</comment>
         <comment><val lang="en_US">Create &amp;Template From Selection...</val></comment>
-        <val lang="zh_CN">从所选内容创建模板...</val>
+        <val lang="zh_CN">从所选内容创建模板</val>
     </key>
     <key distribution="eclipse" value="action.label.36">
         <comment>The text of the 'Rename Prefix' action from Refactoring pop-up menu.</comment>
         <comment><val lang="en_US">Rename &amp;Prefix...</val></comment>
-        <val lang="zh_CN">重命名前缀...</val>
+        <val lang="zh_CN">重命名前缀</val>
     </key>
     <key distribution="eclipse" value="action.tooltip.36">
         <comment>The tooltip of the 'Rename Prefix' action from Refactoring pop-up menu.</comment>
@@ -35140,11 +35150,11 @@
     <key distribution="eclipse" value="action.label.37">
         <comment>The text of the 'Rename Element...' action from Refactoring pop-up menu.</comment>
         <comment><val lang="en_US">&amp;Rename Element...</val></comment>
-        <val lang="zh_CN">重命名元素...</val>
+        <val lang="zh_CN">重命名元素</val>
     </key>
     <key distribution="eclipse" value="action.label.38">
         <comment>action.label.38</comment>
         <comment><val lang="en_US">&amp;Rename Component...</val></comment>
-        <val lang="zh_CN">重命名组件...</val>
+        <val lang="zh_CN">重命名组件</val>
     </key>
 </translation>
