@@ -1,0 +1,60 @@
+on:
+  push:
+    tags:
+      - "*"
+  workflow_dispatch:
+    inputs:
+      tag_name:
+        description: 'Tag name for the release'
+        required: true
+        type: string
+
+name: Create and Publish release
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Create Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Get Repo Name
+        id: get_repo_name
+        run: |
+          # Extract repo name from GITHUB_REPOSITORY variable
+          repo_fullname="${{ github.repository }}"
+          repo_name="${repo_fullname##*/}"
+          echo "REPO_NAME=${repo_name}" >> $GITHUB_ENV
+
+      - name: Get Tag Name
+        id: get_tag_name
+        run: |
+          # Extract tag or branch name from GITHUB_REF
+          tag_name="${{ github.ref }}"
+          tag_name="${tag_name#refs/tags/}"
+          echo "TAG_NAME=${tag_name}" >> $GITHUB_ENV
+
+      - name: Create Release
+        run: |
+          echo "Repository Name: $REPO_NAME"
+          echo "Tag Name: $TAG_NAME"
+          git archive --format zip --prefix="${REPO_NAME}/" --output "oxycnui-plugin-${TAG_NAME}.jar" HEAD
+          echo "REPO_NAME=${REPO_NAME}" >> $GITHUB_ENV
+          echo "TAG_NAME=${TAG_NAME}" >> $GITHUB_ENV
+
+      - name: Sign JAR
+        run: |
+          echo "${{ secrets.KEYSTORE_FILE }}" | base64 --decode > oxyaddons.keystore
+          jarsigner -keystore oxyaddons.keystore -storepass ${{ secrets.KEYSTORE_PASSWORD }} "oxycnui-plugin-${TAG_NAME}.jar" ${{ secrets.KEY_ALIAS }}
+
+      - name: Upload Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            oxycnui-plugin-${{ env.TAG_NAME }}.jar
+            updateSite.xml
+          body_path: changelog.md

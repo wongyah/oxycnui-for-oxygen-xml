@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Exclude files from JAR packaging
+.* export-ignore
+*.log export-ignore
+images/* export-ignore
+code-of-conduct.md export-ignore
+updateSite.xml export-ignore
