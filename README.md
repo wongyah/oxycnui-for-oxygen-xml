@@ -10,9 +10,11 @@ Oxygen XML 编辑器目前提供 6 种语言的用户界面，包括中文。在
 ## 安装 OxyCNUI
 
 1. 打开 Oxygen XML 编辑器。
-2. 将下面的图标拖放到 Oxygen XML 编辑器的主编辑区：
+2. 将下面的任意一个图标拖放到 Oxygen XML 编辑器的主编辑区。Gitee 是国内的代码托管平台，连接更稳定，下载速度也更快。
 
-    [![安装 OxyCNUI](images/install.svg)](https://github.com/wongyah/oxycnui-for-oxygen-xml/releases/latest/download/updateSite.xml?oxygenAddonId=chinese.i18n.yeddawang "拖放到 Oxygen XML 编辑器中即可安装 OxyCNUI")
+    [![安装 OxyCNUI](images/install-from-github-h30.png)](https://github.com/wongyah/oxycnui-for-oxygen-xml/releases/latest/download/updateSite.xml?oxygenAddonId=chinese.i18n.yeddawang "拖放到 Oxygen XML 编辑器中即可安装 OxyCNUI")
+
+    [![安装 OxyCNUI](images/install-from-gitee-h30.png)](https://gitee.com/wongyah/oxycnui-for-oxygen-xml/releases/download/latest/updateSite.xml?oxygenAddonId=chinese.i18n.yeddawang "拖放到 Oxygen XML 编辑器中即可安装 OxyCNUI")
 
 3. 在弹出的安装新插件 (Install new add-ons) 对话框中，确保 OxyCNUI 的复选框处于选中状态，点击 `下一步 (Next)` 按钮。
 4. 在弹出的安全提示框中，点击 `允许并信任 (Allow and remember)` 按钮。
