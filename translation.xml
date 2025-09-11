@@ -16,12 +16,12 @@
     </languageList>
     <key value="Initializing_plugins">
         <comment>Message on loading the application main frame.</comment>
-        <val lang="zh_CN">Initializing plugins</val>
+        <val lang="zh_CN">初始化插件</val>
     </key>
     <key distribution="webauthor" value="HIGHLIGHT_CANNOT_BE_ADDED_">
         <comment>Message to be presented to the user when a color highlight cannot be added.</comment>
         <comment><val lang="en_US">The highlight cannot be added on the current selection (the selection must not start or end in a read-only content).</val></comment>
-        <val lang="zh_CN">无法在当前选择上添加高亮（选择不能在只读内容中开始或结束）。</val>
+        <val lang="zh_CN">当前选择的区域无法添加高亮（只读内容不能位于选区的开头或末尾）。</val>
     </key>
     <key value="Sort_keys">
         <comment>Sort keys</comment>
@@ -31,7 +31,7 @@
     <key distribution="webauthor" value="OPERATION_NOT_SUPPORTED_CONCURRENT_EDITING_">
         <comment>Warning shown when an operation is not supported in concurrent editing.</comment>
         <comment><val lang="en_US">Operation is not supported in concurrent editing</val></comment>
-        <val lang="zh_CN">并发编辑不支持操作</val>
+        <val lang="zh_CN">协同编辑时，不支持该操作</val>
     </key>
     <key value="Current">
         <comment>Label</comment>
@@ -41,22 +41,22 @@
     <key value="Proposed_changes">
         <comment>Label</comment>
         <comment><val lang="en_US">Proposed changes</val></comment>
-        <val lang="zh_CN">建议的更改</val>
+        <val lang="zh_CN">修改建议</val>
     </key>
     <key value="Apply_all_default_quick_fix_proposals_for_all_problems_additional_info">
         <comment>Additional explanation about an action name.</comment>
         <comment><val lang="en_US">Each default quick fix proposal for each validation problem reported in the document will be applied</val></comment>
-        <val lang="zh_CN">文档中报告的每个验证问题的每个默认快速修复建议都将被应用</val>
+        <val lang="zh_CN">该操作会默认应用文档验证报告中的每一项快速修复建议</val>
     </key>
     <key value="Apply_all_default_quick_fix_proposals_in_all_files">
         <comment>Action name.</comment>
         <comment><val lang="en_US">Apply all default quick fix proposals in all files</val></comment>
-        <val lang="zh_CN">在所有文件中应用所有默认快速修复建议</val>
+        <val lang="zh_CN">在所有文件中默认应用所有的快速修复建议</val>
     </key>
     <key value="Cannot_convert_schema">
         <comment>Message when schema generation process fails.</comment>
         <comment><val lang="en_US">Schema cannot be converted</val></comment>
-        <val lang="zh_CN">架构无法转换</val>
+        <val lang="zh_CN">模式转换失败</val>
     </key>
     <key distribution="webauthor" value="csp_use_custom_policy">
         <comment>Label for a CSP checkbox.</comment>
@@ -71,22 +71,22 @@
     <key distribution="webauthor" value="one_value_per_line">
         <comment>Short explanation appended after a label.</comment>
         <comment><val lang="en_US">(one value per line):</val></comment>
-        <val lang="zh_CN">(每行一个值):</val>
+        <val lang="zh_CN">（每行一个值）：</val>
     </key>
     <key value="Application_authentication" distribution="webauthor">
         <comment>Label for the application authentication security option.</comment>
         <comment><val lang="en_US">Application authentication provider:</val></comment>
-        <val lang="zh_CN">应用程序认证提供商：</val>
+        <val lang="zh_CN">身份验证应用程序提供者：</val>
     </key>
     <key value="Application_authentication_disabled" distribution="webauthor">
         <comment>Message used when the application authentication is disabled.</comment>
         <comment><val lang="en_US">Application authentication is disabled</val></comment>
-        <val lang="zh_CN">应用程序认证已禁用</val>
+        <val lang="zh_CN">身份验证应用程序已禁用</val>
     </key>
     <key value="No_authentication_provider" distribution="webauthor">
         <comment>Message used when there is no application authentication provider.</comment>
         <comment><val lang="en_US">No authentication provider installed or configured</val></comment>
-        <val lang="zh_CN">未安装或配置认证提供商</val>
+        <val lang="zh_CN">尚未安装或未配置身份验证应用程序提供者</val>
     </key>
     <key value="The_folder_not_found" distribution="webauthor">
         <comment>Error message when fails to list a folder that's missing.</comment>
@@ -96,7 +96,7 @@
     <key value="Enable_dynamic_conversion">
         <comment>Options for enable/disable the dynamic conversion of specific non-DITA resources</comment>
         <comment><val lang="en_US">Dynamic conversion of specific non-DITA resources</val></comment>
-        <val lang="zh_CN">特定非DITA资源的动态转换</val>
+        <val lang="zh_CN">动态转换特定的非DITA资源</val>
     </key>
     <key value="Subscript">
         <comment>Subscript</comment>
@@ -111,12 +111,12 @@
     <key value="No_dita_reusable_components_found_message">
         <comment>Message in dialog explaining that no DITA Key definitions were found.</comment>
         <comment><val lang="en_US">No reusable components were found. Reusable components are elements with IDs that are defined in topics referenced as "resource-only" in the context DITA map.</val></comment>
-        <val lang="zh_CN">未找到可重用的组件。可重用的组件是在上下文DITA地图中被引用为“仅资源”的主题中定义的具有ID的元素。</val>
+        <val lang="zh_CN">找不到可复用的内容。可复用的内容是指一些带有ID的元素，这些元素所在的主题在上下文导图中以“resource-only”的方式引用。</val>
     </key>
     <key value="No_dita_keys_found_message">
         <comment>Message in dialog explaining that no DITA Key definitions were found.</comment>
         <comment><val lang="en_US">No key definitions were found. Keys are gathered from the context DITA map.</val></comment>
-        <val lang="zh_CN">未找到键定义。键是从上下文DITA地图中收集的。</val>
+        <val lang="zh_CN">找不到键值对定义。键值对定义位于上下文导图中。</val>
     </key>
     <key value="YAML_Header">
         <comment>YAML Header for markdown documents</comment>
@@ -131,12 +131,12 @@
     <key value="Quick_fixes_could_not_be_applied_document_became_unparsable">
         <comment>Error message.</comment>
 		<comment><val lang="en_US">Quick fixes could not be applied, the document may have become not well-formed during the update process</val></comment>
-        <val lang="zh_CN">无法应用快速修复，文档在更新过程中可能已变得格式不正确</val>
+        <val lang="zh_CN">无法应用快速修复，文档中可能包含不符合语法规则的内容</val>
     </key>
     <key value="Apply_all_default_quick_fix_proposals">
         <comment>Action name.</comment>
         <comment><val lang="en_US">Apply all default quick fix proposals</val></comment>
-        <val lang="zh_CN">应用所有默认的快速修复提案</val>
+        <val lang="zh_CN">应用所有默认的快速修复建议</val>
     </key>
     <key value="Could_not_create_document_copy">
         <comment>Error message.</comment>
@@ -146,57 +146,57 @@
     <key value="Could_not_generate_operations_for_quick_fix">
         <comment>Formatted error message. The parameter is a String indicating the name of the quick fix.</comment>
         <comment><val lang="en_US">"{0}" quick fix not applied because the associated operations could not be generated correctly.</val></comment>
-        <val lang="zh_CN">由于无法正确生成关联操作，因此未应用“{0}”快速修复。</val>
+        <val lang="zh_CN">无法应用快速修复“{0}”，因为相关操作无法正确执行。</val>
     </key>
     <key value="Conflicting_quick_fixes_detcted">
         <comment>Formatted error message. The parameter is a String indicating the name of the quick fix.</comment>
         <comment><val lang="en_US">"{0}" quick fix not applied because it would have conflicted with one of the previously performed fixes.</val></comment>
-        <val lang="zh_CN">由于与先前执行的修复之一冲突，因此未应用“{0}”快速修复。</val>
+        <val lang="zh_CN">无法应用快速修复“{0}”，因为它与之前已应用的某个修复产生了冲突。</val>
     </key>
     <key value="Quick_fix_not_performed_as_it_required_providing_user_entered_values">
         <comment>Formatted error message. The parameter is a String indicating the name of the quick fix.</comment>
         <comment><val lang="en_US">"{0}" quick fix not performed because it required providing user-entered values.</val></comment>
-        <val lang="zh_CN">由于需要提供用户输入的值，因此未执行“{0}”快速修复。</val>
+        <val lang="zh_CN">无法执行快速修复“{0}”，因为需要提供用户输入的值。</val>
     </key>
     <key value="Quick_fix_not_applied_in_referenced_doc">
         <comment>Formatted error message. The 1st parameter is a String indicating the name of the quick fix. The 2nd parameter is the system ID of the referenced document.</comment>
         <comment><val lang="en_US">"{0}" quick fix not applied in the referenced document "{1}".</val></comment>
-        <val lang="zh_CN">在引用的文档“{1}”中未应用“{0}”快速修复。</val>
+        <val lang="zh_CN">无法在引用的文档“{1}”中应用快速修复“{0}”。</val>
     </key>
     <key value="Several_quick_fixes_could_not_be_applied">
         <comment>Formatted error message. The parameters are numbers.</comment>
         <comment><val lang="en_US">{0} out of {1} quick fixes could not be applied</val></comment>
-        <val lang="zh_CN">{1}个快速修复中的{0}个无法应用</val>
+        <val lang="zh_CN">共有{1}个快速修复，其中有{0}个快速修复无法应用</val>
     </key>
     <key value="All_quick_fixes_applied_quantitative_info">
         <comment>Formatted error message. The parameter is a number.</comment>
         <comment><val lang="en_US">{0} out of {0} quick fixes applied successfully</val></comment>
-        <val lang="zh_CN">{0}个快速修复中的{0}个已成功应用</val>
+        <val lang="zh_CN">共有{0}个快速修复，其中有{0}个快速修复已应用成功</val>
     </key>
 		<key value="Several_quick_fixes_could_not_be_applied_in_scope">
 		    <comment>Formatted error message. The parameters are numbers.</comment>
 		    <comment><val lang="en_US">{0} out of {1} documents not completely updated</val></comment>
-		    <val lang="zh_CN">{1}个文档中有{0}个未完全更新</val>
+		    <val lang="zh_CN">共有{1}个文档，其中有{0}个文档没有完全更新</val>
 		</key>
 		<key value="All_quick_fixes_applied_in_scope_quantitative_info">
 		    <comment>Formatted error message. The parameter is a number.</comment>
 		    <comment><val lang="en_US">{0} out of {0} documents updated successfully</val></comment>
-		    <val lang="zh_CN">{0}个文档中的{0}个已成功更新</val>
+		    <val lang="zh_CN">共有{0}个文档，其中的{0}个文档已更新成功</val>
 		</key>
     <key value="Apply_transform_JSON_tooltip">
         <comment>Tooltip for the input URL in the transformation configuration dialog.</comment>
         <comment><val lang="en_US">The transformation will be applied on the JSON document at this URL</val></comment>
-        <val lang="zh_CN">转换将应用于此URL处的JSON文档</val>
+        <val lang="zh_CN">该转换将应用于此URL处的JSON文档</val>
     </key>
     <key value="Browse_Json_Local_Tooltip">
         <comment>Browse for an input file, used in XSL transformation. Transformation Configuration dialog.</comment>
         <comment><val lang="en_US">Browse for a local input JSON file</val></comment>
-        <val lang="zh_CN">浏览本地输入JSON文件</val>
+        <val lang="zh_CN">浏览本地的JSON文件，作为输入文件</val>
     </key>
     <key value="Browse_Json_URL_Tooltip">
         <comment>Configure Transformation Scenario dialog.</comment>
         <comment><val lang="en_US">Browse for a remote input JSON file</val></comment>
-        <val lang="zh_CN">浏览远程输入JSON文件</val>
+        <val lang="zh_CN">浏览远程的JSON文件，作为输入文件</val>
     </key>
     <key value="Open_Json_Tooltip">
         <comment/>
@@ -206,17 +206,17 @@
     <key value="No_value_specified">
         <comment>Tooltip for combo box in which an XML attribute value is edited.</comment>
         <comment><val lang="en_US">No value specified</val></comment>
-        <val lang="zh_CN">未指定值</val>
+        <val lang="zh_CN">没有指定值</val>
     </key>
     <key value="Inline_equations">
         <comment>Inline Equations</comment>
         <comment><val lang="en_US">Inline Equations</val></comment>
-        <val lang="zh_CN">内联方程式</val>
+        <val lang="zh_CN">行内公式</val>
     </key>
     <key value="Display_equations">
         <comment>Display Equations</comment>
         <comment><val lang="en_US">Display Equations</val></comment>
-        <val lang="zh_CN">显示方程式</val>
+        <val lang="zh_CN">行间公式</val>
     </key>
     <key distribution="webauthor" value="use_hsts_header">
         <comment>Header for a section from administration page that contains security checklist (checkboxes)</comment>
@@ -231,7 +231,7 @@
     <key distribution="webauthor" value="use_secure_cookie_attribute">
         <comment>Label for a security checkbox</comment>
         <comment><val lang="en_US">Use the "Secure" attribute for the session cookie</val></comment>
-        <val lang="zh_CN">为会话cookie使用“Secure”属性</val>
+        <val lang="zh_CN">为会话Cookie添加“Secure”属性</val>
     </key>
     <key distribution="webauthor" value="Reject_invalid_security_certificates">
         <comment>Label for a security checkbox</comment>
@@ -246,27 +246,27 @@
   <key value="Json_Schema_components">
     <comment>Name for JSON Schema components outliner.</comment>
     <comment><val lang="en_US">JSON Schema components</val></comment>
-    <val lang="zh_CN">JSON架构组件</val>
+    <val lang="zh_CN">JSON Schema 组件</val>
   </key>
     <key value="Index_only_resource_only_topics">
         <comment>Info message that shows how to disable option in preferences page.</comment>
         <comment><val lang="en_US">Only index files referenced in the context DITA map as "resource-only"</val></comment>
-        <val lang="zh_CN">只索引在上下文DITA地图中作为“仅资源”引用的文件</val>
+        <val lang="zh_CN">只索引上下文导图中引用的“纯资源”文件</val>
     </key>
     <key value="Save_comparison_as_document_with_tracked_changes">
         <comment>Name of a Diff action that saves the comparison results as a document with tracked changes.</comment>
         <comment><val lang="en_US">Save Comparison as Document with Tracked Changes</val></comment>
-        <val lang="zh_CN">将比较结果保存为带有跟踪更改的文档</val>
+        <val lang="zh_CN">将比较结果保存为带有修订跟踪功能的文档</val>
     </key>
     <key value="Merge_documents_with_change_tracking_highlights">
         <comment>Action name</comment>
         <comment><val lang="en_US">Merge Documents with Change Tracking Highlights</val></comment>
-        <val lang="zh_CN">合并带有变更跟踪高亮的文档</val>
+        <val lang="zh_CN">合并带有修订跟踪高亮功能的文档</val>
     </key>
     <key value="Base_document">
         <comment>Label</comment>
         <comment><val lang="en_US">Base document</val></comment>
-        <val lang="zh_CN">基础文档</val>
+        <val lang="zh_CN">基准文档</val>
     </key>
     <key value="Document_to_merge_with">
         <comment>Label</comment>
@@ -276,17 +276,17 @@
     <key value="Failed_to_open_resulting_file">
         <comment>Error message</comment>
         <comment><val lang="en_US">Failed to open the resulting file.</val></comment>
-        <val lang="zh_CN">无法打开结果文件。</val>
+        <val lang="zh_CN">无法打开生成的文件。</val>
     </key>
     <key value="Merge_directories_with_change_tracking_highlights">
         <comment>Action name</comment>
         <comment><val lang="en_US">Merge Directories with Change Tracking Highlights</val></comment>
-        <val lang="zh_CN">合并带有变更跟踪高亮的目录</val>
+        <val lang="zh_CN">合并带有修定跟踪高亮功能的文件夹</val>
     </key>
     <key value="Directory_to_merge_with">
         <comment>Label</comment>
         <comment><val lang="en_US">Directory to merge with</val></comment>
-        <val lang="zh_CN">要合并的目录</val>
+        <val lang="zh_CN">要合并的文件夹</val>
     </key>
     <key value="Merge_options">
         <comment>Label</comment>
@@ -296,62 +296,62 @@
     <key value="Update_the_modified_non_XML_files">
         <comment>Label</comment>
         <comment><val lang="en_US">Update the modified non-XML files</val></comment>
-        <val lang="zh_CN">更新修改的非XML文件</val>
+        <val lang="zh_CN">更新已修改的非XML文件</val>
     </key>
     <key value="Add_the_files_found_only_in_the_directory_to_merge_with">
         <comment>Label</comment>
         <comment><val lang="en_US">Add the files found only in the directory to merge with</val></comment>
-        <val lang="zh_CN">添加仅在要合并的目录中找到的文件</val>
+        <val lang="zh_CN">只添加要合并的文件夹中的文件</val>
     </key>
     <key value="Create_change_tracking_markers_for_the_XML_files_to_be_added">
         <comment>Label</comment>
         <comment><val lang="en_US">Create change tracking markers for the XML files to be added</val></comment>
-        <val lang="zh_CN">为要添加的XML文件创建更改跟踪标记</val>
+        <val lang="zh_CN">为要添加的XML文件创建修订跟踪标记</val>
     </key>
     <key value="Delete_the_files_found_only_in_the_base_directory">
         <comment>Label</comment>
         <comment><val lang="en_US">Delete the files found only in the base directory</val></comment>
-        <val lang="zh_CN">删除仅在基础目录中找到的文件</val>
+        <val lang="zh_CN">只删除基准文件夹中的文件</val>
     </key>
     <key value="Open_the_operation_report_file_in_editor">
         <comment>Label</comment>
         <comment><val lang="en_US">Open the operation report file in editor</val></comment>
-        <val lang="zh_CN">在编辑器中打开操作报告文件</val>
+        <val lang="zh_CN">在编辑区中打开操作报告文件</val>
     </key>
     <key value="Backup_the_base_directory">
         <comment>Label</comment>
         <comment><val lang="en_US">Backup the base directory</val></comment>
-        <val lang="zh_CN">备份基础目录</val>
+        <val lang="zh_CN">备份基准文件夹</val>
     </key>
     <key value="Output_dir_same_as_dir_to_merge_with_conflict_msg_1">
         <comment>Error message</comment>
         <comment><val lang="en_US">The directory to merge with cannot be used as the output directory.</val></comment>
-        <val lang="zh_CN">不能将要合并的目录用作输出目录。</val>
+        <val lang="zh_CN">要合并的文件夹不能作为输出文件夹。</val>
     </key>
     <key value="Output_dir_same_as_dir_to_merge_with_conflict_msg_2">
         <comment>Error message</comment>
         <comment><val lang="en_US">You can leave the field blank to save the merge results in the base directory, overwriting it</val></comment>
-        <val lang="zh_CN">您可以将字段留空，以在基础目录中保存合并结果，覆盖它</val>
+        <val lang="zh_CN">如果将字段留空，合并结果将被保存在基准文件夹中，覆盖原有文件</val>
     </key>
     <key value="Output_dir_same_as_dir_to_merge_with_conflict_msg_3">
         <comment>Error message - continuation of the message above, in a certain context. There should be no semantic problems at all. The preposition OR at the beginning actually composes the 2 messages.</comment>
         <comment><val lang="en_US">or you can choose a separate output directory</val></comment>
-        <val lang="zh_CN">或者您可以选择一个单独的输出目录</val>
+        <val lang="zh_CN">或者选择一个单独的输出文件夹</val>
     </key>
     <key value="Directory_to_merge_with_does_not_exist">
         <comment>Info message associated with an error</comment>
         <comment><val lang="en_US">The specified directory to merge with does not exist.</val></comment>
-        <val lang="zh_CN">指定要合并的目录不存在。</val>
+        <val lang="zh_CN">要合并的文件夹不存在。</val>
     </key>
     <key value="Dir_to_merge_with_file_specified_instead_of_directory">
         <comment>Info message associated with an error</comment>
         <comment><val lang="en_US">You specified a file as directory to merge with.</val></comment>
-        <val lang="zh_CN">您指定了一个文件作为要合并的目录。</val>
+        <val lang="zh_CN">您把一个文件当成文件夹合并了。</val>
     </key>
     <key value="Generating_change_tracking_files_for_modified_XML_file_pairs">
         <comment>Merge operation status message</comment>
         <comment><val lang="en_US">Generating change tracking files for modified XML file pairs</val></comment>
-        <val lang="zh_CN">为修改的XML文件对生成变更跟踪文件</val>
+        <val lang="zh_CN">为已修改的XML文件对生成修订跟踪文件</val>
     </key>
     <key value="Show_vertical_bars">
         <comment>Option to show vertical bars character marks in YAML editors only. It's an "extension" of the already existing key "Show_SPACE_marks"</comment>
@@ -366,12 +366,12 @@
     <key value="Info_disable_option_from_preferences">
         <comment>Info message that shows how to disable option in preferences page.</comment>
         <comment><val lang="en_US">To disable this check, deselect the "{0}" option in the {1} preferences page.</val></comment>
-        <val lang="zh_CN">要禁用这个检查，请在{1}偏好页面取消选择"{0}"选项</val>
+        <val lang="zh_CN">要禁用这项检查，请在首选项的{1}页面取消勾选“{0}”选项</val>
     </key>
     <key value="Check_for_notifications_description">
         <comment>Tooltip for the Check for notification options from Notification dialog.</comment>
         <comment><val lang="en_US">Oxygen will periodically check for any new events and will display them in this dialog.</val></comment>
-        <val lang="zh_CN">Oxygen会定期检查任何新事件，并在此对话框中显示这些事件</val>
+        <val lang="zh_CN">Oxygen会定期检查所有新事件，并将它们显示在此对话框中</val>
     </key>
     <key value="Generic_event">
         <comment>Event type</comment>
@@ -391,12 +391,12 @@
     <key value="Oxygen_release">
         <comment>Event type</comment>
         <comment><val lang="en_US">Oxygen release</val></comment>
-        <val lang="zh_CN">Oxygen发布</val>
+        <val lang="zh_CN">发布Oxygen（新版本）</val>
     </key>
     <key value="User_meetup">
         <comment>Event type</comment>
         <comment><val lang="en_US">User meetup</val></comment>
-        <val lang="zh_CN">用户会议</val>
+        <val lang="zh_CN">用户交流会</val>
     </key>
     <key value="Video_demonstration">
         <comment>Event type</comment>
@@ -34231,7 +34231,7 @@
         <comment>{Oxygen}: Create Templates.</comment>
         <comment>General</comment>
         <comment><val lang="en_US">Location</val></comment>
-        <val lang="zh_CN">安装位置</val>
+        <val lang="zh_CN">位置</val>
     </key>
     <key value="Check_punctuation">
         <comment>Edit/Check spelling menu, options dialog.</comment>

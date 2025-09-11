@@ -52,13 +52,15 @@ Oxygen XML 编辑器目前提供 6 种语言的用户界面，包括中文。在
 
 1. 打开 Oxygen XML 编辑器。
 2. 在主菜单中选择 `选项 (Options) > 首选项 (Preferences)`。
-3. 在弹出的首选项 (Preferences) 对话框中，选择 `插件 (Add-ons)` 选项卡。
+3. 在弹出的首选项 (Preferences) 对话框中，选择 `插件包 (Add-ons)` 选项卡。
 4. 确保 `允许自动检查更新 (Enable automatic updates checking)` 的复选框处于选中状态。
 5. 点击插件更新网站 (Add-on Update Site URLs)下方的 `添加 (Add)` 按钮。。
-6. 弹出添加 (Add) 对话框之后，将以下网址复制到 `URL` 文本框中：
+6. 弹出添加 (Add) 对话框之后，将以下任意一个网址复制到 `URL` 文本框中：
 
     ```
     https://github.com/wongyah/oxycnui-for-oxygen-xml/releases/latest/download/updateSite.xml
+
+    https://gitee.com/wongyah/oxycnui-for-oxygen-xml/releases/download/latest/updateSite.xml
     ```
 
 7. 点击各个对话框的 `确认 (OK)` 按钮。
