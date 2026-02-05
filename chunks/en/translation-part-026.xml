@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="Copy_location">
+      <comment>Copy location is used in the project contextual menu so allow the user to copy the location of a
+            project file to clipboard. </comment>
+      <comment>
+         <val lang="en_US">Copy Location</val>
+      </comment>
+      <val lang="zh_CN">Copy Location</val>
+   </key>
+   <key value="Cannot_save_license_to_disk">
+      <comment>Message displayed when the license cannot be saved to disk after it is validated. </comment>
+      <comment>
+         <val lang="en_US">Cannot save the license to disk</val>
+      </comment>
+      <val lang="zh_CN">Cannot save the license to disk</val>
+   </key>
+   <key value="You_have_to_delete_the_doctype_below">
+      <comment>Error message when a DOCTYPE declaration must be deleted in document.</comment>
+      <comment>
+         <val lang="en_US">You have to delete the DOCTYPE below</val>
+      </comment>
+      <val lang="zh_CN">You have to delete the DOCTYPE below</val>
+   </key>
+   <key distribution="common" value="Save_structure_XML_tooltip">
+      <comment>XML Menu/toolbar. </comment>
+      <comment>
+         <val lang="en_US">Save Structure</val>
+      </comment>
+      <val lang="zh_CN">Save Structure</val>
+   </key>
+   <key value="No_limit">
+      <comment>No limit of the number of lines displayed into the results pane, after a find for example. </comment>
+      <comment>
+         <val lang="en_US">No limit</val>
+      </comment>
+      <val lang="zh_CN">No limit</val>
+   </key>
+   <key value="Frameworks">
+      <comment>The About dialog. A framework can be Docbook or TEI, etc. </comment>
+      <comment>
+         <val lang="en_US">Frameworks</val>
+      </comment>
+      <val lang="zh_CN">Frameworks</val>
+   </key>
+   <key value="You_must_select_or_type_a_file_name">
+      <comment>Error message displayed when OK is pressed in URL chooser dialog and the tree selection is a directory,
+            not a file.</comment>
+      <comment>
+         <val lang="en_US">You must select or type a file name.</val>
+      </comment>
+      <val lang="zh_CN">You must select or type a file name.</val>
+   </key>
+   <key value="No_proxy_for">
+      <comment>The proxy configuration.</comment>
+      <comment>
+         <val lang="en_US">No proxy for</val>
+      </comment>
+      <val lang="zh_CN">No proxy for</val>
+   </key>
+   <key value="The_l_k_you_are_using">
+      <comment>Message error when user paste license with wrong version number.</comment>
+      <comment>
+         <val lang="en_US">The license key you are using has the version</val>
+      </comment>
+      <val lang="zh_CN">The license key you are using has the version</val>
+   </key>
+   <key value="Are_you_sure">
+      <comment>Asked when the user uses the same shortcut for two actions. The previous one will have its shortcut set
+            to null.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to use this shortcut for</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to use this shortcut for</val>
+   </key>
+   <key value="Browse_for_local_file">
+      <comment>Used from various places where a local file can be input.</comment>
+      <comment>
+         <val lang="en_US">Browse for local file</val>
+      </comment>
+      <val lang="zh_CN">Browse for local file</val>
+   </key>
+   <key value="Project_directory">
+      <comment>Description for an editor variable that is expanded into the complete path of the project directory.
+            Used in external tools.</comment>
+      <comment>
+         <val lang="en_US">Project directory</val>
+      </comment>
+      <val lang="zh_CN">Project directory</val>
+   </key>
+   <key value="Save_the_current_project">
+      <comment/>
+      <comment>
+         <val lang="en_US">Save the current project?</val>
+      </comment>
+      <val lang="zh_CN">Save the current project?</val>
+   </key>
+   <key value="Cancel">
+      <comment>The cancel button text.</comment>
+      <comment>
+         <val lang="en_US">Cancel</val>
+      </comment>
+      <val lang="zh_CN">Cancel</val>
+   </key>
+   <key value="Reset_tips">
+      <comment>Reset the "tips of the day" to the first.</comment>
+      <comment>
+         <val lang="en_US">Reset tips</val>
+      </comment>
+      <val lang="zh_CN">Reset tips</val>
+   </key>
+   <key distribution="common" value="Editor">
+      <comment>Refers to the editing area.</comment>
+      <comment>
+         <val lang="en_US">Editor</val>
+      </comment>
+      <val lang="zh_CN">Editor</val>
+   </key>
+   <key value="New_project">
+      <comment>Action that creates a new project.</comment>
+      <comment>
+         <val lang="en_US">New project</val>
+      </comment>
+      <val lang="zh_CN">New project</val>
+   </key>
+   <key distribution="common" value="File_Open_URL">
+      <comment>Name of the action that opens a remote file.</comment>
+      <comment>
+         <val lang="en_US">Open URL</val>
+      </comment>
+      <val lang="zh_CN">Open URL</val>
+   </key>
+   <key value="Sort_attributes">
+      <comment>Format and Indent options. Indicates if the alphabetical sort of attributes is desired.</comment>
+      <comment>
+         <val lang="en_US">Sort attributes</val>
+      </comment>
+      <val lang="zh_CN">Sort attributes</val>
+   </key>
+   <key value="Processor">
+      <comment>For example XSLT or FO processor.</comment>
+      <comment>
+         <val lang="en_US">Processor</val>
+      </comment>
+      <val lang="zh_CN">Processor</val>
+   </key>
+   <key value="Browse_Xml_Local_Tooltip">
+      <comment>Browse for an input file, used in XSL transformation. Transformation Configuration dialog.</comment>
+      <comment>
+         <val lang="en_US">Browse for a local input XML file</val>
+      </comment>
+      <val lang="zh_CN">Browse for a local input XML file</val>
+   </key>
+   <key value="Check_for_new_version">
+      <comment>Tells the editor to check for new versions available on oxygen website.</comment>
+      <comment>
+         <val lang="en_US">Check for a New Version</val>
+      </comment>
+      <val lang="zh_CN">Check for a New Version</val>
+   </key>
+   <key value="File_Open">
+      <comment>Open in the file menu.</comment>
+      <comment>
+         <val lang="en_US">Open</val>
+      </comment>
+      <val lang="zh_CN">Open</val>
+   </key>
+   <key value="Remove">
+      <comment>Remove- used in may places, as for remove nodes in the Tree View, or remove a file.</comment>
+      <comment>
+         <val lang="en_US">Remove</val>
+      </comment>
+      <val lang="zh_CN">Remove</val>
+   </key>
+   <key value="New">
+      <comment>The File/New action. Creates a new document.</comment>
+      <comment>
+         <val lang="en_US">New</val>
+      </comment>
+      <val lang="zh_CN">New</val>
+   </key>
+   <key value="End_editing">
+      <comment>Tells the tree editor to end the editing or the current node.</comment>
+      <comment>
+         <val lang="en_US">End Editing</val>
+      </comment>
+      <val lang="zh_CN">End Editing</val>
+   </key>
+   <key value="New_folder">
+      <comment>Creates a new logical folder in the project.</comment>
+      <comment>
+         <val lang="en_US">New Folder</val>
+      </comment>
+      <val lang="zh_CN">New Folder</val>
+   </key>
+   <key value="Base_url_tooltip">
+      <comment>Tooltip that appears in the transformation configuration dialog, above the text filed that contains the
+            base URL to which images in the output HTML are relative to.</comment>
+      <comment>
+         <val lang="en_US">Leave blank to resolve images relative to the edited file URL</val>
+      </comment>
+      <val lang="zh_CN">Leave blank to resolve images relative to the edited file URL</val>
+   </key>
+   <key value="File_URL">
+      <comment>Shows the URL of a file.</comment>
+      <comment>
+         <val lang="en_US">File URL:</val>
+      </comment>
+      <val lang="zh_CN">File URL:</val>
+   </key>
+   <key value="Item">
+      <comment>For example: "Found 10 Item(s)"</comment>
+      <comment>
+         <val lang="en_US">item</val>
+      </comment>
+      <val lang="zh_CN">item</val>
+   </key>
+   <key value="Normal">
+      <comment>Defines the speed of the check spelling the check spelling options.</comment>
+      <comment>
+         <val lang="en_US">Normal</val>
+      </comment>
+      <val lang="zh_CN">Normal</val>
+   </key>
+   <key value="Libraries">
+      <comment/>
+      <comment>
+         <val lang="en_US">Libraries</val>
+      </comment>
+      <val lang="zh_CN">Libraries</val>
+   </key>
+   <key value="Show_TAB_NBSP_EOL_EOF_marks">
+      <comment>Options/Aspect - to show or not the line and file markers.</comment>
+      <comment>
+         <val lang="en_US">Show TAB/NBSP/EOL/EOF marks</val>
+      </comment>
+      <val lang="zh_CN">Show TAB/NBSP/EOL/EOF marks</val>
+   </key>
+   <key value="File_Close_Others">
+      <comment>Appears in the popup menu available over the top of the tabs.</comment>
+      <comment>
+         <val lang="en_US">Close Other Files</val>
+      </comment>
+      <val lang="zh_CN">Close Other Files</val>
+   </key>
+   <key value="Scenario">
+      <comment>Defines an XSLT/FO transformation scenario</comment>
+      <comment>
+         <val lang="en_US">Scenario</val>
+      </comment>
+      <val lang="zh_CN">Scenario</val>
+   </key>
+   <key value="CREATE_BM9">
+      <comment>Create the bookmark with the name 9</comment>
+      <comment>
+         <val lang="en_US">Create 9</val>
+      </comment>
+      <val lang="zh_CN">Create 9</val>
+   </key>
+   <key value="CREATE_BM8">
+      <comment>Create the bookmark with the name 8</comment>
+      <comment>
+         <val lang="en_US">Create 8</val>
+      </comment>
+      <val lang="zh_CN">Create 8</val>
+   </key>
+   <key value="CREATE_BM7">
+      <comment/>
+      <comment>
+         <val lang="en_US">Create 7</val>
+      </comment>
+      <val lang="zh_CN">Create 7</val>
+   </key>
+   <key value="CREATE_BM6">
+      <comment/>
+      <comment>
+         <val lang="en_US">Create 6</val>
+      </comment>
+      <val lang="zh_CN">Create 6</val>
+   </key>
+   <key value="CREATE_BM5">
+      <comment/>
+      <comment>
+         <val lang="en_US">Create 5</val>
+      </comment>
+      <val lang="zh_CN">Create 5</val>
+   </key>
+   <key value="CREATE_BM4">
+      <comment/>
+      <comment>
+         <val lang="en_US">Create 4</val>
+      </comment>
+      <val lang="zh_CN">Create 4</val>
+   </key>
+   <key value="CREATE_BM3">
+      <comment/>
+      <comment>
+         <val lang="en_US">Create 3</val>
+      </comment>
+      <val lang="zh_CN">Create 3</val>
+   </key>
+   <key value="CREATE_BM2">
+      <comment/>
+      <comment>
+         <val lang="en_US">Create 2</val>
+      </comment>
+      <val lang="zh_CN">Create 2</val>
+   </key>
+   <key value="CREATE_BM1">
+      <comment/>
+      <comment>
+         <val lang="en_US">Create 1</val>
+      </comment>
+      <val lang="zh_CN">Create 1</val>
+   </key>
+   <key value="Save_URL">
+      <comment>Save remotely.</comment>
+      <comment>
+         <val lang="en_US">Save using FTP/WebDAV</val>
+      </comment>
+      <val lang="zh_CN">Save using FTP/WebDAV</val>
+   </key>
+   <key value="Start_editing">
+      <comment>Enters the editing mode - Tree editor.</comment>
+      <comment>
+         <val lang="en_US">Start Editing</val>
+      </comment>
+      <val lang="zh_CN">Start Editing</val>
+   </key>
+   <key value="No_XPath_result">
+      <comment>After applying an XPath.</comment>
+      <comment>
+         <val lang="en_US">The XPath query returned no results.</val>
+      </comment>
+      <val lang="zh_CN">The XPath query returned no results.</val>
+   </key>
+   <key value="Scenarios_exported_successfully">
+      <comment>Info message when the XSLT/FO messages were successfully exported.</comment>
+      <comment>
+         <val lang="en_US">Scenarios exported successfully.</val>
+      </comment>
+      <val lang="zh_CN">Scenarios exported successfully.</val>
+   </key>
+   <key value="DTD_Document">
+      <comment>A DTD document. In the "new" dialog.</comment>
+      <comment>
+         <val lang="en_US">DTD Document</val>
+      </comment>
+      <val lang="zh_CN">DTD Document</val>
+   </key>
+   <key value="No_input_file_specified">
+      <comment>Warning telling that the input for the XSLT operation was not defined.</comment>
+      <comment>
+         <val lang="en_US">No input file specified.</val>
+      </comment>
+      <val lang="zh_CN">No input file specified.</val>
+   </key>
+   <key value="File">
+      <comment>The classical data file. File menu </comment>
+      <comment>
+         <val lang="en_US">File</val>
+      </comment>
+      <val lang="zh_CN">File</val>
+   </key>
+   <key value="Insert_text">
+      <comment>Insert a text node in the tree editor.</comment>
+      <comment>
+         <val lang="en_US">Insert Text</val>
+      </comment>
+      <val lang="zh_CN">Insert Text</val>
+   </key>
+   <key value="File_Save_Results">
+      <comment>Saves the results from the current result tab.</comment>
+      <comment>
+         <val lang="en_US">Save Results</val>
+      </comment>
+      <val lang="zh_CN">Save Results</val>
+   </key>
+   <key value="Font_sample_text">
+      <comment>Used as sample in the font choose dialog.</comment>
+      <comment>
+         <val lang="en_US">&lt; A text sample &gt;</val>
+      </comment>
+      <val lang="zh_CN">&lt; A text sample &gt;</val>
+   </key>
+   <key value="No_of_licenses">
+      <comment>In the about dialog license.</comment>
+      <comment>
+         <val lang="en_US">Number of licenses</val>
+      </comment>
+      <val lang="zh_CN">Number of licenses</val>
+   </key>
+   <key value="Specified_path">
+      <comment>The find in files dialog. Searches in the specified directory. </comment>
+      <comment>
+         <val lang="en_US">Specified path</val>
+      </comment>
+      <val lang="zh_CN">Specified path</val>
+   </key>
+   <key value="Indent">
+      <comment>Indent section name in the Options/Editor/Format.</comment>
+      <comment>
+         <val lang="en_US">Indent</val>
+      </comment>
+      <val lang="zh_CN">Indent</val>
+   </key>
+   <key value="Prefer">
+      <comment>Like in "Prefer the DTD or Schema" </comment>
+      <comment>
+         <val lang="en_US">Prefer</val>
+      </comment>
+      <val lang="zh_CN">Prefer</val>
+   </key>
+   <key value="Choose">
+      <comment>The user must choose from some listed values. Or choose a shortcut.</comment>
+      <comment>
+         <val lang="en_US">Choose</val>
+      </comment>
+      <val lang="zh_CN">Choose</val>
+   </key>
+   <key distribution="common" value="Pretty_print">
+      <comment>Nicely formats a document.</comment>
+      <comment>
+         <val lang="en_US">Format and Indent</val>
+      </comment>
+      <val lang="zh_CN">Format and Indent</val>
+   </key>
+   <key distribution="common" value="Rename">
+      <comment>Rename. For example a folder in a project. Or an Element in the tree editor.</comment>
+      <comment>
+         <val lang="en_US">Rename</val>
+      </comment>
+      <val lang="zh_CN">Rename</val>
+   </key>
+   <key value="Open_project">
+      <comment>Action name for opening a project.</comment>
+      <comment>
+         <val lang="en_US">Open project</val>
+      </comment>
+      <val lang="zh_CN">Open project</val>
+   </key>
+   <key value="Invalid_url">
+      <comment>The input URL was not valid.</comment>
+      <comment>
+         <val lang="en_US">Invalid URL</val>
+      </comment>
+      <val lang="zh_CN">Invalid URL</val>
+   </key>
+   <key distribution="eclipse" value="Indent_selection_command">
+      <comment>Nicely formats the selected text in the editor. Available in the context menu over the
+            editor.</comment>
+      <comment>
+         <val lang="en_US">Indent Selection</val>
+      </comment>
+      <val lang="zh_CN">Indent Selection</val>
+   </key>
+   <key distribution="common" value="Indent_selection">
+      <comment>Nicely formats the selected text in the editor. Available in the context menu over the
+            editor.</comment>
+      <comment>
+         <val lang="en_US" mnemonic="0">&amp;Indent Selection</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="0">&amp;Indent Selection</val>
+   </key>
+   <key value="Licensed_to">
+      <comment>Person that is licensed to use the editor.</comment>
+      <comment>
+         <val lang="en_US">Licensed to</val>
+      </comment>
+      <val lang="zh_CN">Licensed to</val>
+   </key>
+   <key value="Connecting_to_server">
+      <comment>Status message/</comment>
+      <comment>
+         <val lang="en_US">Connecting to server...</val>
+      </comment>
+      <val lang="zh_CN">Connecting to server...</val>
+   </key>
+   <key value="The_path_of_the_current_file">
+      <comment/>
+      <comment>
+         <val lang="en_US">The path of the currently edited file</val>
+      </comment>
+      <val lang="zh_CN">The path of the currently edited file</val>
+   </key>
+   <key value="Advanced_options">
+      <comment/>
+      <comment>
+         <val lang="en_US">Advanced options</val>
+      </comment>
+      <val lang="zh_CN">Advanced options</val>
+   </key>
+   <key value="Shortcut_key">
+      <comment/>
+      <comment>
+         <val lang="en_US">Shortcut key</val>
+      </comment>
+      <val lang="zh_CN">Shortcut key</val>
+   </key>
+   <key value="Close_all_tabs">
+      <comment>Close all the tabs - editors or results</comment>
+      <comment>
+         <val lang="en_US">Close All Tabs</val>
+      </comment>
+      <val lang="zh_CN">Close All Tabs</val>
+   </key>
+   <key value="FO_Processor">
+      <comment>Formatting Objects Processor</comment>
+      <comment>
+         <val lang="en_US">FO Processor</val>
+      </comment>
+      <val lang="zh_CN">FO Processor</val>
+   </key>
+   <key value="Maximum_no_of_lines">
+      <comment>Options/Preferences/Results-Output. The maximum number of lines that can be displayed in the results
+            pane, for example after a find.</comment>
+      <comment>
+         <val lang="en_US">Maximum number of lines</val>
+      </comment>
+      <val lang="zh_CN">Maximum number of lines</val>
+   </key>
+   <key value="Apply_transform_XML_tooltip">
+      <comment>Tooltip for the input URL in the transformation configuration dialog.</comment>
+      <comment>
+         <val lang="en_US">The transformation will be applied on the XML document at this URL</val>
+      </comment>
+      <val lang="zh_CN">The transformation will be applied on the XML document at this URL</val>
+   </key>
+   <key value="Revert">
+      <comment>Revert to the file on the disk. Changes are dropped.</comment>
+      <comment>
+         <val lang="en_US">Revert</val>
+      </comment>
+      <val lang="zh_CN">Revert</val>
+   </key>
+   <key value="Project">
+      <comment>The Project. The menus referring to the project and the open/save project use this label.</comment>
+      <comment>
+         <val lang="en_US">Project</val>
+      </comment>
+      <val lang="zh_CN">Project</val>
+   </key>
+   <key value="XSLT_result_as_input">
+      <comment>The FO processor will receive the XSLT result as input.</comment>
+      <comment>
+         <val lang="en_US">XSLT result as input</val>
+      </comment>
+      <val lang="zh_CN">XSLT result as input</val>
+   </key>
+   <key value="Duplicate_word">
+      <comment>Warns that a word contains a sequence of duplicated words.</comment>
+      <comment>
+         <val lang="en_US">Duplicate word</val>
+      </comment>
+      <val lang="zh_CN">Duplicate word</val>
+   </key>
+   <key value="About">
+      <comment>In the help menu.</comment>
+      <comment>
+         <val lang="en_US">About</val>
+      </comment>
+      <val lang="zh_CN">About</val>
+   </key>
+   <key value="Open_URL">
+      <comment>Opens a remote file.</comment>
+      <comment>
+         <val lang="en_US">Open using SFTP/WebDAV</val>
+      </comment>
+      <val lang="zh_CN">Open using SFTP/WebDAV</val>
+   </key>
+   <key value="Confirm">
+      <comment>Displayed in the titles of the confirmation dialogs.</comment>
+      <comment>
+         <val lang="en_US">Confirm</val>
+      </comment>
+      <val lang="zh_CN">Confirm</val>
+   </key>
+   <key value="Pretty_print_tooltip">
+      <comment>Tooltip for the pretty print button.</comment>
+      <comment>
+         <val lang="en_US">Format and Indent</val>
+      </comment>
+      <val lang="zh_CN">Format and Indent</val>
+   </key>
+   <key value="Show_tips_at_startup">
+      <comment>Tip of the day.</comment>
+      <comment>
+         <val lang="en_US">Show tips at startup</val>
+      </comment>
+      <val lang="zh_CN">Show tips at startup</val>
+   </key>
+   <key value="Node">
+      <comment>XML node</comment>
+      <comment>
+         <val lang="en_US">Node</val>
+      </comment>
+      <val lang="zh_CN">Node</val>
+   </key>
+   <key value="After">
+      <comment>Tree editor, navigation bar. Shows the nodes "After" the current node.</comment>
+      <comment>
+         <val lang="en_US">After</val>
+      </comment>
+      <val lang="zh_CN">After</val>
+   </key>
+   <key value="Editor_background_color">
+      <comment>The background color of the editing area.</comment>
+      <comment>
+         <val lang="en_US">Editor background color</val>
+      </comment>
+      <val lang="zh_CN">Editor background color</val>
+   </key>
+   <key value="Insert_attribute">
+      <comment>Tree editor. Inserts an attribute into the current element.</comment>
+      <comment>
+         <val lang="en_US">Insert Attribute</val>
+      </comment>
+      <val lang="zh_CN">Insert Attribute</val>
+   </key>
+   <key value="Delete">
+      <comment>Delete a node or a folder/file from the project.</comment>
+      <comment>
+         <val lang="en_US">Delete</val>
+      </comment>
+      <val lang="zh_CN">Delete</val>
+   </key>
+   <key value="Show_all_entities">
+      <comment>Options/Preferences/Tag Insight/Features Whether or not to show all entities defined in the DTD of the
+            document in the tag insight list.</comment>
+      <comment>
+         <val lang="en_US">Show all entities</val>
+      </comment>
+      <val lang="zh_CN">Show all entities</val>
+   </key>
+   <key distribution="common" value="Move_down">
+      <comment>Tree editor. Moves a node down.</comment>
+      <comment>
+         <val lang="en_US">Move Down</val>
+      </comment>
+      <val lang="zh_CN">Move Down</val>
+   </key>
+   <key value="In_progress">
+      <comment>When an action is made on a thread. For instance transformation. "validation" in progress.
+            "transformation" in progress. </comment>
+      <comment>
+         <val lang="en_US">in progress.</val>
+      </comment>
+      <val lang="zh_CN">in progress.</val>
+   </key>
+   <key distribution="common" value="XML_Parser">
+      <comment>Options/Preferences/XML Parser options. </comment>
+      <comment>
+         <val lang="en_US">XML Parser</val>
+      </comment>
+      <val lang="zh_CN">XML Parser</val>
+   </key>
+   <key value="XML_Parser_Properties">
+      <comment>Options/Preferences/XML Parser options. </comment>
+      <comment>
+         <val lang="en_US">XML Parser Properties</val>
+      </comment>
+      <val lang="zh_CN">XML Parser Properties</val>
+   </key>
+   <key value="Relax_NG" distribution="common" skipTranslation="true">
+      <comment>Section title in XML Parser Options page</comment>
+      <comment>
+         <val lang="en_US">RELAX NG</val>
+      </comment>
+      <val lang="zh_CN">RELAX NG</val>
+   </key>
+   <key value="RELAX_NG_Schema">
+      <comment>In the new document dialog.</comment>
+      <comment>
+         <val lang="en_US">RELAX NG Schema</val>
+      </comment>
+      <val lang="zh_CN">RELAX NG Schema</val>
+   </key>
+   <key value="Edit_Redo">
+      <comment/>
+      <comment>
+         <val lang="en_US">Redo</val>
+      </comment>
+      <val lang="zh_CN">Redo</val>
+   </key>
+   <key value="The_document_has_no_schema">
+      <comment>The user clicked the button that opens the schema of the edited XML. This is the error
+            message.</comment>
+      <comment>
+         <val lang="en_US">The document has no schema.</val>
+      </comment>
+      <val lang="zh_CN">The document has no schema.</val>
+   </key>
+   <key value="The_path_of_the_current_file_directory">
+      <comment>Options/External Tools/New or Edit. An editor variable that expands into the path of the current
+            directory.</comment>
+      <comment>
+         <val lang="en_US">The path of current file directory</val>
+      </comment>
+      <val lang="zh_CN">The path of current file directory</val>
+   </key>
+   <key value="Oxygen_web_site">
+      <comment>The Help menu.</comment>
+      <comment>
+         <val lang="en_US">Browse Oxygen Website</val>
+      </comment>
+      <val lang="zh_CN">Browse Oxygen Website</val>
+   </key>
+   <key value="Apply_XSL_XML_input_required">
+      <comment>It was attempted an XSL transformation without properly defining the input.</comment>
+      <comment>
+         <val lang="en_US">You need a valid XML URL as input for the XSLT</val>
+      </comment>
+      <val lang="zh_CN">You need a valid XML URL as input for the XSLT</val>
+   </key>
+   <key value="Show_hide_comments">
+      <comment>Tree editor. Controls the show or hide of the comments.</comment>
+      <comment>
+         <val lang="en_US">Show/Hide Comments</val>
+      </comment>
+      <val lang="zh_CN">Show/Hide Comments</val>
+   </key>
+   <key value="Insert_element">
+      <comment>Tree editor. Inserts a new element.</comment>
+      <comment>
+         <val lang="en_US">Insert Element</val>
+      </comment>
+      <val lang="zh_CN">Insert Element</val>
+   </key>
+   <key value="Wrong_xerces_impl_1">
+      <comment>1st line in the message complaining about a bad xerces version.</comment>
+      <comment>
+         <val lang="en_US">The expected Xerces version</val>
+      </comment>
+      <val lang="zh_CN">The expected Xerces version</val>
+   </key>
+   <key value="Wrong_xerces_impl_2">
+      <comment>2nd line in the message complaining about a bad xerces version.</comment>
+      <comment>
+         <val lang="en_US">was not loaded due to the fact that the version</val>
+      </comment>
+      <val lang="zh_CN">was not loaded due to the fact that the version</val>
+   </key>
+   <key value="Wrong_xerces_impl_3">
+      <comment>3rd line in the message complaining about a bad xerces version.</comment>
+      <comment>
+         <val lang="en_US">is added as an extension to the JVM. This can cause program malfunction. It is strongly
+            recommended to remove the Xerces implementation located at:</val>
+      </comment>
+      <val lang="zh_CN">is added as an extension to the JVM. This can cause program malfunction. It is strongly
+            recommended to remove the Xerces implementation located at:</val>
+   </key>
+   <key value="Saving_file">
+      <comment>When a save operation takes a long time (over FTP for ex.) a progress dialog is displayed, with this
+            title.</comment>
+      <comment>
+         <val lang="en_US">Saving file</val>
+      </comment>
+      <val lang="zh_CN">Saving file</val>
+   </key>
+   <key value="User">
+      <comment>Open URL dialog. Authentication part.</comment>
+      <comment>
+         <val lang="en_US">User</val>
+      </comment>
+      <val lang="zh_CN">User</val>
+   </key>
+   <key value="Check_XHTML_tooltip">
+      <comment>Transformation configuration dialog, the output part.</comment>
+      <comment>
+         <val lang="en_US">Select this if you want to see the result in the XHTML panel</val>
+      </comment>
+      <val lang="zh_CN">Select this if you want to see the result in the XHTML panel</val>
+   </key>
+   <key value="Tip_of_the_day">
+      <comment/>
+      <comment>
+         <val lang="en_US">Tip of the Day</val>
+      </comment>
+      <val lang="zh_CN">Tip of the Day</val>
+   </key>
+   <key value="Select_FO_processor_tooltip">
+      <comment>Transformation Configuration Dialog. Tooltip for the combo that selects the FO processor.</comment>
+      <comment>
+         <val lang="en_US">Select the FO processor</val>
+      </comment>
+      <val lang="zh_CN">Select the FO processor</val>
+   </key>
+   <key distribution="common" value="Convert_to">
+      <comment>Tooltip for the conversion button in the toolbar.</comment>
+      <comment>
+         <val lang="en_US">Convert to</val>
+      </comment>
+      <val lang="zh_CN">Convert to</val>
+   </key>
+   <key value="Replace_result">
+      <comment>After performing a "replace in files", this is the title of the presented statistics dialog.</comment>
+      <comment>
+         <val lang="en_US">Replace Result</val>
+      </comment>
+      <val lang="zh_CN">Replace Result</val>
+   </key>
+   <key value="First">
+      <comment>Tree editor. The panel that lists the available nodes to be inserted. Specifies that the selection is
+            to be inserted the first.</comment>
+      <comment>
+         <val lang="en_US">First</val>
+      </comment>
+      <val lang="zh_CN">First</val>
+   </key>
+   <key distribution="common" value="Output">
+      <comment>Transformation configuration dialog and Trang configuration dialog. Defines the output file, or the
+            name of the output tab. "Output"</comment>
+      <comment>
+         <val lang="en_US">Output</val>
+      </comment>
+      <val lang="zh_CN">Output</val>
+   </key>
+   <key value="Apply_transform_XSL_tooltip">
+      <comment>Transformation configuration dialog. Tooltip over the input text field when defining a scenario for the
+            transformation that applies to an XML document.</comment>
+      <comment>
+         <val lang="en_US">The URL of the XSLT document specifying the transformation</val>
+      </comment>
+      <val lang="zh_CN">The URL of the XSLT document specifying the transformation</val>
+   </key>
+   <key value="Font_family">
+      <comment>Options/Preferences/Editor/Aspect/Font The font family.</comment>
+      <comment>
+         <val lang="en_US">Font family:</val>
+      </comment>
+      <val lang="zh_CN">Font family:</val>
+   </key>
+   <key value="Information">
+      <comment>Title for the information small dialogs.</comment>
+      <comment>
+         <val lang="en_US">Information</val>
+      </comment>
+      <val lang="zh_CN">Information</val>
+   </key>
+   <key value="Server_URL">
+      <comment>Open URL dialog. Input for the server URL.</comment>
+      <comment>
+         <val lang="en_US">Server URL</val>
+      </comment>
+      <val lang="zh_CN">Server URL</val>
+   </key>
+   <key value="File_Close_All">
+      <comment>File menu. Closes all the files.</comment>
+      <comment>
+         <val lang="en_US">Close All</val>
+      </comment>
+      <val lang="zh_CN">Close All</val>
+   </key>
+   <key value="Days">
+      <comment>About box. The days in which the license will expire.</comment>
+      <comment>
+         <val lang="en_US">days</val>
+      </comment>
+      <val lang="zh_CN">days</val>
+   </key>
+   <key value="Input">
+      <comment>Transformation configuration "Input" for the FO Processor. Also used in the Trang conversion Dialog,
+            when choosing the input file.</comment>
+      <comment>
+         <val lang="en_US">Input</val>
+      </comment>
+      <val lang="zh_CN">Input</val>
+   </key>
+   <key value="Window">
+      <comment>The main menu: "Window"</comment>
+      <comment>
+         <val lang="en_US">Window</val>
+      </comment>
+      <val lang="zh_CN">Window</val>
+   </key>
+   <key value="File_Exit">
+      <comment>File menu, exit option.</comment>
+      <comment>
+         <val lang="en_US">Exit</val>
+      </comment>
+      <val lang="zh_CN">Exit</val>
+   </key>
+   <key value="Please_use_for_instance">
+      <comment>When the encoding of the document is badly specified, the save is not possible. This error message is
+            displayed.</comment>
+      <comment>
+         <val lang="en_US">Please use for instance UTF-8.</val>
+      </comment>
+      <val lang="zh_CN">Please use for instance UTF-8.</val>
+   </key>
+   <key value="Edit_Paste">
+      <comment>Edit menu.</comment>
+      <comment>
+         <val lang="en_US">Paste</val>
+      </comment>
+      <val lang="zh_CN">Paste</val>
+   </key>
+   <key value="Another_operation_is_in_progress">
+      <comment>When pressing validate twice for instance for the same file, the first one not ended yet, the editor
+            complains about the first operation is in progress.</comment>
+      <comment>
+         <val lang="en_US">Another operation is in progress.</val>
+      </comment>
+      <val lang="zh_CN">Another operation is in progress.</val>
+   </key>
+   <key value="File_filter">
+      <comment>Find in files dialog.</comment>
+      <comment>
+         <val lang="en_US">File filter</val>
+      </comment>
+      <val lang="zh_CN">File filter</val>
+   </key>
+   <key value="Tools">
+      <comment>Tools menu.</comment>
+      <comment>
+         <val lang="en_US">Tools</val>
+      </comment>
+      <val lang="zh_CN">Tools</val>
+   </key>
+   <key distribution="common" value="Escape_selection">
+      <comment>Contextual menu over the editing area. transforms for example "a&gt;&gt;b" into "a&gt;&gt;b"</comment>
+      <comment>
+         <val lang="en_US">Escape Selection</val>
+      </comment>
+      <val lang="zh_CN">Escape Selection</val>
+   </key>
+   <key value="Cant_find_the_specified_file">
+      <comment>Input error.</comment>
+      <comment>
+         <val lang="en_US">Cannot find the specified file</val>
+      </comment>
+      <val lang="zh_CN">Cannot find the specified file</val>
+   </key>
+   <key value="Transformation">
+      <comment>Line in "Transformation" in progress.</comment>
+      <comment>
+         <val lang="en_US">Transformation</val>
+      </comment>
+      <val lang="zh_CN">Transformation</val>
+   </key>
+   <key value="Move">
+      <comment>Tree editor. The Move menu.</comment>
+      <comment>
+         <val lang="en_US">Move</val>
+      </comment>
+      <val lang="zh_CN">Move</val>
+   </key>
+   <key value="Automatic_version_checking">
+      <comment>Options/Preferences/Global Checks for new Oxygen versions at the startup.</comment>
+      <comment>
+         <val lang="en_US">Automatic Version Checking</val>
+      </comment>
+      <val lang="zh_CN">Automatic Version Checking</val>
+   </key>
+   <key value="Open_in_editor">
+      <comment>Trang conversion dialog. If the result is to be opened into the editor.</comment>
+      <comment>
+         <val lang="en_US">Open in Editor</val>
+      </comment>
+      <val lang="zh_CN">Open in Editor</val>
+   </key>
+   <key value="Transform_now">
+      <comment>Button in the Transformation configuration dialog. Saves and starts the transformation.</comment>
+      <comment>
+         <val lang="en_US">Transform now</val>
+      </comment>
+      <val lang="zh_CN">Transform now</val>
+   </key>
+   <key value="Show_message" distribution="common">
+      <comment>The results tabs, contextual menu over a result. Shows a dialog with the wrapped message.</comment>
+      <comment>
+         <val lang="en_US">Show message</val>
+      </comment>
+      <val lang="zh_CN">Show message</val>
+   </key>
+   <key value="Edit">
+      <comment>The edit menu.</comment>
+      <comment>
+         <val lang="en_US">Edit</val>
+      </comment>
+      <val lang="zh_CN">Edit</val>
+   </key>
+   <key value="Bookmarks">
+      <comment>Edit/Bookmarks menu.</comment>
+      <comment>
+         <val lang="en_US">Bookmarks</val>
+      </comment>
+      <val lang="zh_CN">Bookmarks</val>
+   </key>
+   <key value="Attribute">
+      <comment>Tree Editor, the attribute panel. An XML attribute.</comment>
+      <comment>
+         <val lang="en_US">Attribute</val>
+      </comment>
+      <val lang="zh_CN">Attribute</val>
+   </key>
+   <key value="Edit_scenario">
+      <comment>The transformation configuration dialog, the title.</comment>
+      <comment>
+         <val lang="en_US">Edit scenario</val>
+      </comment>
+      <val lang="zh_CN">Edit scenario</val>
+   </key>
+   <key value="Ignore_mixed_case_words">
+      <comment>Spelling Dialog/Options</comment>
+      <comment>
+         <val lang="en_US">Ignore mixed case words</val>
+      </comment>
+      <val lang="zh_CN">Ignore mixed case words</val>
+   </key>
+   <key value="Indent_with_tabs">
+      <comment>Options/Preferences/Editor/Format</comment>
+      <comment>
+         <val lang="en_US">Indent with tabs</val>
+      </comment>
+      <val lang="zh_CN">Indent with tabs</val>
+   </key>
+   <key value="Image_urls_are_relative_to">
+      <comment>Transformation configuration dialog. The output pane. The images from the output are relative to the
+            spec. URL. </comment>
+      <comment>
+         <val lang="en_US">Image URLs are relative to:</val>
+      </comment>
+      <val lang="zh_CN">Image URLs are relative to:</val>
+   </key>
+   <key value="Opening_file">
+      <comment>Progress dialog, when opening large files, or over FTP.</comment>
+      <comment>
+         <val lang="en_US">Opening file</val>
+      </comment>
+      <val lang="zh_CN">Opening file</val>
+   </key>
+   <key value="Items">
+      <comment>Like in "5 items" in the results of a find.</comment>
+      <comment>
+         <val lang="en_US">items</val>
+      </comment>
+      <val lang="zh_CN">items</val>
+   </key>
+   <key value="Items_capitalized">
+      <comment>Like in "Items", a title..</comment>
+      <comment>
+         <val lang="en_US">Items</val>
+      </comment>
+      <val lang="zh_CN">Items</val>
+   </key>
+   <key value="Duplicate">
+      <comment>Duplicate a transformation scenario.</comment>
+      <comment>
+         <val lang="en_US">Duplicate</val>
+      </comment>
+      <val lang="zh_CN">Duplicate</val>
+   </key>
+   <key value="Value">
+      <comment>Like in "name and value"</comment>
+      <comment>
+         <val lang="en_US">Value</val>
+      </comment>
+      <val lang="zh_CN">Value</val>
+   </key>
+   <key value="Create">
+      <comment>Create a bookmark.</comment>
+      <comment>
+         <val lang="en_US">Create</val>
+      </comment>
+      <val lang="zh_CN">Create</val>
+   </key>
+   <key value="Tree">
+      <comment>The "Tree" editor.</comment>
+      <comment>
+         <val lang="en_US">Tree</val>
+      </comment>
+      <val lang="zh_CN">Tree</val>
+   </key>
+   <key value="Insert">
+      <comment>Tree editor. Inserts a node.</comment>
+      <comment>
+         <val lang="en_US">Insert</val>
+      </comment>
+      <val lang="zh_CN">Insert</val>
+   </key>
+   <key value="Sample">
+      <comment>An example</comment>
+      <comment>
+         <val lang="en_US">Sample:</val>
+      </comment>
+      <val lang="zh_CN">Sample:</val>
+   </key>
+   <key value="File_Save_To_URL">
+      <comment>The file menu.</comment>
+      <comment>
+         <val lang="en_US">Save to URL</val>
+      </comment>
+      <val lang="zh_CN">Save to URL</val>
+   </key>
+   <key value="Cannot_search_for_a_blank_string">
+      <comment>Error message in find.</comment>
+      <comment>
+         <val lang="en_US">Cannot search for a blank string.</val>
+      </comment>
+      <val lang="zh_CN">Cannot search for a blank string.</val>
+   </key>
+   <key value="Catalogs">
+      <comment>Options/Preferences/XML Catalogs/Header of the catalogs table.</comment>
+      <comment>
+         <val lang="en_US">Catalogs</val>
+      </comment>
+      <val lang="zh_CN">Catalogs</val>
+   </key>
+   <key value="Autoconnect">
+      <comment>Open URL dialog. If the dialog should connect automatically when it became visible.</comment>
+      <comment>
+         <val lang="en_US">Autoconnect</val>
+      </comment>
+      <val lang="zh_CN">Autoconnect</val>
+   </key>
+   <key value="Invalid_XPath_expression">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">Invalid XPath expression</val>
+      </comment>
+      <val lang="zh_CN">Invalid XPath expression</val>
+   </key>
+   <key value="Name">
+      <comment>Like in "name and value"</comment>
+      <comment>
+         <val lang="en_US">Name</val>
+      </comment>
+      <val lang="zh_CN">Name</val>
+   </key>
+   <key value="Apply_XML_XSL_input_required">
+      <comment>It was attempted an XSL transformation without properly defining the input.</comment>
+      <comment>
+         <val lang="en_US">You need a valid XSL URL as input</val>
+      </comment>
+      <val lang="zh_CN">You need a valid XSL URL as input</val>
+   </key>
+   <key value="Options">
+      <comment>The options menu.</comment>
+      <comment>
+         <val lang="en_US">Options</val>
+      </comment>
+      <val lang="zh_CN">Options</val>
+   </key>
+   <key value="Password">
+      <comment>Open URL dialog. The password for the connection.</comment>
+      <comment>
+         <val lang="en_US">Password</val>
+      </comment>
+      <val lang="zh_CN">Password</val>
+   </key>
+   <key value="Change_printing_scale">
+      <comment>Options/Preferences/Print. How the document is to be scaled when printing.</comment>
+      <comment>
+         <val lang="en_US">Printing Scale</val>
+      </comment>
+      <val lang="zh_CN">Printing Scale</val>
+   </key>
+   <key value="Parameters">
+      <comment/>
+      <comment>
+         <val lang="en_US">Parameters</val>
+      </comment>
+      <val lang="zh_CN">Parameters</val>
+   </key>
+   <key value="Guess">
+      <comment>Spelling Dialog. Above the list of word approximations.</comment>
+      <comment>
+         <val lang="en_US">Guess</val>
+      </comment>
+      <val lang="zh_CN">Guess</val>
+   </key>
+   <key distribution="common" value="Check_spelling">
+      <comment>Edit/Check Spelling menu.</comment>
+      <comment>
+         <val lang="en_US">Check Spelling</val>
+      </comment>
+      <val lang="zh_CN">Check Spelling</val>
+   </key>
+   <key distribution="common" value="Templates">
+      <comment>Title for the templates dialog.</comment>
+      <comment>
+         <val lang="en_US">Templates</val>
+      </comment>
+      <val lang="zh_CN">Templates</val>
+   </key>
+   <key value="The_input_fo_file">
+      <comment>Options/Preferences/FO Processors/new/ The FO editor variable description.</comment>
+      <comment>
+         <val lang="en_US">The input FO file</val>
+      </comment>
+      <val lang="zh_CN">The input FO file</val>
+   </key>
+   <key value="Buy_now">
+      <comment>The buy-now shortcut in the help menu.</comment>
+      <comment>
+         <val lang="en_US">Buy now</val>
+      </comment>
+      <val lang="zh_CN">Buy now</val>
+   </key>
+   <key value="Around">
+      <comment>Tree editor. Navigation bar. Nodes around the selected node.</comment>
+      <comment>
+         <val lang="en_US">Around</val>
+      </comment>
+      <val lang="zh_CN">Around</val>
+   </key>
+   <key value="Edit_Undo">
+      <comment/>
+      <comment>
+         <val lang="en_US">Undo</val>
+      </comment>
+      <val lang="zh_CN">Undo</val>
+   </key>
+   <key value="Goto">
+      <comment>Edit/Bookmarks/Go to menu item.</comment>
+      <comment>
+         <val lang="en_US">Go to</val>
+      </comment>
+      <val lang="zh_CN">Go to</val>
+   </key>
+   <key value="Add">
+      <comment/>
+      <comment>
+         <val lang="en_US">Add</val>
+      </comment>
+      <val lang="zh_CN">Add</val>
+   </key>
+   <key distribution="common" value="File_New_From_Template">
+      <comment/>
+      <comment>
+         <val lang="en_US">New from Templates</val>
+      </comment>
+      <val lang="zh_CN">New from Templates</val>
+   </key>
+   <key value="Help">
+      <comment/>
+      <comment>
+         <val lang="en_US">Help</val>
+      </comment>
+      <val lang="zh_CN">Help</val>
+   </key>
+   <key value="Overwrite">
+      <comment/>
+      <comment>
+         <val lang="en_US">Overwrite</val>
+      </comment>
+      <val lang="zh_CN">Overwrite</val>
+   </key>
+   <key value="Close_other_tabs">
+      <comment>The contextual menu over the tab labels. Closes all other tabs, leaving open the selected
+            one.</comment>
+      <comment>
+         <val lang="en_US">Close Other Tabs</val>
+      </comment>
+      <val lang="zh_CN">Close Other Tabs</val>
+   </key>
+   <key value="The_fop_transformation_method">
+      <comment>The method can be PDF, PS, TXT</comment>
+      <comment>
+         <val lang="en_US">The FOP transformation method</val>
+      </comment>
+      <val lang="zh_CN">The FOP transformation method</val>
+   </key>
+   <key value="Malformed_expression">
+      <comment>The regular expression used in find/replace was not valid.</comment>
+      <comment>
+         <val lang="en_US">Malformed expression</val>
+      </comment>
+      <val lang="zh_CN">Malformed expression</val>
+   </key>
+   <key value="Language">
+      <comment>Options/Preferences/General. The user can select the language.</comment>
+      <comment>
+         <val lang="en_US">Language</val>
+      </comment>
+      <val lang="zh_CN">Language</val>
+   </key>
+   <key value="Encoding">
+      <comment>Trang conversion dialog. The encoding of the output file.</comment>
+      <comment>
+         <val lang="en_US">Encoding</val>
+      </comment>
+      <val lang="zh_CN">Encoding</val>
+   </key>
+   <key value="Ignore_All">
+      <comment>Spell dialog. If the same word is to be ignored in all its occurrences.</comment>
+      <comment>
+         <val lang="en_US">Ignore All</val>
+      </comment>
+      <val lang="zh_CN">Ignore All</val>
+   </key>
+   <key value="Learn_completed">
+      <comment>The learn structure operation is completed.</comment>
+      <comment>
+         <val lang="en_US">Learn completed</val>
+      </comment>
+      <val lang="zh_CN">Learn completed</val>
+   </key>
+   <key value="Compact">
+      <comment>The trang conversion dialog. Like "Compact" + "RN Schema"</comment>
+      <comment>
+         <val lang="en_US">Compact</val>
+      </comment>
+      <val lang="zh_CN">Compact</val>
+   </key>
+   <key value="At_start">
+      <comment>Tree editor. Navigation bar. Presents the nodes from the start of the children list of the parent
+            node.</comment>
+      <comment>
+         <val lang="en_US">At start</val>
+      </comment>
+      <val lang="zh_CN">At start</val>
+   </key>
+   <key value="Insert_the_fixed_attributes">
+      <comment>Options/Preferences/Editor/Content Completion/Features. If the fixed attributes must be inserted
+            automatically when entering an element.</comment>
+      <comment>
+         <val lang="en_US">Insert the fixed attributes</val>
+      </comment>
+      <val lang="zh_CN">Insert the fixed attributes</val>
+   </key>
+   <key value="Do_you_want_to_continue">
+      <comment>When overwriting some file.</comment>
+      <comment>
+         <val lang="en_US">Do you want to continue?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to continue?</val>
+   </key>
+   <key value="Selection_foreground_color">
+      <comment>Options/Preferences/Editor/Aspect</comment>
+      <comment>
+         <val lang="en_US">Selection foreground color</val>
+      </comment>
+      <val lang="zh_CN">Selection foreground color</val>
+   </key>
+   <key value="More">
+      <comment/>
+      <comment>
+         <val lang="en_US">More</val>
+      </comment>
+      <val lang="zh_CN">More</val>
+   </key>
+   <key value="Selection_background_color">
+      <comment>Options/Preferences/Editor/Aspect</comment>
+      <comment>
+         <val lang="en_US">Selection background color</val>
+      </comment>
+      <val lang="zh_CN">Selection background color</val>
+   </key>
+   <key value="Available_java_encodings">
+      <comment>Shows the list of available encodings, when the editor could not determine one automatically.</comment>
+      <comment>
+         <val lang="en_US">Available Java encodings</val>
+      </comment>
+      <val lang="zh_CN">Available Java encodings</val>
+   </key>
+   <key distribution="common" value="Expand_all">
+      <comment>Tree Editor and Outliner. Expands all nodes under the selection.</comment>
+      <comment>
+         <val lang="en_US">Expand All</val>
+      </comment>
+      <val lang="zh_CN">Expand All</val>
+   </key>
+   <key value="XML_documents">
+      <comment>Trang conversion dialog. The list of input documents for the conversion.</comment>
+      <comment>
+         <val lang="en_US">XML Documents</val>
+      </comment>
+      <val lang="zh_CN">XML Documents</val>
+   </key>
+   <key value="Remove_all">
+      <comment>Edit/Bookmarks/Remove All</comment>
+      <comment>
+         <val lang="en_US">Remove all</val>
+      </comment>
+      <val lang="zh_CN">Remove all</val>
+   </key>
+   <key value="Print">
+      <comment>File/Print</comment>
+      <comment>
+         <val lang="en_US">Print</val>
+      </comment>
+      <val lang="zh_CN">Print</val>
+   </key>
+   <key value="Other">
+      <comment>Options/Preferences/Editor/Content Completion/XSL</comment>
+      <comment>
+         <val lang="en_US">Other</val>
+      </comment>
+      <val lang="zh_CN">Other</val>
+   </key>
+   <key value="Enable_XInclude_processing">
+      <comment/>
+      <comment>
+         <val lang="en_US">Enable XInclude processing</val>
+      </comment>
+      <val lang="zh_CN">Enable XInclude processing</val>
+   </key>
+   <key value="Tree_editor">
+      <comment/>
+      <comment>
+         <val lang="en_US">Tree Editor</val>
+      </comment>
+      <val lang="zh_CN">Tree Editor</val>
+   </key>
+   <key value="Specify_the_tag">
+      <comment>Editor contextual menu/ Surround in Asks the user to input the name of a tag used for
+            annotate.</comment>
+      <comment>
+         <val lang="en_US">Specify the tag</val>
+      </comment>
+      <val lang="zh_CN">Specify the tag</val>
+   </key>
+   <key value="Font">
+      <comment>Options/Preferences/Editor/Aspect</comment>
+      <comment>
+         <val lang="en_US">Font</val>
+      </comment>
+      <val lang="zh_CN">Font</val>
+   </key>
+   <key value="Scenario_name_already_in_use">
+      <comment>Error message box.</comment>
+      <comment>
+         <val lang="en_US">Scenario name is already in use.</val>
+      </comment>
+      <val lang="zh_CN">Scenario name is already in use.</val>
+   </key>
+   <key value="Footer">
+      <comment/>
+      <comment>
+         <val lang="en_US">Footer</val>
+      </comment>
+      <val lang="zh_CN">Footer</val>
+   </key>
+   <key value="No_output_file_specified">
+      <comment>Related to Trang converter.</comment>
+      <comment>
+         <val lang="en_US">No output file specified.</val>
+      </comment>
+      <val lang="zh_CN">No output file specified.</val>
+   </key>
+   <key value="Apply">
+      <comment/>
+      <comment>
+         <val lang="en_US">Apply</val>
+      </comment>
+      <val lang="zh_CN">Apply</val>
+   </key>
+   <key value="Find_replace_in_files">
+      <comment>Find menu option.</comment>
+      <comment>
+         <val lang="en_US">Find/Replace in Files</val>
+      </comment>
+      <val lang="zh_CN">Find/Replace in Files</val>
+   </key>
+   <key value="Ignore_words_with_digits">
+      <comment>Checking Spell dialog option.</comment>
+      <comment>
+         <val lang="en_US">Ignore words with digits</val>
+      </comment>
+      <val lang="zh_CN">Ignore words with digits</val>
+   </key>
+   <key value="Restart_application_multiple_changes">
+      <comment>Message box displayed when prompted for restart.</comment>
+      <comment>
+         <val lang="en_US">To apply these changes, you must restart the application.</val>
+      </comment>
+      <val lang="zh_CN">To apply these changes, you must restart the application.</val>
+   </key>
+   <key value="Restart_application">
+      <comment>Message box displayed when prompted for restart.</comment>
+      <comment>
+         <val lang="en_US">To apply this change, you must restart the application.</val>
+      </comment>
+      <val lang="zh_CN">To apply this change, you must restart the application.</val>
+   </key>
+   <key value="Insert_the_required_attributes">
+      <comment>"Preferences" dialog/Editor/Tag Insight page option.</comment>
+      <comment>
+         <val lang="en_US">Insert the required attributes</val>
+      </comment>
+      <val lang="zh_CN">Insert the required attributes</val>
+   </key>
+   <key value="Regular_expression">
+      <comment/>
+      <comment>
+         <val lang="en_US">Regular expression</val>
+      </comment>
+      <val lang="zh_CN">Regular expression</val>
+   </key>
+   <key value="Days_left">
+      <comment>Message in the About Dialog.</comment>
+      <comment>
+         <val lang="en_US">Days left</val>
+      </comment>
+      <val lang="zh_CN">Days left</val>
+   </key>
+   <key value="HTML_Document">
+      <comment/>
+      <comment>
+         <val lang="en_US">HTML document</val>
+      </comment>
+      <val lang="zh_CN">HTML document</val>
+   </key>
+   <key value="Comment">
+      <comment/>
+      <comment>
+         <val lang="en_US">Comment</val>
+      </comment>
+      <val lang="zh_CN">Comment</val>
+   </key>
+   <key value="Ignore">
+      <comment/>
+      <comment>
+         <val lang="en_US">Ignore</val>
+      </comment>
+      <val lang="zh_CN">Ignore</val>
+   </key>
+   <key distribution="common" value="Results">
+      <comment/>
+      <comment>
+         <val lang="en_US">Results</val>
+      </comment>
+      <val lang="zh_CN">Results</val>
+   </key>
+   <key distribution="common" value="FO_Processors">
+      <comment/>
+      <comment>
+         <val lang="en_US">FO Processors</val>
+      </comment>
+      <val lang="zh_CN">FO Processors</val>
+   </key>
+   <key value="Empty_name_not_allowed">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">Empty name is not allowed.</val>
+      </comment>
+      <val lang="zh_CN">Empty name is not allowed.</val>
+   </key>
+   <key value="Select_FO_output_method_tooltip">
+      <comment>Tooltip in the Configure Transformation dialog.</comment>
+      <comment>
+         <val lang="en_US">Select the output method of the FO processing</val>
+      </comment>
+      <val lang="zh_CN">Select the output method of the FO processing</val>
+   </key>
+   <key value="Browse">
+      <comment/>
+      <comment>
+         <val lang="en_US">Browse</val>
+      </comment>
+      <val lang="zh_CN">Browse</val>
+   </key>
+   <key value="Failed">
+      <comment>Status message.</comment>
+      <comment>
+         <val lang="en_US">failed</val>
+      </comment>
+      <val lang="zh_CN">failed</val>
+   </key>
+   <key value="Sorry_operation_cannot_be_performed">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">Sorry, the operation cannot be performed.</val>
+      </comment>
+      <val lang="zh_CN">Sorry, the operation cannot be performed.</val>
+   </key>
+   <key value="Document_is_wellformed">
+      <comment>Status message.</comment>
+      <comment>
+         <val lang="en_US">Document is well formed.</val>
+      </comment>
+      <val lang="zh_CN">Document is well formed.</val>
+   </key>
+   <key value="Default_Internet_browser">
+      <comment/>
+      <comment>
+         <val lang="en_US">Default Internet browser</val>
+      </comment>
+      <val lang="zh_CN">Default Internet browser</val>
+   </key>
+   <key value="Learn">
+      <comment>A button in the Check Spelling dialog.</comment>
+      <comment>
+         <val lang="en_US">Learn</val>
+      </comment>
+      <val lang="zh_CN">Learn</val>
+   </key>
+   <key value="Specify_the_name_of_the_new_folder">
+      <comment>Displayed when creating a new folder in the project explorer.</comment>
+      <comment>
+         <val lang="en_US">Specify the name of the new folder</val>
+      </comment>
+      <val lang="zh_CN">Specify the name of the new folder</val>
+   </key>
+   <key value="Warnings">
+      <comment/>
+      <comment>
+         <val lang="en_US">Warnings</val>
+      </comment>
+      <val lang="zh_CN">Warnings</val>
+   </key>
+   <key value="Wellformed_test">
+      <comment>Status message.</comment>
+      <comment>
+         <val lang="en_US">Well-formed test</val>
+      </comment>
+      <val lang="zh_CN">Well-formed test</val>
+   </key>
+   <key value="Invalid_input">
+      <comment/>
+      <comment>
+         <val lang="en_US">Invalid input</val>
+      </comment>
+      <val lang="zh_CN">Invalid input</val>
+   </key>
+   <key value="Check_input_radio_button_tooltip">
+      <comment>Configure Transformation dialog tooltip.</comment>
+      <comment>
+         <val lang="en_US">Select this if you want to apply the FO processing on the result of the transformation</val>
+      </comment>
+      <val lang="zh_CN">Select this if you want to apply the FO processing on the result of the transformation</val>
+   </key>
+   <key value="Cant_save_the_file">
+      <comment>Error message when the file cannot be saved to disk.</comment>
+      <comment>
+         <val lang="en_US">Cannot save the file</val>
+      </comment>
+      <val lang="zh_CN">Cannot save the file</val>
+   </key>
+   <key value="Invalid_number_format">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">Invalid number format!</val>
+      </comment>
+      <val lang="zh_CN">Invalid number format!</val>
+   </key>
+   <key value="Output_file">
+      <comment>Configure transformation dialog. The output file of the transformation.</comment>
+      <comment>
+         <val lang="en_US">Output file</val>
+      </comment>
+      <val lang="zh_CN">Output file</val>
+   </key>
+   <key value="Open_files">
+      <comment>Project explorer pop-up menu.</comment>
+      <comment>
+         <val lang="en_US">Open</val>
+      </comment>
+      <val lang="zh_CN">Open</val>
+   </key>
+   <key value="License">
+      <comment/>
+      <comment>
+         <val lang="en_US">License</val>
+      </comment>
+      <val lang="zh_CN">License</val>
+   </key>
+   <key value="Text_to_find">
+      <comment>Find/Replace dialog.</comment>
+      <comment>
+         <val lang="en_US">Text to find:</val>
+      </comment>
+      <val lang="zh_CN">Text to find:</val>
+   </key>
+   <key value="Resource">
+      <comment>Results panel.</comment>
+      <comment>
+         <val lang="en_US">Resource</val>
+      </comment>
+      <val lang="zh_CN">Resource</val>
+   </key>
+   <key value="Modified">
+      <comment>Status message.</comment>
+      <comment>
+         <val lang="en_US">Modified</val>
+      </comment>
+      <val lang="zh_CN">Modified</val>
+   </key>
+   <key value="Open_file_at_caret">
+      <comment>Editor pop-up menu.</comment>
+      <comment>
+         <val lang="en_US">Open File at Cursor</val>
+      </comment>
+      <val lang="zh_CN">Open File at Cursor</val>
+   </key>
+   <key value="Spelling">
+      <comment>Spell checking.</comment>
+      <comment>
+         <val lang="en_US">Spelling</val>
+      </comment>
+      <val lang="zh_CN">Spelling</val>
+   </key>
+   <key value="Case_sensitive">
+      <comment/>
+      <comment>
+         <val lang="en_US">Case sensitive</val>
+      </comment>
+      <val lang="zh_CN">Case sensitive</val>
+   </key>
+   <key value="Host">
+      <comment>"Preferences" dialog/ Configure Proxy.</comment>
+      <comment>
+         <val lang="en_US">Host</val>
+      </comment>
+      <val lang="zh_CN">Host</val>
+   </key>
+   <key value="Browse_Xml_URL_Tooltip">
+      <comment>Configure Transformation Scenario dialog.</comment>
+      <comment>
+         <val lang="en_US">Browse for a remote input XML file</val>
+      </comment>
+      <val lang="zh_CN">Browse for a remote input XML file</val>
+   </key>
+   <key value="Edit_Cut">
+      <comment>Edit menu option.</comment>
+      <comment>
+         <val lang="en_US">Cut</val>
+      </comment>
+      <val lang="zh_CN">Cut</val>
+   </key>
+   <key value="GOTO_BM9">
+      <comment>Edit / Bookmarks / "Go to" option</comment>
+      <comment>
+         <val lang="en_US">Go to 9</val>
+      </comment>
+      <val lang="zh_CN">Go to 9</val>
+   </key>
+   <key value="GOTO_BM8">
+      <comment>Edit / Bookmarks / "Go to" option</comment>
+      <comment>
+         <val lang="en_US">Go to 8</val>
+      </comment>
+      <val lang="zh_CN">Go to 8</val>
+   </key>
+   <key value="GOTO_BM7">
+      <comment>Edit / Bookmarks / "Go to" option</comment>
+      <comment>
+         <val lang="en_US">Go to 7</val>
+      </comment>
+      <val lang="zh_CN">Go to 7</val>
+   </key>
+   <key value="External_FO_processors">
+      <comment>"Preferences" dialog. Configure External FO Processor.</comment>
+      <comment>
+         <val lang="en_US">External FO processors</val>
+      </comment>
+      <val lang="zh_CN">External FO processors</val>
+   </key>
+   <key value="Registration_succesful">
+      <comment/>
+      <comment>
+         <val lang="en_US">Registration successful</val>
+      </comment>
+      <val lang="zh_CN">Registration successful</val>
+   </key>
+   <key value="GOTO_BM6">
+      <comment>Edit / Bookmarks / Go to option</comment>
+      <comment>
+         <val lang="en_US">Go to 6</val>
+      </comment>
+      <val lang="zh_CN">Go to 6</val>
+   </key>
+   <key value="GOTO_BM5">
+      <comment>Edit / Bookmarks / Go to option</comment>
+      <comment>
+         <val lang="en_US">Go to 5</val>
+      </comment>
+      <val lang="zh_CN">Go to 5</val>
+   </key>
+   <key value="GOTO_BM4">
+      <comment>Edit / Bookmarks / Go to option</comment>
+      <comment>
+         <val lang="en_US">Go to 4</val>
+      </comment>
+      <val lang="zh_CN">Go to 4</val>
+   </key>
+</translation>

@@ -1,0 +1,1876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="Decode_selection_to_file_base32" distribution="common">
+      <comment>Name of the action for decoding a selection Base32 and exporting to file</comment>
+      <comment>
+         <val lang="en_US">Decode Selection and Export to File (Base32)</val>
+      </comment>
+      <val lang="zh_CN">Decode Selection and Export to File (Base32)</val>
+   </key>
+   <key value="Insert_encoded_file_hex" distribution="common">
+      <comment>Name of the action for encoding a file in hexadecimal and inserting</comment>
+      <comment>
+         <val lang="en_US">Import File to Encode and Insert (Hex)</val>
+      </comment>
+      <val lang="zh_CN">Import File to Encode and Insert (Hex)</val>
+   </key>
+   <key value="Decode_selection_to_file_hex" distribution="common">
+      <comment>Name of the action for decoding a selection in hexadecimal and exporting to file</comment>
+      <comment>
+         <val lang="en_US">Decode Selection and Export to File (Hex)</val>
+      </comment>
+      <val lang="zh_CN">Decode Selection and Export to File (Hex)</val>
+   </key>
+   <key value="Include_plugins_details">
+      <comment>Label used in "Report problems" dialog.</comment>
+      <comment>
+         <val lang="en_US">Include plugins details</val>
+      </comment>
+      <val lang="zh_CN">Include plugins details</val>
+   </key>
+   <key value="Include_frameworks_details">
+      <comment>Label used in "Report problems" dialog.</comment>
+      <comment>
+         <val lang="en_US">Include frameworks details</val>
+      </comment>
+      <val lang="zh_CN">Include frameworks details</val>
+   </key>
+   <key value="Insert_link" distribution="common">
+      <comment>Message used in DITA option page.</comment>
+      <comment>
+         <val lang="en_US">Insert link</val>
+      </comment>
+      <val lang="zh_CN">Insert link</val>
+   </key>
+   <key value="How_to_manage_trusted_hosts">
+      <comment>Text for the link that redirects the user to Trusted Hosts option pane section in the User
+            Manual</comment>
+      <comment>
+         <val lang="en_US">Read more about how to manage the list of trusted hosts</val>
+      </comment>
+      <val lang="zh_CN">Read more about how to manage the list of trusted hosts</val>
+   </key>
+   <key value="Components_background">
+      <comment>Components background color.</comment>
+      <comment>
+         <val lang="en_US">Components background</val>
+      </comment>
+      <val lang="zh_CN">Components background</val>
+   </key>
+   <key value="Components_selection_background">
+      <comment>Components selection background color.</comment>
+      <comment>
+         <val lang="en_US">Components selection background</val>
+      </comment>
+      <val lang="zh_CN">Components selection background</val>
+   </key>
+   <key value="Components_inactive_selection_background">
+      <comment>Components inactive selection background color.</comment>
+      <comment>
+         <val lang="en_US">Components inactive selection background</val>
+      </comment>
+      <val lang="zh_CN">Components inactive selection background</val>
+   </key>
+   <key value="Components_selection_foreground">
+      <comment>Components selection foreground color.</comment>
+      <comment>
+         <val lang="en_US">Components selection foreground</val>
+      </comment>
+      <val lang="zh_CN">Components selection foreground</val>
+   </key>
+   <key value="High_contrast_invalid_settings">
+      <comment>Message in the dialog displayed on a high contrast theme if are detected incompatible appearance
+            settings like look and feel, theme or style.</comment>
+      <comment>
+         <val lang="en_US">The current application appearance settings are not compatible with the High Contrast theme
+            used by the operating system.\n\nTo enable High Contrast mode, Oxygen will set the Look and Feel option to
+            Windows, and the Theme option to Classic.</val>
+      </comment>
+      <val lang="zh_CN">The current application appearance settings are not compatible with the High Contrast theme
+            used by the operating system.\n\nTo enable High Contrast mode, Oxygen will set the Look and Feel option to
+            Windows, and the Theme option to Classic.</val>
+   </key>
+   <key value="Key_definition_with_keyword">
+      <comment>Name of an action from the Dita Maps Manager contextual menu.</comment>
+      <comment>
+         <val lang="en_US">Key Definition with Keyword</val>
+      </comment>
+      <val lang="zh_CN">Key Definition with Keyword</val>
+   </key>
+   <key value="Insert_key_definition">
+      <comment>Title for the "Insert key definition with keyword" dialog.</comment>
+      <comment>
+         <val lang="en_US">Insert Key Definition</val>
+      </comment>
+      <val lang="zh_CN">Insert Key Definition</val>
+   </key>
+   <key value="Insert_ref_choose_target">
+      <comment>Link to the Target tab in "Insert Reference" dialog.</comment>
+      <comment>
+         <val lang="en_US">Choose target for defined key(s)</val>
+      </comment>
+      <val lang="zh_CN">Choose target for defined key(s)</val>
+   </key>
+   <key value="Insert_ref_define_metadata">
+      <comment>Link to the Metadata tab in "Insert Reference" dialog.</comment>
+      <comment>
+         <val lang="en_US">Edit metadata information for defined key(s)</val>
+      </comment>
+      <val lang="zh_CN">Edit metadata information for defined key(s)</val>
+   </key>
+   <key value="Insert_ref_define_keys">
+      <comment>Link to the Keys tab in "Insert Reference" dialog. Attn German translators: In this context, "Keys"
+            should be translated as "Schlüssel", not "Taste"</comment>
+      <comment>
+         <val lang="en_US">Define Keys</val>
+      </comment>
+      <val lang="zh_CN">Define Keys</val>
+   </key>
+   <key value="Insert_ref_choose_key_reference">
+      <comment>Link to the Keys tab in "Insert Reference" dialog.</comment>
+      <comment>
+         <val lang="en_US">Choose Key Reference</val>
+      </comment>
+      <val lang="zh_CN">Choose Key Reference</val>
+   </key>
+   <key value="Reference_range_end">
+      <comment>Label used in the "Review details" section from "Insert Content Reference" dialog.</comment>
+      <comment>
+         <val lang="en_US">Reference to range end {0}</val>
+      </comment>
+      <val lang="zh_CN">Reference to range end {0}</val>
+   </key>
+   <key value="Reference_to_conref">
+      <comment>Label used in the "Review details" section from "Insert Content Reference" dialog.</comment>
+      <comment>
+         <val lang="en_US">Reference to (conref)</val>
+      </comment>
+      <val lang="zh_CN">Reference to (conref)</val>
+   </key>
+   <key value="Open_parent_map">
+      <comment>Tag for the action opening the parent DITA map of a topic.</comment>
+      <comment>
+         <val lang="en_US">Open parent DITA map</val>
+      </comment>
+      <val lang="zh_CN">Open parent DITA map</val>
+   </key>
+   <key value="Restore_previous_session">
+      <comment>Title of the dialog displayed after oxygen crashes.</comment>
+      <comment>
+         <val lang="en_US">Restore previous session</val>
+      </comment>
+      <val lang="zh_CN">Restore previous session</val>
+   </key>
+   <key value="Restore_previous_session_message">
+      <comment>Message displayed on the dialog after oxygen crashes.</comment>
+      <comment>
+         <val lang="en_US">The application may have crashed during the previous run.\nDo you want to open the files that
+            were being edited in the previous session?</val>
+      </comment>
+      <val lang="zh_CN">The application may have crashed during the previous run.\nDo you want to open the files that
+            were being edited in the previous session?</val>
+   </key>
+   <key value="Cannot_import_folder">
+      <comment>Message displayed when a folder cannot be imported in a SharePoint repository.</comment>
+      <comment>
+         <val lang="en_US">Cannot import folder ''{0}''.</val>
+      </comment>
+      <val lang="zh_CN">Cannot import folder ''{0}''.</val>
+   </key>
+   <key value="Choose_key">
+      <comment>Name for a dialog which allows to choose a key.</comment>
+      <comment>
+         <val lang="en_US">Choose key</val>
+      </comment>
+      <val lang="zh_CN">Choose key</val>
+   </key>
+   <key value="Could_not_find_fo_processor">
+      <comment>Message presented when a FO processor could not be found.</comment>
+      <comment>
+         <val lang="en_US">Could not execute the FO processing because the ''{0}'' processor is not defined. To define a
+            new one go to the ''XML / PDF Output / FO Processors'' preferences page.</val>
+      </comment>
+      <val lang="zh_CN">Could not execute the FO processing because the ''{0}'' processor is not defined. To define a
+            new one go to the ''XML / PDF Output / FO Processors'' preferences page.</val>
+   </key>
+   <key value="BOM_handling">
+      <comment>General option - BOM handling</comment>
+      <comment>
+         <val lang="en_US">UTF-8 BOM handling</val>
+      </comment>
+      <val lang="zh_CN">UTF-8 BOM handling</val>
+   </key>
+   <key value="If_the_current_lock_expires">
+      <comment>Locking exception message part.</comment>
+      <comment>
+         <val lang="en_US">If the current lock expires during editing you could overwrite changes made by the current
+            lock owner.</val>
+      </comment>
+      <val lang="zh_CN">If the current lock expires during editing you could overwrite changes made by the current
+            lock owner.</val>
+   </key>
+   <key value="Recommended_to_close">
+      <comment>Locking exception message part.</comment>
+      <comment>
+         <val lang="en_US">It is strongly recommended to close the editor.</val>
+      </comment>
+      <val lang="zh_CN">It is strongly recommended to close the editor.</val>
+   </key>
+   <key value="Recommended_to_cancel">
+      <comment>Locking exception message part.</comment>
+      <comment>
+         <val lang="en_US">It is strongly recommended to cancel the open operation.</val>
+      </comment>
+      <val lang="zh_CN">It is strongly recommended to cancel the open operation.</val>
+   </key>
+   <key value="Problem_when_unlocking">
+      <comment>Unlocking exception message.</comment>
+      <comment>
+         <val lang="en_US">Problem while trying to unlock</val>
+      </comment>
+      <val lang="zh_CN">Problem while trying to unlock</val>
+   </key>
+   <key value="Problem_when_locking">
+      <comment>Lock exception message.</comment>
+      <comment>
+         <val lang="en_US">Problem while trying to acquire lock</val>
+      </comment>
+      <val lang="zh_CN">Problem while trying to acquire lock</val>
+   </key>
+   <key value="Text_components_border">
+      <comment>Name of the option that controls the text components border color.</comment>
+      <comment>
+         <val lang="en_US">Text components border</val>
+      </comment>
+      <val lang="zh_CN">Text components border</val>
+   </key>
+   <key value="Local_resource_locking_access_denied">
+      <comment>Message for when trying to access an already locked local resource.</comment>
+      <comment>
+         <val lang="en_US">Access denied. File {0} is already locked by {1}.</val>
+      </comment>
+      <val lang="zh_CN">Access denied. File {0} is already locked by {1}.</val>
+   </key>
+   <key value="View_editor_tabs_border">
+      <comment>Name of the option that controls the View/Editor tabs border color.</comment>
+      <comment>
+         <val lang="en_US">View/Editor tabs border</val>
+      </comment>
+      <val lang="zh_CN">View/Editor tabs border</val>
+   </key>
+   <key value="Scrollbars_chevrons">
+      <comment>Name of the option that controls the scroll bars, chevrons color.</comment>
+      <comment>
+         <val lang="en_US">Scroll bars, chevrons</val>
+      </comment>
+      <val lang="zh_CN">Scroll bars, chevrons</val>
+   </key>
+   <key value="View_titles_foreground">
+      <comment>Name of the option that controls the view titles foreground.</comment>
+      <comment>
+         <val lang="en_US">View titles foreground</val>
+      </comment>
+      <val lang="zh_CN">View titles foreground</val>
+   </key>
+   <key value="Status_bar_foreground">
+      <comment>Name of the option that controls the status bar foreground.</comment>
+      <comment>
+         <val lang="en_US">Status bar foreground</val>
+      </comment>
+      <val lang="zh_CN">Status bar foreground</val>
+   </key>
+   <key value="Status_bar_background">
+      <comment>Name of the option that controls the status bar background.</comment>
+      <comment>
+         <val lang="en_US">Status bar background</val>
+      </comment>
+      <val lang="zh_CN">Status bar background</val>
+   </key>
+   <key value="View_titles_font">
+      <comment>Name of the option that controls the view titles font.</comment>
+      <comment>
+         <val lang="en_US">View titles font</val>
+      </comment>
+      <val lang="zh_CN">View titles font</val>
+   </key>
+   <key value="Certificate_expired">
+      <comment>For add-ons install process, the add-on was signed with an expired certificate.</comment>
+      <comment>
+         <val lang="en_US">The certificate has expired on: {0}</val>
+      </comment>
+      <val lang="zh_CN">The certificate has expired on: {0}</val>
+   </key>
+   <key value="Validity_status">
+      <comment>For add-ons install process, this is the title of the section that tells if the certificate used to
+            sign the addon is valid or if there are problems.</comment>
+      <comment>
+         <val lang="en_US">Validity status</val>
+      </comment>
+      <val lang="zh_CN">Validity status</val>
+   </key>
+   <key value="Line_break">
+      <comment>A section inside the preferences dialog. It represent a list of names or XPath expressions that
+            identify elements. When such an element is formated (pretty print), a line break will be inserted before or
+            after it.</comment>
+      <comment>
+         <val lang="en_US">Line break</val>
+      </comment>
+      <val lang="zh_CN">Line break</val>
+   </key>
+   <key value="References_in_map_context">
+      <comment>Label shown for an opened XML DITA topic. Shows how many times the topic is referenced in the DITA Map
+            and the current reference number out of the total number of references. </comment>
+      <comment>
+         <val lang="en_US">References in map:</val>
+      </comment>
+      <val lang="zh_CN">References in map:</val>
+   </key>
+   <key value="Current_of_max">
+      <comment>Shows the current number of items out of the maximum number of items. </comment>
+      <comment>
+         <val lang="en_US">[{0} of {1}]</val>
+      </comment>
+      <val lang="zh_CN">[{0} of {1}]</val>
+   </key>
+   <key value="Add_space_before_property_value_option_tooltip">
+      <comment>The tooltip text of the option that controls if the CSS formattter should add an whitespace character
+            between the ":" (colon) and the value of a CSS property.</comment>
+      <comment>
+         <val lang="en_US">This option controls if the CSS formatter should add a space character in a CSS property
+            between ":" (colon) and the property's value.</val>
+      </comment>
+      <val lang="zh_CN">This option controls if the CSS formatter should add a space character in a CSS property
+            between ":" (colon) and the property's value.</val>
+   </key>
+   <key value="Add_space_before_property_value_option">
+      <comment>The text of the option that controls if the CSS formattter should add an whitespace character between
+            the ":" (colon) and the value of a CSS property.</comment>
+      <comment>
+         <val lang="en_US">Add space before the value of a CSS property</val>
+      </comment>
+      <val lang="zh_CN">Add space before the value of a CSS property</val>
+   </key>
+   <key value="No_valid_hexadecimal_sequence_to_convert">
+      <comment>Error message displayed when 'Convert hexadecimal sequence to character' action invoked.</comment>
+      <comment>
+         <val lang="en_US">No valid hexadecimal sequence to convert.</val>
+      </comment>
+      <val lang="zh_CN">No valid hexadecimal sequence to convert.</val>
+   </key>
+   <key value="Convert_hexadecimal_sequence_to_character" distribution="common">
+      <comment>Name of the action that converts a hexadecimal sequence into the equivalent Unicode
+            character.</comment>
+      <comment>
+         <val lang="en_US">Convert Hexadecimal Sequence to Character</val>
+      </comment>
+      <val lang="zh_CN">Convert Hexadecimal Sequence to Character</val>
+   </key>
+   <key value="Untrusted_host_connection_cofirmation_question">
+      <comment>Remote host connection cofirmation message</comment>
+      <comment>
+         <val lang="en_US">The host {0} is not in the list of trusted hosts.\nDo you want to allow the connection to this
+            host?</val>
+      </comment>
+      <val lang="zh_CN">The host {0} is not in the list of trusted hosts.\nDo you want to allow the connection to this
+            host?</val>
+   </key>
+   <key value="Trusted_hosts_name_wildcards_hint">
+      <comment>Explains the user that host names with wildcard characters are permitted.</comment>
+      <comment>
+         <val lang="en_US">Host names may contain '*' and '?' wildcard characters.\nFor example use '*example.com' to
+            match any host name that ends with 'example.com'.</val>
+      </comment>
+      <val lang="zh_CN">Host names may contain '*' and '?' wildcard characters.\nFor example use '*example.com' to
+            match any host name that ends with 'example.com'.</val>
+   </key>
+   <key value="Trusted_hosts_explanation">
+      <comment>Explanation message displayed in the options page where the user can configure the list of trusted URL
+            hosts.</comment>
+      <comment>
+         <val lang="en_US">Connections to the following hosts will be allowed without user confirmation.</val>
+      </comment>
+      <val lang="zh_CN">Connections to the following hosts will be allowed without user confirmation.</val>
+   </key>
+   <key value="Trusted_hosts" distribution="common">
+      <comment>The hosts that the user trust and allows Oxygen to connect to.</comment>
+      <comment>
+         <val lang="en_US">Trusted Hosts</val>
+      </comment>
+      <val lang="zh_CN">Trusted Hosts</val>
+   </key>
+   <key value="Allow">
+      <comment>Like in "Allow connection.</comment>
+      <comment>
+         <val lang="en_US">Allow</val>
+      </comment>
+      <val lang="zh_CN">Allow</val>
+   </key>
+   <key value="Allow_and_remember">
+      <comment>Like in "Allow connection to X and remember this.</comment>
+      <comment>
+         <val lang="en_US">Allow and remember</val>
+      </comment>
+      <val lang="zh_CN">Allow and remember</val>
+   </key>
+   <key value="Project_security_warning">
+      <comment> A message displayed when the project contains unsafe settings and the user should confirm loading
+            it.</comment>
+      <comment>
+         <val lang="en_US">The ''{0}'' project contains options that will change the application interface and
+            behavior.\n To continue opening it, please confirm that the project comes from a trusted source.</val>
+      </comment>
+      <val lang="zh_CN">The ''{0}'' project contains options that will change the application interface and
+            behavior.\n To continue opening it, please confirm that the project comes from a trusted source.</val>
+   </key>
+   <key value="Metadata">
+      <comment>Label for metadata information</comment>
+      <comment>
+         <val lang="en_US">Metadata</val>
+      </comment>
+      <val lang="zh_CN">Metadata</val>
+   </key>
+   <key value="Add_var_element_name">
+      <comment>Name for an action that adds a specific element in the edited text</comment>
+      <comment>
+         <val lang="en_US">Add {0}</val>
+      </comment>
+      <val lang="zh_CN">Add {0}</val>
+   </key>
+   <key value="Metadata_cannot_be_inserted">
+      <comment>Message shown when the "Ok" button is pressed in "Insert Reference" (DITA) dialog, if the metadata text
+            is not a wellformed XML. </comment>
+      <comment>
+         <val lang="en_US">The metadata cannot be inserted in the document</val>
+      </comment>
+      <val lang="zh_CN">The metadata cannot be inserted in the document</val>
+   </key>
+   <key value="Built_in_dita_ot_18" distribution="webauthor">
+      <comment>Option for the built-in DITA-OT 1.8 directory</comment>
+      <comment>
+         <val lang="en_US">Built-in DITA-OT 1.8</val>
+      </comment>
+      <val lang="zh_CN">Built-in DITA-OT 1.8</val>
+   </key>
+   <key value="Insert_topicmeta_content">
+      <comment>Label in "Insert Reference" dialog, "Metadata" panel.</comment>
+      <comment>
+         <val lang="en_US">Define the reference metadata, such as navigation title, link text, short description or
+            keywords.</val>
+      </comment>
+      <val lang="zh_CN">Define the reference metadata, such as navigation title, link text, short description or
+            keywords.</val>
+   </key>
+   <key value="Show_elements_type">
+      <comment>Label for combo which filters the elements of a table.</comment>
+      <comment>
+         <val lang="en_US">Show elements of type</val>
+      </comment>
+      <val lang="zh_CN">Show elements of type</val>
+   </key>
+   <key value="Choose_target_resource">
+      <comment>Label used to describe the section from "Insert Content Reference" dialog.</comment>
+      <comment>
+         <val lang="en_US">Choose the target resource</val>
+      </comment>
+      <val lang="zh_CN">Choose the target resource</val>
+   </key>
+   <key value="Choose_target_web_resource">
+      <comment>Label for the first section of the "Web link" dialog.</comment>
+      <comment>
+         <val lang="en_US">Choose the target web resource</val>
+      </comment>
+      <val lang="zh_CN">Choose the target web resource</val>
+   </key>
+   <key value="Web_link">
+      <comment>Title of the dialog that inserts a web link.</comment>
+      <comment>
+         <val lang="en_US">Web Link</val>
+      </comment>
+      <val lang="zh_CN">Web Link</val>
+   </key>
+   <key value="File_reference">
+      <comment>Title of the dialog that inserts a file reference.</comment>
+      <comment>
+         <val lang="en_US">File Reference</val>
+      </comment>
+      <val lang="zh_CN">File Reference</val>
+   </key>
+   <key value="Select_target_element">
+      <comment>Label used to describe the section from "Insert Content Reference" dialog.</comment>
+      <comment>
+         <val lang="en_US">Select the target element</val>
+      </comment>
+      <val lang="zh_CN">Select the target element</val>
+   </key>
+   <key value="Quick_fixes_available">
+      <comment>Message displayed on the tooltip when quick fixes are available for a problem.</comment>
+      <comment>
+         <val lang="en_US">{0} quick fix(es) available:</val>
+      </comment>
+      <val lang="zh_CN">{0} quick fix(es) available:</val>
+   </key>
+   <key value="This_operation_is_not_valid">
+      <comment>Information message presented when the 'Insert reference' action from DITA is invoked and there is no
+            valid element available for the current context.</comment>
+      <comment>
+         <val lang="en_US">This operation is not valid in the current location.</val>
+      </comment>
+      <val lang="zh_CN">This operation is not valid in the current location.</val>
+   </key>
+   <key value="No_valid_reference_info_message">
+      <comment>Information message presented when the 'Insert reference' action from DITA is invoked and there is no
+            valid element available for the current context.</comment>
+      <comment>
+         <val lang="en_US">There is no valid reference available at current location.</val>
+      </comment>
+      <val lang="zh_CN">There is no valid reference available at current location.</val>
+   </key>
+   <key value="Invalid_paste_as_reference_result_message">
+      <comment>Message for when the user tries to paste the clipboard as a reference, but he/she actually doesn't have
+            an element with an ID in the clipboard.</comment>
+      <comment>
+         <val lang="en_US">The content in the clipboard must be one or more elements with already declared IDs, copied
+            from the Author page.</val>
+      </comment>
+      <val lang="zh_CN">The content in the clipboard must be one or more elements with already declared IDs, copied
+            from the Author page.</val>
+   </key>
+   <key value="Invalid_paste_as_reference_result_message_hint">
+      <comment>Hint for when the user tries to paste the clipboard as a reference, but he/she actually doesn't have an
+            element with an ID in the clipboard.</comment>
+      <comment>
+         <val lang="en_US">Hint: You can easily select an entire element by triple-clicking in its text content.</val>
+      </comment>
+      <val lang="zh_CN">Hint: You can easily select an entire element by triple-clicking in its text content.</val>
+   </key>
+   <key value="Replace_target_element">
+      <comment>Description for the push action "Push Replace".</comment>
+      <comment>
+         <val lang="en_US">replace the target element</val>
+      </comment>
+      <val lang="zh_CN">replace the target element</val>
+   </key>
+   <key value="Push_after">
+      <comment>Description for the push action "Push After".</comment>
+      <comment>
+         <val lang="en_US">push after</val>
+      </comment>
+      <val lang="zh_CN">push after</val>
+   </key>
+   <key value="Push_before">
+      <comment>Description for the push action "Push Before".</comment>
+      <comment>
+         <val lang="en_US">push before</val>
+      </comment>
+      <val lang="zh_CN">push before</val>
+   </key>
+   <key value="Important">
+      <comment>Important keyword. CSS/LESS</comment>
+      <comment>
+         <val lang="en_US">Important</val>
+      </comment>
+      <val lang="zh_CN">Important</val>
+   </key>
+   <key value="Key_scopes">
+      <comment> Label used in "Insert Reference" dialog (Keys section).</comment>
+      <comment>
+         <val lang="en_US">Key scopes</val>
+      </comment>
+      <val lang="zh_CN">Key scopes</val>
+   </key>
+   <key distribution="eclipse"
+        value="format.and.indent.files.label"
+        type="action">
+      <comment>'Format and Indent Files' action label text.</comment>
+      <comment>
+         <val lang="en_US">Format and Indent Files...</val>
+      </comment>
+      <val lang="zh_CN">Format and Indent Files...</val>
+   </key>
+   <key value="Format_and_indent_files_results">
+      <comment>Dialog title for the batch pretty print action.</comment>
+      <comment>
+         <val lang="en_US">Format and Indent Files - Results</val>
+      </comment>
+      <val lang="zh_CN">Format and Indent Files - Results</val>
+   </key>
+   <key value="Format_and_indent_files">
+      <comment>Name of the batch format and indent action.</comment>
+      <comment>
+         <val lang="en_US">Format and Indent Files</val>
+      </comment>
+      <val lang="zh_CN">Format and Indent Files</val>
+   </key>
+   <key value="Cannot_edit_inside_read_only_context">
+      <comment>Message for when not able to edit in read only content.</comment>
+      <comment>
+         <val lang="en_US">Cannot edit inside read-only content.</val>
+      </comment>
+      <val lang="zh_CN">Cannot edit inside read-only content.</val>
+   </key>
+   <key value="Define_keys">
+      <comment>Label used in the "Insert Reference" dialog from DITA Maps Manager ("Keys" tab).</comment>
+      <comment>
+         <val lang="en_US">Define keys</val>
+      </comment>
+      <val lang="zh_CN">Define keys</val>
+   </key>
+   <key value="Key_reference">
+      <comment>Label used in the "Insert Reference" dialog from DITA Maps Manager ("Keys" tab).</comment>
+      <comment>
+         <val lang="en_US">Key reference</val>
+      </comment>
+      <val lang="zh_CN">Key reference</val>
+   </key>
+   <key value="Use_space_sep_multiple_vals">
+      <comment>Label used in the "Insert Reference" dialog from DITA Maps Manager ("Keys" tab).</comment>
+      <comment>
+         <val lang="en_US">Use space as separator for multiple values.</val>
+      </comment>
+      <val lang="zh_CN">Use space as separator for multiple values.</val>
+   </key>
+   <key value="Keys_reference_description">
+      <comment>Description of the keys, used in the "Insert Reference" dialog from DITA Maps Manager.</comment>
+      <comment>
+         <val lang="en_US">Keys are used for indirect referencing.</val>
+      </comment>
+      <val lang="zh_CN">Keys are used for indirect referencing.</val>
+   </key>
+   <key value="Compatibility_with_other_tools">
+      <comment>Label in the Author mode settings page.</comment>
+      <comment>
+         <val lang="en_US">Compatibility with other tools:</val>
+      </comment>
+      <val lang="zh_CN">Compatibility with other tools:</val>
+   </key>
+   <key value="Reference_type">
+      <comment>Label used in "Insert Reference" dialog.</comment>
+      <comment>
+         <val lang="en_US">Reference type</val>
+      </comment>
+      <val lang="zh_CN">Reference type</val>
+   </key>
+   <key value="Embedded_rules_query_binding">
+      <comment>Option for choosing query binding for embedded Schematron files.</comment>
+      <comment>
+         <val lang="en_US">Embedded rules query language binding</val>
+      </comment>
+      <val lang="zh_CN">Embedded rules query language binding</val>
+   </key>
+   <key value="Do_not_break_lines_do_not_indent">
+      <comment>Radio button controlling a compatibility mode for document serialization when saving from the Author
+            mode.</comment>
+      <comment>
+         <val lang="en_US">Do not break lines, do not indent</val>
+      </comment>
+      <val lang="zh_CN">Do not break lines, do not indent</val>
+   </key>
+   <key value="Push_current_element">
+      <comment>Title of the dialog used to push an element.</comment>
+      <comment>
+         <val lang="en_US">Push current element</val>
+      </comment>
+      <val lang="zh_CN">Push current element</val>
+   </key>
+   <key value="Break_lines_only_after_elements_displayed_as_blocks_do_not_indent">
+      <comment>Label in the Author mode settings page.</comment>
+      <comment>
+         <val lang="en_US">Break lines only after elements displayed as blocks, do not indent</val>
+      </comment>
+      <val lang="zh_CN">Break lines only after elements displayed as blocks, do not indent</val>
+   </key>
+   <key value="Choose_location_create_reference">
+      <comment>Label used in "Insert Reference" dialog (Target section).</comment>
+      <comment>
+         <val lang="en_US">Choose a file location (URL) to create a reference. For indirect referencing, use the &lt;a
+            href=""&gt;{0} tab&lt;/a&gt;.</val>
+      </comment>
+      <val lang="zh_CN">Choose a file location (URL) to create a reference. For indirect referencing, use the &lt;a
+            href=""&gt;{0} tab&lt;/a&gt;.</val>
+   </key>
+   <key value="Selecting_a_compatibility_mode_will">
+      <comment>Label in the Author mode settings page.</comment>
+      <comment>
+         <val lang="en_US">Selecting a compatibility mode will ignore settings under ''{0}'' page</val>
+      </comment>
+      <val lang="zh_CN">Selecting a compatibility mode will ignore settings under ''{0}'' page</val>
+   </key>
+   <key distribution="common" value="Learn_word_X">
+      <comment>Learn word action</comment>
+      <comment>
+         <val lang="en_US">Learn Word "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Learn Word "{0}"</val>
+   </key>
+   <key value="Element_location_samples">
+      <comment>Examples of input for an XML Refactoring operation element location parameter.</comment>
+      <comment>
+         <val lang="en_US">Examples: {0} or an XPath</val>
+      </comment>
+      <val lang="zh_CN">Examples: {0} or an XPath</val>
+   </key>
+   <key value="Element_location_explanation">
+      <comment>Explanation for an XML Refactoring operation element location parameter.</comment>
+      <comment>
+         <val lang="en_US">Names without a namespace prefix match elements from any namespace.</val>
+      </comment>
+      <val lang="zh_CN">Names without a namespace prefix match elements from any namespace.</val>
+   </key>
+   <key value="Attribute_location_explanation">
+      <comment>Explanation for an XML Refactoring operation attribute location parameter.</comment>
+      <comment>
+         <val lang="en_US">If the attribute name does not have a namespace prefix, it will be in 'no-namespace'.</val>
+      </comment>
+      <val lang="zh_CN">If the attribute name does not have a namespace prefix, it will be in 'no-namespace'.</val>
+   </key>
+   <key value="Menus_and_toolbars_selection_background">
+      <comment>Menus and toolbars selection background color.</comment>
+      <comment>
+         <val lang="en_US">Menus and toolbars selection background</val>
+      </comment>
+      <val lang="zh_CN">Menus and toolbars selection background</val>
+   </key>
+   <key value="Theme_management">
+      <comment>Section title in the Appearance preferences page.</comment>
+      <comment>
+         <val lang="en_US">Theme management</val>
+      </comment>
+      <val lang="zh_CN">Theme management</val>
+   </key>
+   <key value="Media_part">
+      <comment>CSS SH. The @media parts.</comment>
+      <comment>
+         <val lang="en_US">@media parts</val>
+      </comment>
+      <val lang="zh_CN">@media parts</val>
+   </key>
+   <key value="Media_keyword">
+      <comment>CSS SH. The @media keywords.</comment>
+      <comment>
+         <val lang="en_US">@media keywords</val>
+      </comment>
+      <val lang="zh_CN">@media keywords</val>
+   </key>
+   <key value="Pseudo_page">
+      <comment>CSS SH. The pseudo page keywords.</comment>
+      <comment>
+         <val lang="en_US">Pseudo page</val>
+      </comment>
+      <val lang="zh_CN">Pseudo page</val>
+   </key>
+   <key value="Push_action">
+      <comment>Label used in the dialog used to push an element.</comment>
+      <comment>
+         <val lang="en_US">Push action</val>
+      </comment>
+      <val lang="zh_CN">Push action</val>
+   </key>
+   <key value="Click_for_more_options">
+      <comment>Text for label.</comment>
+      <comment>
+         <val lang="en_US">Click for more options</val>
+      </comment>
+      <val lang="zh_CN">Click for more options</val>
+   </key>
+   <key value="Use_title_to_generate_file_name">
+      <comment>Use title to generate the file name option</comment>
+      <comment>
+         <val lang="en_US">Use the title to generate the file name</val>
+      </comment>
+      <val lang="zh_CN">Use the title to generate the file name</val>
+   </key>
+   <key value="Use_file_name_for_root_id">
+      <comment>Use the file name as the value of the root ID attribute option</comment>
+      <comment>
+         <val lang="en_US">Use the file name as the value of the root ID attribute</val>
+      </comment>
+      <val lang="zh_CN">Use the file name as the value of the root ID attribute</val>
+   </key>
+   <key value="Choose_a_file_template">
+      <comment>Choose a file template label</comment>
+      <comment>
+         <val lang="en_US">Choose a file template</val>
+      </comment>
+      <val lang="zh_CN">Choose a file template</val>
+   </key>
+   <key value="Stop_auto_correcting">
+      <comment>Label for the action which deactivates AutoCorrect for e certain string.</comment>
+      <comment>
+         <val lang="en_US">Stop Automatically Correcting "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Stop Automatically Correcting "{0}"</val>
+   </key>
+   <key value="Revert_autocorrect">
+      <comment>Label for the action which reverts an auto-correction.</comment>
+      <comment>
+         <val lang="en_US">Change back to "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Change back to "{0}"</val>
+   </key>
+   <key value="Colors_label">
+      <comment>Explanation label in Colors preferences page.</comment>
+      <comment>
+         <val lang="en_US">Colors for frames, dialog boxes, controls, commands</val>
+      </comment>
+      <val lang="zh_CN">Colors for frames, dialog boxes, controls, commands</val>
+   </key>
+   <key value="Background_colors">
+      <comment>Section name in Colors preferences page.</comment>
+      <comment>
+         <val lang="en_US">Background colors</val>
+      </comment>
+      <val lang="zh_CN">Background colors</val>
+   </key>
+   <key value="View_titles_background">
+      <comment>View titles background color.</comment>
+      <comment>
+         <val lang="en_US">View titles background</val>
+      </comment>
+      <val lang="zh_CN">View titles background</val>
+   </key>
+   <key value="Foreground_colors">
+      <comment>Section name in Colors preferences page.</comment>
+      <comment>
+         <val lang="en_US">Foreground colors</val>
+      </comment>
+      <val lang="zh_CN">Foreground colors</val>
+   </key>
+   <key value="Disabled_foreground">
+      <comment>Disabled foreground color.</comment>
+      <comment>
+         <val lang="en_US">Disabled foreground</val>
+      </comment>
+      <val lang="zh_CN">Disabled foreground</val>
+   </key>
+   <key value="Link_foreground">
+      <comment>Link foreground color.</comment>
+      <comment>
+         <val lang="en_US">Link foreground</val>
+      </comment>
+      <val lang="zh_CN">Link foreground</val>
+   </key>
+   <key value="Other_colors">
+      <comment>Section name in Colors preferences page.</comment>
+      <comment>
+         <val lang="en_US">Other colors</val>
+      </comment>
+      <val lang="zh_CN">Other colors</val>
+   </key>
+   <key value="Table_grid_border">
+      <comment>Table grid and borders color.</comment>
+      <comment>
+         <val lang="en_US">Borders and table grids</val>
+      </comment>
+      <val lang="zh_CN">Borders and table grids</val>
+   </key>
+   <key value="new_messages">
+      <comment>Status bar message to inform that new messages/notifications are available.</comment>
+      <comment>
+         <val lang="en_US">{0} new message(s)</val>
+      </comment>
+      <val lang="zh_CN">{0} new message(s)</val>
+   </key>
+   <key value="Autocorrect_add_more_languages_info">
+      <comment>Information message in AutoCorrect options page.</comment>
+      <comment>
+         <val lang="en_US">The available languages are detected based on a set of specified dictionaries used for the
+            automatic correction. To add more dictionaries, see the "AutoCorrect / Dictionaries" options sub-page.</val>
+      </comment>
+      <val lang="zh_CN">The available languages are detected based on a set of specified dictionaries used for the
+            automatic correction. To add more dictionaries, see the "AutoCorrect / Dictionaries" options sub-page.</val>
+   </key>
+   <key value="Fallback_to">
+      <comment>Label used in the "Review details" section from "Insert Content Reference" dialog.</comment>
+      <comment>
+         <val lang="en_US">Fallback to {0}</val>
+      </comment>
+      <val lang="zh_CN">Fallback to {0}</val>
+   </key>
+   <key value="Reference_to">
+      <comment>Label used in the "Review details" section from "Insert Content Reference" dialog.</comment>
+      <comment>
+         <val lang="en_US">Reference to</val>
+      </comment>
+      <val lang="zh_CN">Reference to</val>
+   </key>
+   <key value="Choose_content_source">
+      <comment>Label from "Insert Content Reference" dialog.</comment>
+      <comment>
+         <val lang="en_US">Choose the content source</val>
+      </comment>
+      <val lang="zh_CN">Choose the content source</val>
+   </key>
+   <key value="Reference_details">
+      <comment>Label from "Insert Content Reference" dialog.</comment>
+      <comment>
+         <val lang="en_US">Reference details</val>
+      </comment>
+      <val lang="zh_CN">Reference details</val>
+   </key>
+   <key value="Select_source_reused_content">
+      <comment>Label from "Insert Content Reference" dialog.</comment>
+      <comment>
+         <val lang="en_US">Select an element from the content source, or multiple elements for a range of reused
+            content</val>
+      </comment>
+      <val lang="zh_CN">Select an element from the content source, or multiple elements for a range of reused
+            content</val>
+   </key>
+   <key value="Allow_formating_embedded_xpath">
+      <comment>Option that enables formatting of embedded XPath code using the XQuery code formatter.</comment>
+      <comment>
+         <val lang="en_US">Format XPath code embedded in XSLT, XSD and Schematron files</val>
+      </comment>
+      <val lang="zh_CN">Format XPath code embedded in XSLT, XSD and Schematron files</val>
+   </key>
+   <key value="Replacement">
+      <comment>Replacement.</comment>
+      <comment>
+         <val lang="en_US">Replacement</val>
+      </comment>
+      <val lang="zh_CN">Replacement</val>
+   </key>
+   <key value="Support_for_special_characters_section">
+      <comment>Title of a section from the options dialog box</comment>
+      <comment>
+         <val lang="en_US">Support for Special Characters</val>
+      </comment>
+      <val lang="zh_CN">Support for Special Characters</val>
+   </key>
+   <key value="Special_characters_detected">
+      <comment>Title of the dialog box displayed when bidirectional text (left-to-right and right-to-left), Asian text
+            or other special characters are detected.</comment>
+      <comment>
+         <val lang="en_US">Special Characters Detected</val>
+      </comment>
+      <val lang="zh_CN">Special Characters Detected</val>
+   </key>
+   <key value="Special_characters_detected_message">
+      <comment>Message in the dialog box displayed when bidirectional text (left-to-right and right-to-left), Asian
+            text or other special characters are detected. Values {1} and {2} must be around "Note:" word.</comment>
+      <comment>
+         <val lang="en_US">Do you want to enable support for bidirectional text, Asian languages, and special characters?
+            \n\nThe document "{0}" contains bidirectional text (such as Arabic or Hebrew), South/South-Eastern Asian
+            text, or special characters (such as combining characters) that require special handling to ensure proper
+            editing.\n Disabling this support affects text rendering, cursor positioning and navigation, as well as text
+            selection and management operations. \n\n{1}Note:{2} Application performance may be affected when this
+            support is enabled.</val>
+      </comment>
+      <val lang="zh_CN">Do you want to enable support for bidirectional text, Asian languages, and special characters?
+            \n\nThe document "{0}" contains bidirectional text (such as Arabic or Hebrew), South/South-Eastern Asian
+            text, or special characters (such as combining characters) that require special handling to ensure proper
+            editing.\n Disabling this support affects text rendering, cursor positioning and navigation, as well as text
+            selection and management operations. \n\n{1}Note:{2} Application performance may be affected when this
+            support is enabled.</val>
+   </key>
+   <key value="Configure_options_for_handling_special_characters">
+      <comment>A link to see the Open options page, where the user can change options regarding bidirectional text,
+            Asian languages and other special characters.</comment>
+      <comment>
+         <val lang="en_US">Configure options for handling special characters</val>
+      </comment>
+      <val lang="zh_CN">Configure options for handling special characters</val>
+   </key>
+   <key value="No_notification_to_display">
+      <comment>Info dialog message that states there is no notification to display.</comment>
+      <comment>
+         <val lang="en_US">No notification to display</val>
+      </comment>
+      <val lang="zh_CN">No notification to display</val>
+   </key>
+   <key value="No_new_notification">
+      <comment>Status bar icon tool-tip.</comment>
+      <comment>
+         <val lang="en_US">No new notification</val>
+      </comment>
+      <val lang="zh_CN">No new notification</val>
+   </key>
+   <key value="Check_for_notifications">
+      <comment>Action name</comment>
+      <comment>
+         <val lang="en_US">Check for notifications</val>
+      </comment>
+      <val lang="zh_CN">Check for notifications</val>
+   </key>
+   <key value="Check_for_notifications_news">
+      <comment>Options/Preferences/Global - Check for notifications at startup.</comment>
+      <comment>
+         <val lang="en_US">Check for notifications (news)</val>
+      </comment>
+      <val lang="zh_CN">Check for notifications (news)</val>
+   </key>
+   <key value="Notifications">
+      <comment>Notifications dialog title.</comment>
+      <comment>
+         <val lang="en_US">Notifications (Oxygen news)</val>
+      </comment>
+      <val lang="zh_CN">Notifications (Oxygen news)</val>
+   </key>
+   <key value="Computing_differences">
+      <comment>Message shown when computing preview differences.</comment>
+      <comment>
+         <val lang="en_US">Computing differences</val>
+      </comment>
+      <val lang="zh_CN">Computing differences</val>
+   </key>
+   <key value="Switch_to_global_options_question">
+      <comment>Question message used when switch from project options to global options</comment>
+      <comment>
+         <val lang="en_US">You are about to switch from project to global options.\nWould you like to overwrite the
+            existing global options from this page with the ones from the project?</val>
+      </comment>
+      <val lang="zh_CN">You are about to switch from project to global options.\nWould you like to overwrite the
+            existing global options from this page with the ones from the project?</val>
+   </key>
+   <key value="Switch_to_project_options_question">
+      <comment>Question message used when switch from global options to project options</comment>
+      <comment>
+         <val lang="en_US">You are about to switch from global to project options.\nWould you like to overwrite the
+            existing project options from this page with the global ones?</val>
+      </comment>
+      <val lang="zh_CN">You are about to switch from global to project options.\nWould you like to overwrite the
+            existing project options from this page with the global ones?</val>
+   </key>
+   <key value="Ignore_mime_type">
+      <comment>Name of the option used to ignore the MIME type detected for a file.</comment>
+      <comment>
+         <val lang="en_US">Ignore MIME type</val>
+      </comment>
+      <val lang="zh_CN">Ignore MIME type</val>
+   </key>
+   <key value="Dictionaries_directory">
+      <comment>Label in autocorrect dictionaries option page.</comment>
+      <comment>
+         <val lang="en_US">Dictionaries directory</val>
+      </comment>
+      <val lang="zh_CN">Dictionaries directory</val>
+   </key>
+   <key value="User_defined_replacements_directory">
+      <comment>Label in autocorrect dictionaries option page.</comment>
+      <comment>
+         <val lang="en_US">User-defined replacements directory</val>
+      </comment>
+      <val lang="zh_CN">User-defined replacements directory</val>
+   </key>
+   <key value="Affected_files">
+      <comment>Label for the number of files affected by an action.</comment>
+      <comment>
+         <val lang="en_US">Affected files</val>
+      </comment>
+      <val lang="zh_CN">Affected files</val>
+   </key>
+   <key value="Image_alt_text">
+      <comment>Label for inserting an alternative text for an image.</comment>
+      <comment>
+         <val lang="en_US">Alternate text</val>
+      </comment>
+      <val lang="zh_CN">Alternate text</val>
+   </key>
+   <key value="Switch_options" type="action">
+      <comment>Question dialog title when switching options from project to global or vice-versa</comment>
+      <comment>
+         <val lang="en_US">Switch options</val>
+      </comment>
+      <val lang="zh_CN">Switch options</val>
+   </key>
+   <key value="Reset_layout_question">
+      <comment>Message displayed on reset layout.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to reset the layout?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to reset the layout?</val>
+   </key>
+   <key value="Find_replace_canonical_equivalence_tooltip">
+      <comment>Tooltip for the "Canonical equivalence" option in the Find/Replace dialog boxes</comment>
+      <comment>
+         <val lang="en_US">Two characters will be considered to match if, and only if, their full canonical
+            decompositions match.</val>
+      </comment>
+      <val lang="zh_CN">Two characters will be considered to match if, and only if, their full canonical
+            decompositions match.</val>
+   </key>
+   <key value="Figure_title">
+      <comment>Label used for inserting the title of an image.</comment>
+      <comment>
+         <val lang="en_US">Figure title</val>
+      </comment>
+      <val lang="zh_CN">Figure title</val>
+   </key>
+   <key value="Enable_dark_menu_bar_and_dock">
+      <comment>Message displayed on Mac OS X when user change theme to Graphite.</comment>
+      <comment>
+         <val lang="en_US">To use a dark theme in the menu bar, activate the "Use dark menu bar and Dock" option in
+            System Preferences &gt; General.</val>
+      </comment>
+      <val lang="zh_CN">To use a dark theme in the menu bar, activate the "Use dark menu bar and Dock" option in
+            System Preferences &gt; General.</val>
+   </key>
+   <key value="Are_you_sure_you_want_to_reload_file">
+      <comment>Message displayed when reloading a file.</comment>
+      <comment>
+         <val lang="en_US">Your file contains unsaved changes which will be lost if you reload it. \nAre you sure you
+            want to continue?</val>
+      </comment>
+      <val lang="zh_CN">Your file contains unsaved changes which will be lost if you reload it. \nAre you sure you
+            want to continue?</val>
+   </key>
+   <key value="License_is_not_suitable">
+      <comment>Error message for wrong license for OEM components.</comment>
+      <comment>
+         <val lang="en_US">The current license is not suitable for {1}.</val>
+      </comment>
+      <val lang="zh_CN">The current license is not suitable for {1}.</val>
+   </key>
+   <key value="Debugger_information_message">
+      <comment>Option in debugger option page.</comment>
+      <comment>
+         <val lang="en_US">This option will become effective when the perspective is closed or changed.</val>
+      </comment>
+      <val lang="zh_CN">This option will become effective when the perspective is closed or changed.</val>
+   </key>
+   <key value="Debugger_current_instruction_pointer">
+      <comment>Option in debugger option page.</comment>
+      <comment>
+         <val lang="en_US">Debugger current instruction pointer</val>
+      </comment>
+      <val lang="zh_CN">Debugger current instruction pointer</val>
+   </key>
+   <key value="Save_affected_resources">
+      <comment>Message displayed in the XML Refactoring wizard dialog.</comment>
+      <comment>
+         <val lang="en_US">Save affected resources</val>
+      </comment>
+      <val lang="zh_CN">Save affected resources</val>
+   </key>
+   <key value="Xml_refactor_errors">
+      <comment>Title of the tab that presents XML Refactoring tool errors.</comment>
+      <comment>
+         <val lang="en_US">XML Refactoring Errors</val>
+      </comment>
+      <val lang="zh_CN">XML Refactoring Errors</val>
+   </key>
+   <key value="Bidi_limit_warn">
+      <comment>Warning for large documents that contain multi-language (BIDI right to left, Arabic, etc) text. These
+            produce a large memory consumption, so we use another strategy for them.</comment>
+      <comment>
+         <val lang="en_US">The document "{0}" contains bidirectional text (such as Arabic or Hebrew), South/South-Eastern
+            Asian text, or special characters (such as combining characters) that require special handling to ensure
+            proper editing. \nIn order to preserve performance, the support for special characters was disabled for this
+            document.\n \nThe maximum size, in characters, for a document with such text is currently set to: {1}.</val>
+      </comment>
+      <val lang="zh_CN">The document "{0}" contains bidirectional text (such as Arabic or Hebrew), South/South-Eastern
+            Asian text, or special characters (such as combining characters) that require special handling to ensure
+            proper editing. \nIn order to preserve performance, the support for special characters was disabled for this
+            document.\n \nThe maximum size, in characters, for a document with such text is currently set to: {1}.</val>
+   </key>
+   <key value="Bidi_limit_warn2">
+      <comment>Warning for large documents that contain multi-language (BIDI right to left, Arabic, etc) text. These
+            produce a large memory consumption, so we use another strategy for them.</comment>
+      <comment>
+         <val lang="en_US">You can customize this limit by changing the "{0}" option in the "{1}" options page.</val>
+      </comment>
+      <val lang="zh_CN">You can customize this limit by changing the "{0}" option in the "{1}" options page.</val>
+   </key>
+   <key value="Bidirectional_text_limit">
+      <comment>Label for the special characters document length limit option</comment>
+      <comment>
+         <val lang="en_US">Disable special characters support for documents larger than</val>
+      </comment>
+      <val lang="zh_CN">Disable special characters support for documents larger than</val>
+   </key>
+   <key value="When_bidi_text_detected">
+      <comment>Option to control handling of bidirectional text, Asian text or other special characters.</comment>
+      <comment>
+         <val lang="en_US">When bidirectional text, Asian languages, or other special characters are detected</val>
+      </comment>
+      <val lang="zh_CN">When bidirectional text, Asian languages, or other special characters are detected</val>
+   </key>
+   <key value="Bidirectional_text">
+      <comment> The name of a section in the options referring to the bidirectional text. For instance the Arabic and
+            the Hebrew languages are bidirectional (text is written from right to left and numbers from left to right.) </comment>
+      <comment>
+         <val lang="en_US">Bidirectional (Mixed) Text</val>
+      </comment>
+      <val lang="zh_CN">Bidirectional (Mixed) Text</val>
+   </key>
+   <key value="Enable_support_for_special_characters">
+      <comment>Enable bidirectional mode button text.</comment>
+      <comment>
+         <val lang="en_US">Enable support for special characters</val>
+      </comment>
+      <val lang="zh_CN">Enable support for special characters</val>
+   </key>
+   <key value="Disable_support_for_special_characters">
+      <comment>Disable bidirectional mode button text.</comment>
+      <comment>
+         <val lang="en_US">Disable support for special characters</val>
+      </comment>
+      <val lang="zh_CN">Disable support for special characters</val>
+   </key>
+   <key value="Show_BIDI_limit_warning">
+      <comment>Show warning dialog when BIDI limit is reached.</comment>
+      <comment>
+         <val lang="en_US">Show warning for document size limit for bidirectional text, Asian languages and other special
+            characters</val>
+      </comment>
+      <val lang="zh_CN">Show warning for document size limit for bidirectional text, Asian languages and other special
+            characters</val>
+   </key>
+   <key value="Bidi_support_disabled_for_this_document">
+      <comment>Message shown when bidirectional support is currently disabled.</comment>
+      <comment>
+         <val lang="en_US">Support for bidirectional text, Asian languages and other special characters is currently
+            disabled for this document.</val>
+      </comment>
+      <val lang="zh_CN">Support for bidirectional text, Asian languages and other special characters is currently
+            disabled for this document.</val>
+   </key>
+   <key value="Bidi_support_disabled_global">
+      <comment>Message shown when bidirectional support is currently disabled.</comment>
+      <comment>
+         <val lang="en_US">Support for bidirectional text, Asian languages and other special characters is currently
+            disabled.</val>
+      </comment>
+      <val lang="zh_CN">Support for bidirectional text, Asian languages and other special characters is currently
+            disabled.</val>
+   </key>
+   <key value="Prefix_declation_info">
+      <comment>Message displayed for XML Refactoring operations that used XPath expressions to select
+            elements.</comment>
+      <comment>
+         <val lang="en_US">Each prefix used in an XPath expression must be declared in the {0} section.</val>
+      </comment>
+      <val lang="zh_CN">Each prefix used in an XPath expression must be declared in the {0} section.</val>
+   </key>
+   <key value="Ignore_extra_whitespaces_tooltip">
+      <comment>Option in Find/Replace dialog. It means that when searching extra additional whitespaces between two
+            words will be ignored.</comment>
+      <comment>
+         <val lang="en_US">Ignores extra spaces or line breaks between words when finding matches. </val>
+      </comment>
+      <val lang="zh_CN">Ignores extra spaces or line breaks between words when finding matches. </val>
+   </key>
+   <key value="Ignore_extra_whitespaces">
+      <comment>Option in Find/Replace dialog. It means that when searching extra additional whitespaces between two
+            words will be ignored.</comment>
+      <comment>
+         <val lang="en_US">Ignore extra whitespaces</val>
+      </comment>
+      <val lang="zh_CN">Ignore extra whitespaces</val>
+   </key>
+   <key value="Canonical_equivalence">
+      <comment>Option in Find/Replace dialog. It means that two words may be considered equal even if the character
+            codes in the words are not perfectly equal.</comment>
+      <comment>
+         <val lang="en_US">Canonical equivalence</val>
+      </comment>
+      <val lang="zh_CN">Canonical equivalence</val>
+   </key>
+   <key value="Check_For_Duplicate_Topic_Ids">
+      <comment>Option in DITA Map Completeness Check dialog.</comment>
+      <comment>
+         <val lang="en_US">Check for duplicate topic IDs within the DITA map context</val>
+      </comment>
+      <val lang="zh_CN">Check for duplicate topic IDs within the DITA map context</val>
+   </key>
+   <key value="Could_not_find_resources_that_would_be_affected">
+      <comment>Message displayed when user press Preview in the XML Refactoring wizard dialog.</comment>
+      <comment>
+         <val lang="en_US">Could not find any resources that would be affected by this operation.</val>
+      </comment>
+      <val lang="zh_CN">Could not find any resources that would be affected by this operation.</val>
+   </key>
+   <key value="No_resources_were_affected">
+      <comment>Message displayed when user press Finish in the XML Refactoring wizard dialog.</comment>
+      <comment>
+         <val lang="en_US">No resources were affected.</val>
+      </comment>
+      <val lang="zh_CN">No resources were affected.</val>
+   </key>
+   <key value="Reset_not_imported_options">
+      <comment>Action to reset all the options that are not included in the import file.</comment>
+      <comment>
+         <val lang="en_US">Reset all other options to their default values</val>
+      </comment>
+      <val lang="zh_CN">Reset all other options to their default values</val>
+   </key>
+   <key value="Import_options_message">
+      <comment> Message shown when importing global options.</comment>
+      <comment>
+         <val lang="en_US">The file you are importing may not contain settings for all Oxygen options. This operation
+            will only override the options included in the imported file.</val>
+      </comment>
+      <val lang="zh_CN">The file you are importing may not contain settings for all Oxygen options. This operation
+            will only override the options included in the imported file.</val>
+   </key>
+   <key value="Save_toolbars_configuration">
+      <comment>Dialog title.</comment>
+      <comment>
+         <val lang="en_US">Save toolbars configuration</val>
+      </comment>
+      <val lang="zh_CN">Save toolbars configuration</val>
+   </key>
+   <key value="Use_additional_suggestions_from_spell_checker">
+      <comment>Label for the option which allows you to use also suggestions from the spell checker when performing
+            autocorrection.</comment>
+      <comment>
+         <val lang="en_US">Use additional suggestions from the spell checker</val>
+      </comment>
+      <val lang="zh_CN">Use additional suggestions from the spell checker</val>
+   </key>
+   <key distribution="eclipse" value="XML_Refactoring_Action" type="action">
+      <comment>The text of the 'XML Refactoring' action from XML Tools menu.</comment>
+      <comment>
+         <val lang="en_US">XML Refactoring...</val>
+      </comment>
+      <val lang="zh_CN">XML Refactoring...</val>
+   </key>
+   <key value="Open_perspective">
+      <comment>Menu name.</comment>
+      <comment>
+         <val lang="en_US">Open Perspective</val>
+      </comment>
+      <val lang="zh_CN">Open Perspective</val>
+   </key>
+   <key value="Preserve_line_breaks">
+      <comment>Option that instructs the XQuery code formatter to preserve the line breaks from the original
+            document.</comment>
+      <comment>
+         <val lang="en_US">Preserve line breaks</val>
+      </comment>
+      <val lang="zh_CN">Preserve line breaks</val>
+   </key>
+   <key value="Enable_sqf_support">
+      <comment>ISO Schematron option to enable the Schematron quick fixes support.</comment>
+      <comment>
+         <val lang="en_US">Enable Schematron Quick Fixes (SQF) support</val>
+      </comment>
+      <val lang="zh_CN">Enable Schematron Quick Fixes (SQF) support</val>
+   </key>
+   <key value="Select_affected_resources_refactoring_operation">
+      <comment>Additional information displayed in the header of the XML Refactoring wizard.</comment>
+      <comment>
+         <val lang="en_US">Select the resources affected by the XML Refactoring operation</val>
+      </comment>
+      <val lang="zh_CN">Select the resources affected by the XML Refactoring operation</val>
+   </key>
+   <key value="Scope_and_filters">
+      <comment>Title in the scope page of the XML Refactoring wizard dialog.</comment>
+      <comment>
+         <val lang="en_US">Scope and Filters</val>
+      </comment>
+      <val lang="zh_CN">Scope and Filters</val>
+   </key>
+   <key value="License_server_rejection_message">
+      <comment>Rejection message if the user uses an old version of the server (without activation...) with newer applications.</comment>
+      <comment>
+         <val lang="en_US">You are using an older version of License Servlet. Documents can still be opened, but for full compatibility, updating your License Server is recommended. Please use the latest version available at http://www.oxygenxml.com/license_server.html</val>
+      </comment>
+      <val lang="zh_CN">You are using an older version of License Servlet. Documents can still be opened, but for full compatibility, updating your License Server is recommended. Please use the latest version available at http://www.oxygenxml.com/license_server.html</val>
+   </key>
+   <key value="Load_additional_refactoring_operation_from">
+      <comment>Label in XML Refactoring option pane.</comment>
+      <comment>
+         <val lang="en_US">Load additional refactoring operations from</val>
+      </comment>
+      <val lang="zh_CN">Load additional refactoring operations from</val>
+   </key>
+   <key value="Could_not_load_layout_file">
+      <comment>Message shown when the layout file cannot be loaded</comment>
+      <comment>
+         <val lang="en_US">Could not load layout file "{0}" because: {1}</val>
+      </comment>
+      <val lang="zh_CN">Could not load layout file "{0}" because: {1}</val>
+   </key>
+   <key value="Refactoring_operations">
+      <comment>Title in the first page of the XML Refactoring wizard dialog.</comment>
+      <comment>
+         <val lang="en_US">Refactoring operations</val>
+      </comment>
+      <val lang="zh_CN">Refactoring operations</val>
+   </key>
+   <key value="Reset_toolbars_question">
+      <comment>Question to confirm that the user wants to reset the toolbars</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to reset the toolbars for "{0}" perspective?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to reset the toolbars for "{0}" perspective?</val>
+   </key>
+   <key value="Select_a_refactoring_operation">
+      <comment>Additional information displayed in the header of the XML Refactoring wizard.</comment>
+      <comment>
+         <val lang="en_US">Select a refactoring operation</val>
+      </comment>
+      <val lang="zh_CN">Select a refactoring operation</val>
+   </key>
+   <key value="Add_and_close">
+      <comment>Action to add a toolbar item and close the "Add items" dialog</comment>
+      <comment>
+         <val lang="en_US">Add and close</val>
+      </comment>
+      <val lang="zh_CN">Add and close</val>
+   </key>
+   <key distribution="common" value="Convert_xsl_if_into_xsl_choose_xsl_when">
+      <comment>Action tag. Convert an "xsl:if" into an "xsl:choose/xsl:when" construction.</comment>
+      <comment>
+         <val lang="en_US">Convert xsl:if into xsl:choose/xsl:when</val>
+      </comment>
+      <val lang="zh_CN">Convert xsl:if into xsl:choose/xsl:when</val>
+   </key>
+   <key value="Hide_toolbar">
+      <comment>Action to hide a specific toolbar.</comment>
+      <comment>
+         <val lang="en_US">Hide "{0}" Toolbar</val>
+      </comment>
+      <val lang="zh_CN">Hide "{0}" Toolbar</val>
+   </key>
+   <key value="Restrict_only_to_known_XML_files">
+      <comment>Label in the XPath files filter dialog.</comment>
+      <comment>
+         <val lang="en_US">Restrict to known XML file types only</val>
+      </comment>
+      <val lang="zh_CN">Restrict to known XML file types only</val>
+   </key>
+   <key value="Look_inside_archives">
+      <comment>Option in the diff (Directories Comparison) option pane, Find/Replace in files dialog.</comment>
+      <comment>
+         <val lang="en_US">Look inside archives</val>
+      </comment>
+      <val lang="zh_CN">Look inside archives</val>
+   </key>
+   <key value="Reset_toolbars">
+      <comment>Reset toolbars layout action added in application toolbars popup menu.</comment>
+      <comment>
+         <val lang="en_US">Reset Toolbars</val>
+      </comment>
+      <val lang="zh_CN">Reset Toolbars</val>
+   </key>
+   <key value="Generic">
+      <comment>Marker for generic spell check and auto correct dictionaries.</comment>
+      <comment>
+         <val lang="en_US">generic</val>
+      </comment>
+      <val lang="zh_CN">generic</val>
+   </key>
+   <key value="Application_layout">
+      <comment>Name of option page for application layout.</comment>
+      <comment>
+         <val lang="en_US">Application Layout</val>
+      </comment>
+      <val lang="zh_CN">Application Layout</val>
+   </key>
+   <key value="Export_layout">
+      <comment>Export current views and toolbars layout action</comment>
+      <comment>
+         <val lang="en_US">Export Layout</val>
+      </comment>
+      <val lang="zh_CN">Export Layout</val>
+   </key>
+   <key value="Select_working_sets">
+      <comment>Working sets dialog label, used to define the working sets for the XPath operation or XML Refactor
+            tool.</comment>
+      <comment>
+         <val lang="en_US">Select the working sets</val>
+      </comment>
+      <val lang="zh_CN">Select the working sets</val>
+   </key>
+   <key value="Schema_tools">
+      <comment>Schema tools toolbar name</comment>
+      <comment>
+         <val lang="en_US">Schema Tools</val>
+      </comment>
+      <val lang="zh_CN">Schema Tools</val>
+   </key>
+   <key value="Insert_image" distribution="common">
+      <comment>"Insert image" dialog title.</comment>
+      <comment>
+         <val lang="en_US">Insert Image</val>
+      </comment>
+      <val lang="zh_CN">Insert Image</val>
+   </key>
+   <key value="Default_value">
+      <comment>Tooltip text for entries representing a default value for a certain property/attribute.</comment>
+      <comment>
+         <val lang="en_US">Default value</val>
+      </comment>
+      <val lang="zh_CN">Default value</val>
+   </key>
+   <key value="Width">
+      <comment>Name of an attribute of an image element.</comment>
+      <comment>
+         <val lang="en_US">Width</val>
+      </comment>
+      <val lang="zh_CN">Width</val>
+   </key>
+   <key value="Placement">
+      <comment>Name of an attribute of an image element.</comment>
+      <comment>
+         <val lang="en_US">Placement</val>
+      </comment>
+      <val lang="zh_CN">Placement</val>
+   </key>
+   <key value="Alignment">
+      <comment>Name of an attribute of an image element.</comment>
+      <comment>
+         <val lang="en_US">Alignment</val>
+      </comment>
+      <val lang="zh_CN">Alignment</val>
+   </key>
+   <key value="Scale">
+      <comment>Name of an attribute of an image element (contains also the unit of measure).</comment>
+      <comment>
+         <val lang="en_US">Scale ({0})</val>
+      </comment>
+      <val lang="zh_CN">Scale ({0})</val>
+   </key>
+   <key value="Height">
+      <comment>Name of an attribute of an image element.</comment>
+      <comment>
+         <val lang="en_US">Height</val>
+      </comment>
+      <val lang="zh_CN">Height</val>
+   </key>
+   <key value="You_must_select_a_directory">
+      <comment>Error message</comment>
+      <comment>
+         <val lang="en_US">You must select a directory.</val>
+      </comment>
+      <val lang="zh_CN">You must select a directory.</val>
+   </key>
+   <key value="Svn_relocate_externals_warning">
+      <comment>Warning message - items of type "external" that meet the mentioned conditions will not be
+            affected.</comment>
+      <comment>
+         <val lang="en_US">External items that are defined using absolute URLs and part of the same repository as the
+            working copy, are not affected.</val>
+      </comment>
+      <val lang="zh_CN">External items that are defined using absolute URLs and part of the same repository as the
+            working copy, are not affected.</val>
+   </key>
+   <key value="Change_wc_item_to_specified_depth">
+      <comment>Option in the SVN Client to change the depth of a working copy item to a different one</comment>
+      <comment>
+         <val lang="en_US">Change the working copy item to the specified depth</val>
+      </comment>
+      <val lang="zh_CN">Change the working copy item to the specified depth</val>
+   </key>
+   <key value="Switch_to_url">
+      <comment>Label in SVN Client dialog used to switch a local item to another URL (point to another location in the
+            repository)</comment>
+      <comment>
+         <val lang="en_US">Switch to URL</val>
+      </comment>
+      <val lang="zh_CN">Switch to URL</val>
+   </key>
+   <key value="Text_last_modified">
+      <comment>Property in SVN Client, indicating when the content/text of a file was modified last time</comment>
+      <comment>
+         <val lang="en_US">Text last modified</val>
+      </comment>
+      <val lang="zh_CN">Text last modified</val>
+   </key>
+   <key value="Properties_last_modified">
+      <comment>Property in SVN Client, indicating when the properties of an item were modified last time</comment>
+      <comment>
+         <val lang="en_US">Properties last modified</val>
+      </comment>
+      <val lang="zh_CN">Properties last modified</val>
+   </key>
+   <key value="Relative_URL">
+      <comment>Label indicating the relative URL of an SVN controlled item (relative to its repository root), like
+            "Relative URL: ^/path/to/item"</comment>
+      <comment>
+         <val lang="en_US">Relative URL</val>
+      </comment>
+      <val lang="zh_CN">Relative URL</val>
+   </key>
+   <key value="Working_copy_root">
+      <comment>Label indicating the root directory of an SVN working copy, like "Working copy root:
+            /the/path/to/wc/root/dir"</comment>
+      <comment>
+         <val lang="en_US">Working copy root</val>
+      </comment>
+      <val lang="zh_CN">Working copy root</val>
+   </key>
+   <key value="Show_svn_information">
+      <comment>SVN client action name, used to display information about an item under version control</comment>
+      <comment>
+         <val lang="en_US">Show SVN Information</val>
+      </comment>
+      <val lang="zh_CN">Show SVN Information</val>
+   </key>
+   <key value="Import_folder">
+      <comment>SVN client action name, used to import a local directory into a remote repository</comment>
+      <comment>
+         <val lang="en_US">Import folder</val>
+      </comment>
+      <val lang="zh_CN">Import folder</val>
+   </key>
+   <key value="Directory_empty">
+      <comment>Warning from the SVN client, when processing an empty directory.</comment>
+      <comment>
+         <val lang="en_US">The directory is empty.</val>
+      </comment>
+      <val lang="zh_CN">The directory is empty.</val>
+   </key>
+   <key value="Project_directory_empty">
+      <comment>Warning from the SVN client, when the project directory is empty.</comment>
+      <comment>
+         <val lang="en_US">The project directory is empty.</val>
+      </comment>
+      <val lang="zh_CN">The project directory is empty.</val>
+   </key>
+   <key value="Svn_export_overwrites_existing_files_warning">
+      <comment>Warning from the SVN Client, when exporting items from the repository into a non-empty
+            directory</comment>
+      <comment>
+         <val lang="en_US">Existing files that match those exported from the repository will be overwritten.</val>
+      </comment>
+      <val lang="zh_CN">Existing files that match those exported from the repository will be overwritten.</val>
+   </key>
+   <key value="Destination_directory_not_empty">
+      <comment>Warning message presented when a selected directory is not empty</comment>
+      <comment>
+         <val lang="en_US">The destination directory is not empty.</val>
+      </comment>
+      <val lang="zh_CN">The destination directory is not empty.</val>
+   </key>
+   <key value="Check_out_to">
+      <comment>Label in the Check Out dialog of SVN client - indicates the location where to check out the new working
+            copy</comment>
+      <comment>
+         <val lang="en_US">Check out to</val>
+      </comment>
+      <val lang="zh_CN">Check out to</val>
+   </key>
+   <key value="EOL_style">
+      <comment>SVN client option in the Export dialog: file content end-of-line marker</comment>
+      <comment>
+         <val lang="en_US">EOL style</val>
+      </comment>
+      <val lang="zh_CN">EOL style</val>
+   </key>
+   <key value="Export_to">
+      <comment>Label in the Export dialog of SVN client - indicates the location where to export files from
+            repository</comment>
+      <comment>
+         <val lang="en_US">Export to</val>
+      </comment>
+      <val lang="zh_CN">Export to</val>
+   </key>
+   <key value="Ignore_keywords">
+      <comment>SVN client option to not expand keywords (ignore them) when exporting files from an SVN
+            repository</comment>
+      <comment>
+         <val lang="en_US">Ignore keywords</val>
+      </comment>
+      <val lang="zh_CN">Ignore keywords</val>
+   </key>
+   <key value="Local_repository">
+      <comment>SVN client title for local repository</comment>
+      <comment>
+         <val lang="en_US">Local Repository</val>
+      </comment>
+      <val lang="zh_CN">Local Repository</val>
+   </key>
+   <key value="Repository_item">
+      <comment>Label for the SVN client "Create patch" wizard dialog (similar to working_copy_item)</comment>
+      <comment>
+         <val lang="en_US">Repository item</val>
+      </comment>
+      <val lang="zh_CN">Repository item</val>
+   </key>
+   <key value="Ignore_content_of_added_files">
+      <comment>SVN client option used when generating patches - ignore files being scheduled for addition to the
+            repository</comment>
+      <comment>
+         <val lang="en_US">Ignore content of added files</val>
+      </comment>
+      <val lang="zh_CN">Ignore content of added files</val>
+   </key>
+   <key value="Ignore_content_of_deleted_files">
+      <comment>SVN client option used when generating patches - ignore files being scheduled for deletion from the
+            repository</comment>
+      <comment>
+         <val lang="en_US">Ignore content of deleted files</val>
+      </comment>
+      <val lang="zh_CN">Ignore content of deleted files</val>
+   </key>
+   <key value="Treat_copied_files_as_newly_added">
+      <comment>SVN client option used when generating patches - treat copied files as being simply scheduled for
+            addition ones (no information about the copied source file)</comment>
+      <comment>
+         <val lang="en_US">Treat copied files as newly added</val>
+      </comment>
+      <val lang="zh_CN">Treat copied files as newly added</val>
+   </key>
+   <key value="Include_files_having_binary_mime_type">
+      <comment>SVN client option used when generating patches - process files considered to have binary
+            content</comment>
+      <comment>
+         <val lang="en_US">Include files having a binary MIME type</val>
+      </comment>
+      <val lang="zh_CN">Include files having a binary MIME type</val>
+   </key>
+   <key value="Properties_only">
+      <comment>SVN client option used when generating patches - include only properties of the files</comment>
+      <comment>
+         <val lang="en_US">Properties only</val>
+      </comment>
+      <val lang="zh_CN">Properties only</val>
+   </key>
+   <key value="Notice_ancestry">
+      <comment>Option in the "Create patch" SVN wizard (the opposite of "Ignore_ancestry")</comment>
+      <comment>
+         <val lang="en_US">Notice ancestry</val>
+      </comment>
+      <val lang="zh_CN">Notice ancestry</val>
+   </key>
+   <key value="Use_git_extended_format">
+      <comment>SVN client option used when generating patches - output patch content using Git's extended format,
+            instead of standard format</comment>
+      <comment>
+         <val lang="en_US">Use Git extended diff format</val>
+      </comment>
+      <val lang="zh_CN">Use Git extended diff format</val>
+   </key>
+   <key value="Select_items_to_create_patch_between">
+      <comment>Label for create patch wizard dialog.</comment>
+      <comment>
+         <val lang="en_US">Select the items to create patch between.</val>
+      </comment>
+      <val lang="zh_CN">Select the items to create patch between.</val>
+   </key>
+   <key value="Select_revisions_to_create_patch_between">
+      <comment>Label for create patch wizard dialog.</comment>
+      <comment>
+         <val lang="en_US">Select the revisions to create patch between.</val>
+      </comment>
+      <val lang="zh_CN">Select the revisions to create patch between.</val>
+   </key>
+   <key value="Revision_to_create_patch_against">
+      <comment>Option in the "Create Patch" wizard dialog</comment>
+      <comment>
+         <val lang="en_US">Revision to create patch against</val>
+      </comment>
+      <val lang="zh_CN">Revision to create patch against</val>
+   </key>
+   <key value="Select_revision_to_create_patch_against">
+      <comment>Description from a wizard dialog box page.</comment>
+      <comment>
+         <val lang="en_US">Select the revision against which to create the patch.</val>
+      </comment>
+      <val lang="zh_CN">Select the revision against which to create the patch.</val>
+   </key>
+   <key value="Select_which_type_of_patch_to_create">
+      <comment>Message in the SVN client's Create Patch wizard dialog.</comment>
+      <comment>
+         <val lang="en_US">Select which type of patch to create.</val>
+      </comment>
+      <val lang="zh_CN">Select which type of patch to create.</val>
+   </key>
+   <key value="Create_patch_from_local_modifications">
+      <comment>SVN client option to create a patch containing the local changes</comment>
+      <comment>
+         <val lang="en_US">Create patch from local modifications</val>
+      </comment>
+      <val lang="zh_CN">Create patch from local modifications</val>
+   </key>
+   <key value="Create_patch_from_local_modifications_description">
+      <comment>Description for the SVN client option to create a patch containing the local changes</comment>
+      <comment>
+         <val lang="en_US">Create a patch containing all the local modifications corresponding to the selected working
+            copy item.</val>
+      </comment>
+      <val lang="zh_CN">Create a patch containing all the local modifications corresponding to the selected working
+            copy item.</val>
+   </key>
+   <key value="Create_patch_against_specific_revision">
+      <comment>SVN client option to create a patch between a selected item and a specific revision of it</comment>
+      <comment>
+         <val lang="en_US">Create patch against a specific revision</val>
+      </comment>
+      <val lang="zh_CN">Create patch against a specific revision</val>
+   </key>
+   <key value="Create_patch_against_specific_revision_description">
+      <comment>Description for the SVN client option to create a patch between a selected item and a specific revision
+            of it</comment>
+      <comment>
+         <val lang="en_US">Create a patch containing all the differences between the selected item and a specific
+            revision of it.</val>
+      </comment>
+      <val lang="zh_CN">Create a patch containing all the differences between the selected item and a specific
+            revision of it.</val>
+   </key>
+   <key value="Create_patch_between_revisions">
+      <comment>SVN client option to create a patch between two revisions of the same item</comment>
+      <comment>
+         <val lang="en_US">Create patch between two revisions of an item</val>
+      </comment>
+      <val lang="zh_CN">Create patch between two revisions of an item</val>
+   </key>
+   <key value="Create_patch_between_revisions_description">
+      <comment>Description for the SVN client option to create a patch between two revisions of the same
+            item</comment>
+      <comment>
+         <val lang="en_US">Create a patch containing all the differences between two revisions of an item.</val>
+      </comment>
+      <val lang="zh_CN">Create a patch containing all the differences between two revisions of an item.</val>
+   </key>
+   <key value="Create_patch_between_repository_items">
+      <comment>SVN client option to create a patch between two different repository items</comment>
+      <comment>
+         <val lang="en_US">Create patch between two repository items</val>
+      </comment>
+      <val lang="zh_CN">Create patch between two repository items</val>
+   </key>
+   <key value="Create_patch_between_repository_items_description">
+      <comment>Description for the SVN client option to create a patch between two different repository
+            items</comment>
+      <comment>
+         <val lang="en_US">Create a patch containing all the differences between two different repository items.</val>
+      </comment>
+      <val lang="zh_CN">Create a patch containing all the differences between two different repository items.</val>
+   </key>
+   <key value="Svn_perform_pre_merge_best_practices_checks_of_wc_target">
+      <comment>SVN client's option to perform best practices checks of the working copy target, before trying to merge
+            into it</comment>
+      <comment>
+         <val lang="en_US">Perform pre-merge best practices checks of the working copy target</val>
+      </comment>
+      <val lang="zh_CN">Perform pre-merge best practices checks of the working copy target</val>
+   </key>
+   <key value="Checking_merge_target">
+      <comment>Name of the SVN task that checks the working copy merge target</comment>
+      <comment>
+         <val lang="en_US">Checking merge target</val>
+      </comment>
+      <val lang="zh_CN">Checking merge target</val>
+   </key>
+   <key value="Checking_item">
+      <comment>Message when performing different verifications of an item: Checking ITEM_NAME</comment>
+      <comment>
+         <val lang="en_US">Checking {0}</val>
+      </comment>
+      <val lang="zh_CN">Checking {0}</val>
+   </key>
+   <key value="Pre_merge_checks">
+      <comment>Title of a wizard page from the SVN Merge wizard dialog box, used to present pre-merge checks
+            results</comment>
+      <comment>
+         <val lang="en_US">Pre-merge checks</val>
+      </comment>
+      <val lang="zh_CN">Pre-merge checks</val>
+   </key>
+   <key value="Svn_pre_merge_checks_panel_description">
+      <comment>Description of a wizard page from the SVN Merge wizard dialog box, used to present pre-merge checks
+            results</comment>
+      <comment>
+         <val lang="en_US">Pre-merge best practices checks results of the working copy target.</val>
+      </comment>
+      <val lang="zh_CN">Pre-merge best practices checks results of the working copy target.</val>
+   </key>
+</translation>

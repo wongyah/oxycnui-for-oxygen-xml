@@ -1,0 +1,1640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="Validate_all">
+      <comment/>
+      <comment>
+         <val lang="en_US">Validate all project files</val>
+      </comment>
+      <val lang="zh_CN">Validate all project files</val>
+   </key>
+   <key value="GOTO_BM3">
+      <comment>Edit / Bookmarks / Go to option</comment>
+      <comment>
+         <val lang="en_US">Go to 3</val>
+      </comment>
+      <val lang="zh_CN">Go to 3</val>
+   </key>
+   <key value="GOTO_BM2">
+      <comment>Edit / Bookmarks / Go to option</comment>
+      <comment>
+         <val lang="en_US">Go to 2</val>
+      </comment>
+      <val lang="zh_CN">Go to 2</val>
+   </key>
+   <key value="GOTO_BM1">
+      <comment>Edit / Bookmarks / Go to option</comment>
+      <comment>
+         <val lang="en_US">Go to 1</val>
+      </comment>
+      <val lang="zh_CN">Go to 1</val>
+   </key>
+   <key value="Find_next">
+      <comment>Button in Find menu, Find/Replace option</comment>
+      <comment>
+         <val lang="en_US">Find Next</val>
+      </comment>
+      <val lang="zh_CN">Find Next</val>
+   </key>
+   <key value="Show_hide_attributes">
+      <comment>Tooltip in Tree Editor.</comment>
+      <comment>
+         <val lang="en_US">Show/Hide Attributes</val>
+      </comment>
+      <val lang="zh_CN">Show/Hide Attributes</val>
+   </key>
+   <key value="Change">
+      <comment/>
+      <comment>
+         <val lang="en_US">Change</val>
+      </comment>
+      <val lang="zh_CN">Change</val>
+   </key>
+   <key distribution="common" value="Entities">
+      <comment>Tree Editor, Panel title.</comment>
+      <comment>
+         <val lang="en_US">Entities</val>
+      </comment>
+      <val lang="zh_CN">Entities</val>
+   </key>
+   <key value="Errors">
+      <comment/>
+      <comment>
+         <val lang="en_US">Errors</val>
+      </comment>
+      <val lang="zh_CN">Errors</val>
+   </key>
+   <key value="From_URL">
+      <comment>File menu, New from Templates option, category.</comment>
+      <comment>
+         <val lang="en_US">From URL</val>
+      </comment>
+      <val lang="zh_CN">From URL</val>
+   </key>
+   <key value="Description">
+      <comment/>
+      <comment>
+         <val lang="en_US">Description</val>
+      </comment>
+      <val lang="zh_CN">Description</val>
+   </key>
+   <key value="You_choosed">
+      <comment>For example Options/Preferences/Global , when you change the language , the dialog title.</comment>
+      <comment>
+         <val lang="en_US">You choose</val>
+      </comment>
+      <val lang="zh_CN">You choose</val>
+   </key>
+   <key value="Create_an_XML_document">
+      <comment>File menu, New Document option, XML Document dialog title.</comment>
+      <comment>
+         <val lang="en_US">Create an XML document</val>
+      </comment>
+      <val lang="zh_CN">Create an XML document</val>
+   </key>
+   <key value="Editor_caret_color">
+      <comment>Options/Preferences/Editor/Aspect</comment>
+      <comment>
+         <val lang="en_US">Editor cursor color</val>
+      </comment>
+      <val lang="zh_CN">Editor cursor color</val>
+   </key>
+   <key value="Check_XML_tooltip">
+      <comment>Tooltip in Configure Transformation Scenario/Output Tab</comment>
+      <comment>
+         <val lang="en_US">Select this if you want to see the result in the XML panel</val>
+      </comment>
+      <val lang="zh_CN">Select this if you want to see the result in the XML panel</val>
+   </key>
+   <key value="Plugins">
+      <comment>For example Main Menu</comment>
+      <comment>
+         <val lang="en_US">Plugins</val>
+      </comment>
+      <val lang="zh_CN">Plugins</val>
+   </key>
+   <key value="This_file_was_already_added">
+      <comment/>
+      <comment>
+         <val lang="en_US">This file was already added</val>
+      </comment>
+      <val lang="zh_CN">This file was already added</val>
+   </key>
+   <key distribution="common" value="Outline">
+      <comment/>
+      <comment>
+         <val lang="en_US">Outline</val>
+      </comment>
+      <val lang="zh_CN">Outline</val>
+   </key>
+   <key value="External_tools">
+      <comment>Main Menu.</comment>
+      <comment>
+         <val lang="en_US">External Tools</val>
+      </comment>
+      <val lang="zh_CN">External Tools</val>
+   </key>
+   <key value="RNC_document">
+      <comment/>
+      <comment>
+         <val lang="en_US">RELAX NG Schema (compact)</val>
+      </comment>
+      <val lang="zh_CN">RELAX NG Schema (compact)</val>
+   </key>
+   <key value="Save_project">
+      <comment>File menu option.</comment>
+      <comment>
+         <val lang="en_US">Save Project</val>
+      </comment>
+      <val lang="zh_CN">Save Project</val>
+   </key>
+   <key value="Whole_words_only">
+      <comment>Checkbox in the Find/Replace dialog.</comment>
+      <comment>
+         <val lang="en_US">Whole words only</val>
+      </comment>
+      <val lang="zh_CN">Whole words only</val>
+   </key>
+   <key value="Protocol_not_known">
+      <comment>When an invalid protocol is used.</comment>
+      <comment>
+         <val lang="en_US">Protocol not known</val>
+      </comment>
+      <val lang="zh_CN">Protocol not known</val>
+   </key>
+   <key distribution="common" value="Associate_schema">
+      <comment>XML menu option.</comment>
+      <comment>
+         <val lang="en_US">Associate Schema</val>
+      </comment>
+      <val lang="zh_CN">Associate Schema</val>
+   </key>
+   <key value="Ok" skipTranslation="true">
+      <comment/>
+      <comment>
+         <val lang="en_US">OK</val>
+      </comment>
+      <val lang="zh_CN">OK</val>
+   </key>
+   <key value="Processing_Instruction">
+      <comment/>
+      <comment>
+         <val lang="en_US">Processing Instruction</val>
+      </comment>
+      <val lang="zh_CN">Processing Instruction</val>
+   </key>
+   <key distribution="common" value="Attributes">
+      <comment>Tree View,Information Panel.</comment>
+      <comment>
+         <val lang="en_US">Attributes</val>
+      </comment>
+      <val lang="zh_CN">Attributes</val>
+   </key>
+   <key value="Perform_FOP">
+      <comment>Configure Transformation Scenario/Edit,FO Processor Tab.</comment>
+      <comment>
+         <val lang="en_US">Perform FO Processing</val>
+      </comment>
+      <val lang="zh_CN">Perform FO Processing</val>
+   </key>
+   <key value="This_folder_was_already_added">
+      <comment/>
+      <comment>
+         <val lang="en_US">This folder was already added</val>
+      </comment>
+      <val lang="zh_CN">This folder was already added</val>
+   </key>
+   <key value="Entity_reference">
+      <comment>Tree view</comment>
+      <comment>
+         <val lang="en_US">Entity Reference</val>
+      </comment>
+      <val lang="zh_CN">Entity Reference</val>
+   </key>
+   <key value="Show_hide_whitespaces">
+      <comment>Tooltip in Tree view.</comment>
+      <comment>
+         <val lang="en_US">Show/Hide Whitespaces</val>
+      </comment>
+      <val lang="zh_CN">Show/Hide Whitespaces</val>
+   </key>
+   <key value="Convert">
+      <comment>For example File menu</comment>
+      <comment>
+         <val lang="en_US">Convert</val>
+      </comment>
+      <val lang="zh_CN">Convert</val>
+   </key>
+   <key value="Close">
+      <comment/>
+      <comment>
+         <val lang="en_US">Close</val>
+      </comment>
+      <val lang="zh_CN">Close</val>
+   </key>
+   <key value="Check_perform_FOP_tooltip">
+      <comment>Tooltip in Configure Transformation Scenario,FO Processor Tab.</comment>
+      <comment>
+         <val lang="en_US">Select this if you want to perform FO processing</val>
+      </comment>
+      <val lang="zh_CN">Select this if you want to perform FO processing</val>
+   </key>
+   <key value="File_Print_Results">
+      <comment>File menu</comment>
+      <comment>
+         <val lang="en_US">Print Results</val>
+      </comment>
+      <val lang="zh_CN">Print Results</val>
+   </key>
+   <key value="Tag">
+      <comment>Popup menu,"surround in" option.</comment>
+      <comment>
+         <val lang="en_US">Tag</val>
+      </comment>
+      <val lang="zh_CN">Tag</val>
+   </key>
+   <key value="Find_all">
+      <comment>Find option.</comment>
+      <comment>
+         <val lang="en_US">Find All</val>
+      </comment>
+      <val lang="zh_CN">Find All</val>
+   </key>
+   <key value="Allow_file_extensions">
+      <comment>Edit/Check spelling menu, options dialog.</comment>
+      <comment>
+         <val lang="en_US">Allow file extensions</val>
+      </comment>
+      <val lang="zh_CN">Allow file extensions</val>
+   </key>
+   <key value="Find_replace">
+      <comment>Find menu.</comment>
+      <comment>
+         <val lang="en_US">Find/Replace</val>
+      </comment>
+      <val lang="zh_CN">Find/Replace</val>
+   </key>
+   <key value="Location">
+      <comment>Create Templates.</comment>
+      <comment>
+         <val lang="en_US">Location</val>
+      </comment>
+      <val lang="zh_CN">Location</val>
+   </key>
+   <key value="Check_punctuation">
+      <comment>Edit/Check spelling menu, options dialog.</comment>
+      <comment>
+         <val lang="en_US">Check punctuation</val>
+      </comment>
+      <val lang="zh_CN">Check punctuation</val>
+   </key>
+   <key value="XML_schema" distribution="common">
+      <comment>File/New Document dialog</comment>
+      <comment>
+         <val lang="en_US">XML Schema</val>
+      </comment>
+      <val lang="zh_CN">XML Schema</val>
+   </key>
+   <key value="Outline_not_available">
+      <comment>Message displayed when no root is available.</comment>
+      <comment>
+         <val lang="en_US">An outline is not available</val>
+      </comment>
+      <val lang="zh_CN">An outline is not available</val>
+   </key>
+   <key value="Insert_comment">
+      <comment>XML Tree Editor. Insert menu option.</comment>
+      <comment>
+         <val lang="en_US">Insert Comment</val>
+      </comment>
+      <val lang="zh_CN">Insert Comment</val>
+   </key>
+   <key value="Path_of_current_file">
+      <comment>The path of current file required in the Search/Replace in Files dialog.</comment>
+      <comment>
+         <val lang="en_US">Path of current file</val>
+      </comment>
+      <val lang="zh_CN">Path of current file</val>
+   </key>
+   <key value="At_end">
+      <comment/>
+      <comment>
+         <val lang="en_US">At end</val>
+      </comment>
+      <val lang="zh_CN">At end</val>
+   </key>
+   <key value="Word_should_be_capitalized">
+      <comment>Message displayed when spell checking.</comment>
+      <comment>
+         <val lang="en_US">Word should be capitalized</val>
+      </comment>
+      <val lang="zh_CN">Word should be capitalized</val>
+   </key>
+   <key value="Working_directory">
+      <comment/>
+      <comment>
+         <val lang="en_US">Working directory</val>
+      </comment>
+      <val lang="zh_CN">Working directory</val>
+   </key>
+   <key value="The_search_path_in_not_defined">
+      <comment>Error message displayed when the search path in the Search/Replace in Files dialog is
+            undefined.</comment>
+      <comment>
+         <val lang="en_US">The search path is not defined.</val>
+      </comment>
+      <val lang="zh_CN">The search path is not defined.</val>
+   </key>
+   <key value="Include_elements_declared_in_the_schema">
+      <comment>In the Preferences dialog/Editor/Tag Insight pane.</comment>
+      <comment>
+         <val lang="en_US">Include elements declared in the schema</val>
+      </comment>
+      <val lang="zh_CN">Include elements declared in the schema</val>
+   </key>
+   <key value="XML_Document">
+      <comment/>
+      <comment>
+         <val lang="en_US">XML Document</val>
+      </comment>
+      <val lang="zh_CN">XML Document</val>
+   </key>
+   <key value="None">
+      <comment/>
+      <comment>
+         <val lang="en_US">None</val>
+      </comment>
+      <val lang="zh_CN">None</val>
+   </key>
+   <key value="Last">
+      <comment/>
+      <comment>
+         <val lang="en_US">Last</val>
+      </comment>
+      <val lang="zh_CN">Last</val>
+   </key>
+   <key value="Replace">
+      <comment/>
+      <comment>
+         <val lang="en_US">Replace</val>
+      </comment>
+      <val lang="zh_CN">Replace</val>
+   </key>
+   <key value="Find_in_files">
+      <comment>Find menu option.</comment>
+      <comment>
+         <val lang="en_US">Find in Files</val>
+      </comment>
+      <val lang="zh_CN">Find in Files</val>
+   </key>
+   <key value="License_key_has_expired">
+      <comment>Displayed when the license has expired.</comment>
+      <comment>
+         <val lang="en_US">License key has expired</val>
+      </comment>
+      <val lang="zh_CN">License key has expired</val>
+   </key>
+   <key value="Register">
+      <comment>Help menu option.</comment>
+      <comment>
+         <val lang="en_US">Register</val>
+      </comment>
+      <val lang="zh_CN">Register</val>
+   </key>
+   <key value="Untitled">
+      <comment>The default frame name when a new file is created.</comment>
+      <comment>
+         <val lang="en_US">Untitled</val>
+      </comment>
+      <val lang="zh_CN">Untitled</val>
+   </key>
+   <key value="Browse_for_remote_file">
+      <comment>Tooltip displayed in the Associate Schema dialog.</comment>
+      <comment>
+         <val lang="en_US">Browse for remote file</val>
+      </comment>
+      <val lang="zh_CN">Browse for remote file</val>
+   </key>
+   <key value="Successfull">
+      <comment>Status message.</comment>
+      <comment>
+         <val lang="en_US">successful</val>
+      </comment>
+      <val lang="zh_CN">successful</val>
+   </key>
+   <key value="Edit_Copy">
+      <comment>Edit menu option.</comment>
+      <comment>
+         <val lang="en_US">Copy</val>
+      </comment>
+      <val lang="zh_CN">Copy</val>
+   </key>
+   <key value="Save">
+      <comment>File menu option.</comment>
+      <comment>
+         <val lang="en_US">Save</val>
+      </comment>
+      <val lang="zh_CN">Save</val>
+   </key>
+   <key value="Scanned_files">
+      <comment>The number of scanned files.</comment>
+      <comment>
+         <val lang="en_US">Scanned files</val>
+      </comment>
+      <val lang="zh_CN">Scanned files</val>
+   </key>
+   <key value="Line_width_format_and_indent">
+      <comment>The line width for Format and Indent that is set in the Preferences dialog/Editor/Format
+            pane.</comment>
+      <comment>
+         <val lang="en_US">Line width - Format and Indent</val>
+      </comment>
+      <val lang="zh_CN">Line width - Format and Indent</val>
+   </key>
+   <key value="Line_width">
+      <comment>The line width option used in trang converter dialog.</comment>
+      <comment>
+         <val lang="en_US">Line width</val>
+      </comment>
+      <val lang="zh_CN">Line width</val>
+   </key>
+   <key value="Occurrences">
+      <comment>Displayed when searching in the document.Represents the number of occurrences.</comment>
+      <comment>
+         <val lang="en_US">Occurrences</val>
+      </comment>
+      <val lang="zh_CN">Occurrences</val>
+   </key>
+   <key value="The_evaluation_period_is_over">
+      <comment>Displayed when the license has expired.</comment>
+      <comment>
+         <val lang="en_US">The evaluation period is over.</val>
+      </comment>
+      <val lang="zh_CN">The evaluation period is over.</val>
+   </key>
+   <key value="File_Save">
+      <comment>File menu option.</comment>
+      <comment>
+         <val lang="en_US">Save</val>
+      </comment>
+      <val lang="zh_CN">Save</val>
+   </key>
+   <key value="Close_the_inserted_element">
+      <comment>Checkbox in the Preferences dialog/Editor/Tag Insight/Features pane.</comment>
+      <comment>
+         <val lang="en_US">Close the inserted element</val>
+      </comment>
+      <val lang="zh_CN">Close the inserted element</val>
+   </key>
+   <key value="Insert_file_at_cursor">
+      <comment>Option in the editor pop-up menu.</comment>
+      <comment>
+         <val lang="en_US">Insert File</val>
+      </comment>
+      <val lang="zh_CN">Insert File</val>
+   </key>
+   <key value="Category">
+      <comment>The category of the shortcut key.</comment>
+      <comment>
+         <val lang="en_US">Category</val>
+      </comment>
+      <val lang="zh_CN">Category</val>
+   </key>
+   <key value="Replacements">
+      <comment>The number of replacements made.</comment>
+      <comment>
+         <val lang="en_US">Replacements</val>
+      </comment>
+      <val lang="zh_CN">Replacements</val>
+   </key>
+   <key value="Search_error">
+      <comment>Message displayed when an error has occurred while searching in the files.</comment>
+      <comment>
+         <val lang="en_US">Search error!</val>
+      </comment>
+      <val lang="zh_CN">Search error!</val>
+   </key>
+   <key value="Menu_shortcut_keys">
+      <comment>Options page in the Preferences dialog.</comment>
+      <comment>
+         <val lang="en_US">Menu Shortcut Keys</val>
+      </comment>
+      <val lang="zh_CN">Menu Shortcut Keys</val>
+   </key>
+   <key distribution="common" value="Text">
+      <comment/>
+      <comment>
+         <val lang="en_US">Text</val>
+      </comment>
+      <val lang="zh_CN">Text</val>
+   </key>
+   <key distribution="common" value="Model">
+      <comment>Help panel(Info panel).</comment>
+      <comment>
+         <val lang="en_US">Model</val>
+      </comment>
+      <val lang="zh_CN">Model</val>
+   </key>
+   <key distribution="common" value="Properties">
+      <comment>Options/Preferences Menu</comment>
+      <comment>
+         <val lang="en_US">Properties</val>
+      </comment>
+      <val lang="zh_CN">Properties</val>
+   </key>
+   <key value="Scenarios_imported_successfully">
+      <comment>Message displayed when the import scenario action has succeeded.</comment>
+      <comment>
+         <val lang="en_US">Scenarios imported successfully.</val>
+      </comment>
+      <val lang="zh_CN">Scenarios imported successfully.</val>
+   </key>
+   <key value="NVDL_document">
+      <comment>Type for the new file.</comment>
+      <comment>
+         <val lang="en_US">NVDL Document</val>
+      </comment>
+      <val lang="zh_CN">NVDL Document</val>
+   </key>
+   <key value="Insert_cdata">
+      <comment>Insert menu option in the XML Tree Editor window.</comment>
+      <comment>
+         <val lang="en_US">Insert CDATA</val>
+      </comment>
+      <val lang="zh_CN">Insert CDATA</val>
+   </key>
+   <key value="File_Save_As">
+      <comment>File menu option.</comment>
+      <comment>
+         <val lang="en_US">Save as</val>
+      </comment>
+      <val lang="zh_CN">Save as</val>
+   </key>
+   <key value="The_output_file">
+      <comment>When adding a new command line in the Preferences/FO Processor page.</comment>
+      <comment>
+         <val lang="en_US">The output file</val>
+      </comment>
+      <val lang="zh_CN">The output file</val>
+   </key>
+   <key value="Extension">
+      <comment>Preferences/File types page.</comment>
+      <comment>
+         <val lang="en_US">Extension</val>
+      </comment>
+      <val lang="zh_CN">Extension</val>
+   </key>
+   <key value="Choose_result_file">
+      <comment>When prompted for the file where the result of the transformation should be saved.</comment>
+      <comment>
+         <val lang="en_US">Choose result file</val>
+      </comment>
+      <val lang="zh_CN">Choose result file</val>
+   </key>
+   <key value="Unknown">
+      <comment>Help Panel.</comment>
+      <comment>
+         <val lang="en_US">Unknown</val>
+      </comment>
+      <val lang="zh_CN">Unknown</val>
+   </key>
+   <key value="Success">
+      <comment>Status message displayed when the validation of the project has succeeded.</comment>
+      <comment>
+         <val lang="en_US">Success</val>
+      </comment>
+      <val lang="zh_CN">Success</val>
+   </key>
+   <key value="File_Reopen">
+      <comment>File menu.Reopens an old file.</comment>
+      <comment>
+         <val lang="en_US">Reopen</val>
+      </comment>
+      <val lang="zh_CN">Reopen</val>
+   </key>
+   <key distribution="common" value="Format">
+      <comment>Preferences dialog. It refers to editor/format options page.</comment>
+      <comment>
+         <val lang="en_US">Format</val>
+      </comment>
+      <val lang="zh_CN">Format</val>
+   </key>
+   <key value="Preferences">
+      <comment>Options menu.</comment>
+      <comment>
+         <val lang="en_US">Preferences</val>
+      </comment>
+      <val lang="zh_CN">Preferences</val>
+   </key>
+   <key value="Transformation_saved_file">
+      <comment>The name of the transformation result file.</comment>
+      <comment>
+         <val lang="en_US">Transformation result file</val>
+      </comment>
+      <val lang="zh_CN">Transformation result file</val>
+   </key>
+   <key value="Confirm_revert">
+      <comment>Message displayed when reverting the modifications.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to reload the file?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to reload the file?</val>
+   </key>
+   <key value="User_defined">
+      <comment/>
+      <comment>
+         <val lang="en_US">User defined</val>
+      </comment>
+      <val lang="zh_CN">User defined</val>
+   </key>
+   <key distribution="common" value="View">
+      <comment/>
+      <comment>
+         <val lang="en_US">View</val>
+      </comment>
+      <val lang="zh_CN">View</val>
+   </key>
+   <key value="Did_you_know">
+      <comment>Tip of the day dialog.</comment>
+      <comment>
+         <val lang="en_US">Did you know?</val>
+      </comment>
+      <val lang="zh_CN">Did you know?</val>
+   </key>
+   <key value="Port">
+      <comment>The proxy configuration.</comment>
+      <comment>
+         <val lang="en_US">Port</val>
+      </comment>
+      <val lang="zh_CN">Port</val>
+   </key>
+   <key value="Version">
+      <comment>Current version of Oxygen.</comment>
+      <comment>
+         <val lang="en_US">Version</val>
+      </comment>
+      <val lang="zh_CN">Version</val>
+   </key>
+   <key value="System_properties">
+      <comment>About dialog.</comment>
+      <comment>
+         <val lang="en_US">System properties</val>
+      </comment>
+      <val lang="zh_CN">System properties</val>
+   </key>
+   <key value="Expand_empty_elements">
+      <comment>XML Tree Editor window.</comment>
+      <comment>
+         <val lang="en_US">Expand empty elements</val>
+      </comment>
+      <val lang="zh_CN">Expand empty elements</val>
+   </key>
+   <key value="Error">
+      <comment>An error has occurred.</comment>
+      <comment>
+         <val lang="en_US">Error</val>
+      </comment>
+      <val lang="zh_CN">Error</val>
+   </key>
+   <key distribution="common" value="Learn_structure_XML_tooltip">
+      <comment>XML Menu.</comment>
+      <comment>
+         <val lang="en_US">Learn Structure</val>
+      </comment>
+      <val lang="zh_CN">Learn Structure</val>
+   </key>
+   <key value="Verbosity">
+      <comment>"Preferences", XML Catalog page.</comment>
+      <comment>
+         <val lang="en_US">Verbosity</val>
+      </comment>
+      <val lang="zh_CN">Verbosity</val>
+   </key>
+   <key value="File_Save_All">
+      <comment>File menu.</comment>
+      <comment>
+         <val lang="en_US">Save All</val>
+      </comment>
+      <val lang="zh_CN">Save All</val>
+   </key>
+   <key value="Template_name">
+      <comment>Add to templates dialog. Represents the name of the new template.</comment>
+      <comment>
+         <val lang="en_US">Template name</val>
+      </comment>
+      <val lang="zh_CN">Template name</val>
+   </key>
+   <key value="Lock_tags">
+      <comment>XML Menu.</comment>
+      <comment>
+         <val lang="en_US">Lock/Unlock the XML Tags</val>
+      </comment>
+      <val lang="zh_CN">Lock/Unlock the XML Tags</val>
+   </key>
+   <key value="Method">
+      <comment>"Configure Transformation" dialog, FO Processor Tab, the method for the transformation.</comment>
+      <comment>
+         <val lang="en_US">Method</val>
+      </comment>
+      <val lang="zh_CN">Method</val>
+   </key>
+   <key value="File_Reopen_Project">
+      <comment>"File" menu, Reopen project.</comment>
+      <comment>
+         <val lang="en_US">Reopen project</val>
+      </comment>
+      <val lang="zh_CN">Reopen project</val>
+   </key>
+   <key value="Open_Xml_Tooltip">
+      <comment/>
+      <comment>
+         <val lang="en_US">Open the XML file</val>
+      </comment>
+      <val lang="zh_CN">Open the XML file</val>
+   </key>
+   <key value="Replace_with">
+      <comment>Find/Replace dialog.</comment>
+      <comment>
+         <val lang="en_US">Replace with</val>
+      </comment>
+      <val lang="zh_CN">Replace with</val>
+   </key>
+   <key value="Allow_compounds_words">
+      <comment>Spelling/Options dialog.</comment>
+      <comment>
+         <val lang="en_US">Allow compound words</val>
+      </comment>
+      <val lang="zh_CN">Allow compound words</val>
+   </key>
+   <key value="Validation">
+      <comment>Status message.</comment>
+      <comment>
+         <val lang="en_US">Validation</val>
+      </comment>
+      <val lang="zh_CN">Validation</val>
+   </key>
+   <key value="Empty_scenario_name_not_allowed">
+      <comment/>
+      <comment>
+         <val lang="en_US">Empty scenario name is not allowed.</val>
+      </comment>
+      <val lang="zh_CN">Empty scenario name is not allowed.</val>
+   </key>
+   <key value="Font_size">
+      <comment>"Editor/Aspect" options.</comment>
+      <comment>
+         <val lang="en_US">Font Size</val>
+      </comment>
+      <val lang="zh_CN">Font Size</val>
+   </key>
+   <key value="File_not_found">
+      <comment/>
+      <comment>
+         <val lang="en_US">File not found</val>
+      </comment>
+      <val lang="zh_CN">File not found</val>
+   </key>
+   <key value="RNG_document">
+      <comment>New document dialog.</comment>
+      <comment>
+         <val lang="en_US">RELAX NG Schema (XML)</val>
+      </comment>
+      <val lang="zh_CN">RELAX NG Schema (XML)</val>
+   </key>
+   <key value="Are_you_sure_continue">
+      <comment/>
+      <comment>
+         <val lang="en_US">Are you sure you want to continue?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to continue?</val>
+   </key>
+   <key value="Collapse_all">
+      <comment>XML Tree Editor window.</comment>
+      <comment>
+         <val lang="en_US">Collapse All</val>
+      </comment>
+      <val lang="zh_CN">Collapse All</val>
+   </key>
+   <key value="Continue">
+      <comment/>
+      <comment>
+         <val lang="en_US">Continue</val>
+      </comment>
+      <val lang="zh_CN">Continue</val>
+   </key>
+   <key value="Clear">
+      <comment/>
+      <comment>
+         <val lang="en_US">Clear</val>
+      </comment>
+      <val lang="zh_CN">Clear</val>
+   </key>
+   <key value="Make_backup_replace">
+      <comment>"Search/Replace in files" dialog.</comment>
+      <comment>
+         <val lang="en_US">Make backup files with extension:</val>
+      </comment>
+      <val lang="zh_CN">Make backup files with extension:</val>
+   </key>
+   <key value="is_not_a_regular_oXygen_project_file">
+      <comment/>
+      <comment>
+         <val lang="en_US">"{0}" is not a regular Oxygen project file (XPR).</val>
+      </comment>
+      <val lang="zh_CN">"{0}" is not a regular Oxygen project file (XPR).</val>
+   </key>
+   <key value="Indent_size">
+      <comment>"Editor/Format" options.</comment>
+      <comment>
+         <val lang="en_US">Indent size</val>
+      </comment>
+      <val lang="zh_CN">Indent size</val>
+   </key>
+   <key value="Command_line">
+      <comment>"FO Processor" configuration, add new External FO Processor, "Command line" dialog.</comment>
+      <comment>
+         <val lang="en_US">Command line</val>
+      </comment>
+      <val lang="zh_CN">Command line</val>
+   </key>
+   <key value="All_elements">
+      <comment>XML Tree Editor window.</comment>
+      <comment>
+         <val lang="en_US">All Elements</val>
+      </comment>
+      <val lang="zh_CN">All Elements</val>
+   </key>
+   <key value="Save_project_as">
+      <comment>"File" menu.</comment>
+      <comment>
+         <val lang="en_US">Save project as</val>
+      </comment>
+      <val lang="zh_CN">Save project as</val>
+   </key>
+   <key value="File_types">
+      <comment>"Options" dialog.</comment>
+      <comment>
+         <val lang="en_US">File Types</val>
+      </comment>
+      <val lang="zh_CN">File Types</val>
+   </key>
+   <key value="Add_files">
+      <comment>Add files to a project.</comment>
+      <comment>
+         <val lang="en_US">Add Files</val>
+      </comment>
+      <val lang="zh_CN">Add Files</val>
+   </key>
+   <key value="The_document_encoding_cannot_be_mapped_into_a_Java_encoding">
+      <comment/>
+      <comment>
+         <val lang="en_US">The document IANA encoding cannot be mapped into a Java encoding</val>
+      </comment>
+      <val lang="zh_CN">The document IANA encoding cannot be mapped into a Java encoding</val>
+   </key>
+   <key value="Load">
+      <comment/>
+      <comment>
+         <val lang="en_US">Load</val>
+      </comment>
+      <val lang="zh_CN">Load</val>
+   </key>
+   <key value="Element">
+      <comment/>
+      <comment>
+         <val lang="en_US">Element</val>
+      </comment>
+      <val lang="zh_CN">Element</val>
+   </key>
+   <key value="Please_open_the_following_url_in_your_browser">
+      <comment/>
+      <comment>
+         <val lang="en_US">Please open the following URL in your Internet browser</val>
+      </comment>
+      <val lang="zh_CN">Please open the following URL in your Internet browser</val>
+   </key>
+   <key value="Prompt_for_file">
+      <comment>"Edit scenario" dialog. "Output" configuration Tab.</comment>
+      <comment>
+         <val lang="en_US">Prompt for file</val>
+      </comment>
+      <val lang="zh_CN">Prompt for file</val>
+   </key>
+   <key value="Add_edited_file">
+      <comment>Add the edited file to current project.</comment>
+      <comment>
+         <val lang="en_US">Add Edited File</val>
+      </comment>
+      <val lang="zh_CN">Add Edited File</val>
+   </key>
+   <key value="Punctuation_problem">
+      <comment>Spelling-check.</comment>
+      <comment>
+         <val lang="en_US">Punctuation problem</val>
+      </comment>
+      <val lang="zh_CN">Punctuation problem</val>
+   </key>
+   <key value="Company">
+      <comment/>
+      <comment>
+         <val lang="en_US">Company</val>
+      </comment>
+      <val lang="zh_CN">Company</val>
+   </key>
+   <key value="File_Close">
+      <comment>"File" menu.</comment>
+      <comment>
+         <val lang="en_US">Close</val>
+      </comment>
+      <val lang="zh_CN">Close</val>
+   </key>
+   <key value="Look_and_feel">
+      <comment>"Options" menu, "Preferences" dialog, "Global" options.</comment>
+      <comment>
+         <val lang="en_US">Look and Feel</val>
+      </comment>
+      <val lang="zh_CN">Look and Feel</val>
+   </key>
+   <key value="File_New">
+      <comment>"File" menu.</comment>
+      <comment>
+         <val lang="en_US">New</val>
+      </comment>
+      <val lang="zh_CN">New</val>
+   </key>
+   <key value="Insert_processing_instruction">
+      <comment>Inserts a processing instruction node into the tree (XML Tree Editor).</comment>
+      <comment>
+         <val lang="en_US">Insert Processing Instruction</val>
+      </comment>
+      <val lang="zh_CN">Insert Processing Instruction</val>
+   </key>
+   <key value="Cant_open_the_specified_file">
+      <comment/>
+      <comment>
+         <val lang="en_US">Cannot open the specified file</val>
+      </comment>
+      <val lang="zh_CN">Cannot open the specified file</val>
+   </key>
+   <key distribution="common" value="Move_up">
+      <comment>Moves a node up into the tree (XML Tree editor)</comment>
+      <comment>
+         <val lang="en_US">Move Up</val>
+      </comment>
+      <val lang="zh_CN">Move Up</val>
+   </key>
+   <key value="Header">
+      <comment>The header for the result of the XSLT.</comment>
+      <comment>
+         <val lang="en_US">Header</val>
+      </comment>
+      <val lang="zh_CN">Header</val>
+   </key>
+   <key value="Find">
+      <comment/>
+      <comment>
+         <val lang="en_US">Find</val>
+      </comment>
+      <val lang="zh_CN">Find</val>
+   </key>
+   <key value="Schema">
+      <comment>A schema grammar</comment>
+      <comment>
+         <val lang="en_US">Schema</val>
+      </comment>
+      <val lang="zh_CN">Schema</val>
+   </key>
+   <key value="Schemas">
+      <comment>A schema grammar, plural.</comment>
+      <comment>
+         <val lang="en_US">Schemas</val>
+      </comment>
+      <val lang="zh_CN">Schemas</val>
+   </key>
+   <key value="Pattern_X_file">
+      <comment>A pattern for a file. This will be expanded for instance to: "XML file", "XML Schema file",
+            etc..</comment>
+      <comment>
+         <val lang="en_US">{0} file</val>
+      </comment>
+      <val lang="zh_CN">{0} file</val>
+   </key>
+   <key distribution="eclipse"
+        value="plugin.provider-name"
+        skipTranslation="true">
+      <comment>plugin.provider-name</comment>
+      <comment>
+         <val lang="en_US">Syncro Soft SRL</val>
+      </comment>
+      <val lang="zh_CN">Syncro Soft SRL</val>
+   </key>
+   <key distribution="eclipse"
+        value="rnc.content-type"
+        skipTranslation="true">
+      <comment>Oxygen RNC content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen RNC</val>
+      </comment>
+      <val lang="zh_CN">Oxygen RNC</val>
+   </key>
+   <key distribution="eclipse"
+        value="xquery.content-type"
+        skipTranslation="true">
+      <comment>Oxygen XQuery content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen XQuery</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XQuery</val>
+   </key>
+   <key distribution="eclipse"
+        value="py.content-type"
+        skipTranslation="true">
+      <comment>Oxygen Python content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen Python</val>
+      </comment>
+      <val lang="zh_CN">Oxygen Python</val>
+   </key>
+   <key distribution="eclipse"
+        value="sql.content-type"
+        skipTranslation="true">
+      <comment>Oxygen SQL content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen SQL</val>
+      </comment>
+      <val lang="zh_CN">Oxygen SQL</val>
+   </key>
+   <key distribution="eclipse"
+        value="css.content-type"
+        skipTranslation="true">
+      <comment>Oxygen CSS Content Type</comment>
+      <comment>
+         <val lang="en_US">Oxygen CSS</val>
+      </comment>
+      <val lang="zh_CN">Oxygen CSS</val>
+   </key>
+   <key distribution="eclipse"
+        value="js.content-type"
+        skipTranslation="true">
+      <comment>Oxygen JS conten type</comment>
+      <comment>
+         <val lang="en_US">Oxygen JavaScript</val>
+      </comment>
+      <val lang="zh_CN">Oxygen JavaScript</val>
+   </key>
+   <key distribution="eclipse"
+        value="json.content-type"
+        skipTranslation="true">
+      <comment>Oxygen JSON content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen JSON</val>
+      </comment>
+      <val lang="zh_CN">Oxygen JSON</val>
+   </key>
+   <key distribution="eclipse"
+        value="yaml.content-type"
+        skipTranslation="true">
+      <comment>Oxygen YAML content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen YAML</val>
+      </comment>
+      <val lang="zh_CN">Oxygen YAML</val>
+   </key>
+   <key distribution="eclipse"
+        value="xml.content-type"
+        skipTranslation="true">
+      <comment>Oxygen XML content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen XML</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XML</val>
+   </key>
+   <key distribution="eclipse"
+        value="xhtml.content-type"
+        skipTranslation="true">
+      <comment>Oxygen XHTML content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen XHTML</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XHTML</val>
+   </key>
+   <key distribution="eclipse"
+        value="nvdl.content-type"
+        skipTranslation="true">
+      <comment>Oxygen NVDL content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen NVDL</val>
+      </comment>
+      <val lang="zh_CN">Oxygen NVDL</val>
+   </key>
+   <key distribution="eclipse"
+        value="rng.content-type"
+        skipTranslation="true">
+      <comment>Oxygen RNG content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen RNG</val>
+      </comment>
+      <val lang="zh_CN">Oxygen RNG</val>
+   </key>
+   <key distribution="eclipse"
+        value="xspec.content-type"
+        skipTranslation="true">
+      <comment>XSPEC Content Type</comment>
+      <comment>
+         <val lang="en_US">Oxygen XSpec</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XSpec</val>
+   </key>
+   <key distribution="eclipse"
+        value="xslt.content-type"
+        skipTranslation="true">
+      <comment>Oxygen XSLT content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen XSLT</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XSLT</val>
+   </key>
+   <key distribution="eclipse"
+        value="xsd.content-type"
+        skipTranslation="true">
+      <comment>Oxygen XSD content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen XSD</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XSD</val>
+   </key>
+   <key distribution="eclipse"
+        value="sch.content-type"
+        skipTranslation="true">
+      <comment>Oxygen Schematron content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen SCH</val>
+      </comment>
+      <val lang="zh_CN">Oxygen SCH</val>
+   </key>
+   <key distribution="eclipse"
+        value="wsdl.content-type"
+        skipTranslation="true">
+      <comment>Oxygen WSDL content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen WSDL</val>
+      </comment>
+      <val lang="zh_CN">Oxygen WSDL</val>
+   </key>
+   <key distribution="eclipse"
+        value="xproc.content-type"
+        skipTranslation="true">
+      <comment>Oxygen XPROC content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen XPROC</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XPROC</val>
+   </key>
+   <key distribution="eclipse"
+        value="dtd.content-type"
+        skipTranslation="true">
+      <comment>Oxygen DTD content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen DTD</val>
+      </comment>
+      <val lang="zh_CN">Oxygen DTD</val>
+   </key>
+   <key distribution="eclipse"
+        value="html.content-type"
+        skipTranslation="true">
+      <comment>html.content-type</comment>
+      <comment>
+         <val lang="en_US">Oxygen HTML</val>
+      </comment>
+      <val lang="zh_CN">Oxygen HTML</val>
+   </key>
+   <key distribution="eclipse"
+        value="perspective.name.0"
+        skipTranslation="true">
+      <comment>perspective.name.0</comment>
+      <comment>
+         <val lang="en_US">Oxygen Database</val>
+      </comment>
+      <val lang="zh_CN">Oxygen Database</val>
+   </key>
+   <key distribution="eclipse"
+        value="perspective.name.1"
+        skipTranslation="true">
+      <comment>perspective.name.1</comment>
+      <comment>
+         <val lang="en_US">Oxygen XSLT Debugger</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XSLT Debugger</val>
+   </key>
+   <key distribution="eclipse"
+        value="perspective.name.2"
+        skipTranslation="true">
+      <comment>perspective.name.2</comment>
+      <comment>
+         <val lang="en_US">Oxygen XQuery Debugger</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XQuery Debugger</val>
+   </key>
+   <key distribution="eclipse"
+        value="specification.label.10"
+        skipTranslation="true">
+      <comment>specification.label.10</comment>
+      <comment>
+         <val lang="en_US">Regexp</val>
+      </comment>
+      <val lang="zh_CN">Regexp</val>
+   </key>
+   <key distribution="eclipse" value="page.name.18" skipTranslation="true">
+      <comment>page.name.18</comment>
+      <comment>
+         <val lang="en_US">XML</val>
+      </comment>
+      <val lang="zh_CN">XML</val>
+   </key>
+   <key distribution="eclipse" value="page.name.20" skipTranslation="true">
+      <comment>page.name.20</comment>
+      <comment>
+         <val lang="en_US">CSS</val>
+      </comment>
+      <val lang="zh_CN">CSS</val>
+   </key>
+   <key distribution="eclipse" value="page.name.21" skipTranslation="true">
+      <comment>page.name.21</comment>
+      <comment>
+         <val lang="en_US">JavaScript</val>
+      </comment>
+      <val lang="zh_CN">JavaScript</val>
+   </key>
+   <key distribution="eclipse" value="Json_cc_page" skipTranslation="true">
+      <comment>JSON CC option page</comment>
+      <comment>
+         <val lang="en_US">JSON</val>
+      </comment>
+      <val lang="zh_CN">JSON</val>
+   </key>
+   <key distribution="eclipse" value="Xslt_cc_page" skipTranslation="true">
+      <comment>XSLT CC option page</comment>
+      <comment>
+         <val lang="en_US">XSLT</val>
+      </comment>
+      <val lang="zh_CN">XSLT</val>
+   </key>
+   <key distribution="eclipse" value="page.name.31" skipTranslation="true">
+      <comment>page.name.31</comment>
+      <comment>
+         <val lang="en_US">XSD</val>
+      </comment>
+      <val lang="zh_CN">XSD</val>
+   </key>
+   <key distribution="eclipse" value="page.name.35" skipTranslation="true">
+      <comment>page.name.35</comment>
+      <comment>
+         <val lang="en_US">XQuery</val>
+      </comment>
+      <val lang="zh_CN">XQuery</val>
+   </key>
+   <key distribution="eclipse" value="page.name.36" skipTranslation="true">
+      <comment>page.name.36</comment>
+      <comment>
+         <val lang="en_US">Saxon-HE/PE/EE</val>
+      </comment>
+      <val lang="zh_CN">Saxon-HE/PE/EE</val>
+   </key>
+   <key distribution="eclipse" value="page.name.44" skipTranslation="true">
+      <comment>page.name.44</comment>
+      <comment>
+         <val lang="en_US">XProc</val>
+      </comment>
+      <val lang="zh_CN">XProc</val>
+   </key>
+   <key distribution="eclipse" value="page.name.45" skipTranslation="true">
+      <comment>page.name.45</comment>
+      <comment>
+         <val lang="en_US">XSLT - XQuery</val>
+      </comment>
+      <val lang="zh_CN">XSLT - XQuery</val>
+   </key>
+   <key distribution="eclipse" value="page.name.51" skipTranslation="true">
+      <comment>page.name.51</comment>
+      <comment>
+         <val lang="en_US">MSXML 3.0/4.0 (Deprecated)</val>
+      </comment>
+      <val lang="zh_CN">MSXML 3.0/4.0 (Deprecated)</val>
+   </key>
+   <key distribution="eclipse" value="page.name.52" skipTranslation="true">
+      <comment>page.name.52</comment>
+      <comment>
+         <val lang="en_US">MSXML.NET (Deprecated)</val>
+      </comment>
+      <val lang="zh_CN">MSXML.NET (Deprecated)</val>
+   </key>
+   <key distribution="eclipse" value="page.name.53" skipTranslation="true">
+      <comment>page.name.53</comment>
+      <comment>
+         <val lang="en_US">XSLT</val>
+      </comment>
+      <val lang="zh_CN">XSLT</val>
+   </key>
+   <key distribution="eclipse" value="page.name.54" skipTranslation="true">
+      <comment>page.name.54</comment>
+      <comment>
+         <val lang="en_US">XSLTProc</val>
+      </comment>
+      <val lang="zh_CN">XSLTProc</val>
+   </key>
+   <key distribution="eclipse" value="page.name.55" skipTranslation="true">
+      <comment>page.name.55</comment>
+      <comment>
+         <val lang="en_US">Saxon</val>
+      </comment>
+      <val lang="zh_CN">Saxon</val>
+   </key>
+   <key distribution="eclipse" value="page.name.58" skipTranslation="true">
+      <comment>page.name.58</comment>
+      <comment>
+         <val lang="en_US">Saxon6</val>
+      </comment>
+      <val lang="zh_CN">Saxon6</val>
+   </key>
+   <key distribution="eclipse" value="editor.name" skipTranslation="true">
+      <comment>"Oxygen XML Editor" name</comment>
+      <comment>
+         <val lang="en_US">Oxygen XML Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XML Editor</val>
+   </key>
+   <key distribution="eclipse" value="author.name" skipTranslation="true">
+      <comment>"Oxygen XML Author" name</comment>
+      <comment>
+         <val lang="en_US">Oxygen XML Author</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XML Author</val>
+   </key>
+   <key distribution="eclipse"
+        value="developer.name"
+        skipTranslation="true">
+      <comment>"Oxygen XML Developer" name</comment>
+      <comment>
+         <val lang="en_US">Oxygen XML Developer</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XML Developer</val>
+   </key>
+   <key distribution="eclipse" value="editor.name.0" skipTranslation="true">
+      <comment>editor.name.0</comment>
+      <comment>
+         <val lang="en_US">Oxygen XHTML Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XHTML Editor</val>
+   </key>
+   <key distribution="eclipse" value="editor.name.1" skipTranslation="true">
+      <comment>editor.name.1</comment>
+      <comment>
+         <val lang="en_US">Oxygen XQuery Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XQuery Editor</val>
+   </key>
+   <key distribution="eclipse" value="editor.name.2" skipTranslation="true">
+      <comment>editor.name.2</comment>
+      <comment>
+         <val lang="en_US">Oxygen SQL Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen SQL Editor</val>
+   </key>
+   <key distribution="eclipse" value="editor.name.3" skipTranslation="true">
+      <comment>editor.name.3</comment>
+      <comment>
+         <val lang="en_US">Oxygen Java Script Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen Java Script Editor</val>
+   </key>
+   <key distribution="eclipse" value="editor.name.4" skipTranslation="true">
+      <comment>editor.name.4</comment>
+      <comment>
+         <val lang="en_US">Oxygen JSON Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen JSON Editor</val>
+   </key>
+   <key distribution="eclipse" value="editor.name.5" skipTranslation="true">
+      <comment>editor.name.5</comment>
+      <comment>
+         <val lang="en_US">Oxygen Python Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen Python Editor</val>
+   </key>
+   <key distribution="eclipse" value="editor.name.6" skipTranslation="true">
+      <comment>editor.name.6</comment>
+      <comment>
+         <val lang="en_US">Oxygen CSS Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen CSS Editor</val>
+   </key>
+   <key distribution="eclipse" value="editor.name.7" skipTranslation="true">
+      <comment>editor.name.7</comment>
+      <comment>
+         <val lang="en_US">Oxygen NVDL Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen NVDL Editor</val>
+   </key>
+   <key distribution="eclipse" value="editor.name.8" skipTranslation="true">
+      <comment>editor.name.8</comment>
+      <comment>
+         <val lang="en_US">Oxygen RNG Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen RNG Editor</val>
+   </key>
+   <key distribution="eclipse" value="editor.name.9" skipTranslation="true">
+      <comment>editor.name.9</comment>
+      <comment>
+         <val lang="en_US">Oxygen RNC Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen RNC Editor</val>
+   </key>
+   <key distribution="eclipse"
+        value="editor.name.10"
+        skipTranslation="true">
+      <comment>editor.name.10</comment>
+      <comment>
+         <val lang="en_US">Oxygen XSL Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XSL Editor</val>
+   </key>
+   <key distribution="eclipse"
+        value="editor.name.11"
+        skipTranslation="true">
+      <comment>editor.name.11</comment>
+      <comment>
+         <val lang="en_US">Oxygen SCH Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen SCH Editor</val>
+   </key>
+   <key distribution="eclipse"
+        value="editor.name.12"
+        skipTranslation="true">
+      <comment>editor.name.12</comment>
+      <comment>
+         <val lang="en_US">Oxygen XSD Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XSD Editor</val>
+   </key>
+   <key distribution="eclipse"
+        value="editor.name.13"
+        skipTranslation="true">
+      <comment>editor.name.13</comment>
+      <comment>
+         <val lang="en_US">Oxygen DTD Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen DTD Editor</val>
+   </key>
+   <key distribution="eclipse"
+        value="editor.name.14"
+        skipTranslation="true">
+      <comment>editor.name.14</comment>
+      <comment>
+         <val lang="en_US">Oxygen WSDL Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen WSDL Editor</val>
+   </key>
+   <key distribution="eclipse"
+        value="editor.name.15"
+        skipTranslation="true">
+      <comment>editor.name.15</comment>
+      <comment>
+         <val lang="en_US">Oxygen XProc Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XProc Editor</val>
+   </key>
+   <key distribution="eclipse"
+        value="editor.name.17"
+        skipTranslation="true">
+      <comment>editor.name.17</comment>
+      <comment>
+         <val lang="en_US">Oxygen EPUB Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen EPUB Editor</val>
+   </key>
+   <key distribution="eclipse"
+        value="editor.name.19"
+        skipTranslation="true">
+      <comment>editor.name.19</comment>
+      <comment>
+         <val lang="en_US">Oxygen HTML Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen HTML Editor</val>
+   </key>
+   <key distribution="eclipse"
+        value="editor.name.20"
+        skipTranslation="true">
+      <comment>editor.name.20</comment>
+      <comment>
+         <val lang="en_US">Oxygen YAML Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen YAML Editor</val>
+   </key>
+   <key distribution="eclipse" value="plugin.name" skipTranslation="true">
+      <comment>plugin.name</comment>
+      <comment>
+         <val lang="en_US">oXygen XML Editor</val>
+      </comment>
+      <val lang="zh_CN">oXygen XML Editor</val>
+   </key>
+   <key distribution="eclipse" value="plugin.name.0" skipTranslation="true">
+      <comment>plugin.name.0</comment>
+      <comment>
+         <val lang="en_US">oXygen XML Developer</val>
+      </comment>
+      <val lang="zh_CN">oXygen XML Developer</val>
+   </key>
+   <key distribution="eclipse" value="plugin.name.1" skipTranslation="true">
+      <comment>plugin.name.1</comment>
+      <comment>
+         <val lang="en_US">oXygen XML Author</val>
+      </comment>
+      <val lang="zh_CN">oXygen XML Author</val>
+   </key>
+   <key distribution="eclipse" value="action.label.46">
+      <comment>action.label.46</comment>
+      <comment>
+         <val lang="en_US">&amp;Escape Selection...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Escape Selection...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.55">
+      <comment>action.label.55</comment>
+      <comment>
+         <val lang="en_US">Step &amp;Into</val>
+      </comment>
+      <val lang="zh_CN">Step &amp;Into</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.55">
+      <comment>action.tooltip.55</comment>
+      <comment>
+         <val lang="en_US">Step Into</val>
+      </comment>
+      <val lang="zh_CN">Step Into</val>
+   </key>
+   <key distribution="eclipse" value="action.label.44">
+      <comment>action.label.44</comment>
+      <comment>
+         <val lang="en_US">Insert XInclude...</val>
+      </comment>
+      <val lang="zh_CN">Insert XInclude...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.45">
+      <comment>action.label.45</comment>
+      <comment>
+         <val lang="en_US">&amp;Unescape Selection...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Unescape Selection...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.43">
+      <comment>action.label.43</comment>
+      <comment>
+         <val lang="en_US">Import Entities &amp;List...</val>
+      </comment>
+      <val lang="zh_CN">Import Entities &amp;List...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.39">
+      <comment>action.label.39</comment>
+      <comment>
+         <val lang="en_US">Create &amp;Stylesheet From Selection...</val>
+      </comment>
+      <val lang="zh_CN">Create &amp;Stylesheet From Selection...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.40">
+      <comment>action.label.40</comment>
+      <comment>
+         <val lang="en_US">Create &amp;Template From Selection...</val>
+      </comment>
+      <val lang="zh_CN">Create &amp;Template From Selection...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.36">
+      <comment>The text of the 'Rename Prefix' action from Refactoring pop-up menu.</comment>
+      <comment>
+         <val lang="en_US">Rename &amp;Prefix...</val>
+      </comment>
+      <val lang="zh_CN">Rename &amp;Prefix...</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.36">
+      <comment>The tooltip of the 'Rename Prefix' action from Refactoring pop-up menu.</comment>
+      <comment>
+         <val lang="en_US">Rename current element's prefix</val>
+      </comment>
+      <val lang="zh_CN">Rename current element's prefix</val>
+   </key>
+   <key distribution="eclipse" value="action.label.37">
+      <comment>The text of the 'Rename Element...' action from Refactoring pop-up menu.</comment>
+      <comment>
+         <val lang="en_US">&amp;Rename Element...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Rename Element...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.38">
+      <comment>action.label.38</comment>
+      <comment>
+         <val lang="en_US">&amp;Rename Component...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Rename Component...</val>
+   </key>
+</translation>

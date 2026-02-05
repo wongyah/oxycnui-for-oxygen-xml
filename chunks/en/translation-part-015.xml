@@ -1,0 +1,1844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="No_equation_at_caret">
+      <comment>Message displayed when the "Edit Equation" action is invoked when there is no equation at
+            caret.</comment>
+      <comment>
+         <val lang="en_US">There is no equation at cursor position</val>
+      </comment>
+      <val lang="zh_CN">There is no equation at cursor position</val>
+   </key>
+   <key value="No_profile">
+      <comment>Displayed in the results table, when validating a DITA map without a DITA-VAL. </comment>
+      <comment>
+         <val lang="en_US">No profile</val>
+      </comment>
+      <val lang="zh_CN">No profile</val>
+   </key>
+   <key value="Type_not_available">
+      <comment> Displayed in the results table, when validating a DITA map, when the issues have no type.</comment>
+      <comment>
+         <val lang="en_US">Type not available</val>
+      </comment>
+      <val lang="zh_CN">Type not available</val>
+   </key>
+   <key value="Description_not_available">
+      <comment> Displayed in the results table when the items have no description.</comment>
+      <comment>
+         <val lang="en_US">Description not available</val>
+      </comment>
+      <val lang="zh_CN">Description not available</val>
+   </key>
+   <key value="Operation_description_not_available">
+      <comment> Displayed in the results table when the items have no items have no description for the operation
+            (validation, transformation)..</comment>
+      <comment>
+         <val lang="en_US">Operation description not available</val>
+      </comment>
+      <val lang="zh_CN">Operation description not available</val>
+   </key>
+   <key value="Group_by_quoted_argument">
+      <comment>Action names when grouping information in a group table. Example: Group by "Severity"</comment>
+      <comment>
+         <val lang="en_US">Group by "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Group by "{0}"</val>
+   </key>
+   <key value="View_disabled_warning">
+      <comment>Warning message used when a view is disabled when grid edit mode is selected.</comment>
+      <comment>
+         <val lang="en_US">View is disabled for currently selected edit mode</val>
+      </comment>
+      <val lang="zh_CN">View is disabled for currently selected edit mode</val>
+   </key>
+   <key value="XML_search_options_tooltip">
+      <comment>Tooltip for the 'Enable XML search options' checkbox in the Find/Replace dialog. The checkbox is
+            disabled for non XML documents.</comment>
+      <comment>
+         <val lang="en_US">XML search options only apply to XML documents in Text edit mode.</val>
+      </comment>
+      <val lang="zh_CN">XML search options only apply to XML documents in Text edit mode.</val>
+   </key>
+   <key value="Allow_dt_specific_edit_mode_setting_to_override_general_edit_mode_settings">
+      <comment>Check box in the "Edit modes" option pane.</comment>
+      <comment>
+         <val lang="en_US">Allow Document Type specific edit mode setting to override the general edit mode
+            settings</val>
+      </comment>
+      <val lang="zh_CN">Allow Document Type specific edit mode setting to override the general edit mode
+            settings</val>
+   </key>
+   <key value="Initial_edit_mode">
+      <comment>Option used to impose an initial edit mode for a document type.</comment>
+      <comment>
+         <val lang="en_US">Initial edit mode</val>
+      </comment>
+      <val lang="zh_CN">Initial edit mode</val>
+   </key>
+   <key value="Optimize_large_documents_loading_label">
+      <comment>Option available to optimize memory when loading large documents in the Text mode. It is followed by a
+            combo box with megabyte values.</comment>
+      <comment>
+         <val lang="en_US">Optimize loading in the Text edit mode for files over (MB):</val>
+      </comment>
+      <val lang="zh_CN">Optimize loading in the Text edit mode for files over (MB):</val>
+   </key>
+   <key value="Select_initial_mode_for_each_editor">
+      <comment>Title label editor edit modes association table.</comment>
+      <comment>
+         <val lang="en_US">Select the initial edit mode (page) for each editor</val>
+      </comment>
+      <val lang="zh_CN">Select the initial edit mode (page) for each editor</val>
+   </key>
+   <key value="Edit_modes">
+      <comment>Title of a preferences page which holds as children all edit modes (pages) available (Text, Grid,
+            Schema)</comment>
+      <comment>
+         <val lang="en_US">Edit Modes</val>
+      </comment>
+      <val lang="zh_CN">Edit Modes</val>
+   </key>
+   <key value="Operation_description">
+      <comment>The name of the column from the results table that corresponds to an operation description</comment>
+      <comment>
+         <val lang="en_US">Operation description</val>
+      </comment>
+      <val lang="zh_CN">Operation description</val>
+   </key>
+   <key value="Archive_backup_question">
+      <comment>Question message for creating a backup archive copy.</comment>
+      <comment>
+         <val lang="en_US">Do you want to make a backup copy of the archive?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to make a backup copy of the archive?</val>
+   </key>
+   <key value="Code_template_has_multiple_editor_variables">
+      <comment>Error message when multiple editor variables with a certain name are found in the Code Template Content
+            Text Area.</comment>
+      <comment>
+         <val lang="en_US">You cannot use more than one {0} editor variable in the same code template. </val>
+      </comment>
+      <val lang="zh_CN">You cannot use more than one {0} editor variable in the same code template. </val>
+   </key>
+   <key value="Always_reload">
+      <comment>The option to always reload the content for unmodified editor when external change detected.</comment>
+      <comment>
+         <val lang="en_US">Always reload</val>
+      </comment>
+      <val lang="zh_CN">Always reload</val>
+   </key>
+   <key value="Svn_repository_break_locks_warning">
+      <comment>Message in SVN Client, presented when trying to unlock files locked by other users</comment>
+      <comment>
+         <val lang="en_US">Some of the selected files may be locked by other users.</val>
+      </comment>
+      <val lang="zh_CN">Some of the selected files may be locked by other users.</val>
+   </key>
+   <key value="Svn_wc_break_locks_warning">
+      <comment>Message presented when trying to unlock files directly from the repositories view</comment>
+      <comment>
+         <val lang="en_US">Some of the selected files are locked either by another users or in another working copy. Do
+            you want to continue anyway?\n\nNote: breaking locks of other users is not recommended because this might
+            confuse them.</val>
+      </comment>
+      <val lang="zh_CN">Some of the selected files are locked either by another users or in another working copy. Do
+            you want to continue anyway?\n\nNote: breaking locks of other users is not recommended because this might
+            confuse them.</val>
+   </key>
+   <key value="Svn_steal_locks_warning">
+      <comment>Message in SVN Client, presented when trying to lock files locked by other users</comment>
+      <comment>
+         <val lang="en_US">not recommended, might confuse current lock owners</val>
+      </comment>
+      <val lang="zh_CN">not recommended, might confuse current lock owners</val>
+   </key>
+   <key value="Svn_no_previously_entered_messages">
+      <comment>Message presented in SVN dialogs that have no previously entered commit message available</comment>
+      <comment>
+         <val lang="en_US">No previously entered messages</val>
+      </comment>
+      <val lang="zh_CN">No previously entered messages</val>
+   </key>
+   <key value="Svn_cleanup_details">
+      <comment>Message explaining what SVN Cleanup means</comment>
+      <comment>
+         <val lang="en_US">This is necessary in order to remove any stale internal locks left in the working copy after
+            interrupted operations.</val>
+      </comment>
+      <val lang="zh_CN">This is necessary in order to remove any stale internal locks left in the working copy after
+            interrupted operations.</val>
+   </key>
+   <key value="Svn_wc_uncommitted_changes_warning">
+      <comment>Warning message displayed when trying to switch/merge a working copy resource that has uncommitted
+            changes</comment>
+      <comment>
+         <val lang="en_US">The selected working copy resource has uncommitted changes.</val>
+      </comment>
+      <val lang="zh_CN">The selected working copy resource has uncommitted changes.</val>
+   </key>
+   <key value="Prompt_for_each_document">
+      <comment>Prompt for each document button text.</comment>
+      <comment>
+         <val lang="en_US">Prompt for each document</val>
+      </comment>
+      <val lang="zh_CN">Prompt for each document</val>
+   </key>
+   <key value="Use_edit_reference_action">
+      <comment>Warning message when trying to edit in a reference context in author.</comment>
+      <comment>
+         <val lang="en_US">Use "{0}" action from the contextual menu.</val>
+      </comment>
+      <val lang="zh_CN">Use "{0}" action from the contextual menu.</val>
+   </key>
+   <key value="Edit_equation">
+      <comment>Edit equation action name.</comment>
+      <comment>
+         <val lang="en_US">Edit Equation</val>
+      </comment>
+      <val lang="zh_CN">Edit Equation</val>
+   </key>
+   <key value="Print_user_name">
+      <comment>Print the user name.</comment>
+      <comment>
+         <val lang="en_US">The user name taken from system</val>
+      </comment>
+      <val lang="zh_CN">The user name taken from system</val>
+   </key>
+   <key value="Print_current_page_number">
+      <comment>Print the current page number.</comment>
+      <comment>
+         <val lang="en_US">The current page number</val>
+      </comment>
+      <val lang="zh_CN">The current page number</val>
+   </key>
+   <key value="Print_total_number_of_pages">
+      <comment>Print the total number of pages.</comment>
+      <comment>
+         <val lang="en_US">The total number of pages</val>
+      </comment>
+      <val lang="zh_CN">The total number of pages</val>
+   </key>
+   <key value="Underline">
+      <comment>Print header line delimiter.</comment>
+      <comment>
+         <val lang="en_US">Underline</val>
+      </comment>
+      <val lang="zh_CN">Underline</val>
+   </key>
+   <key value="Overline">
+      <comment>Print footer line delimiter.</comment>
+      <comment>
+         <val lang="en_US">Overline</val>
+      </comment>
+      <val lang="zh_CN">Overline</val>
+   </key>
+   <key value="Left">
+      <comment>Print header/footer, text to be printed on the left side of the header/footer.</comment>
+      <comment>
+         <val lang="en_US">Left</val>
+      </comment>
+      <val lang="zh_CN">Left</val>
+   </key>
+   <key value="Middle">
+      <comment>Print header/footer, text to be printed on the middle side of the header/footer.</comment>
+      <comment>
+         <val lang="en_US">Middle</val>
+      </comment>
+      <val lang="zh_CN">Middle</val>
+   </key>
+   <key value="Right">
+      <comment>Print header/footer, text to be printed on the right side of the header/footer.</comment>
+      <comment>
+         <val lang="en_US">Right</val>
+      </comment>
+      <val lang="zh_CN">Right</val>
+   </key>
+   <key value="Could_not_open_the_document_in_mode">
+      <comment>Warning message used when editor cannot load document in a specified mode: Text, Grid, Author,
+            Design</comment>
+      <comment>
+         <val lang="en_US">Could not open the document in "{0}" mode</val>
+      </comment>
+      <val lang="zh_CN">Could not open the document in "{0}" mode</val>
+   </key>
+   <key value="Opening_in_text_mode">
+      <comment>* Message when a file could not be opened in a specific mode. Switching to Text mode</comment>
+      <comment>
+         <val lang="en_US">Opening in "Text" mode instead.</val>
+      </comment>
+      <val lang="zh_CN">Opening in "Text" mode instead.</val>
+   </key>
+   <key value="Show_word_level_details">
+      <comment>Tooltip in diff</comment>
+      <comment>
+         <val lang="en_US">Show Word Level details</val>
+      </comment>
+      <val lang="zh_CN">Show Word Level details</val>
+   </key>
+   <key value="Svn_update_incoming_added_ancestors_recursively">
+      <comment>Option in SVN to update incoming added ancestors fully recursive</comment>
+      <comment>
+         <val lang="en_US">Update ancestor directories recursively</val>
+      </comment>
+      <val lang="zh_CN">Update ancestor directories recursively</val>
+   </key>
+   <key value="Svn_update_incoming_added_ancestors_empty">
+      <comment>Option in SVN to update incoming added ancestors with empty depth</comment>
+      <comment>
+         <val lang="en_US">Update selected files only (leave ancestor directories empty)</val>
+      </comment>
+      <val lang="zh_CN">Update selected files only (leave ancestor directories empty)</val>
+   </key>
+   <key value="Svn_update_incoming_added_children_message">
+      <comment>Message presented in SVN when trying to update an incoming added item which is descendant of an
+            incoming added ancestor directory</comment>
+      <comment>
+         <val lang="en_US">Some of the selected items cannot be updated without updating their ancestor directories,
+            which are newly added also.\n\nTo continue, choose how to update ancestor directories:</val>
+      </comment>
+      <val lang="zh_CN">Some of the selected items cannot be updated without updating their ancestor directories,
+            which are newly added also.\n\nTo continue, choose how to update ancestor directories:</val>
+   </key>
+   <key value="Show_letter_level_details">
+      <comment>Tooltip in diff</comment>
+      <comment>
+         <val lang="en_US">Show Character Level details</val>
+      </comment>
+      <val lang="zh_CN">Show Character Level details</val>
+   </key>
+   <key value="Restore_document_content_confirmation">
+      <comment>Message for the confirmation dialog shown when reverting the editor content to the content prior to an
+            external modification. </comment>
+      <comment>
+         <val lang="en_US">Your document content was updated due to an external modification.\nDo you want to restore the
+            editor to its content prior to that modification? </val>
+      </comment>
+      <val lang="zh_CN">Your document content was updated due to an external modification.\nDo you want to restore the
+            editor to its content prior to that modification? </val>
+   </key>
+   <key value="Restore_editor_content">
+      <comment>Warning messages presented in the dialog shown when the edited file changes in file system.</comment>
+      <comment>
+         <val lang="en_US">Restore editor content</val>
+      </comment>
+      <val lang="zh_CN">Restore editor content</val>
+   </key>
+   <key value="DITAVAL_files">
+      <comment>Column name for a table where DITAVAL files are listed.</comment>
+      <comment>
+         <val lang="en_US">DITAVAL files</val>
+      </comment>
+      <val lang="zh_CN">DITAVAL files</val>
+   </key>
+   <key value="Use_DITAVAL_filters">
+      <comment>Radio group which allows you to select the DITAVAL filters for validating a DITA Map.</comment>
+      <comment>
+         <val lang="en_US">Use DITAVAL filters</val>
+      </comment>
+      <val lang="zh_CN">Use DITAVAL filters</val>
+   </key>
+   <key distribution="common" value="Insert_xinclude">
+      <comment>Action used to insert an XInclude fragment in the Text mode.</comment>
+      <comment>
+         <val lang="en_US">Insert XInclude</val>
+      </comment>
+      <val lang="zh_CN">Insert XInclude</val>
+   </key>
+   <key value="Old_size">
+      <comment>Label in a dialog shown when the edited file changes in file system, for displaying the old file
+            size.</comment>
+      <comment>
+         <val lang="en_US">Old size</val>
+      </comment>
+      <val lang="zh_CN">Old size</val>
+   </key>
+   <key value="New_size">
+      <comment>Label in a dialog shown when the edited file changes in file system, for displaying the new file
+            size.</comment>
+      <comment>
+         <val lang="en_US">New size</val>
+      </comment>
+      <val lang="zh_CN">New size</val>
+   </key>
+   <key value="From_all_available_condition_sets">
+      <comment>Validate a DITA Map by creating profiling condition filters from all available profiling condition sets
+            defined in Oxygen.</comment>
+      <comment>
+         <val lang="en_US">From all available condition sets</val>
+      </comment>
+      <val lang="zh_CN">From all available condition sets</val>
+   </key>
+   <key value="Ungroup_all">
+      <comment>The name of the action that removes all groups from a results table.</comment>
+      <comment>
+         <val lang="en_US">Ungroup all</val>
+      </comment>
+      <val lang="zh_CN">Ungroup all</val>
+   </key>
+   <key value="Group_by">
+      <comment>Submenu in the Results view.</comment>
+      <comment>
+         <val lang="en_US">Group by</val>
+      </comment>
+      <val lang="zh_CN">Group by</val>
+   </key>
+   <key value="System_id">
+      <comment>The system ID of a resource.</comment>
+      <comment>
+         <val lang="en_US">System ID</val>
+      </comment>
+      <val lang="zh_CN">System ID</val>
+   </key>
+   <key value="Fatal_errors">
+      <comment>Category of results that describes fatal errors.</comment>
+      <comment>
+         <val lang="en_US">Fatal errors</val>
+      </comment>
+      <val lang="zh_CN">Fatal errors</val>
+   </key>
+   <key distribution="common" value="XML_to_JSON">
+      <comment>Name of the action used to convert XML to JSON</comment>
+      <comment>
+         <val lang="en_US">XML to JSON</val>
+      </comment>
+      <val lang="zh_CN">XML to JSON</val>
+   </key>
+   <key value="Last_change">
+      <comment>Tooltip for Go To last change action</comment>
+      <comment>
+         <val lang="en_US">Last Change</val>
+      </comment>
+      <val lang="zh_CN">Last Change</val>
+   </key>
+   <key value="Last_modification">
+      <comment>Tooltip for Go To last modification action</comment>
+      <comment>
+         <val lang="en_US">Last Modification</val>
+      </comment>
+      <val lang="zh_CN">Last Modification</val>
+   </key>
+   <key value="First_change">
+      <comment>Tooltip in diff</comment>
+      <comment>
+         <val lang="en_US">First Change</val>
+      </comment>
+      <val lang="zh_CN">First Change</val>
+   </key>
+   <key value="Previous_change">
+      <comment>Tooltip in diff</comment>
+      <comment>
+         <val lang="en_US">Previous Change</val>
+      </comment>
+      <val lang="zh_CN">Previous Change</val>
+   </key>
+   <key value="Next_change">
+      <comment>Tooltip in diff</comment>
+      <comment>
+         <val lang="en_US">Next Change</val>
+      </comment>
+      <val lang="zh_CN">Next Change</val>
+   </key>
+   <key value="Previous_block">
+      <comment>The name of the action used to go to the previous block in the compare panel.</comment>
+      <comment>
+         <val lang="en_US">Previous Block of Changes</val>
+      </comment>
+      <val lang="zh_CN">Previous Block of Changes</val>
+   </key>
+   <key value="Next_block">
+      <comment>The name of the action used to go to the next block in the compare panel.</comment>
+      <comment>
+         <val lang="en_US">Next Block of Changes</val>
+      </comment>
+      <val lang="zh_CN">Next Block of Changes</val>
+   </key>
+   <key value="Remove_left_change">
+      <comment>Tooltip in Diff Files.</comment>
+      <comment>
+         <val lang="en_US">Remove left change</val>
+      </comment>
+      <val lang="zh_CN">Remove left change</val>
+   </key>
+   <key value="Remove_right_change">
+      <comment>Tooltip in Diff Files.</comment>
+      <comment>
+         <val lang="en_US">Remove right change</val>
+      </comment>
+      <val lang="zh_CN">Remove right change</val>
+   </key>
+   <key value="Append_left_change_to_right">
+      <comment>Tooltip in Diff Files.</comment>
+      <comment>
+         <val lang="en_US">Append left change to right</val>
+      </comment>
+      <val lang="zh_CN">Append left change to right</val>
+   </key>
+   <key value="Append_right_change_to_left">
+      <comment>Tooltip in Diff Files.</comment>
+      <comment>
+         <val lang="en_US">Append right change to left</val>
+      </comment>
+      <val lang="zh_CN">Append right change to left</val>
+   </key>
+   <key value="Ctrl_click_to_append_left_change_to_right">
+      <comment>Tooltip in Diff Files.</comment>
+      <comment>
+         <val lang="en_US">Ctrl + click to append left change to right</val>
+      </comment>
+      <val lang="zh_CN">Ctrl + click to append left change to right</val>
+   </key>
+   <key value="Ctrl_click_to_append_right_change_to_left">
+      <comment>Tooltip in Diff Files.</comment>
+      <comment>
+         <val lang="en_US">Ctrl + click to append right change to left</val>
+      </comment>
+      <val lang="zh_CN">Ctrl + click to append right change to left</val>
+   </key>
+   <key value="Svn_choose_repository_columns">
+      <comment>Message presented in the SVN working copy column configuration dialog</comment>
+      <comment>
+         <val lang="en_US">Select the details you want to display for the items in the repository:</val>
+      </comment>
+      <val lang="zh_CN">Select the details you want to display for the items in the repository:</val>
+   </key>
+   <key value="Find_resource">
+      <comment>Dialog title for search resources.</comment>
+      <comment>
+         <val lang="en_US">Find Resource</val>
+      </comment>
+      <val lang="zh_CN">Find Resource</val>
+   </key>
+   <key value="No_opened_dita_map_warning">
+      <comment>Warning shown when invoking the search references action on a DITA topic without having a DITA Map
+            opened in the DITA Map Manager.</comment>
+      <comment>
+         <val lang="en_US">There is no map opened in the DITA Maps Manager view to be used as a context for the
+            operation.</val>
+      </comment>
+      <val lang="zh_CN">There is no map opened in the DITA Maps Manager view to be used as a context for the
+            operation.</val>
+   </key>
+   <key value="Repair_obstructed_resources_error_message">
+      <comment>SVN Client error message presented when doing an action over a set of resources that are
+            obstructed.</comment>
+      <comment>
+         <val lang="en_US">There are some resources being obstructed. Please repair them first.\nTo view all obstructed
+            resources, switch to "Conflicts" mode.</val>
+      </comment>
+      <val lang="zh_CN">There are some resources being obstructed. Please repair them first.\nTo view all obstructed
+            resources, switch to "Conflicts" mode.</val>
+   </key>
+   <key value="Create_a_JSON_document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create a JSON document</val>
+      </comment>
+      <val lang="zh_CN">Create a JSON document</val>
+   </key>
+   <key value="JSON_Document">
+      <comment/>
+      <comment>
+         <val lang="en_US">JSON Document</val>
+      </comment>
+      <val lang="zh_CN">JSON Document</val>
+   </key>
+   <key value="Create_a_YAML_document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create a YAML document</val>
+      </comment>
+      <val lang="zh_CN">Create a YAML document</val>
+   </key>
+   <key value="YAML_Document">
+      <comment/>
+      <comment>
+         <val lang="en_US">YAML Document</val>
+      </comment>
+      <val lang="zh_CN">YAML Document</val>
+   </key>
+   <key value="Are_you_sure_upgrade_wc_format_to_version">
+      <comment>Message in a SVN dialog when performing working copy format upgrade.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to upgrade the working copy format ({0})\nto Subversion {1}
+            format?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to upgrade the working copy format ({0})\nto Subversion {1}
+            format?</val>
+   </key>
+   <key value="Ignore_properties_tooltip">
+      <comment>Tooltip for Ignore CSS properties field.</comment>
+      <comment>
+         <val lang="en_US">Insert comma separated patterns matching the names of the ignored properties, where * = any
+            string, ? = any character</val>
+      </comment>
+      <val lang="zh_CN">Insert comma separated patterns matching the names of the ignored properties, where * = any
+            string, ? = any character</val>
+   </key>
+   <key value="Ignore_properties">
+      <comment>Label for "ignore CSS properties names" field.</comment>
+      <comment>
+         <val lang="en_US">Ignore properties</val>
+      </comment>
+      <val lang="zh_CN">Ignore properties</val>
+   </key>
+   <key value="Archive_name_without_extension">
+      <comment>Editor variable which expands to the current opened archive file name without extension.</comment>
+      <comment>
+         <val lang="en_US">The current archive name without extension</val>
+      </comment>
+      <val lang="zh_CN">The current archive name without extension</val>
+   </key>
+   <key value="Archive_name_with_extension">
+      <comment>Editor variable which expands to the current opened archive file name with extension.</comment>
+      <comment>
+         <val lang="en_US">The current archive name with extension</val>
+      </comment>
+      <val lang="zh_CN">The current archive name with extension</val>
+   </key>
+   <key value="Archive_path">
+      <comment>Editor variable which expands to the current opened archive path.</comment>
+      <comment>
+         <val lang="en_US">The path of the current archive</val>
+      </comment>
+      <val lang="zh_CN">The path of the current archive</val>
+   </key>
+   <key value="Archive_directory_path">
+      <comment>Editor variable which expands to the current opened archive directory path.</comment>
+      <comment>
+         <val lang="en_US">The path of the current archive directory</val>
+      </comment>
+      <val lang="zh_CN">The path of the current archive directory</val>
+   </key>
+   <key value="Locks">
+      <comment>Actions category name.</comment>
+      <comment>
+         <val lang="en_US">Locks</val>
+      </comment>
+      <val lang="zh_CN">Locks</val>
+   </key>
+   <key value="Function_invalid_signature">
+      <comment>CSS validator error message.</comment>
+      <comment>
+         <val lang="en_US">Invalid ''{0}'' function signature. Must be {1}</val>
+      </comment>
+      <val lang="zh_CN">Invalid ''{0}'' function signature. Must be {1}</val>
+   </key>
+   <key value="Function_has_one_parameter">
+      <comment>CSS validator error message.</comment>
+      <comment>
+         <val lang="en_US">The {0} function must have one parameter</val>
+      </comment>
+      <val lang="zh_CN">The {0} function must have one parameter</val>
+   </key>
+   <key value="Function_has_no_parameters">
+      <comment>CSS validator error message.</comment>
+      <comment>
+         <val lang="en_US">The {0} function signature has no parameters</val>
+      </comment>
+      <val lang="zh_CN">The {0} function signature has no parameters</val>
+   </key>
+   <key value="Search_for_file">
+      <comment>Open a dialog (Open Resource) which allows you to search for a file located in your project.</comment>
+      <comment>
+         <val lang="en_US">Search for file</val>
+      </comment>
+      <val lang="zh_CN">Search for file</val>
+   </key>
+   <key value="Count_Words">
+      <comment>Count words either in the whole document or in the selection.</comment>
+      <comment>
+         <val lang="en_US">Count Words</val>
+      </comment>
+      <val lang="zh_CN">Count Words</val>
+   </key>
+   <key value="Capitalize_Words">
+      <comment>Upper case the first letter of words from selection</comment>
+      <comment>
+         <val lang="en_US">Capitalize Words</val>
+      </comment>
+      <val lang="zh_CN">Capitalize Words</val>
+   </key>
+   <key value="Capitalize_Sentences">
+      <comment>Upper case the first letter of each sentence from selection</comment>
+      <comment>
+         <val lang="en_US">Capitalize Sentences</val>
+      </comment>
+      <val lang="zh_CN">Capitalize Sentences</val>
+   </key>
+   <key value="For_evaluation_only">
+      <comment>For evaluation only</comment>
+      <comment>
+         <val lang="en_US">for evaluation only</val>
+      </comment>
+      <val lang="zh_CN">for evaluation only</val>
+   </key>
+   <key value="Author_default_foreground_color">
+      <comment>Author foreground color.</comment>
+      <comment>
+         <val lang="en_US">Author default foreground color</val>
+      </comment>
+      <val lang="zh_CN">Author default foreground color</val>
+   </key>
+   <key value="Author_default_background_color">
+      <comment>Modify the Author default background color.</comment>
+      <comment>
+         <val lang="en_US">Author default background color</val>
+      </comment>
+      <val lang="zh_CN">Author default background color</val>
+   </key>
+   <key value="Lock_information">
+      <comment>Tooltip for columns presenting SVN lock information</comment>
+      <comment>
+         <val lang="en_US">Lock information</val>
+      </comment>
+      <val lang="zh_CN">Lock information</val>
+   </key>
+   <key value="Svn_lock_internal_tooltip">
+      <comment>Tooltip for SVN internally locked working copy folders</comment>
+      <comment>
+         <val lang="en_US">Folder is locked by Subversion.\nYou should do a "Clean up" to remove internal locks.</val>
+      </comment>
+      <val lang="zh_CN">Folder is locked by Subversion.\nYou should do a "Clean up" to remove internal locks.</val>
+   </key>
+   <key value="Svn_lock_local_tooltip">
+      <comment>Tooltip for SVN locked working copy files</comment>
+      <comment>
+         <val lang="en_US">File is locked in this working copy.</val>
+      </comment>
+      <val lang="zh_CN">File is locked in this working copy.</val>
+   </key>
+   <key value="Svn_lock_remote_tooltip">
+      <comment>Tooltip for locked SVN repository files</comment>
+      <comment>
+         <val lang="en_US">File is locked either by another user or in another working copy.</val>
+      </comment>
+      <val lang="zh_CN">File is locked either by another user or in another working copy.</val>
+   </key>
+   <key value="Svn_lock_stolen_tooltip">
+      <comment>Tooltip for locked working copy files, which are locked by other user in repository</comment>
+      <comment>
+         <val lang="en_US">File was locked in this working copy, but the lock has been "stolen" and is invalid.\nThe file
+            is currently locked in the repository by other user or from another working copy.</val>
+      </comment>
+      <val lang="zh_CN">File was locked in this working copy, but the lock has been "stolen" and is invalid.\nThe file
+            is currently locked in the repository by other user or from another working copy.</val>
+   </key>
+   <key value="Svn_lock_broken_tooltip">
+      <comment>* Tooltip for locked working copy files, which are no longer locked in repository</comment>
+      <comment>
+         <val lang="en_US">File was locked in this working copy, but the lock has been "broken" and is invalid.\nThe file
+            is no longer locked in the repository.</val>
+      </comment>
+      <val lang="zh_CN">File was locked in this working copy, but the lock has been "broken" and is invalid.\nThe file
+            is no longer locked in the repository.</val>
+   </key>
+   <key value="Edit_comment_here">
+      <comment>Label used in "Edit Comment" dialog.</comment>
+      <comment>
+         <val lang="en_US">Edit your comment here</val>
+      </comment>
+      <val lang="zh_CN">Edit your comment here</val>
+   </key>
+   <key value="Add_comment_here">
+      <comment>Label used in "Add Comment" dialog.</comment>
+      <comment>
+         <val lang="en_US">Add your comment here</val>
+      </comment>
+      <val lang="zh_CN">Add your comment here</val>
+   </key>
+   <key value="Editor_specific">
+      <comment>Editor specific edit mode as defined in Editor - Pages associations.</comment>
+      <comment>
+         <val lang="en_US">Editor specific</val>
+      </comment>
+      <val lang="zh_CN">Editor specific</val>
+   </key>
+   <key value="Are_you_sure_you_want_to_permamently_delete">
+      <comment>Confirmation for multiple deletion of items in datasource tree.</comment>
+      <comment>
+         <val lang="en_US"> Are you sure you want to permanently delete the selected items and all of their content? You
+            will not be able to Undo, Redo, Revert after deleting the items.</val>
+      </comment>
+      <val lang="zh_CN"> Are you sure you want to permanently delete the selected items and all of their content? You
+            will not be able to Undo, Redo, Revert after deleting the items.</val>
+   </key>
+   <key value="Lock_tags_option">
+      <comment>Option in Editor/Edit modes/Text category.</comment>
+      <comment>
+         <val lang="en_US">Lock the XML Tags</val>
+      </comment>
+      <val lang="zh_CN">Lock the XML Tags</val>
+   </key>
+   <key value="Set_empty_value">
+      <comment>Action to set an empty value to an attribute.</comment>
+      <comment>
+         <val lang="en_US">Set empty value</val>
+      </comment>
+      <val lang="zh_CN">Set empty value</val>
+   </key>
+   <key value="Display_data_as_it_appears_in_Excel">
+      <comment>Display data as it appears in Excel - checkbox in Import Excel dialog.</comment>
+      <comment>
+         <val lang="en_US">Import formatted data (as displayed in Excel)</val>
+      </comment>
+      <val lang="zh_CN">Import formatted data (as displayed in Excel)</val>
+   </key>
+   <key value="Association_rules">
+      <comment>Tab that defines the rules of association for a document type.</comment>
+      <comment>
+         <val lang="en_US">Association rules</val>
+      </comment>
+      <val lang="zh_CN">Association rules</val>
+   </key>
+   <key value="Application_generated_unique_identifier">
+      <comment>Unique identifier string generated by Oxygen.</comment>
+      <comment>
+         <val lang="en_US">Application generated unique identifier</val>
+      </comment>
+      <val lang="zh_CN">Application generated unique identifier</val>
+   </key>
+   <key value="Universally_unique_identifier">
+      <comment>Universally unique identifier string.</comment>
+      <comment>
+         <val lang="en_US">Universally unique identifier</val>
+      </comment>
+      <val lang="zh_CN">Universally unique identifier</val>
+   </key>
+   <key value="Add_other_resources">
+      <comment>Action that adds other type of resources to a working set.</comment>
+      <comment>
+         <val lang="en_US">Add Other Resources</val>
+      </comment>
+      <val lang="zh_CN">Add Other Resources</val>
+   </key>
+   <key value="Document_type_sharing_info_link">
+      <comment>Link label in "Document type" panel.</comment>
+      <comment>
+         <val lang="en_US">Read more about Document Type sharing and how the storage mode affects it</val>
+      </comment>
+      <val lang="zh_CN">Read more about Document Type sharing and how the storage mode affects it</val>
+   </key>
+   <key value="Store_unicode_file_names_in_Zip_files">
+      <comment>Zip archive property to write file names using UTF-8 encoding</comment>
+      <comment>
+         <val lang="en_US">Store Unicode file names in Zip files</val>
+      </comment>
+      <val lang="zh_CN">Store Unicode file names in Zip files</val>
+   </key>
+   <key value="Select_editor">
+      <comment>Select editor</comment>
+      <comment>
+         <val lang="en_US">Select editor</val>
+      </comment>
+      <val lang="zh_CN">Select editor</val>
+   </key>
+   <key value="Hex_viewer_supports_only_local_files">
+      <comment>Error message indicating that the Hex Viewer does not support remote files. Supports only local
+            files.</comment>
+      <comment>
+         <val lang="en_US">Hex Viewer can open only local files.</val>
+      </comment>
+      <val lang="zh_CN">Hex Viewer can open only local files.</val>
+   </key>
+   <key value="Question_where_the_map_should_be_opened">
+      <comment>Question about opening a DITA map in the DITA map manager or editor.</comment>
+      <comment>
+         <val lang="en_US">Where do you want the DITA map file to be opened?</val>
+      </comment>
+      <val lang="zh_CN">Where do you want the DITA map file to be opened?</val>
+   </key>
+   <key value="Ws_with_same_name_already_exists">
+      <comment>Error message shown when the user tries to add a working set with an existing name.</comment>
+      <comment>
+         <val lang="en_US">A working set with the same name already exists.</val>
+      </comment>
+      <val lang="zh_CN">A working set with the same name already exists.</val>
+   </key>
+   <key value="Convert_external_content_on_paste">
+      <comment>Option that controls whether the content pasted in Author should be converted to match the destination
+            styles or not.</comment>
+      <comment>
+         <val lang="en_US">Convert external content on paste</val>
+      </comment>
+      <val lang="zh_CN">Convert external content on paste</val>
+   </key>
+   <key value="Disconnect_them_first">
+      <comment>'Disconnect them first' - Disconnect the datasource sessions before changing their details</comment>
+      <comment>
+         <val lang="en_US">In order to change the details you can Disconnect them from Data Source Explorer view.</val>
+      </comment>
+      <val lang="zh_CN">In order to change the details you can Disconnect them from Data Source Explorer view.</val>
+   </key>
+   <key value="Maximum_number_of_validation_highlights_tooltip">
+      <comment>'Document Checking' Pane option tooltip</comment>
+      <comment>
+         <val lang="en_US">The maximum number of validation highlights displayed in editor.</val>
+      </comment>
+      <val lang="zh_CN">The maximum number of validation highlights displayed in editor.</val>
+   </key>
+   <key value="Read_only_scenario_tooltip">
+      <comment>Tooltip for some scenarios which are read-only.</comment>
+      <comment>
+         <val lang="en_US">This is a read-only scenario defined in the document type</val>
+      </comment>
+      <val lang="zh_CN">This is a read-only scenario defined in the document type</val>
+   </key>
+   <key value="Maximum_number_of_validation_highlights">
+      <comment>'Document Checking' Pane option name</comment>
+      <comment>
+         <val lang="en_US">Maximum number of validation highlights</val>
+      </comment>
+      <val lang="zh_CN">Maximum number of validation highlights</val>
+   </key>
+   <key value="File_already_exists">
+      <comment>Error message shown when renaming a file in project.</comment>
+      <comment>
+         <val lang="en_US">There is already a file with the same name in this location</val>
+      </comment>
+      <val lang="zh_CN">There is already a file with the same name in this location</val>
+   </key>
+   <key value="Enable_automatic_validation">
+      <comment>Enable the automatic validation message.</comment>
+      <comment>
+         <val lang="en_US">Enable automatic validation</val>
+      </comment>
+      <val lang="zh_CN">Enable automatic validation</val>
+   </key>
+   <key value="Seconds">
+      <comment>Message used in document checking option page.</comment>
+      <comment>
+         <val lang="en_US">seconds</val>
+      </comment>
+      <val lang="zh_CN">seconds</val>
+   </key>
+   <key value="Ask_template_description">
+      <comment>Description for ask variable editor template function.</comment>
+      <comment>
+         <val lang="en_US">Interactively ask for values</val>
+      </comment>
+      <val lang="zh_CN">Interactively ask for values</val>
+   </key>
+   <key value="Use_editor_variables">
+      <comment>Message to indicate that the editor variables can be used.</comment>
+      <comment>
+         <val lang="en_US">You can use editor variables</val>
+      </comment>
+      <val lang="zh_CN">You can use editor variables</val>
+   </key>
+   <key value="Edit_parameter">
+      <comment>Title for Edit Parameter dialog.</comment>
+      <comment>
+         <val lang="en_US">Edit Parameter</val>
+      </comment>
+      <val lang="zh_CN">Edit Parameter</val>
+   </key>
+   <key value="Add_parameter">
+      <comment>Title for Add Parameter dialog.</comment>
+      <comment>
+         <val lang="en_US">Add Parameter</val>
+      </comment>
+      <val lang="zh_CN">Add Parameter</val>
+   </key>
+   <key value="Close_all_active_database_tables">
+      <comment>If you like to close a database connection, you need to close all opened tables.</comment>
+      <comment>
+         <val lang="en_US">In order to disconnect this connection you need to close the following tables</val>
+      </comment>
+      <val lang="zh_CN">In order to disconnect this connection you need to close the following tables</val>
+   </key>
+   <key value="Default_validation">
+      <comment>Built-in scenario name used to validate all documents with the default validation options. Used in the
+            validation scenario selection dialog.</comment>
+      <comment>
+         <val lang="en_US">Default validation</val>
+      </comment>
+      <val lang="zh_CN">Default validation</val>
+   </key>
+   <key value="File_changed_on_file_system">
+      <comment>Label in the dialog displayed when the edited file changes in file system.</comment>
+      <comment>
+         <val lang="en_US">The file has been changed on the file system.</val>
+      </comment>
+      <val lang="zh_CN">The file has been changed on the file system.</val>
+   </key>
+   <key value="Do_you_want_to_reload_and_lose_changes">
+      <comment>Label in the dialog displayed when the edited file changes in file system.</comment>
+      <comment>
+         <val lang="en_US">Do you want to reload it and lose the changes made in the editor?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to reload it and lose the changes made in the editor?</val>
+   </key>
+   <key value="Hide_current_view">
+      <comment>Action in Window menu used to close the current view.</comment>
+      <comment>
+         <val lang="en_US">Hide current view</val>
+      </comment>
+      <val lang="zh_CN">Hide current view</val>
+   </key>
+   <key distribution="common" value="Go_to_matching_bracket">
+      <comment>Go to matching bracket editor action. </comment>
+      <comment>
+         <val lang="en_US">Go to Matching Bracket</val>
+      </comment>
+      <val lang="zh_CN">Go to Matching Bracket</val>
+   </key>
+   <key value="Disconnect">
+      <comment>Disconnect the database link from data source tree.</comment>
+      <comment>
+         <val lang="en_US">Disconnect</val>
+      </comment>
+      <val lang="zh_CN">Disconnect</val>
+   </key>
+   <key value="Track_changes_initial_state_info">
+      <comment>Information message for the options that controls the initial state of the track changes.</comment>
+      <comment>
+         <val lang="en_US">Changing this option will not apply for documents already opened in editor.</val>
+      </comment>
+      <val lang="zh_CN">Changing this option will not apply for documents already opened in editor.</val>
+   </key>
+   <key value="Confirm_replace_file_message">
+      <comment>Confirmation message shown when you copy a file over a file with the same name.</comment>
+      <comment>
+         <val lang="en_US">There is already a file with the same name in this location. Do you want to replace this file
+            {0} with this one?</val>
+      </comment>
+      <val lang="zh_CN">There is already a file with the same name in this location. Do you want to replace this file
+            {0} with this one?</val>
+   </key>
+   <key value="Confirm_merge_folders_message">
+      <comment>Confirmation message shown when you copy a folder over a folder with the same name.</comment>
+      <comment>
+         <val lang="en_US">The destination already contains a folder with the same name. Do you want to merge this folder
+            {0} with this one?</val>
+      </comment>
+      <val lang="zh_CN">The destination already contains a folder with the same name. Do you want to merge this folder
+            {0} with this one?</val>
+   </key>
+   <key value="Track_changes_stored_in_document_info">
+      <comment>Information message for storing the track changes state in document option.</comment>
+      <comment>
+         <val lang="en_US">When 'Stored in document' option is selected, the Track Changes option's enabled state is
+            saved at document level. When such a document is opened, the Track Changes is automatically switched
+            on.</val>
+      </comment>
+      <val lang="zh_CN">When 'Stored in document' option is selected, the Track Changes option's enabled state is
+            saved at document level. When such a document is opened, the Track Changes is automatically switched
+            on.</val>
+   </key>
+   <key value="Initial_state">
+      <comment>The track changes initial state label.</comment>
+      <comment>
+         <val lang="en_US">Initial state</val>
+      </comment>
+      <val lang="zh_CN">Initial state</val>
+   </key>
+   <key value="Main_validation_file">
+      <comment>The file that was validate when the error was obtained.</comment>
+      <comment>
+         <val lang="en_US">Main validation file</val>
+      </comment>
+      <val lang="zh_CN">Main validation file</val>
+   </key>
+   <key value="Svn_item_name_conflicted_tooltip">
+      <comment>Tooltip message for SVN name conflicted items.</comment>
+      <comment>
+         <val lang="en_US">There is another file with the same name in repository, having only letter-case differences.
+            The current file system does not support such files, so you need to rename corresponding files in
+            repository.</val>
+      </comment>
+      <val lang="zh_CN">There is another file with the same name in repository, having only letter-case differences.
+            The current file system does not support such files, so you need to rename corresponding files in
+            repository.</val>
+   </key>
+   <key value="Are_you_sure_you_want_continue_connecting">
+      <comment>Question presented when connecting to an unsecured SSH server</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to continue connecting?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to continue connecting?</val>
+   </key>
+   <key value="Fingerprint">
+      <comment>SSH host fingerprint field label</comment>
+      <comment>
+         <val lang="en_US">Fingerprint</val>
+      </comment>
+      <val lang="zh_CN">Fingerprint</val>
+   </key>
+   <key value="Server_authenticity_cannot_be_established">
+      <comment>Message displayed when SVN Client is unable to verify SSH host fingerprint</comment>
+      <comment>
+         <val lang="en_US">The authenticity of the server can't be established.</val>
+      </comment>
+      <val lang="zh_CN">The authenticity of the server can't be established.</val>
+   </key>
+   <key value="Ssh_host_verification">
+      <comment>SVN dialog title, displaying warning about unknown SSH host fingerprint</comment>
+      <comment>
+         <val lang="en_US">SSH Host Verification</val>
+      </comment>
+      <val lang="zh_CN">SSH Host Verification</val>
+   </key>
+   <key value="Import_folders">
+      <comment>Import the folders structure and content into repository</comment>
+      <comment>
+         <val lang="en_US">Import Folders</val>
+      </comment>
+      <val lang="zh_CN">Import Folders</val>
+   </key>
+   <key value="New_collection">
+      <comment>Create a new database collection</comment>
+      <comment>
+         <val lang="en_US">New Collection</val>
+      </comment>
+      <val lang="zh_CN">New Collection</val>
+   </key>
+   <key value="XPath_type_param_tooltip">
+      <comment>Tooltip for the XPath column in Transformation parameters edit dialog</comment>
+      <comment>
+         <val lang="en_US">When selected, the value is evaluated as an XPath expression before starting the XSLT
+            transformation.</val>
+      </comment>
+      <val lang="zh_CN">When selected, the value is evaluated as an XPath expression before starting the XSLT
+            transformation.</val>
+   </key>
+   <key value="Go_to_website">
+      <comment>Message of Other button in Report Problem dialog when user not allowed connection to Oxygen
+            website.</comment>
+      <comment>
+         <val lang="en_US">Go to Website</val>
+      </comment>
+      <val lang="zh_CN">Go to Website</val>
+   </key>
+   <key value="Report_problem_deactivated">
+      <comment>Message of Report problem dialog when user not allowed connection to Oxygen website.</comment>
+      <comment>
+         <val lang="en_US">The "Report problem" feature has been deactivated. Please use the Technical Support form on
+            our website to report any issues you have encountered.</val>
+      </comment>
+      <val lang="zh_CN">The "Report problem" feature has been deactivated. Please use the Technical Support form on
+            our website to report any issues you have encountered.</val>
+   </key>
+   <key value="See_help_for_details">
+      <comment>Message of the link label used to open the help dialog.</comment>
+      <comment>
+         <val lang="en_US">See help for details</val>
+      </comment>
+      <val lang="zh_CN">See help for details</val>
+   </key>
+   <key value="Add_file">
+      <comment>Add file to an archive.</comment>
+      <comment>
+         <val lang="en_US">Add File</val>
+      </comment>
+      <val lang="zh_CN">Add File</val>
+   </key>
+   <key value="Recurse_references">
+      <comment>Find in files scope to search recursive starting from the selected references.</comment>
+      <comment>
+         <val lang="en_US">Recurse references</val>
+      </comment>
+      <val lang="zh_CN">Recurse references</val>
+   </key>
+   <key value="Selected_references">
+      <comment>Find in files scope to search in the selected references.</comment>
+      <comment>
+         <val lang="en_US">Selected references</val>
+      </comment>
+      <val lang="zh_CN">Selected references</val>
+   </key>
+   <key value="Copy_all">
+      <comment>Copy all action</comment>
+      <comment>
+         <val lang="en_US">Copy all</val>
+      </comment>
+      <val lang="zh_CN">Copy all</val>
+   </key>
+   <key value="External_engine_parameters_info">
+      <comment>Message shown when the user tries to set the parameters for a transformation scenario that uses an
+            external engine..</comment>
+      <comment>
+         <val lang="en_US">Please note that the transformation parameters are not passed on to the ''{0}'' custom
+            engine.\nYou can copy the parameters from the ''{1}'' dialog and use them to set up the custom engine
+            command line.</val>
+      </comment>
+      <val lang="zh_CN">Please note that the transformation parameters are not passed on to the ''{0}'' custom
+            engine.\nYou can copy the parameters from the ''{1}'' dialog and use them to set up the custom engine
+            command line.</val>
+   </key>
+   <key value="Keep_the_value_unspecified">
+      <comment>Message when editing an attribute value</comment>
+      <comment>
+         <val lang="en_US">Keep the value unspecified</val>
+      </comment>
+      <val lang="zh_CN">Keep the value unspecified</val>
+   </key>
+   <key value="Keep_empty_value">
+      <comment>Message when editing an attribute value</comment>
+      <comment>
+         <val lang="en_US">Keep empty value</val>
+      </comment>
+      <val lang="zh_CN">Keep empty value</val>
+   </key>
+   <key value="Opened_archives">
+      <comment>One of the XPath in files scopes. </comment>
+      <comment>
+         <val lang="en_US">Opened archives</val>
+      </comment>
+      <val lang="zh_CN">Opened archives</val>
+   </key>
+   <key value="Opened_archive">
+      <comment>One of the Find/Replace in files scopes. </comment>
+      <comment>
+         <val lang="en_US">Opened archive</val>
+      </comment>
+      <val lang="zh_CN">Opened archive</val>
+   </key>
+   <key value="Selected_resources">
+      <comment>One of the Find/Replace in files scopes. </comment>
+      <comment>
+         <val lang="en_US">Selected resources</val>
+      </comment>
+      <val lang="zh_CN">Selected resources</val>
+   </key>
+   <key value="Star">
+      <comment/>
+      <comment>
+         <val lang="en_US">Star</val>
+      </comment>
+      <val lang="zh_CN">Star</val>
+   </key>
+   <key value="Square_brackets">
+      <comment/>
+      <comment>
+         <val lang="en_US">Square brackets</val>
+      </comment>
+      <val lang="zh_CN">Square brackets</val>
+   </key>
+   <key value="Check_edited_radio_button_tooltip">
+      <comment/>
+      <comment>
+         <val lang="en_US">Select this if you want to apply the FO processing on the XML input</val>
+      </comment>
+      <val lang="zh_CN">Select this if you want to apply the FO processing on the XML input</val>
+   </key>
+   <key value="Xml_url_as_input">
+      <comment>Transformation dialog, FO pane. Defines the input for the FO processor to be the XML URL defined in the
+            XSLT tab.</comment>
+      <comment>
+         <val lang="en_US">XML URL as input</val>
+      </comment>
+      <val lang="zh_CN">XML URL as input</val>
+   </key>
+   <key value="User_defined_libraries">
+      <comment/>
+      <comment>
+         <val lang="en_US">User defined libraries</val>
+      </comment>
+      <val lang="zh_CN">User defined libraries</val>
+   </key>
+   <key value="Save_all_conflicting_resolve_message">
+      <comment>Shown when a DITA Map is opened in DITA Maps Manager and in the main editor and modified in both
+            places.</comment>
+      <comment>
+         <val lang="en_US">The save all operation will not be performed until these conflicts are solved.</val>
+      </comment>
+      <val lang="zh_CN">The save all operation will not be performed until these conflicts are solved.</val>
+   </key>
+   <key value="Save_all_conflicting_resources_message">
+      <comment>Shown when a DITA Map is opened in DITA Maps Manager and in the main editor and modified in both
+            places.</comment>
+      <comment>
+         <val lang="en_US">The following resources are also modified in the DITA Maps Manager:</val>
+      </comment>
+      <val lang="zh_CN">The following resources are also modified in the DITA Maps Manager:</val>
+   </key>
+   <key value="Show_referable_components">
+      <comment>XSL/XSD components view show all referable components.</comment>
+      <comment>
+         <val lang="en_US">Show referable components</val>
+      </comment>
+      <val lang="zh_CN">Show referable components</val>
+   </key>
+   <key value="Show_all_components">
+      <comment>XSL/XSD components view show all components.</comment>
+      <comment>
+         <val lang="en_US">Show all components</val>
+      </comment>
+      <val lang="zh_CN">Show all components</val>
+   </key>
+   <key value="Specify_schema">
+      <comment>Tooltip text in the edit validation scenario dialog.</comment>
+      <comment>
+         <val lang="en_US">Specify schema</val>
+      </comment>
+      <val lang="zh_CN">Specify schema</val>
+   </key>
+   <key value="Implementation_of">
+      <comment>Prefix for class description label in the class chooser dialog.</comment>
+      <comment>
+         <val lang="en_US">implementation of</val>
+      </comment>
+      <val lang="zh_CN">implementation of</val>
+   </key>
+   <key value="Extension_of">
+      <comment>Prefix for class description label in the class chooser dialog.</comment>
+      <comment>
+         <val lang="en_US">extension of</val>
+      </comment>
+      <val lang="zh_CN">extension of</val>
+   </key>
+   <key value="Output_content_type">
+      <comment>Label in the dialog for configuring a new External Tool</comment>
+      <comment>
+         <val lang="en_US">Output content type</val>
+      </comment>
+      <val lang="zh_CN">Output content type</val>
+   </key>
+   <key value="Activation_delay">
+      <comment>Label in CC option pane.</comment>
+      <comment>
+         <val lang="en_US">Activation delay of the proposals window (ms)</val>
+      </comment>
+      <val lang="zh_CN">Activation delay of the proposals window (ms)</val>
+   </key>
+   <key value="Working_directory_explanation">
+      <comment>Explains what the working directory of a started process is.</comment>
+      <comment>
+         <val lang="en_US">All references from the process will be interpreted relative to this directory. Defaults to
+            the application installation directory.</val>
+      </comment>
+      <val lang="zh_CN">All references from the process will be interpreted relative to this directory. Defaults to
+            the application installation directory.</val>
+   </key>
+   <key value="Build_file_explanation">
+      <comment>Explains what the Ant build files means.</comment>
+      <comment>
+         <val lang="en_US">Build file path. Can be relative to the working directory.</val>
+      </comment>
+      <val lang="zh_CN">Build file path. Can be relative to the working directory.</val>
+   </key>
+   <key value="In_editor">
+      <comment>Open the specified file in the editor</comment>
+      <comment>
+         <val lang="en_US">In Editor</val>
+      </comment>
+      <val lang="zh_CN">In Editor</val>
+   </key>
+   <key value="In_system_application">
+      <comment>Open the specified file in the associated system application</comment>
+      <comment>
+         <val lang="en_US">In System Application</val>
+      </comment>
+      <val lang="zh_CN">In System Application</val>
+   </key>
+   <key value="Build_file">
+      <comment>The build file for the Ant tool.</comment>
+      <comment>
+         <val lang="en_US">Build file</val>
+      </comment>
+      <val lang="zh_CN">Build file</val>
+   </key>
+   <key value="Edit_ANT_Scenario">
+      <comment>Title of dialog used for editing Ant Scenarios.</comment>
+      <comment>
+         <val lang="en_US">Edit Ant Scenario</val>
+      </comment>
+      <val lang="zh_CN">Edit Ant Scenario</val>
+   </key>
+   <key value="Include_only_doc_with_language">
+      <comment>Schema documentation filtering option. Only documentations in the selected language will be
+            included.</comment>
+      <comment>
+         <val lang="en_US">Keep only the annotations with "xml:lang" set to</val>
+      </comment>
+      <val lang="zh_CN">Keep only the annotations with "xml:lang" set to</val>
+   </key>
+   <key value="Add_a_repository">
+      <comment>SVN link label action name presented in the "Repositories" view start panel</comment>
+      <comment>
+         <val lang="en_US">Add a new repository</val>
+      </comment>
+      <val lang="zh_CN">Add a new repository</val>
+   </key>
+   <key value="Add_a_repository_description">
+      <comment>Description of the add repository link label action presented in the "Repositories" view start
+            panel</comment>
+      <comment>
+         <val lang="en_US">Add a new repository to work on or to check out a new working copy from it.</val>
+      </comment>
+      <val lang="zh_CN">Add a new repository to work on or to check out a new working copy from it.</val>
+   </key>
+   <key value="Delete_learned_words_message">
+      <comment>Label in the dialog that allows the user to delete the learned words of the spell checker.</comment>
+      <comment>
+         <val lang="en_US">Please select the words you want to delete and press 'Delete' to remove them from the
+            list.</val>
+      </comment>
+      <val lang="zh_CN">Please select the words you want to delete and press 'Delete' to remove them from the
+            list.</val>
+   </key>
+   <key value="Parameter_edit_xpath_evaluation_warning">
+      <comment>Warning message shown when editing transformation parameters, and the current transformer does not
+            support XPath values for parameters.</comment>
+      <comment>
+         <val lang="en_US">The XPath evaluation of the parameters values it is not available for {0} transformer. Please
+            use one of the following processors: {1}.</val>
+      </comment>
+      <val lang="zh_CN">The XPath evaluation of the parameters values it is not available for {0} transformer. Please
+            use one of the following processors: {1}.</val>
+   </key>
+   <key value="Evaluate_as_xpath_message">
+      <comment>Explanation message used in the transformation parameters dialog.</comment>
+      <comment>
+         <val lang="en_US">If selected, the parameter value will be evaluated as XPath</val>
+      </comment>
+      <val lang="zh_CN">If selected, the parameter value will be evaluated as XPath</val>
+   </key>
+   <key value="Evaluate_as_xpath">
+      <comment>Checkbox name in the transformation parameters dialog.</comment>
+      <comment>
+         <val lang="en_US">Evaluate as XPath</val>
+      </comment>
+      <val lang="zh_CN">Evaluate as XPath</val>
+   </key>
+   <key value="Xsd_palette_selector_tooltip">
+      <comment>Hint to indicate for an "selector" the required DND operation and its result.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to add a "selector" to an identity constraint definition.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to add a "selector" to an identity constraint definition.</val>
+   </key>
+   <key value="Xsd_palette_field_tooltip">
+      <comment>Hint to indicate for an "field" the required DND operation and its result. </comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to add a "field" to an identity constraint definition.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to add a "field" to an identity constraint definition.</val>
+   </key>
+   <key value="Xsd_palette_any_tooltip">
+      <comment>Hint to indicate for an "any" wildcard the required DND operation and its result. </comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to use an "any" wildcard.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to use an "any" wildcard.</val>
+   </key>
+   <key value="Xsd_palette_any_attr_tooltip">
+      <comment>Hint to indicate for an "anyAttribute" wildcard the required DND operation and its result.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to use an "anyAttribute" wildcard.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to use an "anyAttribute" wildcard.</val>
+   </key>
+   <key value="Xsd_palette_simple_type_tooltip">
+      <comment>Hint to indicate for a simple type directive the required DND operation and its result.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to create a new simple type.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to create a new simple type.</val>
+   </key>
+   <key value="Xsd_palette_redefine_tooltip">
+      <comment>Hint to indicate for a redefine directive the required DND operation and its result.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to add a "redefine" directive.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to add a "redefine" directive.</val>
+   </key>
+   <key value="Xsd_palette_include_tooltip">
+      <comment>Hint to indicate for an include directive the required DND operation and its result.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to add an "include" directive.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to add an "include" directive.</val>
+   </key>
+   <key value="Xsd_palette_import_tooltip">
+      <comment>Hint to indicate for an import directive the required DND operation and its result.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to add an "import" directive.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to add an "import" directive.</val>
+   </key>
+   <key value="Xsd_palette_unique_tooltip">
+      <comment>Hint to indicate for a unique identity constraint the required DND operation and its result. </comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to add an "unique" identity constraint.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to add an "unique" identity constraint.</val>
+   </key>
+   <key value="Xsd_palette_keyref_tooltip">
+      <comment>Hint to indicate for a keyref identity constraint the required DND operation and its result.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to add a "keyref" identity constraint.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to add a "keyref" identity constraint.</val>
+   </key>
+   <key value="Xsd_palette_key_tooltip">
+      <comment>Hint to indicate for a key identity constraint the required DND operation and its result. </comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to add a "key" identity constraint.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to add a "key" identity constraint.</val>
+   </key>
+   <key value="Xsd_palette_group_tooltip">
+      <comment>Hint to indicate for a group of elements the required DND operation and its result.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to create a new group of elements.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to create a new group of elements.</val>
+   </key>
+   <key value="Xsd_palette_element_tooltip">
+      <comment>Hint to indicate for an 'element' the required DND operation and its result.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to create a new element.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to create a new element.</val>
+   </key>
+   <key value="Xsd_palette_seq_tooltip">
+      <comment>Hint to indicate for an 'sequence' compositor the required DND operation and its result. </comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to use a "sequence" compositor.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to use a "sequence" compositor.</val>
+   </key>
+   <key value="Xsd_palette_choice_tooltip">
+      <comment>Hint to indicate for an 'choice' compositor the required DND operation and its result. </comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to use a "choice" compositor.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to use a "choice" compositor.</val>
+   </key>
+   <key value="Xsd_palette_all_tooltip">
+      <comment>Hint to indicate for an 'all' compositor the required DND operation and its result. </comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to use an "all" compositor.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to use an "all" compositor.</val>
+   </key>
+   <key value="Xsd_palette_ct_tooltip">
+      <comment>Hint to indicate for a complex type the required DND operation and its result.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to create a new complex type.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to create a new complex type.</val>
+   </key>
+   <key value="Xsd_palette_attr_tooltip">
+      <comment>Hint to indicate for an attribute the required DND operation and its result.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to create a new attribute.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to create a new attribute.</val>
+   </key>
+   <key value="Xsd_palette_attr_group_tooltip">
+      <comment>Hint to indicate the required DND operation and its result.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to create a new attribute group.</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to create a new attribute group.</val>
+   </key>
+   <key value="Do_you_want_to_save_all_archive_opened_files">
+      <comment>Saving all archive opened files confirmation.</comment>
+      <comment>
+         <val lang="en_US">Do you want to save all archive opened files?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to save all archive opened files?</val>
+   </key>
+   <key value="No_XML_Schema_document_selected">
+      <comment>No XML Schema document selected</comment>
+      <comment>
+         <val lang="en_US">No XML Schema document selected</val>
+      </comment>
+      <val lang="zh_CN">No XML Schema document selected</val>
+   </key>
+   <key value="Invalid_component_name_not_a_valid_xml_name">
+      <comment>Message shown when renaming a component and the new name is not an XML name. </comment>
+      <comment>
+         <val lang="en_US">The new name should be a valid XML name.</val>
+      </comment>
+      <val lang="zh_CN">The new name should be a valid XML name.</val>
+   </key>
+   <key value="Insert_only_valid_tag_info_message">
+      <comment>Information message presented in the tags chooser dialog when 'Allow only insertion of valid elements
+            and attributes' option is selected.</comment>
+      <comment>
+         <val lang="en_US">Only the proposed elements are valid in the current context.</val>
+      </comment>
+      <val lang="zh_CN">Only the proposed elements are valid in the current context.</val>
+   </key>
+   <key value="Disable_insert_only_valid_info_message">
+      <comment>Information message presented when the 'Allow only insertion of valid elements and attributes' option
+            is selected and the user wants to insert an invalid element.</comment>
+      <comment>
+         <val lang="en_US">If you want to be able to use an invalid element, you must disable the ''{0}'' option.</val>
+      </comment>
+      <val lang="zh_CN">If you want to be able to use an invalid element, you must disable the ''{0}'' option.</val>
+   </key>
+   <key value="No_valid_element_info_message">
+      <comment>Information message presented when the 'Allow only insertion of valid elements and attributes' option
+            is selected and there is no valid element available for the current context.</comment>
+      <comment>
+         <val lang="en_US">There is no valid element available in the current context.</val>
+      </comment>
+      <val lang="zh_CN">There is no valid element available in the current context.</val>
+   </key>
+   <key value="Change_storage_info_message">
+      <comment>Information message presented when the "Storage" option from the Document Type Association is switched
+            from "External" to "Internal".</comment>
+      <comment>
+         <val lang="en_US">Please note that if the document type association settings are already stored in a framework
+            file, the file will be removed and its content will be saved in Oxygen internal options. </val>
+      </comment>
+      <val lang="zh_CN">Please note that if the document type association settings are already stored in a framework
+            file, the file will be removed and its content will be saved in Oxygen internal options. </val>
+   </key>
+   <key value="Invalid_component_name_warning">
+      <comment>Message shown when renaming a component and the new name is invalid.</comment>
+      <comment>
+         <val lang="en_US">Please specify a different name.</val>
+      </comment>
+      <val lang="zh_CN">Please specify a different name.</val>
+   </key>
+   <key distribution="common" value="Xsd_palette">
+      <comment>XSD components palette title.</comment>
+      <comment>
+         <val lang="en_US">Palette</val>
+      </comment>
+      <val lang="zh_CN">Palette</val>
+   </key>
+   <key value="Basic_components">
+      <comment>XSD components palette section.</comment>
+      <comment>
+         <val lang="en_US">Basic components</val>
+      </comment>
+      <val lang="zh_CN">Basic components</val>
+   </key>
+   <key value="Compositors_and_wildcards">
+      <comment>XSD components palette section.</comment>
+      <comment>
+         <val lang="en_US">Compositors and Wildcards</val>
+      </comment>
+      <val lang="zh_CN">Compositors and Wildcards</val>
+   </key>
+   <key value="Directives">
+      <comment>XSD components palette section.</comment>
+      <comment>
+         <val lang="en_US">Directives</val>
+      </comment>
+      <val lang="zh_CN">Directives</val>
+   </key>
+   <key value="Track_changes_stored_in_document">
+      <comment>The track changes state is stored in document.</comment>
+      <comment>
+         <val lang="en_US">Stored in document</val>
+      </comment>
+      <val lang="zh_CN">Stored in document</val>
+   </key>
+   <key value="Track_changes_always_off">
+      <comment>Track Changes is always OFF when opening a document.</comment>
+      <comment>
+         <val lang="en_US">Always Off</val>
+      </comment>
+      <val lang="zh_CN">Always Off</val>
+   </key>
+   <key value="Track_changes_always_on">
+      <comment>Track Changes is always ON when opening a document.</comment>
+      <comment>
+         <val lang="en_US">Always On</val>
+      </comment>
+      <val lang="zh_CN">Always On</val>
+   </key>
+   <key value="Loading">
+      <comment>Message used when a loading process is in progress.</comment>
+      <comment>
+         <val lang="en_US">Loading</val>
+      </comment>
+      <val lang="zh_CN">Loading</val>
+   </key>
+   <key value="Delete_repeated_word">
+      <comment>The name of the action that deletes a duplicate word detected by the spell checker.</comment>
+      <comment>
+         <val lang="en_US">Delete Repeated Word</val>
+      </comment>
+      <val lang="zh_CN">Delete Repeated Word</val>
+   </key>
+   <key value="External_tool">
+      <comment> The title of the dialog used to edit an external tool.</comment>
+      <comment>
+         <val lang="en_US">External Tool</val>
+      </comment>
+      <val lang="zh_CN">External Tool</val>
+   </key>
+   <key value="Custom_engine">
+      <comment> The title of the dialog used to edit a custom engine.</comment>
+      <comment>
+         <val lang="en_US">Custom Engine</val>
+      </comment>
+      <val lang="zh_CN">Custom Engine</val>
+   </key>
+   <key value="Output_encoding">
+      <comment>Label used in Command Line dialog.</comment>
+      <comment>
+         <val lang="en_US">Output encoding</val>
+      </comment>
+      <val lang="zh_CN">Output encoding</val>
+   </key>
+   <key value="Error_encoding">
+      <comment>Label used in Command Line dialog.</comment>
+      <comment>
+         <val lang="en_US">Error encoding</val>
+      </comment>
+      <val lang="zh_CN">Error encoding</val>
+   </key>
+   <key value="Delete_selected_files">
+      <comment>Delete a node or a folder/file from the project.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to permanently delete these {0} items</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to permanently delete these {0} items</val>
+   </key>
+   <key value="Delete_this_file">
+      <comment>Confirmation message when deleting files from disk.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to permanently delete this file</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to permanently delete this file</val>
+   </key>
+   <key value="Delete_this_folder">
+      <comment>Confirmation message when deleting a folder from disk.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to permanently delete this folder</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to permanently delete this folder</val>
+   </key>
+   <key value="Open_disabled_because">
+      <comment>No license warning.</comment>
+      <comment>
+         <val lang="en_US">Open was disabled because there is no license available.</val>
+      </comment>
+      <val lang="zh_CN">Open was disabled because there is no license available.</val>
+   </key>
+   <key value="Please_specify_fo_method">
+      <comment>Warning when the FO Processor processing method (PDF, TXT, PS, etc) was not specified in the
+            transformation scenario.</comment>
+      <comment>
+         <val lang="en_US">Please specify a method for the FO Processor</val>
+      </comment>
+      <val lang="zh_CN">Please specify a method for the FO Processor</val>
+   </key>
+   <key value="Warning_resource_out_of_scope">
+      <comment>Warning message shown when the resource is not part of the search scope.</comment>
+      <comment>
+         <val lang="en_US">The resource is not part of the current search scope</val>
+      </comment>
+      <val lang="zh_CN">The resource is not part of the current search scope</val>
+   </key>
+   <key value="Change_scope">
+      <comment>Button label for changing the search operations scope.</comment>
+      <comment>
+         <val lang="en_US">Change scope</val>
+      </comment>
+      <val lang="zh_CN">Change scope</val>
+   </key>
+   <key value="Add_current_file">
+      <comment>Contextual action in configure operation scope dialog</comment>
+      <comment>
+         <val lang="en_US">Add Current File</val>
+      </comment>
+      <val lang="zh_CN">Add Current File</val>
+   </key>
+   <key value="Current_file">
+      <comment>Button in configure operation scope dialog</comment>
+      <comment>
+         <val lang="en_US">Current File</val>
+      </comment>
+      <val lang="zh_CN">Current File</val>
+   </key>
+   <key value="Folders">
+      <comment>Button label</comment>
+      <comment>
+         <val lang="en_US">Folders</val>
+      </comment>
+      <val lang="zh_CN">Folders</val>
+   </key>
+   <key value="No_resource_to_present_history_for">
+      <comment>Message presented when there was no resource given in order to present its history</comment>
+      <comment>
+         <val lang="en_US">No resource to present history for.</val>
+      </comment>
+      <val lang="zh_CN">No resource to present history for.</val>
+   </key>
+   <key value="Choose_search_scope">
+      <comment>Name of the action used to choose a search scope.</comment>
+      <comment>
+         <val lang="en_US">Change scope</val>
+      </comment>
+      <val lang="zh_CN">Change scope</val>
+   </key>
+   <key value="Choose_search_scope_description">
+      <comment>Description of the action used to choose a search scope.</comment>
+      <comment>
+         <val lang="en_US">Configure the scope that will be used for future search and refactor operations.</val>
+      </comment>
+      <val lang="zh_CN">Configure the scope that will be used for future search and refactor operations.</val>
+   </key>
+   <key value="Search_occurrences">
+      <comment>The name of the action for searching a component references and declaration in the current
+            file.</comment>
+      <comment>
+         <val lang="en_US">Search Occurrences</val>
+      </comment>
+      <val lang="zh_CN">Search Occurrences</val>
+   </key>
+   <key value="Enable_mark_occurrences_RNG_files">
+      <comment>Option name in 'Mark occurrences' options pane to enable feature for RNG files</comment>
+      <comment>
+         <val lang="en_US">RNG files (i.e. defined patterns)</val>
+      </comment>
+      <val lang="zh_CN">RNG files (i.e. defined patterns)</val>
+   </key>
+   <key value="Continue_with_line_wrap_warning">
+      <comment>Part of the warning message displayed when opening a document with very long lines.</comment>
+      <comment>
+         <val lang="en_US">If you choose to continue the 'Line wrap' support will be enabled and some of the editing
+            features will be disabled.</val>
+      </comment>
+      <val lang="zh_CN">If you choose to continue the 'Line wrap' support will be enabled and some of the editing
+            features will be disabled.</val>
+   </key>
+   <key value="Use_lang_attributes">
+      <comment>The spell checker takes into account the lang and xml:lang</comment>
+      <comment>
+         <val lang="en_US">Use "lang" and "xml:lang" attributes</val>
+      </comment>
+      <val lang="zh_CN">Use "lang" and "xml:lang" attributes</val>
+   </key>
+   <key value="Occurrence">
+      <comment>Hierarchy/dependencies go to reference occurrences</comment>
+      <comment>
+         <val lang="en_US">Occurrence</val>
+      </comment>
+      <val lang="zh_CN">Occurrence</val>
+   </key>
+   <key value="Go_to_reference">
+      <comment>Hierarchy/dependencies go to reference</comment>
+      <comment>
+         <val lang="en_US">Go to reference</val>
+      </comment>
+      <val lang="zh_CN">Go to reference</val>
+   </key>
+   <key value="Svn_all_files_tooltip">
+      <comment>Tooltip for SVN "All Files" working copy view mode button</comment>
+      <comment>
+         <val lang="en_US">Show all working copy files</val>
+      </comment>
+      <val lang="zh_CN">Show all working copy files</val>
+   </key>
+   <key value="Svn_modified_tooltip">
+      <comment>Tooltip for SVN "Modified" working copy view mode button</comment>
+      <comment>
+         <val lang="en_US">Show only working copy and repository modified files</val>
+      </comment>
+      <val lang="zh_CN">Show only working copy and repository modified files</val>
+   </key>
+</translation>

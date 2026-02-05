@@ -1,0 +1,1898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="Activate_index_in_remote_files_content">
+      <comment>Information message shown when user wants to navigate reviews of remote files.</comment>
+      <comment>
+         <val lang="en_US">To navigate to the next/previous review item between remote resources, indexing for remote
+            resources must be enabled.</val>
+      </comment>
+      <val lang="zh_CN">To navigate to the next/previous review item between remote resources, indexing for remote
+            resources must be enabled.</val>
+   </key>
+   <key value="Invalid_Url_Unknown_Protocol">
+      <comment>Error message provided in one specific case of failure for 'Associate JSON schema' action.</comment>
+      <comment>
+         <val lang="en_US">Invalid URL, unknown protocol.</val>
+      </comment>
+      <val lang="zh_CN">Invalid URL, unknown protocol.</val>
+   </key>
+   <key value="JSON_structure_improper_for_association">
+      <comment>Error message provided in one specific case of failure for 'Associate JSON schema' action.</comment>
+      <comment>
+         <val lang="en_US">Could not associate schema.\nThe JSON document contains structure that is improper for schema
+            association.\nHint: use a validation scenario instead.</val>
+      </comment>
+      <val lang="zh_CN">Could not associate schema.\nThe JSON document contains structure that is improper for schema
+            association.\nHint: use a validation scenario instead.</val>
+   </key>
+   <key value="Enable_autorecovery">
+      <comment>"Preferences" dialog -&gt; Editor -&gt; Save option. This label will be followed by a combo specifying
+            the time interval (e.g. Save auto-recovery information every [10 minutes]).</comment>
+      <comment>
+         <val lang="en_US">Save auto-recover information every</val>
+      </comment>
+      <val lang="zh_CN">Save auto-recover information every</val>
+   </key>
+   <key value="Autorecovery_info_saver">
+      <comment>Prefix for the information that will be presented with the autorecovery information save
+            process</comment>
+      <comment>
+         <val lang="en_US">Auto-recover information saver</val>
+      </comment>
+      <val lang="zh_CN">Auto-recover information saver</val>
+   </key>
+   <key value="Autorecover_title">
+      <comment>Title of the dialog for restore the recover file.</comment>
+      <comment>
+         <val lang="en_US">Auto-recover</val>
+      </comment>
+      <val lang="zh_CN">Auto-recover</val>
+   </key>
+   <key value="Found_recovery_info">
+      <comment>Message in the dialog for restore the recover file.</comment>
+      <comment>
+         <val lang="en_US">Found auto-recover information for file</val>
+      </comment>
+      <val lang="zh_CN">Found auto-recover information for file</val>
+   </key>
+   <key value="Open_recover_file">
+      <comment>Option in the dialog for restore the recover file.</comment>
+      <comment>
+         <val lang="en_US">Open recovered content in a new tab</val>
+      </comment>
+      <val lang="zh_CN">Open recovered content in a new tab</val>
+   </key>
+   <key value="User_original_content">
+      <comment>Option in the dialog for restore the recover file.</comment>
+      <comment>
+         <val lang="en_US">Use current file content and discard recovered content</val>
+      </comment>
+      <val lang="zh_CN">Use current file content and discard recovered content</val>
+   </key>
+   <key value="Replace_original_content_with_recover">
+      <comment>Option in the dialog for restore the recover file.</comment>
+      <comment>
+         <val lang="en_US">Replace current file content with recovered content</val>
+      </comment>
+      <val lang="zh_CN">Replace current file content with recovered content</val>
+   </key>
+   <key value="Recover_file_location">
+      <comment>"Preferences" dialog -&gt; Editor -&gt; Save option. This label will be followed by a text field
+            specifying the location.</comment>
+      <comment>
+         <val lang="en_US">Auto-recover file location</val>
+      </comment>
+      <val lang="zh_CN">Auto-recover file location</val>
+   </key>
+   <key value="Show_in_terminal">
+      <comment>Label for the project action that opens a folder in the terminal/console.</comment>
+      <comment>
+         <val lang="en_US">Show in Terminal</val>
+      </comment>
+      <val lang="zh_CN">Show in Terminal</val>
+   </key>
+   <key value="Terminal">
+      <comment>Label for the project action that opens a folder in the terminal/console.</comment>
+      <comment>
+         <val lang="en_US">Terminal</val>
+      </comment>
+      <val lang="zh_CN">Terminal</val>
+   </key>
+   <key value="Show_in">
+      <comment>Project sub-menu used access actions that open a file/folder in the terminal/console or the file
+            explorer.</comment>
+      <comment>
+         <val lang="en_US">Show in</val>
+      </comment>
+      <val lang="zh_CN">Show in</val>
+   </key>
+   <key value="Explorer">
+      <comment>Label for the project action that opens a file/folder in the file explorer (Win, Linux).</comment>
+      <comment>
+         <val lang="en_US">Explorer</val>
+      </comment>
+      <val lang="zh_CN">Explorer</val>
+   </key>
+   <key value="Finder">
+      <comment>Label for the project action that opens a file/folder in Finder (MacOS).</comment>
+      <comment>
+         <val lang="en_US">Finder</val>
+      </comment>
+      <val lang="zh_CN">Finder</val>
+   </key>
+   <key distribution="common" value="Resolving_references">
+      <comment>Progress tracker task for an action which resolves all references from the current resource to
+            others.</comment>
+      <comment>
+         <val lang="en_US">Resolving references</val>
+      </comment>
+      <val lang="zh_CN">Resolving references</val>
+   </key>
+   <key distribution="common" value="Computing_layout">
+      <comment>Progress tracker task for an action which computes the visual editing layout.</comment>
+      <comment>
+         <val lang="en_US">Computing layout</val>
+      </comment>
+      <val lang="zh_CN">Computing layout</val>
+   </key>
+   <key distribution="common" value="Copy_JSON_pointer_to_clipboard">
+      <comment>Contextual menu action for JSON editor (Text page).</comment>
+      <comment>
+         <val lang="en_US">Copy JSON Pointer</val>
+      </comment>
+      <val lang="zh_CN">Copy JSON Pointer</val>
+   </key>
+   <key value="Show_reviews_in_read_only_content">
+      <comment>Filter name in "Review" view that shows/hides reviews from read-only contexts.</comment>
+      <comment>
+         <val lang="en_US">Show reviews in read-only content</val>
+      </comment>
+      <val lang="zh_CN">Show reviews in read-only content</val>
+   </key>
+   <key distribution="common" value="PDF_output">
+      <comment>The PDF Output option page group.</comment>
+      <comment>
+         <val lang="en_US">PDF Output</val>
+      </comment>
+      <val lang="zh_CN">PDF Output</val>
+   </key>
+   <key distribution="common" value="CSS_based_processors">
+      <comment>CSS-based Processors option pane title</comment>
+      <comment>
+         <val lang="en_US">CSS-based Processors</val>
+      </comment>
+      <val lang="zh_CN">CSS-based Processors</val>
+   </key>
+   <key value="Sort_by_date">
+      <comment>Name of the Review view submenu that holds the sort actions.</comment>
+      <comment>
+         <val lang="en_US">Sort by date</val>
+      </comment>
+      <val lang="zh_CN">Sort by date</val>
+   </key>
+   <key value="No_sorting">
+      <comment>Name of the action that sorts the items in Review view in document order.</comment>
+      <comment>
+         <val lang="en_US">No sorting</val>
+      </comment>
+      <val lang="zh_CN">No sorting</val>
+   </key>
+   <key value="Oldest_to_newest">
+      <comment>Name of the action that sorts the items in Review view in ascending order: from oldest to
+            newest.</comment>
+      <comment>
+         <val lang="en_US">Oldest to newest</val>
+      </comment>
+      <val lang="zh_CN">Oldest to newest</val>
+   </key>
+   <key value="Newest_to_oldest">
+      <comment>Name of the action that sorts the items in Review view in descending order: from newest to
+            oldest.</comment>
+      <comment>
+         <val lang="en_US">Newest to oldest</val>
+      </comment>
+      <val lang="zh_CN">Newest to oldest</val>
+   </key>
+   <key value="Autodetect_processor">
+      <comment>Radio button for enable to automatically detect a transformation processor directory.</comment>
+      <comment>
+         <val lang="en_US">Auto-detect</val>
+      </comment>
+      <val lang="zh_CN">Auto-detect</val>
+   </key>
+   <key value="Autodetect_chemistry_processor_tooltip">
+      <comment>Tooltip from the radio button for enable to automatically detect the chemistry processor.</comment>
+      <comment>
+         <val lang="en_US">Automatically detect the Chemistry installation directory using the system's PATH environment
+        variable or use the built-in distribution if it is not found.</val>
+      </comment>
+      <val lang="zh_CN">Automatically detect the Chemistry installation directory using the system's PATH environment
+        variable or use the built-in distribution if it is not found.</val>
+   </key>
+   <key value="Custom_installation_dir">
+      <comment>Radio button for select to choose a installation directory</comment>
+      <comment>
+         <val lang="en_US">Custom installation directory</val>
+      </comment>
+      <val lang="zh_CN">Custom installation directory</val>
+   </key>
+   <key value="Memory_av_to_processor">
+      <comment>This option controls the amount of memory that is available to a tranformation processor</comment>
+      <comment>
+         <val lang="en_US">Memory available to the processor (MB)</val>
+      </comment>
+      <val lang="zh_CN">Memory available to the processor (MB)</val>
+   </key>
+   <key value="Edit_XML_TO_PDF_Scenario">
+      <comment>Title of dialog used for editing XML to PDF Scenarios.</comment>
+      <comment>
+         <val lang="en_US">Edit XML to PDF Scenario</val>
+      </comment>
+      <val lang="zh_CN">Edit XML to PDF Scenario</val>
+   </key>
+   <key value="Debugging">
+      <comment>Debugging</comment>
+      <comment>
+         <val lang="en_US">Debugging</val>
+      </comment>
+      <val lang="zh_CN">Debugging</val>
+   </key>
+   <key value="Processor_options">
+      <comment>Text for the link pointing to a page in preferences</comment>
+      <comment>
+         <val lang="en_US">Processor options</val>
+      </comment>
+      <val lang="zh_CN">Processor options</val>
+   </key>
+   <key value="Is_used_xml_stylesheet_declaration">
+      <comment>Label in the scenario config dialog.</comment>
+      <comment>
+         <val lang="en_US">The "xml-stylesheet" declaration is automatically used</val>
+      </comment>
+      <val lang="zh_CN">The "xml-stylesheet" declaration is automatically used</val>
+   </key>
+   <key value="dump_fo_file">
+      <comment>Checkbox for chemistry scenario in the scenario configuration dialog.</comment>
+      <comment>
+         <val lang="en_US">Dump the FO file</val>
+      </comment>
+      <val lang="zh_CN">Dump the FO file</val>
+   </key>
+   <key value="dump_intermediate_annotated_xml">
+      <comment>Checkbox for chemistry scenario in the scenario configuration dialog.</comment>
+      <comment>
+         <val lang="en_US">Dump the intermediate annotated XML</val>
+      </comment>
+      <val lang="zh_CN">Dump the intermediate annotated XML</val>
+   </key>
+   <key value="Check_dump_XML_tooltip">
+      <comment>Transformation configuration dialog, the output part.</comment>
+      <comment>
+         <val lang="en_US">Select this if you want to dump the intermediate style annotated XML file next to the
+            output</val>
+      </comment>
+      <val lang="zh_CN">Select this if you want to dump the intermediate style annotated XML file next to the
+            output</val>
+   </key>
+   <key value="Check_dump_FO_tooltip">
+      <comment>Transformation configuration dialog, the output part.</comment>
+      <comment>
+         <val lang="en_US">Select this if you want to dump the FO file before converting it to PDF</val>
+      </comment>
+      <val lang="zh_CN">Select this if you want to dump the FO file before converting it to PDF</val>
+   </key>
+   <key value="Apply_Chemistry_XML_input_required">
+      <comment>It was attempted an Chemistry transformation without properly defining the input.</comment>
+      <comment>
+         <val lang="en_US">You need a valid XML URL as input for the Chemistry transformation</val>
+      </comment>
+      <val lang="zh_CN">You need a valid XML URL as input for the Chemistry transformation</val>
+   </key>
+   <key value="Learn_word_s">
+      <comment>Name of action available for misspelled words from the reults panel.</comment>
+      <comment>
+         <val lang="en_US">Learn Word(s)</val>
+      </comment>
+      <val lang="zh_CN">Learn Word(s)</val>
+   </key>
+   <key value="Sort_by_key_name">
+      <comment>Label for the action that sorts the keys list from DITA Reusable Components view.</comment>
+      <comment>
+         <val lang="en_US">Sort by key name</val>
+      </comment>
+      <val lang="zh_CN">Sort by key name</val>
+   </key>
+   <key value="Show_only_variables">
+      <comment>Action in the Keys tab, in DITA Reusable Components view.</comment>
+      <comment>
+         <val lang="en_US">Show only variables</val>
+      </comment>
+      <val lang="zh_CN">Show only variables</val>
+   </key>
+   <key value="Showing_only_variables">
+      <comment>Label telling what resources are shown.</comment>
+      <comment>
+         <val lang="en_US">Showing only variables</val>
+      </comment>
+      <val lang="zh_CN">Showing only variables</val>
+   </key>
+   <key value="Show_only_maps_and_topics">
+      <comment>Action in the Keys tab, in DITA Reusable Components view.</comment>
+      <comment>
+         <val lang="en_US">Show only maps and topics</val>
+      </comment>
+      <val lang="zh_CN">Show only maps and topics</val>
+   </key>
+   <key value="Showing_only_maps_and_topics">
+      <comment>Label telling what resources are shown.</comment>
+      <comment>
+         <val lang="en_US">Showing only maps and topics</val>
+      </comment>
+      <val lang="zh_CN">Showing only maps and topics</val>
+   </key>
+   <key value="Show_only_multimedia_resources">
+      <comment>Action in the Keys tab, in DITA Reusable Components view.</comment>
+      <comment>
+         <val lang="en_US">Show only multimedia resources</val>
+      </comment>
+      <val lang="zh_CN">Show only multimedia resources</val>
+   </key>
+   <key value="Showing_only_multimedia_resources">
+      <comment>Label telling what resources are shown.</comment>
+      <comment>
+         <val lang="en_US">Showing only multimedia resources</val>
+      </comment>
+      <val lang="zh_CN">Showing only multimedia resources</val>
+   </key>
+   <key value="Show_only_external_resources">
+      <comment>Action in the Keys tab, in DITA Reusable Components view.</comment>
+      <comment>
+         <val lang="en_US">Show only external resources</val>
+      </comment>
+      <val lang="zh_CN">Show only external resources</val>
+   </key>
+   <key value="Showing_only_external_resources">
+      <comment>Label telling what resources are shown.</comment>
+      <comment>
+         <val lang="en_US">Showing only external resources</val>
+      </comment>
+      <val lang="zh_CN">Showing only external resources</val>
+   </key>
+   <key value="Table_mode">
+      <comment>Action name that switches to a table mode view.</comment>
+      <comment>
+         <val lang="en_US">Table mode</val>
+      </comment>
+      <val lang="zh_CN">Table mode</val>
+   </key>
+   <key value="Switching_to_floating">
+      <comment/>
+      <comment>
+         <val lang="en_US">Switching to a license server will clear the previously stored named user license key
+            details.</val>
+      </comment>
+      <val lang="zh_CN">Switching to a license server will clear the previously stored named user license key
+            details.</val>
+   </key>
+   <key value="If_you_proceed_license_erased">
+      <comment>The user will erase the current license.</comment>
+      <comment>
+         <val lang="en_US">If you proceed, the current license key will be erased.</val>
+      </comment>
+      <val lang="zh_CN">If you proceed, the current license key will be erased.</val>
+   </key>
+   <key value="Your_license_was_removed">
+      <comment>The current license was removed on your request.</comment>
+      <comment>
+         <val lang="en_US">The current license was removed on your request.</val>
+      </comment>
+      <val lang="zh_CN">The current license was removed on your request.</val>
+   </key>
+   <key value="Http_https_backup_server">
+      <comment>Label for Backup HTTP/HTTPS server address</comment>
+      <comment>
+         <val lang="en_US">Backup HTTP/HTTPS server</val>
+      </comment>
+      <val lang="zh_CN">Backup HTTP/HTTPS server</val>
+   </key>
+   <key value="Insert_new_line">
+      <comment>Name of action for inserting a new line.</comment>
+      <comment>
+         <val lang="en_US">Insert New Line</val>
+      </comment>
+      <val lang="zh_CN">Insert New Line</val>
+   </key>
+   <key value="Table_operation_when_tc_error_message">
+      <comment>Error message that appear when user invoke operation on a table when track changes is on.</comment>
+      <comment>
+         <val lang="en_US">This operation cannot be executed on a table while change tracking is enabled. Deactivate
+            change tracking and try again.</val>
+      </comment>
+      <val lang="zh_CN">This operation cannot be executed on a table while change tracking is enabled. Deactivate
+            change tracking and try again.</val>
+   </key>
+   <key value="X_days_left" distribution="webauthor">
+      <comment>Short description suggesting that there are X days of the license left.</comment>
+      <comment>
+         <val lang="en_US">{0} days left</val>
+      </comment>
+      <val lang="zh_CN">{0} days left</val>
+   </key>
+   <key value="Relocatable">
+      <comment>Relocatable option for Saxon-JS compile stylesheets to sef.</comment>
+      <comment>
+         <val lang="en_US">Relocatable</val>
+      </comment>
+      <val lang="zh_CN">Relocatable</val>
+   </key>
+   <key value="Evaluation_only" distribution="webauthor">
+      <comment>Short description suggesting that the license is for evaluation use only.</comment>
+      <comment>
+         <val lang="en_US">Evaluation Only</val>
+      </comment>
+      <val lang="zh_CN">Evaluation Only</val>
+   </key>
+   <key value="Development_only" distribution="webauthor">
+      <comment>Short description suggesting that the license is for development use only.</comment>
+      <comment>
+         <val lang="en_US">Development Only</val>
+      </comment>
+      <val lang="zh_CN">Development Only</val>
+   </key>
+   <key value="Your_license_was_deactivated">
+      <comment>Your license was deactivated by the admin.</comment>
+      <comment>
+         <val lang="en_US">Your license was deactivated by the admin.</val>
+      </comment>
+      <val lang="zh_CN">Your license was deactivated by the admin.</val>
+   </key>
+   <key value="File_chooser_opens">
+      <comment>Label in the Global preferences page.</comment>
+      <comment>
+         <val lang="en_US">File chooser opens:</val>
+      </comment>
+      <val lang="zh_CN">File chooser opens:</val>
+   </key>
+   <key value="Other_views">
+      <comment>Label for submenu.</comment>
+      <comment>
+         <val lang="en_US">Other Views</val>
+      </comment>
+      <val lang="zh_CN">Other Views</val>
+   </key>
+   <key value="Error_resolving_answer_editor_variable">
+      <comment>Error message when an 'answer' editor variable can't be resolved because wasn't found a 'ask' with the
+            same id.</comment>
+      <comment>
+         <val lang="en_US">Wasn''t found an ''ask'' with id ''{0}''.</val>
+      </comment>
+      <val lang="zh_CN">Wasn''t found an ''ask'' with id ''{0}''.</val>
+   </key>
+   <key value="Extract_to_New_DITA_map">
+      <comment>Title of Contextual action that extracts current DMM selection to a new map.</comment>
+      <comment>
+         <val lang="en_US">Extract to New DITA Map</val>
+      </comment>
+      <val lang="zh_CN">Extract to New DITA Map</val>
+   </key>
+   <key value="Include_whr_customization">
+      <comment>Checkbox which allows the user to include the WebHelp Responsive customization on the newly saved
+            publishing template using "Save Template As" action.</comment>
+      <comment>
+         <val lang="en_US">Include WebHelp customization</val>
+      </comment>
+      <val lang="zh_CN">Include WebHelp customization</val>
+   </key>
+   <key value="Include_pdf_customization">
+      <comment>Checkbox which allows the user to include the PDF customization on the newly saved publishing template
+            using "Save Template As" action.</comment>
+      <comment>
+         <val lang="en_US">Include PDF customization</val>
+      </comment>
+      <val lang="zh_CN">Include PDF customization</val>
+   </key>
+   <key value="Publishing_template_save_as_params_multiple_pub_formats_info">
+      <comment>Info message presented in the "Save as template" dialog, used to inform the user that the current
+            template can contain multiple publishing customization.</comment>
+      <comment>
+         <val lang="en_US">The same Oxygen Publishing Template package can contain both a PDF and WebHelp Responsive
+            customization and you can use the same template in both types of transformations. \n\nFor WebHelp Responsive
+            customizations, selecting the "Include HTML Page Layout files" option will also copy the default files that
+            define the layout of the different types of pages.</val>
+      </comment>
+      <val lang="zh_CN">The same Oxygen Publishing Template package can contain both a PDF and WebHelp Responsive
+            customization and you can use the same template in both types of transformations. \n\nFor WebHelp Responsive
+            customizations, selecting the "Include HTML Page Layout files" option will also copy the default files that
+            define the layout of the different types of pages.</val>
+   </key>
+   <key value="Compact_mode">
+      <comment>Setting in the DITA Reusable Components view.</comment>
+      <comment>
+         <val lang="en_US">Compact mode</val>
+      </comment>
+      <val lang="zh_CN">Compact mode</val>
+   </key>
+   <key value="Directory_of_the_selected_file">
+      <comment>General options radio button for file chooser opened directory</comment>
+      <comment>
+         <val lang="en_US">Directory of the selected file</val>
+      </comment>
+      <val lang="zh_CN">Directory of the selected file</val>
+   </key>
+   <key value="Row_has_colname_and_namest_or_nameend">
+      <comment>Table validation problem when you set both colname and namest/nameend properties on same cell. </comment>
+      <comment>
+         <val lang="en_US">Column name (colname) attribute must not be present when column name start (namest) or column
+            name end (nameend) is specified.</val>
+      </comment>
+      <val lang="zh_CN">Column name (colname) attribute must not be present when column name start (namest) or column
+            name end (nameend) is specified.</val>
+   </key>
+   <key value="No_json_schema_associated">
+      <comment>Label text used in edit validation scenario dialog when there is no JSON schema associated with a JSON
+            document.</comment>
+      <comment>
+         <val lang="en_US">No JSON schema associated</val>
+      </comment>
+      <val lang="zh_CN">No JSON schema associated</val>
+   </key>
+   <key value="wizard.name.jsonschema" distribution="eclipse">
+      <comment>JSON Schema File label.</comment>
+      <comment>
+         <val lang="en_US">JSON Schema File</val>
+      </comment>
+      <val lang="zh_CN">JSON Schema File</val>
+   </key>
+   <key value="wizard.description.jsonschema" distribution="eclipse">
+      <comment>Wizard for creating new JSON Schema files.</comment>
+      <comment>
+         <val lang="en_US">A wizard that creates new JSON Schema file</val>
+      </comment>
+      <val lang="zh_CN">A wizard that creates new JSON Schema file</val>
+   </key>
+   <key value="Create_Json_Schema_Document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create a JSON Schema document</val>
+      </comment>
+      <val lang="zh_CN">Create a JSON Schema document</val>
+   </key>
+   <key value="Json_Schema_Document">
+      <comment>JSON Schema document (primarily used in Eclipse plug-in)</comment>
+      <comment>
+         <val lang="en_US">JSON Schema Document</val>
+      </comment>
+      <val lang="zh_CN">JSON Schema Document</val>
+   </key>
+   <key value="Json_schema">
+      <comment>Label/text for JSON Schema.</comment>
+      <comment>
+         <val lang="en_US">JSON Schema</val>
+      </comment>
+      <val lang="zh_CN">JSON Schema</val>
+   </key>
+   <key value="wizard.description.xspec.sch" distribution="eclipse">
+      <comment>Used in the Eclipse wizard.</comment>
+      <comment>
+         <val lang="en_US">A wizard that creates new Schematron Unit Test</val>
+      </comment>
+      <val lang="zh_CN">A wizard that creates new Schematron Unit Test</val>
+   </key>
+   <key value="Template_cannot_read_source_zip_file">
+      <comment>Error message presented when the template archive could not be read.</comment>
+      <comment>
+         <val lang="en_US">Cannot read source template ZIP file.</val>
+      </comment>
+      <val lang="zh_CN">Cannot read source template ZIP file.</val>
+   </key>
+   <key value="Exported_resource_does_not_exist">
+      <comment>Error message shown when the "Save Template As" action cannot find a resource to copy inside the new
+            template.</comment>
+      <comment>
+         <val lang="en_US">The exported resource does not exist.</val>
+      </comment>
+      <val lang="zh_CN">The exported resource does not exist.</val>
+   </key>
+   <key value="Cannot_save_template_to_archive">
+      <comment>Error message shown when the "Save Template As" action cannot create the archive where the template
+            will be saved.</comment>
+      <comment>
+         <val lang="en_US">Cannot save template to archive.</val>
+      </comment>
+      <val lang="zh_CN">Cannot save template to archive.</val>
+   </key>
+   <key value="Template_cannot_add_resource_to_archive">
+      <comment>Error message shown when the "Save Template As" action cannot add a resource to the archive of the new
+            template.</comment>
+      <comment>
+         <val lang="en_US">Cannot add resource to template archive.</val>
+      </comment>
+      <val lang="zh_CN">Cannot add resource to template archive.</val>
+   </key>
+   <key value="Template_cannot_create_descriptor">
+      <comment>Error message shown when the "Save Template As" action cannot create the descriptor file for the new
+            publishing template.</comment>
+      <comment>
+         <val lang="en_US">Cannot create the descriptor file.</val>
+      </comment>
+      <val lang="zh_CN">Cannot create the descriptor file.</val>
+   </key>
+   <key value="Template_cannot_parse_descriptor_schema">
+      <comment>Error message shown when the "Save Template As" action tries to obtain the XML schema for the
+            descriptor file.</comment>
+      <comment>
+         <val lang="en_US">Cannot parse the Publishing Template descriptor XML Schema.</val>
+      </comment>
+      <val lang="zh_CN">Cannot parse the Publishing Template descriptor XML Schema.</val>
+   </key>
+   <key value="Template_save_operation_not_completed_because_of_errors">
+      <comment>Error message presented when the "Save Template As" operation could not be completed because there are
+            some problems when trying to save some resource.</comment>
+      <comment>
+         <val lang="en_US">The save operation could not be completed due to the following errors</val>
+      </comment>
+      <val lang="zh_CN">The save operation could not be completed due to the following errors</val>
+   </key>
+   <key value="Template_warning_encountered_on_save">
+      <comment>Warning message presented when the "Save Template As" operation was completed but there are some
+            warnings encountered when saving some resources.</comment>
+      <comment>
+         <val lang="en_US">The following warnings have occurred during the save operation</val>
+      </comment>
+      <val lang="zh_CN">The following warnings have occurred during the save operation</val>
+   </key>
+   <key value="Cause">
+      <comment>Label used in the dialog which present the errors encountered on saving a new template.</comment>
+      <comment>
+         <val lang="en_US">Cause</val>
+      </comment>
+      <val lang="zh_CN">Cause</val>
+   </key>
+   <key value="Publishing_template_save_as_params_information">
+      <comment>Info message presented in the "Save as template" dialog, used to inform the user about the parameters
+            which will be saved.</comment>
+      <comment>
+         <val lang="en_US">Some parameters may reference resources on your computer (i.e. custom HTML fragments or CSS
+            files). These resources will automatically be copied to the new template package and their references will
+            be changed accordingly. \n\nHowever, additional resources that are referenced in the custom HTML fragments
+            or CSS files will not be copied automatically. You need to manually add them to the new template package and
+            update their references.</val>
+      </comment>
+      <val lang="zh_CN">Some parameters may reference resources on your computer (i.e. custom HTML fragments or CSS
+            files). These resources will automatically be copied to the new template package and their references will
+            be changed accordingly. \n\nHowever, additional resources that are referenced in the custom HTML fragments
+            or CSS files will not be copied automatically. You need to manually add them to the new template package and
+            update their references.</val>
+   </key>
+   <key value="Save_template_problems">
+      <comment>The title of the dialog that presents the problems encountered when saving a template.</comment>
+      <comment>
+         <val lang="en_US">Save template problems</val>
+      </comment>
+      <val lang="zh_CN">Save template problems</val>
+   </key>
+   <key value="Copy_html_pages">
+      <comment>Checkbox inside the 'Save Template As' dialog.</comment>
+      <comment>
+         <val lang="en_US">Include HTML Page Layout files</val>
+      </comment>
+      <val lang="zh_CN">Include HTML Page Layout files</val>
+   </key>
+   <key value="Template_saved_successfully">
+      <comment>Message displayed when the "Save as template" action is performed with success.</comment>
+      <comment>
+         <val lang="en_US">Template saved successfully.</val>
+      </comment>
+      <val lang="zh_CN">Template saved successfully.</val>
+   </key>
+   <key value="Params_to_save_in_template_package">
+      <comment>Description label for the table of ANT parameters from the 'Save Template As' dialog.</comment>
+      <comment>
+         <val lang="en_US">The following parameters will be set in the new template package</val>
+      </comment>
+      <val lang="zh_CN">The following parameters will be set in the new template package</val>
+   </key>
+   <key value="Folder_not_found" distribution="webauthor">
+      <comment/>
+      <comment>
+         <val lang="en_US">Folder not found: {0}</val>
+      </comment>
+      <val lang="zh_CN">Folder not found: {0}</val>
+   </key>
+   <key value="Move_topics_to_trash_confirmation">
+      <comment>Message for asking if the user is sure they want to move some topics to the Mac OSX trash.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to move the selected item(s) to the Trash?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to move the selected item(s) to the Trash?</val>
+   </key>
+   <key value="Template_specify_valid_info_for_save">
+      <comment>Error message presented to user when it tries to save a template and has no name or path
+            specified.</comment>
+      <comment>
+         <val lang="en_US">Save operation failed because you did not specify a valid name or template package target
+            path.</val>
+      </comment>
+      <val lang="zh_CN">Save operation failed because you did not specify a valid name or template package target
+            path.</val>
+   </key>
+   <key value="Param_set_in_current_template">
+      <comment>Tooltip message explaining the italic font used to render some parameters' name.</comment>
+      <comment>
+         <val lang="en_US">Set in current template</val>
+      </comment>
+      <val lang="zh_CN">Set in current template</val>
+   </key>
+   <key value="Param_modified_by_user">
+      <comment>Tooltip message explaining the bold font used to render some parameters' name.</comment>
+      <comment>
+         <val lang="en_US">Modified by user</val>
+      </comment>
+      <val lang="zh_CN">Modified by user</val>
+   </key>
+   <key value="Default_param">
+      <comment>Tooltip message for the default parameters' renderingin the Parameters tab.</comment>
+      <comment>
+         <val lang="en_US">Default parameter</val>
+      </comment>
+      <val lang="zh_CN">Default parameter</val>
+   </key>
+   <key value="Use_platform_file_chooser">
+      <comment>Label for a checkbox that controls if the default operating system file chooser should be used when
+            possible to choose resources.</comment>
+      <comment>
+         <val lang="en_US">Use platform file chooser</val>
+      </comment>
+      <val lang="zh_CN">Use platform file chooser</val>
+   </key>
+   <key value="Show_cc_on_enter" distribution="webauthor">
+      <comment>Label for a checkbox that controls if the CC list is presented when the user press ENTER.</comment>
+      <comment>
+         <val lang="en_US">Show content completion list when pressing Enter</val>
+      </comment>
+      <val lang="zh_CN">Show content completion list when pressing Enter</val>
+   </key>
+   <key value="Zip_files">
+      <comment>Description of the ZIP extension filter.</comment>
+      <comment>
+         <val lang="en_US">ZIP files</val>
+      </comment>
+      <val lang="zh_CN">ZIP files</val>
+   </key>
+   <key value="Path_inside_template_tooltip">
+      <comment>Tooltip message for paramters table inside "Save Template as" dialog for parameter whose value is a
+            dir/file path and will be modified.</comment>
+      <comment>
+         <val lang="en_US">The path is relative inside the template ZIP archive. This resource will be copied from
+            ''{0}''.</val>
+      </comment>
+      <val lang="zh_CN">The path is relative inside the template ZIP archive. This resource will be copied from
+            ''{0}''.</val>
+   </key>
+   <key value="Save_template_as_dlg">
+      <comment>Title of the dialog used to save a new publishing template.</comment>
+      <comment>
+         <val lang="en_US">Save Template As</val>
+      </comment>
+      <val lang="zh_CN">Save Template As</val>
+   </key>
+   <key value="Save_template_as">
+      <comment>Text for the button that save a template outside the application.</comment>
+      <comment>
+         <val lang="en_US">Save template as</val>
+      </comment>
+      <val lang="zh_CN">Save template as</val>
+   </key>
+   <key value="Template_created_by">
+      <comment>Message used to inform the user who created a publishing template.</comment>
+      <comment>
+         <val lang="en_US">Template created by</val>
+      </comment>
+      <val lang="zh_CN">Template created by</val>
+   </key>
+   <key value="Custom_location" distribution="webauthor">
+      <comment>Label for an input which allows one to pick a custom file location.</comment>
+      <comment>
+         <val lang="en_US">Custom location</val>
+      </comment>
+      <val lang="zh_CN">Custom location</val>
+   </key>
+   <key value="Also_remove_descendants">
+      <comment>Label for check box, used to also remove the descendants of the selected nodes.</comment>
+      <comment>
+         <val lang="en_US">Also remove all descendants</val>
+      </comment>
+      <val lang="zh_CN">Also remove all descendants</val>
+   </key>
+   <key value="Permanently_remove_topics_from_disk_confirmation">
+      <comment>Message for asking if the user is sure they want to remove some topics from the disk.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to permanently remove the selected topic(s)?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to permanently remove the selected topic(s)?</val>
+   </key>
+   <key value="Move_topics_to_recycle_bin_confirmation">
+      <comment>Message for asking if the user is sure they want to move some topics to the Windows Recycle
+            Bin.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to move the selected topic(s) to the Recycle Bin?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to move the selected topic(s) to the Recycle Bin?</val>
+   </key>
+   <key value="Move_topics_to_Trash_confirmation">
+      <comment>Message for asking if the user is sure they want to move some topics to the Mac OSX Recycle
+            Bin.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to move the selected topic(s) to the Trash?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to move the selected topic(s) to the Trash?</val>
+   </key>
+   <key value="Plugin_function_description">
+      <comment>Description for an editor variable that returns the directory/URL of a plugin.</comment>
+      <comment>
+         <val lang="en_US">The given plugin's directory</val>
+      </comment>
+      <val lang="zh_CN">The given plugin's directory</val>
+   </key>
+   <key value="https_connection_error" distribution="webauthor">
+      <comment>Error shown when a problem occurs while establishing a secure HTTP connection.</comment>
+      <comment>
+         <val lang="en_US">There was a problem establishing a secure HTTPS connection to {0}. \nMore information can be
+            found at: {1}</val>
+      </comment>
+      <val lang="zh_CN">There was a problem establishing a secure HTTPS connection to {0}. \nMore information can be
+            found at: {1}</val>
+   </key>
+   <key value="Image_map_deleted_as_tracked_change">
+      <comment>Text shown when image map cannot be rendered</comment>
+      <comment>
+         <val lang="en_US">Image Map deleted as a tracked change</val>
+      </comment>
+      <val lang="zh_CN">Image Map deleted as a tracked change</val>
+   </key>
+   <key value="Error_rendering_image_map">
+      <comment>Text shown when image map cannot be rendered</comment>
+      <comment>
+         <val lang="en_US">Error rendering Image Map</val>
+      </comment>
+      <val lang="zh_CN">Error rendering Image Map</val>
+   </key>
+   <key value="Fast_text_layout">
+      <comment>Option name in the Author preferences page. The option makes Oxygen use a fast algorithm for computing
+            the text layout, but which can be not very accurate.</comment>
+      <comment>
+         <val lang="en_US">Fast text layout</val>
+      </comment>
+      <val lang="zh_CN">Fast text layout</val>
+   </key>
+   <key value="Multiple_refs_to_one_topic_warning">
+      <comment>Warning shown when the user wants to remove from the disk a topic that has several references to
+            it.</comment>
+      <comment>
+         <val lang="en_US">The selected topic is referenced in {0} other place(s).</val>
+      </comment>
+      <val lang="zh_CN">The selected topic is referenced in {0} other place(s).</val>
+   </key>
+   <key value="Multiple_refs_to_multiple_topics_warning">
+      <comment>Warning shown when the user wants to remove from the disk multiple topics, at least one of them having
+            several references to it.</comment>
+      <comment>
+         <val lang="en_US">At least one of the topics to be removed is also referenced in other places.</val>
+      </comment>
+      <val lang="zh_CN">At least one of the topics to be removed is also referenced in other places.</val>
+   </key>
+   <key value="Multiple_refs_to_topics_recommendation">
+      <comment>Recommendation shown when the user wants to remove from the disk one or more topic that have several
+            references to them.</comment>
+      <comment>
+         <val lang="en_US">It is recommended that you remove the extra references and then try again. Otherwise,
+            continuing will lead to broken links.</val>
+      </comment>
+      <val lang="zh_CN">It is recommended that you remove the extra references and then try again. Otherwise,
+            continuing will lead to broken links.</val>
+   </key>
+   <key value="Review_references">
+      <comment>Action to review a set of references to some topics.</comment>
+      <comment>
+         <val lang="en_US">Review references</val>
+      </comment>
+      <val lang="zh_CN">Review references</val>
+   </key>
+   <key value="Report_unused_elements_with_id">
+      <comment>Check box in the "Validate and Check for Completeness" dialog, used for activating the reporting of
+            elements that have IDs and are not referenced.</comment>
+      <comment>
+         <val lang="en_US">Report unreferenced reusable elements</val>
+      </comment>
+      <val lang="zh_CN">Report unreferenced reusable elements</val>
+   </key>
+   <key value="Xerces_full_xpath_checking">
+      <comment>Xerces full XPath checking option name</comment>
+      <comment>
+         <val lang="en_US">Enable full XPath 2.0 for alternative types</val>
+      </comment>
+      <val lang="zh_CN">Enable full XPath 2.0 for alternative types</val>
+   </key>
+   <key value="Templates_loading_problems">
+      <comment>Title for the templates errors dialog presenter.</comment>
+      <comment>
+         <val lang="en_US">Templates loading problems</val>
+      </comment>
+      <val lang="zh_CN">Templates loading problems</val>
+   </key>
+   <key value="Templates_could_not_be_loading">
+      <comment>Error message from the "Templates loading problems" dialog.</comment>
+      <comment>
+         <val lang="en_US">The following templates could not be loaded</val>
+      </comment>
+      <val lang="zh_CN">The following templates could not be loaded</val>
+   </key>
+   <key value="Publishing_templates_loading_errors_msg">
+      <comment>Error message displayed in the "Templates" tab when several templates could not be loaded due to some
+            loading/validation errors.</comment>
+      <comment>
+         <val lang="en_US">Some templates could not be loaded.</val>
+      </comment>
+      <val lang="zh_CN">Some templates could not be loaded.</val>
+   </key>
+   <key value="Copy_description_tooltip">
+      <comment>Tool-tip for Copy Description action from Results view.</comment>
+      <comment>
+         <val lang="en_US">Copy the description values for all selected items</val>
+      </comment>
+      <val lang="zh_CN">Copy the description values for all selected items</val>
+   </key>
+   <key value="Copy_description">
+      <comment>The name of an action from Results view.</comment>
+      <comment>
+         <val lang="en_US">Copy description</val>
+      </comment>
+      <val lang="zh_CN">Copy description</val>
+   </key>
+   <key value="Report_not_used_key_defs">
+      <comment>Option in DITA Map Completeness Check dialog.</comment>
+      <comment>
+         <val lang="en_US">Report unreferenced key definitions</val>
+      </comment>
+      <val lang="zh_CN">Report unreferenced key definitions</val>
+   </key>
+   <key value="Please_select_webhelp_responsive_template" distribution="common">
+      <comment>Informs the user that he must select a WebHelp Responsive template for the transformation
+            output.</comment>
+      <comment>
+         <val lang="en_US">You must select a template to continue.</val>
+      </comment>
+      <val lang="zh_CN">You must select a template to continue.</val>
+   </key>
+   <key value="No_attributes_to_be_extracted">
+      <comment>Error message for a conversion action.</comment>
+      <comment>
+         <val lang="en_US">There are no attributes to be extracted.</val>
+      </comment>
+      <val lang="zh_CN">There are no attributes to be extracted.</val>
+   </key>
+   <key value="Element_belongs_XSL_namespace">
+      <comment>Error message for a conversion action.</comment>
+      <comment>
+         <val lang="en_US">The "{0}" element belongs to the XSL namespace.</val>
+      </comment>
+      <val lang="zh_CN">The "{0}" element belongs to the XSL namespace.</val>
+   </key>
+   <key value="Choose_custom_publishing_template">
+      <comment>Title for the dialog allowing the user to select a custom Publishing Template.</comment>
+      <comment>
+         <val lang="en_US">Choose Custom Publishing Template</val>
+      </comment>
+      <val lang="zh_CN">Choose Custom Publishing Template</val>
+   </key>
+   <key value="Oxygen_publishing_template">
+      <comment/>
+      <comment>
+         <val lang="en_US">Oxygen Publishing Template</val>
+      </comment>
+      <val lang="zh_CN">Oxygen Publishing Template</val>
+   </key>
+   <key value="Template_file">
+      <comment>Label for the Publishing Template descriptor file location.</comment>
+      <comment>
+         <val lang="en_US">Template file</val>
+      </comment>
+      <val lang="zh_CN">Template file</val>
+   </key>
+   <key value="Configure_publishing_templates_gallery">
+      <comment>Link to the Option page that allows the user to configure the Publishing Templates Gallery</comment>
+      <comment>
+         <val lang="en_US">Configure Publishing Templates Gallery</val>
+      </comment>
+      <val lang="zh_CN">Configure Publishing Templates Gallery</val>
+   </key>
+   <key value="Publishing" distribution="common">
+      <comment>The name of the options page that contains publishing related settings.</comment>
+      <comment>
+         <val lang="en_US">Publishing</val>
+      </comment>
+      <val lang="zh_CN">Publishing</val>
+   </key>
+   <key value="Additional_Publishing_Templates_Galleries">
+      <comment>Section in Options that allows the user to configure additional locations which should be scanned for
+            Publishing Templates.</comment>
+      <comment>
+         <val lang="en_US">Additional Publishing Templates Galleries</val>
+      </comment>
+      <val lang="zh_CN">Additional Publishing Templates Galleries</val>
+   </key>
+   <key value="Read_more_about_publishing_templates">
+      <comment>Link to the topic describing the Publishing Templates in the User Manual</comment>
+      <comment>
+         <val lang="en_US">Read more about Oxygen Publishing Templates</val>
+      </comment>
+      <val lang="zh_CN">Read more about Oxygen Publishing Templates</val>
+   </key>
+   <key value="Choose_publishing_template_gallery_directory">
+      <comment>Title for the Directory Chooser dialog that allows the user to select a folder representing a
+            Publishing Templates Gallery.</comment>
+      <comment>
+         <val lang="en_US">Choose Publishing Template Gallery Directory</val>
+      </comment>
+      <val lang="zh_CN">Choose Publishing Template Gallery Directory</val>
+   </key>
+   <key value="Convert_xsl_attributes_to_attributes" distribution="common">
+      <comment>Stylesheet rename. Convert the xsl:attributes of a non-xsl element to inner attribute</comment>
+      <comment>
+         <val lang="en_US">Convert xsl:attributes to attributes</val>
+      </comment>
+      <val lang="zh_CN">Convert xsl:attributes to attributes</val>
+   </key>
+   <key value="Convert_xsl_attributes_to_attributes_description"
+        distribution="common">
+      <comment>Stylesheet rename. Convert the xsl:attributes of a non-xsl element to inner attribute</comment>
+      <comment>
+         <val lang="en_US">Convert the xsl:attributes of the current element to inner attributes</val>
+      </comment>
+      <val lang="zh_CN">Convert the xsl:attributes of the current element to inner attributes</val>
+   </key>
+   <key value="Incompatible_XSLT_version_warning">
+      <comment>Incompatible XSLT version warning. {0} = the newer version of the stylesheet (for example: "2.0") {1} =
+            the older version of the stylesheet (for example: "1.0") </comment>
+      <comment>
+         <val lang="en_US">Your stylesheet is version {0}, but you chose an XSLT processor that only supports version
+            {1}. \nIf you continue, some of the XSLT {0} features will not be supported.</val>
+      </comment>
+      <val lang="zh_CN">Your stylesheet is version {0}, but you chose an XSLT processor that only supports version
+            {1}. \nIf you continue, some of the XSLT {0} features will not be supported.</val>
+   </key>
+   <key value="Incompatible_XSLT_version_transformation_recommendation">
+      <comment>'Incompatible XSLT version' recommendation when transformations are involved. It is aimed to be used as
+            a continuation of the message above. {0} = the name of the XSLT processor (e.g. "Saxon"), followed by an
+            enumeration consisting of some processor version mnemonics (e.g. "HE/PE/EE", as a technical shortcut for
+            "Home or Professional or Enterprise Edition"). </comment>
+      <comment>
+         <val lang="en_US">It is recommended that you choose the {0} processor when configuring the transformation
+            scenario.</val>
+      </comment>
+      <val lang="zh_CN">It is recommended that you choose the {0} processor when configuring the transformation
+            scenario.</val>
+   </key>
+   <key value="Incompatible_XSLT_version_debugger_recommendation">
+      <comment>'Incompatible XSLT version' recommendation when the XSLT debugger is involved. It is aimed to be used
+            as a continuation of the message with the key value = 'Incompatible_XSLT_version_warning', from above. {0} =
+            the name of the XSLT processor (e.g. "Saxon"), followed by an enumeration consisting of some processor
+            version mnemonics (e.g. "HE/PE/EE", as a technical shortcut for "Home or Professional or Enterprise
+            Edition"). </comment>
+      <comment>
+         <val lang="en_US">It is recommended that you choose the {0} processor in the Debugger Engine toolbar
+            option.</val>
+      </comment>
+      <val lang="zh_CN">It is recommended that you choose the {0} processor in the Debugger Engine toolbar
+            option.</val>
+   </key>
+   <key distribution="common" value="Enable_optimizations">
+      <comment>Option name in Saxon HE/PE/EE Preferences page from XSLT and XQuery options</comment>
+      <comment>
+         <val lang="en_US">Enable optimizations</val>
+      </comment>
+      <val lang="zh_CN">Enable optimizations</val>
+   </key>
+   <key value="Do_you_want_to_continue_anyway">
+      <comment>Message of type "Asking for confirmation".</comment>
+      <comment>
+         <val lang="en_US">Do you want to continue anyway?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to continue anyway?</val>
+   </key>
+   <key value="DITA_only">
+      <comment>Label suffix used to imply that an option applies only for DITA.</comment>
+      <comment>
+         <val lang="en_US">DITA only</val>
+      </comment>
+      <val lang="zh_CN">DITA only</val>
+   </key>
+   <key value="Duplicate_lines_down">
+      <comment>Name of an action from the Source (contextual) menu.</comment>
+      <comment>
+         <val lang="en_US">Duplicate Lines Down</val>
+      </comment>
+      <val lang="zh_CN">Duplicate Lines Down</val>
+   </key>
+   <key value="Duplicate_lines_up">
+      <comment>Name of an action from the Source (contextual) menu.</comment>
+      <comment>
+         <val lang="en_US">Duplicate Lines Up</val>
+      </comment>
+      <val lang="zh_CN">Duplicate Lines Up</val>
+   </key>
+   <key value="Schematron_version">
+      <comment>Message within the New wizard (the page of customizing the Schematron editor).</comment>
+      <comment>
+         <val lang="en_US">Schematron version</val>
+      </comment>
+      <val lang="zh_CN">Schematron version</val>
+   </key>
+   <key value="Following_problems_fixed_in_build_description_in_english"
+        skipTranslation="true">
+      <comment> Message in the Version Checker dialog. It is followed by a list of build notes taken directly from our
+            site, with content in English. The list is dynamically built and the build notes are changed/updated
+            periodically, so they remain untranslated. </comment>
+      <comment>
+         <val lang="en_US">The following problems were fixed in this build</val>
+      </comment>
+      <val lang="zh_CN">The following problems were fixed in this build</val>
+   </key>
+   <key value="Follow_link_to_download_latest_maintenance_build">
+      <comment> Message in the Version Checker dialog. The 1st parameter represents the HTML start tag for bold text;
+            it should be simply ignored; see also the NOTE below. The 2nd parameter represents the name of the
+            product/application (e.g. "Oxygen XML Author", or "Oxygen Content Fusion", and so on). The 3rd parameter
+            represents the HTML tag for "no-breaking-space"; it should be also ignored; see the NOTE below. The 4th
+            parameter represents the product/application version ID (e.g. "19" or "19.1, and so on"). The 5th parameter
+            represents the HTML end tag for bold text; it should be ignored, too; see the NOTE below. NOTE:
+            {0}[1}{2}{3}{4} actually builds a structure of the form: "applicationName version" that's intended to appear
+            as bold text. </comment>
+      <comment>
+         <val lang="en_US">To download the latest {0}{1}{2}{3}{4} go to</val>
+      </comment>
+      <val lang="zh_CN">To download the latest {0}{1}{2}{3}{4} go to</val>
+   </key>
+   <key value="Build_id">
+      <comment>Message in the Version Checker dialog. ID is an alphanumeric identifier for a maintenance
+            build</comment>
+      <comment>
+         <val lang="en_US">Build ID</val>
+      </comment>
+      <val lang="zh_CN">Build ID</val>
+   </key>
+   <key value="New_maintenance_build_available">
+      <comment> Message in the Version Checker dialog. The parameter represents the product/application version ID
+            (e.g. "19" or "19.1, and so on"). </comment>
+      <comment>
+         <val lang="en_US">A new maintenance build is available for version {0}</val>
+      </comment>
+      <val lang="zh_CN">A new maintenance build is available for version {0}</val>
+   </key>
+   <key value="Current_license_key_can_be_used_with_this_release">
+      <comment>Message in the Version Checker dialog.</comment>
+      <comment>
+         <val lang="en_US">Your current license key can be used with this release.</val>
+      </comment>
+      <val lang="zh_CN">Your current license key can be used with this release.</val>
+   </key>
+   <key value="Frequently_asked_questions">
+      <comment>Message in the Version Checker dialog.</comment>
+      <comment>
+         <val lang="en_US">Frequently Asked Questions</val>
+      </comment>
+      <val lang="zh_CN">Frequently Asked Questions</val>
+   </key>
+   <key value="Link_for_more_sales_related_information">
+      <comment>Message in the Version Checker dialog.</comment>
+      <comment>
+         <val lang="en_US">For more sales related information go to</val>
+      </comment>
+      <val lang="zh_CN">For more sales related information go to</val>
+   </key>
+   <key value="License_status">
+      <comment>Message in the Version Checker dialog.</comment>
+      <comment>
+         <val lang="en_US">License status</val>
+      </comment>
+      <val lang="zh_CN">License status</val>
+   </key>
+   <key value="Download_version">
+      <comment> Message in the Version Checker dialog. The parameter represents the product/application version ID
+            (e.g. "19" or "19.1, and so on"). </comment>
+      <comment>
+         <val lang="en_US">Download version {0}</val>
+      </comment>
+      <val lang="zh_CN">Download version {0}</val>
+   </key>
+   <key value="What_was_new_in_version">
+      <comment> Message in the Version Checker dialog. The parameter represents the product/application version ID
+            (e.g. "19" or "19.1, and so on"). </comment>
+      <comment>
+         <val lang="en_US">What was new in version {0}</val>
+      </comment>
+      <val lang="zh_CN">What was new in version {0}</val>
+   </key>
+   <key value="What_is_new_in_version">
+      <comment> Message in the Version Checker dialog. The parameter represents the product/application version ID
+            (e.g. "19" or "19.1, and so on"). </comment>
+      <comment>
+         <val lang="en_US">What is new in version {0}</val>
+      </comment>
+      <val lang="zh_CN">What is new in version {0}</val>
+   </key>
+   <key value="App_latest_version_released">
+      <comment> Message in the Version Checker dialog. The first parameter represents the name of the
+            product/application (e.g. "Oxygen XML Author", or "Oxygen Content Fusion", and so on). The second parameter
+            represents the product/application version ID (e.g. "19" or "19.1, and so on"). </comment>
+      <comment>
+         <val lang="en_US">{0} {1} was released</val>
+      </comment>
+      <val lang="zh_CN">{0} {1} was released</val>
+   </key>
+   <key value="App_new_version_available">
+      <comment> Message in the Version Checker dialog. The first parameter represents the name of the
+            product/application (e.g. "Oxygen XML Author", or "Oxygen Content Fusion", and so on). The second parameter
+            represents the product/application version ID (e.g. "19" or "19.1, and so on"). </comment>
+      <comment>
+         <val lang="en_US">{0} {1} is available</val>
+      </comment>
+      <val lang="zh_CN">{0} {1} is available</val>
+   </key>
+   <key value="File_name_suffix">
+      <comment>The file name suffix for the generated XML instance.</comment>
+      <comment>
+         <val lang="en_US">File name suffix</val>
+      </comment>
+      <val lang="zh_CN">File name suffix</val>
+   </key>
+   <key value="Reusable_components_filter_tooltip">
+      <comment>Tooltip for the text filter from the "Reusable Components" view.</comment>
+      <comment>
+         <val lang="en_US">Use wildcards (? for any character, * for any string) or boolean operators (AND, OR,
+            NOT)\nExample: *dog OR "cat"</val>
+      </comment>
+      <val lang="zh_CN">Use wildcards (? for any character, * for any string) or boolean operators (AND, OR,
+            NOT)\nExample: *dog OR "cat"</val>
+   </key>
+   <key value="Show_more_items">
+      <comment>Name of a link action which presents more actions in the Components tab.</comment>
+      <comment>
+         <val lang="en_US">Show more items...</val>
+      </comment>
+      <val lang="zh_CN">Show more items...</val>
+   </key>
+   <key value="Development">
+      <comment>Development license kind.</comment>
+      <comment>
+         <val lang="en_US">Development</val>
+      </comment>
+      <val lang="zh_CN">Development</val>
+   </key>
+   <key value="Invalid_pattern">
+      <comment>Tooltip for the text filter from the "Reusable Components" view which appears when the filter
+            expression is invalid.</comment>
+      <comment>
+         <val lang="en_US">Invalid pattern</val>
+      </comment>
+      <val lang="zh_CN">Invalid pattern</val>
+   </key>
+   <key value="Target_files_hint">
+      <comment>Label from the "Reusable Components" view. It's associated with a combo from which the user can
+            restrict the files from which the components are collected.</comment>
+      <comment>
+         <val lang="en_US">You can use wildcards: {0}</val>
+      </comment>
+      <val lang="zh_CN">You can use wildcards: {0}</val>
+   </key>
+   <key value="Use_filter_to_search_all_comps">
+      <comment>Label from the "Reusable Components" view, which is presented to the user when more than 200 documents
+            are available and we present only 200.</comment>
+      <comment>
+         <val lang="en_US">Use the filter to search through all the components.</val>
+      </comment>
+      <val lang="zh_CN">Use the filter to search through all the components.</val>
+   </key>
+   <key value="Active_profiling_condition_set">
+      <comment>Description of the ${activeConditionSet} editor variable.</comment>
+      <comment>
+         <val lang="en_US">The name of the current active condition set.</val>
+      </comment>
+      <val lang="zh_CN">The name of the current active condition set.</val>
+   </key>
+   <key distribution="webauthor" value="resource_not_found">
+      <comment>Error message displayed when the document the user is tryng to load is not found.</comment>
+      <comment>
+         <val lang="en_US">The resource could not be found</val>
+      </comment>
+      <val lang="zh_CN">The resource could not be found</val>
+   </key>
+   <key distribution="license-servlet" value="CannotConfigureSameUsername">
+      <comment>Message informing the users that the administrator and standard users defined cannot have the same
+            username.</comment>
+      <comment>
+         <val lang="en_US">Cannot use the same username for both the administrator and standard user roles.</val>
+      </comment>
+      <val lang="zh_CN">Cannot use the same username for both the administrator and standard user roles.</val>
+   </key>
+   <key distribution="webauthor" value="Uploaded_File_Too_Large">
+      <comment>Error message that the uploaded file size exceeded the server's maximum size.</comment>
+      <comment>
+         <val lang="en_US">The file you are trying to upload is too large. You can contact the server administrator to
+            increase the maximum allowed upload size.</val>
+      </comment>
+      <val lang="zh_CN">The file you are trying to upload is too large. You can contact the server administrator to
+            increase the maximum allowed upload size.</val>
+   </key>
+   <key value="Enable_File_Comparison_In_Author_Mode">
+      <comment>The name of an option from the Diff &gt; File Comparison page in Preferences.</comment>
+      <comment>
+         <val lang="en_US">Enable file comparison in Author mode</val>
+      </comment>
+      <val lang="zh_CN">Enable file comparison in Author mode</val>
+   </key>
+   <key value="File_Focus_Results_Tooltip">
+      <comment>Tooltip for action which moves the focus to the results view which shows errors, warnings,
+            etc.</comment>
+      <comment>
+         <val lang="en_US">Move focus to the Results view</val>
+      </comment>
+      <val lang="zh_CN">Move focus to the Results view</val>
+   </key>
+   <key value="File_Focus_Results">
+      <comment>Action which moves the focus to the results view which shows errors, warnings, etc.</comment>
+      <comment>
+         <val lang="en_US">Focus Results</val>
+      </comment>
+      <val lang="zh_CN">Focus Results</val>
+   </key>
+   <key value="Reusable_components_hint_root_map">
+      <comment>Informs the user about the current DITA root map.</comment>
+      <comment>
+         <val lang="en_US">The current root map is: {0}.</val>
+      </comment>
+      <val lang="zh_CN">The current root map is: {0}.</val>
+   </key>
+   <key value="Reusable_components_hint_collect">
+      <comment>Informs the user about how reusable components are collected. An example will follow this
+            phrase.</comment>
+      <comment>
+         <val lang="en_US">Reusable components are gathered from the topics referred as "resource-only" in the current
+            root map.</val>
+      </comment>
+      <val lang="zh_CN">Reusable components are gathered from the topics referred as "resource-only" in the current
+            root map.</val>
+   </key>
+   <key value="Reusable_components_hint_api_root_map">
+      <comment>Informs the user that the current DITA root map is imposed externally, through our API. Because of that
+            we can't collect reusable components.</comment>
+      <comment>
+         <val lang="en_US">Reusable components cannot be gathered when the the root map is specified by: {0}.</val>
+      </comment>
+      <val lang="zh_CN">Reusable components cannot be gathered when the the root map is specified by: {0}.</val>
+   </key>
+   <key value="Reusable_components_hint_nothing_detected">
+      <comment>No reusable components detected.</comment>
+      <comment>
+         <val lang="en_US">No reusable components detected.</val>
+      </comment>
+      <val lang="zh_CN">No reusable components detected.</val>
+   </key>
+   <key value="Reusable_components_hint_file_filter_no_hit">
+      <comment>Message presented when there are no files that match the current file filter.</comment>
+      <comment>
+         <val lang="en_US">There are no reusable topics that match: {0}.</val>
+      </comment>
+      <val lang="zh_CN">There are no reusable topics that match: {0}.</val>
+   </key>
+   <key value="Reusable_components_hint_detected_topics">
+      <comment>The detected reusable topics.</comment>
+      <comment>
+         <val lang="en_US">Topics with reusable components:</val>
+      </comment>
+      <val lang="zh_CN">Topics with reusable components:</val>
+   </key>
+   <key value="Format_and_indent_options" distribution="common">
+      <comment>Link to some formatting and indenting options from other options pages than the one where it
+            appears.</comment>
+      <comment>
+         <val lang="en_US">Format and indent options</val>
+      </comment>
+      <val lang="zh_CN">Format and indent options</val>
+   </key>
+   <key value="Also_format_and_indent_as_for_text_mode" distribution="common">
+      <comment>Author editing mode specific option to format and indent the document by also applying the options that
+            apply for the Text editing mode, beside the ones specific to the Author mode.</comment>
+      <comment>
+         <val lang="en_US">Also apply the format and indent options that are set for Text mode</val>
+      </comment>
+      <val lang="zh_CN">Also apply the format and indent options that are set for Text mode</val>
+   </key>
+   <key value="String_constructor">
+      <comment>String constructor. For XQuery 3.1</comment>
+      <comment>
+         <val lang="en_US">String Constructor</val>
+      </comment>
+      <val lang="zh_CN">String Constructor</val>
+   </key>
+   <key value="Report_duplicate_key_defs">
+      <comment>Checkbox enabled when end user wants the validation to report duplicate defined DITA Keys.</comment>
+      <comment>
+         <val lang="en_US">Report duplicate key definitions</val>
+      </comment>
+      <val lang="zh_CN">Report duplicate key definitions</val>
+   </key>
+   <key value="Component_dependencies_view_info_message">
+      <comment>Information displayed in the Components Dependencies view when having no explicit information to
+            display.</comment>
+      <comment>
+         <val lang="en_US">To display the dependencies for a component you can use "{0}" action from the editor''s
+            contextual menu.\n \nThe action is available for the following content types: XML, XSD, RNG, NVDL, XSL, Ant,
+            and WSDL.</val>
+      </comment>
+      <val lang="zh_CN">To display the dependencies for a component you can use "{0}" action from the editor''s
+            contextual menu.\n \nThe action is available for the following content types: XML, XSD, RNG, NVDL, XSL, Ant,
+            and WSDL.</val>
+   </key>
+   <key value="Modification_failed_due_to">
+      <comment>Error message which signals that the document could not be modified because of a problem mentioned in
+            the same message.</comment>
+      <comment>
+         <val lang="en_US">Modification failed due to: {0}</val>
+      </comment>
+      <val lang="zh_CN">Modification failed due to: {0}</val>
+   </key>
+   <key value="JSON_to_XML_action_eclipse" distribution="eclipse">
+      <comment>The text of the 'JSON to XML' action from the 'XML Tools' menu (Eclipse).</comment>
+      <comment>
+         <val lang="en_US">JSON to XML...</val>
+      </comment>
+      <val lang="zh_CN">JSON to XML...</val>
+   </key>
+   <key value="JSON_to_XML" distribution="common">
+      <comment>Name of the action that does the conversion from JSON format to XML one. It is the name of the
+            corresponding dialog too.</comment>
+      <comment>
+         <val lang="en_US">JSON to XML</val>
+      </comment>
+      <val lang="zh_CN">JSON to XML</val>
+   </key>
+   <key value="Missing_file">
+      <comment>Title of the dialog shown when a file opened in editor is not found in the file system.</comment>
+      <comment>
+         <val lang="en_US">Missing File</val>
+      </comment>
+      <val lang="zh_CN">Missing File</val>
+   </key>
+   <key value="Ended_action">
+      <comment>Message shown when an action was ended (the parameter is the action name).</comment>
+      <comment>
+         <val lang="en_US">Ended {0}</val>
+      </comment>
+      <val lang="zh_CN">Ended {0}</val>
+   </key>
+   <key value="XML_catalogs_list_description">
+      <comment>Description label for an editor variable which can return a list of known XML catalogs.</comment>
+      <comment>
+         <val lang="en_US">A list of file paths that point to all known XML catalog files, separated by semi-colons
+            (;)</val>
+      </comment>
+      <val lang="zh_CN">A list of file paths that point to all known XML catalog files, separated by semi-colons
+            (;)</val>
+   </key>
+   <key value="RNG_Skip_data_attrs">
+      <comment>Ignore XML attributes which have the name starting with "data-" when validating XHTML documents using
+            RelaxNG</comment>
+      <comment>
+         <val lang="en_US">Ignore "data-" attributes in XHTML</val>
+      </comment>
+      <val lang="zh_CN">Ignore "data-" attributes in XHTML</val>
+   </key>
+   <key value="Processed_resources">
+      <comment>Status label indicating the amount of processed resources.</comment>
+      <comment>
+         <val lang="en_US">Processed resources: {0}</val>
+      </comment>
+      <val lang="zh_CN">Processed resources: {0}</val>
+   </key>
+   <key value="Gathering_resources">
+      <comment>Status label indicating that the application is gathering all the necessary resources.</comment>
+      <comment>
+         <val lang="en_US">Gathering resources...</val>
+      </comment>
+      <val lang="zh_CN">Gathering resources...</val>
+   </key>
+   <key value="Components">
+      <comment>Name of the tab from DITA Reusable Components, that presents the topics with IDs.</comment>
+      <comment>
+         <val lang="en_US">Components</val>
+      </comment>
+      <val lang="zh_CN">Components</val>
+   </key>
+   <key value="Include_file_paths">
+      <comment>Name of a control within the 'Switch editor tab' dialog.</comment>
+      <comment>
+         <val lang="en_US">Include file paths</val>
+      </comment>
+      <val lang="zh_CN">Include file paths</val>
+   </key>
+   <key value="Match_all_terms">
+      <comment>Name of a control within the 'Switch editor tab' dialog.</comment>
+      <comment>
+         <val lang="en_US">Match all terms</val>
+      </comment>
+      <val lang="zh_CN">Match all terms</val>
+   </key>
+   <key value="Switch_editor_tab">
+      <comment>Name of an action and of the corresponding dialog.</comment>
+      <comment>
+         <val lang="en_US">Switch editor tab</val>
+      </comment>
+      <val lang="zh_CN">Switch editor tab</val>
+   </key>
+   <key value="Cell_overlaps_one_or_more_previuos_cells">
+      <comment>Table validation error message. A cell overlaps one or more cells</comment>
+      <comment>
+         <val lang="en_US">This cell overlaps one or more previous cells</val>
+      </comment>
+      <val lang="zh_CN">This cell overlaps one or more previous cells</val>
+   </key>
+   <key value="Column_numbering_is_incorrect">
+      <comment>Table validation warning message</comment>
+      <comment>
+         <val lang="en_US">The columns should be assigned consecutive numbers</val>
+      </comment>
+      <val lang="zh_CN">The columns should be assigned consecutive numbers</val>
+   </key>
+   <key value="New_topics" distribution="common">
+      <comment>Preferences page name.</comment>
+      <comment>
+         <val lang="en_US">New Topics</val>
+      </comment>
+      <val lang="zh_CN">New Topics</val>
+   </key>
+   <key value="New_topics_preferences">
+      <comment>Text for the tooltip of a button leading to a preferences page.</comment>
+      <comment>
+         <val lang="en_US">New topics preferences</val>
+      </comment>
+      <val lang="zh_CN">New topics preferences</val>
+   </key>
+   <key value="Duplicate_column_number">
+      <comment>Table validation error. Column spec have same column number</comment>
+      <comment>
+         <val lang="en_US">Duplicate column number "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Duplicate column number "{0}"</val>
+   </key>
+   <key value="Column_numbering_should_begin_from_one">
+      <comment>Table colspec validation message. Colspec's numbering is 1 based.</comment>
+      <comment>
+         <val lang="en_US">Column numbering should begin from 1</val>
+      </comment>
+      <val lang="zh_CN">Column numbering should begin from 1</val>
+   </key>
+   <key value="Cell_overflows_specified_column_count">
+      <comment>Table validation message regarding the overflow of specified columns number.</comment>
+      <comment>
+         <val lang="en_US">Table cell overflows the specified columns count</val>
+      </comment>
+      <val lang="zh_CN">Table cell overflows the specified columns count</val>
+   </key>
+   <key value="Duplicate_column_name">
+      <comment>Table validation message informing about duplicate column names.</comment>
+      <comment>
+         <val lang="en_US">Duplicate column name "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Duplicate column name "{0}"</val>
+   </key>
+   <key value="Use_associated_XML_Schema_to_expand_default_attributes">
+      <comment>Checkbox which enables using information from the associated XML Schema to expand default attribute
+            values.</comment>
+      <comment>
+         <val lang="en_US">Use associated XML Schema to expand default attribute values</val>
+      </comment>
+      <val lang="zh_CN">Use associated XML Schema to expand default attribute values</val>
+   </key>
+   <key value="Dita_ot_errors">
+      <comment>Option from the "Logging" option page.</comment>
+      <comment>
+         <val lang="en_US">DITA-OT errors</val>
+      </comment>
+      <val lang="zh_CN">DITA-OT errors</val>
+   </key>
+   <key value="Dita_ot_warns">
+      <comment>Option from the "Logging" option page.</comment>
+      <comment>
+         <val lang="en_US">DITA-OT warnings</val>
+      </comment>
+      <val lang="zh_CN">DITA-OT warnings</val>
+   </key>
+   <key value="Dita_ot_info">
+      <comment>Option from the "Logging" option page.</comment>
+      <comment>
+         <val lang="en_US">DITA-OT info</val>
+      </comment>
+      <val lang="zh_CN">DITA-OT info</val>
+   </key>
+   <key value="Fop_errors">
+      <comment>Option from the "Logging" option page.</comment>
+      <comment>
+         <val lang="en_US">FOP errors</val>
+      </comment>
+      <val lang="zh_CN">FOP errors</val>
+   </key>
+   <key value="Fop_warns">
+      <comment>Option from the "Logging" option page.</comment>
+      <comment>
+         <val lang="en_US">FOP warnings</val>
+      </comment>
+      <val lang="zh_CN">FOP warnings</val>
+   </key>
+   <key value="Fop_info">
+      <comment>Option from the "Logging" option page.</comment>
+      <comment>
+         <val lang="en_US">FOP info</val>
+      </comment>
+      <val lang="zh_CN">FOP info</val>
+   </key>
+   <key value="Xslt_problems">
+      <comment>Option from the "Logging" option page.</comment>
+      <comment>
+         <val lang="en_US">XSLT problems</val>
+      </comment>
+      <val lang="zh_CN">XSLT problems</val>
+   </key>
+   <key value="Show_following_types_msgs_in_tab">
+      <comment>Label used inthe "DITA Logging" option page.</comment>
+      <comment>
+         <val lang="en_US">Show the following types of messages in a new tab</val>
+      </comment>
+      <val lang="zh_CN">Show the following types of messages in a new tab</val>
+   </key>
+   <key value="Cell_overlaps_previous_cell">
+      <comment>Validation message in tables when the highlighted cell overflows previous cell.</comment>
+      <comment>
+         <val lang="en_US">This cell overlaps previous cell.</val>
+      </comment>
+      <val lang="zh_CN">This cell overlaps previous cell.</val>
+   </key>
+   <key value="Only_selected_content">
+      <comment>This is a find option. The search is done only on selected text content. </comment>
+      <comment>
+         <val lang="en_US">Only selected content</val>
+      </comment>
+      <val lang="zh_CN">Only selected content</val>
+   </key>
+   <key value="Visual_order">
+      <comment>Label of a radio button related to the 'Order of switching between editor tabs' global
+            preference.</comment>
+      <comment>
+         <val lang="en_US">Visual order</val>
+      </comment>
+      <val lang="zh_CN">Visual order</val>
+   </key>
+   <key value="Recently_used_order">
+      <comment>Label of a radio button related to the 'Order of switching between editor tabs' global
+            preference.</comment>
+      <comment>
+         <val lang="en_US">Recently used order</val>
+      </comment>
+      <val lang="zh_CN">Recently used order</val>
+   </key>
+   <key value="Order_of_switching_between_editor_tabs">
+      <comment>Message of an option in global preferences.</comment>
+      <comment>
+         <val lang="en_US">Order of switching between editor tabs</val>
+      </comment>
+      <val lang="zh_CN">Order of switching between editor tabs</val>
+   </key>
+   <key value="All_attributes">
+      <comment> Label used in "Insert Reference" dialog (Attributes section).</comment>
+      <comment>
+         <val lang="en_US">All attributes</val>
+      </comment>
+      <val lang="zh_CN">All attributes</val>
+   </key>
+   <key value="File_is_missing_message">
+      <comment>Dialog message to inform user the file opened in editor is missing. </comment>
+      <comment>
+         <val lang="en_US">The following file no longer exists in the file system:\n{0}</val>
+      </comment>
+      <val lang="zh_CN">The following file no longer exists in the file system:\n{0}</val>
+   </key>
+   <key value="File_is_missing_keep_open">
+      <comment>Dialog message to inform user the file opened in editor is missing. </comment>
+      <comment>
+         <val lang="en_US">The following file no longer exists in the file system:\n{0}\n\nKeep it open in the
+            editor?</val>
+      </comment>
+      <val lang="zh_CN">The following file no longer exists in the file system:\n{0}\n\nKeep it open in the
+            editor?</val>
+   </key>
+   <key value="Open_merged_files">
+      <comment>Check box in the merge dialog panel.</comment>
+      <comment>
+         <val lang="en_US">Open merged files</val>
+      </comment>
+      <val lang="zh_CN">Open merged files</val>
+   </key>
+   <key value="Someone_is_currently_editing">
+      <comment>Warning message saying that another (unknown) user is editing the document.</comment>
+      <comment>
+         <val lang="en_US">Someone else is currently editing this file and thus, it was opened as read-only.</val>
+      </comment>
+      <val lang="zh_CN">Someone else is currently editing this file and thus, it was opened as read-only.</val>
+   </key>
+   <key value="User_is_currently_editing">
+      <comment>Warning message saying that another (known) user is editing the document.</comment>
+      <comment>
+         <val lang="en_US">{0} is currently editing this file and thus, it was opened as read-only.</val>
+      </comment>
+      <val lang="zh_CN">{0} is currently editing this file and thus, it was opened as read-only.</val>
+   </key>
+   <key value="Open_item">
+      <comment>Action used to open a specific item (may be an URL, a file name, the name of a GUI component,
+            etc.)</comment>
+      <comment>
+         <val lang="en_US">Open {0}</val>
+      </comment>
+      <val lang="zh_CN">Open {0}</val>
+   </key>
+   <key value="Root_map_file_path">
+      <comment>Description of the ${rootMapFile} editor variable.</comment>
+      <comment>
+         <val lang="en_US">The current root map file path</val>
+      </comment>
+      <val lang="zh_CN">The current root map file path</val>
+   </key>
+   <key value="Root_map_dir_path">
+      <comment>Description of the ${rootMapDir} editor variable.</comment>
+      <comment>
+         <val lang="en_US">The current root map directory</val>
+      </comment>
+      <val lang="zh_CN">The current root map directory</val>
+   </key>
+   <key value="Root_map_url">
+      <comment>Description of the ${rootMapURL} editor variable.</comment>
+      <comment>
+         <val lang="en_US">The current root map URL</val>
+      </comment>
+      <val lang="zh_CN">The current root map URL</val>
+   </key>
+   <key value="Root_map_dir_url">
+      <comment>Description of the ${rootMapDirURL} editor variable.</comment>
+      <comment>
+         <val lang="en_US">The current root map directory URL</val>
+      </comment>
+      <val lang="zh_CN">The current root map directory URL</val>
+   </key>
+   <key value="Quick_fix_assist_stripe_tooltip">
+      <comment>Tooltip for the quick fix / assist stripe.</comment>
+      <comment>
+         <val lang="en_US">Quick Fix/Assist proposals</val>
+      </comment>
+      <val lang="zh_CN">Quick Fix/Assist proposals</val>
+   </key>
+   <key value="Quick_fix_assist_composed">
+      <comment>Quick fix/assist composed action.</comment>
+      <comment>
+         <val lang="en_US">Quick Fix/Assist</val>
+      </comment>
+      <val lang="zh_CN">Quick Fix/Assist</val>
+   </key>
+   <key value="Document_not_saved_yet">
+      <comment>Tooltip visible when hovering the editor tabs corresponding to newly created documents, not saved yet
+            on disk.</comment>
+      <comment>
+         <val lang="en_US">Document not saved yet.</val>
+      </comment>
+      <val lang="zh_CN">Document not saved yet.</val>
+   </key>
+   <key value="Find_replace_in_file_pattern_tooltip">
+      <comment>Tooltip for file replace in files dialog accepted patterns.</comment>
+      <comment>
+         <val lang="en_US">The patterns are comma separated, where * = any string, ? = any character, !x = exclude
+            x.</val>
+      </comment>
+      <val lang="zh_CN">The patterns are comma separated, where * = any string, ? = any character, !x = exclude
+            x.</val>
+   </key>
+   <key value="All_available_sites">
+      <comment>Option in the Install New Add-ons Wizard. By selecting it, we will detect the add-ons published on all
+            configured update sites URLs. The entry appears like so: --All Available Sites--</comment>
+      <comment>
+         <val lang="en_US">All Available Sites</val>
+      </comment>
+      <val lang="zh_CN">All Available Sites</val>
+   </key>
+   <key value="Default_update_site">
+      <comment>In Install new add-ons dialog, show this label instead of default update site link.</comment>
+      <comment>
+         <val lang="en_US">Default Update Site</val>
+      </comment>
+      <val lang="zh_CN">Default Update Site</val>
+   </key>
+   <key value="Community_update_site">
+      <comment>In Install new add-ons dialog, show this label instead of community update site link.</comment>
+      <comment>
+         <val lang="en_US">Community Update Site</val>
+      </comment>
+      <val lang="zh_CN">Community Update Site</val>
+   </key>
+   <key value="Ant_build">
+      <comment>Ant build</comment>
+      <comment>
+         <val lang="en_US">Ant Build</val>
+      </comment>
+      <val lang="zh_CN">Ant Build</val>
+   </key>
+   <key value="Dita_resource">
+      <comment>DITA resource (map, topic, task, etc.).</comment>
+      <comment>
+         <val lang="en_US">DITA Resource</val>
+      </comment>
+      <val lang="zh_CN">DITA Resource</val>
+   </key>
+   <key value="Schematron_schema">
+      <comment>The name of a schema for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Schematron Schema</val>
+      </comment>
+      <val lang="zh_CN">Schematron Schema</val>
+   </key>
+   <key value="Unconfigured_REST_server_url"
+        distribution="webauthor"
+        plugin="rest-connector">
+      <comment>Error message informing the user that the REST Server url option is not set</comment>
+      <comment>
+         <val lang="en_US">The REST server URL option is not set.</val>
+      </comment>
+      <val lang="zh_CN">The REST server URL option is not set.</val>
+   </key>
+   <key value="Could_not_delete_license_properties_file"
+        distribution="webauthor">
+      <comment>Error message informing the user that the REST Server url option is not set</comment>
+      <comment>
+         <val lang="en_US">Could not delete the existing license properties file.</val>
+      </comment>
+      <val lang="zh_CN">Could not delete the existing license properties file.</val>
+   </key>
+   <key value="Set_merge_action">
+      <comment>Sub-menu name in the 3-way directories comparison dialog</comment>
+      <comment>
+         <val lang="en_US">Set merge action</val>
+      </comment>
+      <val lang="zh_CN">Set merge action</val>
+   </key>
+   <key value="FOLLOWING_SIBLINGS">
+      <comment>Type of an insertion relative to an selected node.</comment>
+      <comment>
+         <val lang="en_US">Following Sibling</val>
+      </comment>
+      <val lang="zh_CN">Following Sibling</val>
+   </key>
+   <key value="PRECEDING_SIBLINGS">
+      <comment>Type of an insertion relative to an selected node.</comment>
+      <comment>
+         <val lang="en_US">Preceding Sibling</val>
+      </comment>
+      <val lang="zh_CN">Preceding Sibling</val>
+   </key>
+   <key value="LAST_CHILDREN">
+      <comment>Type of an insertion relative to an selected node.</comment>
+      <comment>
+         <val lang="en_US">Last Child</val>
+      </comment>
+      <val lang="zh_CN">Last Child</val>
+   </key>
+   <key value="FIRST_CHILDREN">
+      <comment>Type of an insertion relative to an selected node.</comment>
+      <comment>
+         <val lang="en_US">First Child</val>
+      </comment>
+      <val lang="zh_CN">First Child</val>
+   </key>
+</translation>

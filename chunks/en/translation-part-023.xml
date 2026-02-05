@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="Mark_resolved">
+      <comment>Action name from SVN</comment>
+      <comment>
+         <val lang="en_US">Mark Resolved</val>
+      </comment>
+      <val lang="zh_CN">Mark Resolved</val>
+   </key>
+   <key value="Base_revision">
+      <comment>Compare with base revision Action name from SVN</comment>
+      <comment>
+         <val lang="en_US">BASE revision</val>
+      </comment>
+      <val lang="zh_CN">BASE revision</val>
+   </key>
+   <key value="Commit_all">
+      <comment>Action name from SVN</comment>
+      <comment>
+         <val lang="en_US">Commit All</val>
+      </comment>
+      <val lang="zh_CN">Commit All</val>
+   </key>
+   <key value="Selected_resources_not_contain_changes">
+      <comment>Message from SVN</comment>
+      <comment>
+         <val lang="en_US">The selected resources do not contain any changes.</val>
+      </comment>
+      <val lang="zh_CN">The selected resources do not contain any changes.</val>
+   </key>
+   <key value="Commit">
+      <comment>Action name from SVN</comment>
+      <comment>
+         <val lang="en_US">Commit</val>
+      </comment>
+      <val lang="zh_CN">Commit</val>
+   </key>
+   <key value="Clean_up">
+      <comment>Action name from SVN</comment>
+      <comment>
+         <val lang="en_US">Clean up</val>
+      </comment>
+      <val lang="zh_CN">Clean up</val>
+   </key>
+   <key value="Browsing_error">
+      <comment>Message from SVN</comment>
+      <comment>
+         <val lang="en_US">Browsing error</val>
+      </comment>
+      <val lang="zh_CN">Browsing error</val>
+   </key>
+   <key value="Directory_not_under_version_control">
+      <comment>Message from SVN</comment>
+      <comment>
+         <val lang="en_US">Directory not under version control.</val>
+      </comment>
+      <val lang="zh_CN">Directory not under version control.</val>
+   </key>
+   <key value="Add_existing_working_copy">
+      <comment>Tooltip for the Add working copy action from SVN</comment>
+      <comment>
+         <val lang="en_US">Add existing working copy</val>
+      </comment>
+      <val lang="zh_CN">Add existing working copy</val>
+   </key>
+   <key value="Layout">
+      <comment>Title for the Layout menu from SVN</comment>
+      <comment>
+         <val lang="en_US">Layout</val>
+      </comment>
+      <val lang="zh_CN">Layout</val>
+   </key>
+   <key value="Synchronize">
+      <comment>Title for the Synchronize view from SVN</comment>
+      <comment>
+         <val lang="en_US">Synchronize</val>
+      </comment>
+      <val lang="zh_CN">Synchronize</val>
+   </key>
+   <key value="Working_copy">
+      <comment>Title for the Working copy view from SVN</comment>
+      <comment>
+         <val lang="en_US">Working copy</val>
+      </comment>
+      <val lang="zh_CN">Working copy</val>
+   </key>
+   <key value="Repository">
+      <comment>Title for the Repository view from SVN</comment>
+      <comment>
+         <val lang="en_US">Repository</val>
+      </comment>
+      <val lang="zh_CN">Repository</val>
+   </key>
+   <key value="Collecting_files">
+      <comment>Information message for progress monitor</comment>
+      <comment>
+         <val lang="en_US">Collecting files</val>
+      </comment>
+      <val lang="zh_CN">Collecting files</val>
+   </key>
+   <key value="You_can_perform_this_operation_on_RNG">
+      <comment>Information message for rng rename actions</comment>
+      <comment>
+         <val lang="en_US">You can perform this operation on: named defines.</val>
+      </comment>
+      <val lang="zh_CN">You can perform this operation on: named defines.</val>
+   </key>
+   <key value="You_can_perform_this_operation_on_XSD">
+      <comment>Information message for xsd rename actions</comment>
+      <comment>
+         <val lang="en_US">You can perform this operation on: attribute, attributeGroup, element, group, key, unique,
+            keyref, notation, simple or complex types .</val>
+      </comment>
+      <val lang="zh_CN">You can perform this operation on: attribute, attributeGroup, element, group, key, unique,
+            keyref, notation, simple or complex types .</val>
+   </key>
+   <key value="Scratch_Buffer">
+      <comment>The title for the Scratch Buffer View</comment>
+      <comment>
+         <val lang="en_US">Scratch Buffer</val>
+      </comment>
+      <val lang="zh_CN">Scratch Buffer</val>
+   </key>
+   <key value="Preserve_text_as_it_is">
+      <comment>"Preferences" dialog/Editor/Format/XML.</comment>
+      <comment>
+         <val lang="en_US">Preserve text as it is</val>
+      </comment>
+      <val lang="zh_CN">Preserve text as it is</val>
+   </key>
+   <key value="Add_element_name">
+      <comment>Options/Preferences/Editor/Format. Adds a name of an element or an XPath expression to the list of ones
+            how preserve spaces, for instance.</comment>
+      <comment>
+         <val lang="en_US">Add element name or XPath expression</val>
+      </comment>
+      <val lang="zh_CN">Add element name or XPath expression</val>
+   </key>
+   <key value="Enter_the_element_name">
+      <comment>Multiple examples.</comment>
+      <comment>
+         <val lang="en_US">The accepted expressions must be simple node tests, similar to the following:</val>
+      </comment>
+      <val lang="zh_CN">The accepted expressions must be simple node tests, similar to the following:</val>
+   </key>
+   <key value="Validation_success_color">
+      <comment>Validation success color.</comment>
+      <comment>
+         <val lang="en_US">Validation success color</val>
+      </comment>
+      <val lang="zh_CN">Validation success color</val>
+   </key>
+   <key value="Show_only_selected_component">
+      <comment>Schema diagram: Show only the top level components as root in the diagram.</comment>
+      <comment>
+         <val lang="en_US">Show only the selected component</val>
+      </comment>
+      <val lang="zh_CN">Show only the selected component</val>
+   </key>
+   <key value="Show_project_view">
+      <comment>Show the project panel</comment>
+      <comment>
+         <val lang="en_US">Show Project View</val>
+      </comment>
+      <val lang="zh_CN">Show Project View</val>
+   </key>
+   <key value="Operation_in_progress">
+      <comment>Operation in progress</comment>
+      <comment>
+         <val lang="en_US">Operation in progress</val>
+      </comment>
+      <val lang="zh_CN">Operation in progress</val>
+   </key>
+   <key value="Toggle_line_wrap">
+      <comment>Toggle line wrap</comment>
+      <comment>
+         <val lang="en_US">Toggle Line Wrap</val>
+      </comment>
+      <val lang="zh_CN">Toggle Line Wrap</val>
+   </key>
+   <key value="Foreground">
+      <comment>Foreground</comment>
+      <comment>
+         <val lang="en_US">Foreground</val>
+      </comment>
+      <val lang="zh_CN">Foreground</val>
+   </key>
+   <key value="Background">
+      <comment>Background</comment>
+      <comment>
+         <val lang="en_US">Background</val>
+      </comment>
+      <val lang="zh_CN">Background</val>
+   </key>
+   <key value="Bg_color_contains_alpha">
+      <comment>Explanation message: The background color used for rendering some tokens contains a 50% alpha
+            transparency.</comment>
+      <comment>
+         <val lang="en_US">Background color has 50% transparency</val>
+      </comment>
+      <val lang="zh_CN">Background color has 50% transparency</val>
+   </key>
+   <key value="File_filter_patterns">
+      <comment>Project filters dialog label</comment>
+      <comment>
+         <val lang="en_US">File filter patterns</val>
+      </comment>
+      <val lang="zh_CN">File filter patterns</val>
+   </key>
+   <key value="Switch_to_xpath_builder">
+      <comment>Question displayed when user types more than the XPath char limit.</comment>
+      <comment>
+         <val lang="en_US">For long XPath expressions you can use the XPath Builder view.\n Switch now</val>
+      </comment>
+      <val lang="zh_CN">For long XPath expressions you can use the XPath Builder view.\n Switch now</val>
+   </key>
+   <key value="Using">
+      <comment>Used in expressions like "Using the encoding:"</comment>
+      <comment>
+         <val lang="en_US">Using</val>
+      </comment>
+      <val lang="zh_CN">Using</val>
+   </key>
+   <key value="Validation_options">
+      <comment>Options from the validation toolbar.</comment>
+      <comment>
+         <val lang="en_US">Validation Options</val>
+      </comment>
+      <val lang="zh_CN">Validation Options</val>
+   </key>
+   <key value="Apply_to_all">
+      <comment>Rename prefix checkbox name.</comment>
+      <comment>
+         <val lang="en_US">Apply to all</val>
+      </comment>
+      <val lang="zh_CN">Apply to all</val>
+   </key>
+   <key value="Preserve_line_breaks_in_attrs">
+      <comment>Format and Indent XML. This is a checkbox in the options dialog. If true the values of the attributes
+            are not changed. Additional whitespaces and line breaks are preserved. </comment>
+      <comment>
+         <val lang="en_US">Preserve line breaks in attributes</val>
+      </comment>
+      <val lang="zh_CN">Preserve line breaks in attributes</val>
+   </key>
+   <key value="Expand_more">
+      <comment>Outliner. Expands more nodes under the selection.</comment>
+      <comment>
+         <val lang="en_US">Expand More</val>
+      </comment>
+      <val lang="zh_CN">Expand More</val>
+   </key>
+   <key value="Edit_change_orientation">
+      <comment>Change the editor's text orientation action</comment>
+      <comment>
+         <val lang="en_US">Change Text Orientation</val>
+      </comment>
+      <val lang="zh_CN">Change Text Orientation</val>
+   </key>
+   <key distribution="eclipse" value="Toggle_comment_command">
+      <comment>Toggle comments action</comment>
+      <comment>
+         <val lang="en_US">Toggle Comment</val>
+      </comment>
+      <val lang="zh_CN">Toggle Comment</val>
+   </key>
+   <key distribution="common" value="Toggle_comment">
+      <comment>Toggle comments action</comment>
+      <comment>
+         <val lang="en_US" mnemonic="0">&amp;Toggle Comment</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="0">&amp;Toggle Comment</val>
+   </key>
+   <key value="Debugger_stopped_by_break_conditions">
+      <comment>Tooltip for break condition</comment>
+      <comment>
+         <val lang="en_US">Debugger stopped by break condition(s)</val>
+      </comment>
+      <val lang="zh_CN">Debugger stopped by break condition(s)</val>
+   </key>
+   <key value="Preserve_empty_lines">
+      <comment>The Pretty Print of XML documents can preserve the empty lines from the edited document. This is the
+            text of the checkbox from the options dialog.</comment>
+      <comment>
+         <val lang="en_US">Preserve empty lines</val>
+      </comment>
+      <val lang="zh_CN">Preserve empty lines</val>
+   </key>
+   <key value="Permissions">
+      <comment>Label in File Permissions dialog</comment>
+      <comment>
+         <val lang="en_US">Permissions</val>
+      </comment>
+      <val lang="zh_CN">Permissions</val>
+   </key>
+   <key value="Public">
+      <comment>Label in File Permissions dialog</comment>
+      <comment>
+         <val lang="en_US">Public</val>
+      </comment>
+      <val lang="zh_CN">Public</val>
+   </key>
+   <key value="Group">
+      <comment>Label in File Permissions dialog</comment>
+      <comment>
+         <val lang="en_US">Group</val>
+      </comment>
+      <val lang="zh_CN">Group</val>
+   </key>
+   <key value="Owner">
+      <comment>Label in File Permissions dialog</comment>
+      <comment>
+         <val lang="en_US">Owner</val>
+      </comment>
+      <val lang="zh_CN">Owner</val>
+   </key>
+   <key value="This_operation_is_not_available_on_all_servers">
+      <comment>Warning label in File Permissions dialog</comment>
+      <comment>
+         <val lang="en_US">This operation is not available on all servers</val>
+      </comment>
+      <val lang="zh_CN">This operation is not available on all servers</val>
+   </key>
+   <key value="Change_permissions">
+      <comment>Label in File Permissions dialog</comment>
+      <comment>
+         <val lang="en_US">Change permissions</val>
+      </comment>
+      <val lang="zh_CN">Change permissions</val>
+   </key>
+   <key value="Read">
+      <comment>Permissions in File Permissions dialog</comment>
+      <comment>
+         <val lang="en_US">Read</val>
+      </comment>
+      <val lang="zh_CN">Read</val>
+   </key>
+   <key value="Draw_only_the_prefix_with_a_separate_color">
+      <comment>Draw only the prefix of elements with namespace in a separate color.</comment>
+      <comment>
+         <val lang="en_US">Draw only the prefix with a separate color</val>
+      </comment>
+      <val lang="zh_CN">Draw only the prefix with a separate color</val>
+   </key>
+   <key value="Collection">
+      <comment>Collection - generic word used to represent an eXist database collection in options</comment>
+      <comment>
+         <val lang="en_US">Collection</val>
+      </comment>
+      <val lang="zh_CN">Collection</val>
+   </key>
+   <key value="Show_java_vendor_warning">
+      <comment>Show Java vendor warning at startup.</comment>
+      <comment>
+         <val lang="en_US">Show Java vendor warning at startup</val>
+      </comment>
+      <val lang="zh_CN">Show Java vendor warning at startup</val>
+   </key>
+   <key value="Indent_class_content">
+      <comment>Format option for CSS Format and Indent</comment>
+      <comment>
+         <val lang="en_US">Indent class content</val>
+      </comment>
+      <val lang="zh_CN">Indent class content</val>
+   </key>
+   <key value="Class_body_on_new_line">
+      <comment>Format option for CSS Format and Indent</comment>
+      <comment>
+         <val lang="en_US">Class body on new line</val>
+      </comment>
+      <val lang="zh_CN">Class body on new line</val>
+   </key>
+   <key value="Add_new_line_between_classes">
+      <comment>Format option for CSS Format and Indent</comment>
+      <comment>
+         <val lang="en_US">Add new line between classes</val>
+      </comment>
+      <val lang="zh_CN">Add new line between classes</val>
+   </key>
+   <key distribution="common" value="XPath_Builder">
+      <comment>The title for the XPath View</comment>
+      <comment>
+         <val lang="en_US">XPath/XQuery Builder</val>
+      </comment>
+      <val lang="zh_CN">XPath/XQuery Builder</val>
+   </key>
+   <key value="History">
+      <comment>Label in the XPath functions view</comment>
+      <comment>
+         <val lang="en_US">History</val>
+      </comment>
+      <val lang="zh_CN">History</val>
+   </key>
+   <key value="Execute">
+      <comment>Execute XPath expression label</comment>
+      <comment>
+         <val lang="en_US">Execute</val>
+      </comment>
+      <val lang="zh_CN">Execute</val>
+   </key>
+   <key value="Quick_Find">
+      <comment>Quick Find action name</comment>
+      <comment>
+         <val lang="en_US">Quick Find</val>
+      </comment>
+      <val lang="zh_CN">Quick Find</val>
+   </key>
+   <key value="Yes">
+      <comment>Field in the project tree contextual properties dialog.</comment>
+      <comment>
+         <val lang="en_US">Yes</val>
+      </comment>
+      <val lang="zh_CN">Yes</val>
+   </key>
+   <key value="No">
+      <comment>Field in the project tree contextual properties dialog.</comment>
+      <comment>
+         <val lang="en_US">No</val>
+      </comment>
+      <val lang="zh_CN">No</val>
+   </key>
+   <key value="File_size">
+      <comment>Field in the project tree contextual properties dialog.</comment>
+      <comment>
+         <val lang="en_US">File size</val>
+      </comment>
+      <val lang="zh_CN">File size</val>
+   </key>
+   <key value="Readable">
+      <comment>Field in the project tree contextual properties dialog.</comment>
+      <comment>
+         <val lang="en_US">Readable</val>
+      </comment>
+      <val lang="zh_CN">Readable</val>
+   </key>
+   <key value="Writable">
+      <comment>Field in the project tree contextual properties dialog.</comment>
+      <comment>
+         <val lang="en_US">Writable</val>
+      </comment>
+      <val lang="zh_CN">Writable</val>
+   </key>
+   <key value="Recurse_subdirectories">
+      <comment>Checkbox in the Find/Replace in files dialog</comment>
+      <comment>
+         <val lang="en_US">Recurse subdirectories</val>
+      </comment>
+      <val lang="zh_CN">Recurse subdirectories</val>
+   </key>
+   <key value="Loading_app_start">
+      <comment>First message shown in the progress when starting the application.</comment>
+      <comment>
+         <val lang="en_US">Loading application</val>
+      </comment>
+      <val lang="zh_CN">Loading application</val>
+   </key>
+   <key value="Initializing_user_preferences">
+      <comment>Message on loading the application main frame.</comment>
+      <comment>
+         <val lang="en_US">Initializing user preferences</val>
+      </comment>
+      <val lang="zh_CN">Initializing user preferences</val>
+   </key>
+   <key value="Creating_menu_actions">
+      <comment>Message on loading the application main frame.</comment>
+      <comment>
+         <val lang="en_US">Creating menu actions</val>
+      </comment>
+      <val lang="zh_CN">Creating menu actions</val>
+   </key>
+   <key value="Opening_files">
+      <comment>Message on loading the application main frame.</comment>
+      <comment>
+         <val lang="en_US">Opening files</val>
+      </comment>
+      <val lang="zh_CN">Opening files</val>
+   </key>
+   <key value="Creating_additional_views">
+      <comment>Message on loading the application main frame.</comment>
+      <comment>
+         <val lang="en_US">Creating additional views</val>
+      </comment>
+      <val lang="zh_CN">Creating additional views</val>
+   </key>
+   <key value="Creating_layout">
+      <comment>Message on loading the application main frame.</comment>
+      <comment>
+         <val lang="en_US">Creating layout</val>
+      </comment>
+      <val lang="zh_CN">Creating layout</val>
+   </key>
+   <key value="Initializing_editor">
+      <comment>Message on loading the application main frame.</comment>
+      <comment>
+         <val lang="en_US">Initializing editor</val>
+      </comment>
+      <val lang="zh_CN">Initializing editor</val>
+   </key>
+   <key distribution="common" value="Custom_engines">
+      <comment>Custom XSLT engines title of the option page</comment>
+      <comment>
+         <val lang="en_US">Custom Engines</val>
+      </comment>
+      <val lang="zh_CN">Custom Engines</val>
+   </key>
+   <key value="XSLT_params_are_not_set">
+      <comment>Warning message in case of a XSLT transformation using a custom (user-defined) engine (we do not
+            support parameter transfer)</comment>
+      <comment>
+         <val lang="en_US">XSLT parameters for custom engines are not set</val>
+      </comment>
+      <val lang="zh_CN">XSLT parameters for custom engines are not set</val>
+   </key>
+   <key value="Include_axes">
+      <comment>Checkbox in the Editor / Content Completion / XSL/XPath option pane</comment>
+      <comment>
+         <val lang="en_US">Include axes</val>
+      </comment>
+      <val lang="zh_CN">Include axes</val>
+   </key>
+   <key value="Include_XSLT_functions">
+      <comment>Checkbox in the Editor / Content Completion / XSL/XPath option pane</comment>
+      <comment>
+         <val lang="en_US">Include XSLT functions</val>
+      </comment>
+      <val lang="zh_CN">Include XSLT functions</val>
+   </key>
+   <key value="Include_XPath_functions">
+      <comment>Checkbox in the Editor / Content Completion / XSL/XPath option pane</comment>
+      <comment>
+         <val lang="en_US">Include XPath functions</val>
+      </comment>
+      <val lang="zh_CN">Include XPath functions</val>
+   </key>
+   <key value="Insert_from_Character_Map" distribution="common">
+      <comment>Insert from character map dialog action</comment>
+      <comment>
+         <val lang="en_US">Insert from Character Map</val>
+      </comment>
+      <val lang="zh_CN">Insert from Character Map</val>
+   </key>
+   <key value="Character_Map">
+      <comment>Title in character map dialog</comment>
+      <comment>
+         <val lang="en_US">Character Map</val>
+      </comment>
+      <val lang="zh_CN">Character Map</val>
+   </key>
+   <key value="Character_entity">
+      <comment>Label in character map dialog, it means the character as an entity like: e</comment>
+      <comment>
+         <val lang="en_US">Character entity</val>
+      </comment>
+      <val lang="zh_CN">Character entity</val>
+   </key>
+   <key value="Character">
+      <comment>Label in character map dialog</comment>
+      <comment>
+         <val lang="en_US">Character</val>
+      </comment>
+      <val lang="zh_CN">Character</val>
+   </key>
+   <key value="Prefix_was_already_added">
+      <comment>Error message when the user tries to set the same prefix twice in the xml prefix to color option
+            page.</comment>
+      <comment>
+         <val lang="en_US">Prefix was already added</val>
+      </comment>
+      <val lang="zh_CN">Prefix was already added</val>
+   </key>
+   <key value="Start_content_completion">
+      <comment>'Start content completion' action.</comment>
+      <comment>
+         <val lang="en_US">Start Content Completion</val>
+      </comment>
+      <val lang="zh_CN">Start Content Completion</val>
+   </key>
+   <key value="Enable_content_completion_for_xpath_expressions">
+      <comment>Enable content completion for XPath expressions. (check box in options page)</comment>
+      <comment>
+         <val lang="en_US">Enable content completion for XPath expressions</val>
+      </comment>
+      <val lang="zh_CN">Enable content completion for XPath expressions</val>
+   </key>
+   <key distribution="common" value="Content_completion">
+      <comment>The feature of showing a list of values for a tag name.</comment>
+      <comment>
+         <val lang="en_US">Content Completion</val>
+      </comment>
+      <val lang="zh_CN">Content Completion</val>
+   </key>
+   <key value="Automatic_retry_on_recoverable_error">
+      <comment>Automatic retry on recoverable error.</comment>
+      <comment>
+         <val lang="en_US">Automatic retry on recoverable error</val>
+      </comment>
+      <val lang="zh_CN">Automatic retry on recoverable error</val>
+   </key>
+   <key value="Validation_warning_highlight_color">
+      <comment>Validation warning highlight color option.</comment>
+      <comment>
+         <val lang="en_US">Validation warning highlight color</val>
+      </comment>
+      <val lang="zh_CN">Validation warning highlight color</val>
+   </key>
+   <key value="Validation_error_highlight_color">
+      <comment>Validation error highlight color option.</comment>
+      <comment>
+         <val lang="en_US">Validation error highlight color</val>
+      </comment>
+      <val lang="zh_CN">Validation error highlight color</val>
+   </key>
+   <key value="Quoted_Value">
+      <comment>Value between double quotes(color options page)</comment>
+      <comment>
+         <val lang="en_US">Quoted Value</val>
+      </comment>
+      <val lang="zh_CN">Quoted Value</val>
+   </key>
+   <key value="Single_quoted_Value">
+      <comment>Value between single quotes(color options page)</comment>
+      <comment>
+         <val lang="en_US">Single quoted Value</val>
+      </comment>
+      <val lang="zh_CN">Single quoted Value</val>
+   </key>
+   <key value="Curly_brackets">
+      <comment>Curly Brackets (color options page)</comment>
+      <comment>
+         <val lang="en_US">Curly brackets</val>
+      </comment>
+      <val lang="zh_CN">Curly brackets</val>
+   </key>
+   <key value="CDATA" skipTranslation="true">
+      <comment>CDATA (color options page), no need to translate this :)</comment>
+      <comment>
+         <val lang="en_US">CDATA</val>
+      </comment>
+      <val lang="zh_CN">CDATA</val>
+   </key>
+   <key value="Doctype">
+      <comment>Doctype (color options page)</comment>
+      <comment>
+         <val lang="en_US">Doctype</val>
+      </comment>
+      <val lang="zh_CN">Doctype</val>
+   </key>
+   <key value="Annotation">
+      <comment>Annotation (color options page)</comment>
+      <comment>
+         <val lang="en_US">Annotation</val>
+      </comment>
+      <val lang="zh_CN">Annotation</val>
+   </key>
+   <key value="Invalid">
+      <comment>Invalid (color options page)</comment>
+      <comment>
+         <val lang="en_US">Invalid</val>
+      </comment>
+      <val lang="zh_CN">Invalid</val>
+   </key>
+   <key value="Entity">
+      <comment>Entity (color options page)</comment>
+      <comment>
+         <val lang="en_US">Entity</val>
+      </comment>
+      <val lang="zh_CN">Entity</val>
+   </key>
+   <key value="Attribute_name">
+      <comment>Attribute name (color options page)</comment>
+      <comment>
+         <val lang="en_US">Attribute name</val>
+      </comment>
+      <val lang="zh_CN">Attribute name</val>
+   </key>
+   <key value="Equal">
+      <comment>Equal (color options page)</comment>
+      <comment>
+         <val lang="en_US">Equal</val>
+      </comment>
+      <val lang="zh_CN">Equal</val>
+   </key>
+   <key value="Embedded_Doctype">
+      <comment>Embedded Doctype (color options page)</comment>
+      <comment>
+         <val lang="en_US">Embedded Doctype</val>
+      </comment>
+      <val lang="zh_CN">Embedded Doctype</val>
+   </key>
+   <key value="Parameter_Entity">
+      <comment>Parameter Entity (color options page)</comment>
+      <comment>
+         <val lang="en_US">Parameter Entity</val>
+      </comment>
+      <val lang="zh_CN">Parameter Entity</val>
+   </key>
+   <key value="Element_Type">
+      <comment>Element Type (color options page)</comment>
+      <comment>
+         <val lang="en_US">Element Type</val>
+      </comment>
+      <val lang="zh_CN">Element Type</val>
+   </key>
+   <key value="Attribute_Type">
+      <comment>Attribute Type (color options page)</comment>
+      <comment>
+         <val lang="en_US">Attribute Type</val>
+      </comment>
+      <val lang="zh_CN">Attribute Type</val>
+   </key>
+   <key value="Content_Type">
+      <comment>Content Type (color options page)</comment>
+      <comment>
+         <val lang="en_US">Content Type</val>
+      </comment>
+      <val lang="zh_CN">Content Type</val>
+   </key>
+   <key value="Namespace_prefix">
+      <comment>Namespace prefix (color options page)</comment>
+      <comment>
+         <val lang="en_US">Namespace prefix</val>
+      </comment>
+      <val lang="zh_CN">Namespace prefix</val>
+   </key>
+   <key value="Keyword1">
+      <comment>Keyword 1 (color options page)</comment>
+      <comment>
+         <val lang="en_US">Keyword 1</val>
+      </comment>
+      <val lang="zh_CN">Keyword 1</val>
+   </key>
+   <key value="Keyword2">
+      <comment>Keyword 2 (color options page)</comment>
+      <comment>
+         <val lang="en_US">Keyword 2</val>
+      </comment>
+      <val lang="zh_CN">Keyword 2</val>
+   </key>
+   <key value="Keyword3">
+      <comment>Keyword 3 (color options page)</comment>
+      <comment>
+         <val lang="en_US">Keyword 3</val>
+      </comment>
+      <val lang="zh_CN">Keyword 3</val>
+   </key>
+   <key value="Operator">
+      <comment>Operator (color options page)</comment>
+      <comment>
+         <val lang="en_US">Operator</val>
+      </comment>
+      <val lang="zh_CN">Operator</val>
+   </key>
+   <key value="Inline_Comment">
+      <comment>Inline Comment (color options page)</comment>
+      <comment>
+         <val lang="en_US">Inline Comment</val>
+      </comment>
+      <val lang="zh_CN">Inline Comment</val>
+   </key>
+   <key value="Label">
+      <comment>Label (color options page)</comment>
+      <comment>
+         <val lang="en_US">Label</val>
+      </comment>
+      <val lang="zh_CN">Label</val>
+   </key>
+   <key value="Literal">
+      <comment>Literal (color options page)</comment>
+      <comment>
+         <val lang="en_US">Literal</val>
+      </comment>
+      <val lang="zh_CN">Literal</val>
+   </key>
+   <key value="Keyword">
+      <comment>Keyword (color options page)</comment>
+      <comment>
+         <val lang="en_US">Keyword</val>
+      </comment>
+      <val lang="zh_CN">Keyword</val>
+   </key>
+   <key value="Literal1">
+      <comment>Literal 1 (color options page)</comment>
+      <comment>
+         <val lang="en_US">Literal 1</val>
+      </comment>
+      <val lang="zh_CN">Literal 1</val>
+   </key>
+   <key value="Literal2">
+      <comment>Literal 2 (color options page)</comment>
+      <comment>
+         <val lang="en_US">Literal 2</val>
+      </comment>
+      <val lang="zh_CN">Literal 2</val>
+   </key>
+   <key value="Database_schema_expansion_warning">
+      <comment>Warning message when converting DB structure to XML Schema.</comment>
+      <comment>
+         <val lang="en_US">Expanding another database schema will invalidate any database table selections made in the
+            previous one.</val>
+      </comment>
+      <val lang="zh_CN">Expanding another database schema will invalidate any database table selections made in the
+            previous one.</val>
+   </key>
+   <key distribution="common" value="Xml_catalog">
+      <comment>Title of XML Catalog option pane.</comment>
+      <comment>
+         <val lang="en_US">XML Catalog</val>
+      </comment>
+      <val lang="zh_CN">XML Catalog</val>
+   </key>
+   <key distribution="common" value="Css_validator">
+      <comment>Title of CSS Validator option pane.</comment>
+      <comment>
+         <val lang="en_US">CSS Validator</val>
+      </comment>
+      <val lang="zh_CN">CSS Validator</val>
+   </key>
+   <key distribution="common" value="Global">
+      <comment>Title of Global option pane.</comment>
+      <comment>
+         <val lang="en_US">Global</val>
+      </comment>
+      <val lang="zh_CN">Global</val>
+   </key>
+   <key value="Empty">
+      <comment>Title of Empty option pane.</comment>
+      <comment>
+         <val lang="en_US">Empty</val>
+      </comment>
+      <val lang="zh_CN">Empty</val>
+   </key>
+   <key value="Colors" distribution="common">
+      <comment>Title of Colors option pane.</comment>
+      <comment>
+         <val lang="en_US">Colors</val>
+      </comment>
+      <val lang="zh_CN">Colors</val>
+   </key>
+   <key value="Collecting_data">
+      <comment>Profiler specific message.</comment>
+      <comment>
+         <val lang="en_US">Collecting data</val>
+      </comment>
+      <val lang="zh_CN">Collecting data</val>
+   </key>
+   <key value="Summarizing_data">
+      <comment>Profiler specific message.</comment>
+      <comment>
+         <val lang="en_US">Summarizing data</val>
+      </comment>
+      <val lang="zh_CN">Summarizing data</val>
+   </key>
+   <key value="Show_toolbar">
+      <comment>'Show Toolbar' menu.</comment>
+      <comment>
+         <val lang="en_US">Show Toolbar</val>
+      </comment>
+      <val lang="zh_CN">Show Toolbar</val>
+   </key>
+   <key value="Document_checking_options">
+      <comment>Validation status panel options button</comment>
+      <comment>
+         <val lang="en_US">Document checking options</val>
+      </comment>
+      <val lang="zh_CN">Document checking options</val>
+   </key>
+   <key value="Original_source">
+      <comment>Preview dialog: Original source</comment>
+      <comment>
+         <val lang="en_US">Original Source</val>
+      </comment>
+      <val lang="zh_CN">Original Source</val>
+   </key>
+   <key value="Refactored_source">
+      <comment>Preview dialog: Refactored source</comment>
+      <comment>
+         <val lang="en_US">Refactored Source</val>
+      </comment>
+      <val lang="zh_CN">Refactored Source</val>
+   </key>
+   <key value="Profile">
+      <comment>CSS Validator profile</comment>
+      <comment>
+         <val lang="en_US">Profile</val>
+      </comment>
+      <val lang="zh_CN">Profile</val>
+   </key>
+   <key value="Media_type">
+      <comment>CSS Validator media type</comment>
+      <comment>
+         <val lang="en_US">Media type</val>
+      </comment>
+      <val lang="zh_CN">Media type</val>
+   </key>
+   <key value="The_following_categ_is_not_valid_for_the_current_distrib">
+      <comment>Error message when trying to run the standalone editor using a license for the Eclipse plugin</comment>
+      <comment>
+         <val lang="en_US">The following license category is not valid for the current distribution. Found the
+            category</val>
+      </comment>
+      <val lang="zh_CN">The following license category is not valid for the current distribution. Found the
+            category</val>
+   </key>
+   <key value="No_definition_found">
+      <comment>Status for no definition found for an xml schema element</comment>
+      <comment>
+         <val lang="en_US">No definition found</val>
+      </comment>
+      <val lang="zh_CN">No definition found</val>
+   </key>
+   <key value="Double_click_to_view_license">
+      <comment>Tooltip for the integrated components from the about dialog</comment>
+      <comment>
+         <val lang="en_US">Double-click to view license</val>
+      </comment>
+      <val lang="zh_CN">Double-click to view license</val>
+   </key>
+   <key value="Operation_unavailable_in_the_current_context">
+      <comment>Information message for xsl rename actions</comment>
+      <comment>
+         <val lang="en_US">Operation unavailable in the current context.</val>
+      </comment>
+      <val lang="zh_CN">Operation unavailable in the current context.</val>
+   </key>
+   <key value="Save_attachment_as">
+      <comment>Label for the file dialog where the SOAP attachments are saved</comment>
+      <comment>
+         <val lang="en_US">Save attachment as</val>
+      </comment>
+      <val lang="zh_CN">Save attachment as</val>
+   </key>
+   <key value="Color">
+      <comment>A color</comment>
+      <comment>
+         <val lang="en_US">Color</val>
+      </comment>
+      <val lang="zh_CN">Color</val>
+   </key>
+   <key value="Xml_prefix">
+      <comment>A prefix of an element, like xsl from xsl:template</comment>
+      <comment>
+         <val lang="en_US">XML prefix</val>
+      </comment>
+      <val lang="zh_CN">XML prefix</val>
+   </key>
+   <key value="Start_locations">
+      <comment>Title for the dialog where the start locations for search are chosen</comment>
+      <comment>
+         <val lang="en_US">Start locations</val>
+      </comment>
+      <val lang="zh_CN">Start locations</val>
+   </key>
+   <key value="If_you_wish_to_open_it">
+      <comment>Warning message when trying to open a file that is already opened with other content type.</comment>
+      <comment>
+         <val lang="en_US">If you wish to open it with a different content type close the existing editor</val>
+      </comment>
+      <val lang="zh_CN">If you wish to open it with a different content type close the existing editor</val>
+   </key>
+   <key value="Is_already_opened_as">
+      <comment>Warning message when trying to open a file that is already opened with other content type. The whole
+            sentence is: file.ext is already opened as content/type.</comment>
+      <comment>
+         <val lang="en_US">is already opened as</val>
+      </comment>
+      <val lang="zh_CN">is already opened as</val>
+   </key>
+   <key value="Changes_to_be_performed">
+      <comment>Label for XSL rename occurrences action dialog</comment>
+      <comment>
+         <val lang="en_US">Changes to be performed</val>
+      </comment>
+      <val lang="zh_CN">Changes to be performed</val>
+   </key>
+   <key distribution="common" value="Annotations">
+      <comment>Referring to the annotations extracted from the schemas</comment>
+      <comment>
+         <val lang="en_US">Annotations</val>
+      </comment>
+      <val lang="zh_CN">Annotations</val>
+   </key>
+   <key value="Recently_used_entries">
+      <comment>Referring to the content completion entries that were recently used</comment>
+      <comment>
+         <val lang="en_US">Recently used entries</val>
+      </comment>
+      <val lang="zh_CN">Recently used entries</val>
+   </key>
+   <key value="Maximum_no_of_items_shown">
+      <comment>Referring to maximum number of content completion entries that were recently used and are shown in the
+            top of the content completion list.</comment>
+      <comment>
+         <val lang="en_US">Maximum number of recent items shown</val>
+      </comment>
+      <val lang="zh_CN">Maximum number of recent items shown</val>
+   </key>
+   <key value="Show_recently_used_items">
+      <comment>Checkbox in the options that enables or disables the presentation of the recent items in the content
+            completion list. </comment>
+      <comment>
+         <val lang="en_US">Show recently used items</val>
+      </comment>
+      <val lang="zh_CN">Show recently used items</val>
+   </key>
+   <key value="Use_only_XML_Schema_for_validation">
+      <comment>XML Parser configuration page option. The meaning for Use_only_XML_Schema_for_validation has changed,
+            it works for any schema and ignores the DTD for validation if some schema is specified. If a document has
+            only a DTD specified then the DTD will be used for validation no matter what value is set for this option. </comment>
+      <comment>
+         <val lang="en_US">Ignore the DTD for validation if a schema is specified</val>
+      </comment>
+      <val lang="zh_CN">Ignore the DTD for validation if a schema is specified</val>
+   </key>
+   <key value="Use_a_license_server">
+      <comment>Contextual menu name</comment>
+      <comment>
+         <val lang="en_US">Use a license server</val>
+      </comment>
+      <val lang="zh_CN">Use a license server</val>
+   </key>
+   <key value="Increase_font">
+      <comment>Increase the font size of the editor.</comment>
+      <comment>
+         <val lang="en_US">Increase Editor Font</val>
+      </comment>
+      <val lang="zh_CN">Increase Editor Font</val>
+   </key>
+   <key value="Normal_font_size">
+      <comment>Normal font size of the editor.</comment>
+      <comment>
+         <val lang="en_US">Normal Editor Font</val>
+      </comment>
+      <val lang="zh_CN">Normal Editor Font</val>
+   </key>
+   <key value="Decrease_font">
+      <comment>Decrease the font size of the editor.</comment>
+      <comment>
+         <val lang="en_US">Decrease Editor Font</val>
+      </comment>
+      <val lang="zh_CN">Decrease Editor Font</val>
+   </key>
+   <key distribution="common" value="Refactoring">
+      <comment>Contextual menu name</comment>
+      <comment>
+         <val lang="en_US">Refactoring</val>
+      </comment>
+      <val lang="zh_CN">Refactoring</val>
+   </key>
+   <key value="Enter_a_template_name">
+      <comment>Title for the ask user for template name dialog</comment>
+      <comment>
+         <val lang="en_US">Enter a template name</val>
+      </comment>
+      <val lang="zh_CN">Enter a template name</val>
+   </key>
+   <key value="Path_of_detected_schema_file">
+      <comment>Custom validators support: Path of detected schema file</comment>
+      <comment>
+         <val lang="en_US">The path of detected schema file</val>
+      </comment>
+      <val lang="zh_CN">The path of detected schema file</val>
+   </key>
+   <key value="Command_line_arguments_for_detected_schemas">
+      <comment>Custom validators support: Command line arguments for detected schemas</comment>
+      <comment>
+         <val lang="en_US">Command line arguments for detected schemas</val>
+      </comment>
+      <val lang="zh_CN">Command line arguments for detected schemas</val>
+   </key>
+   <key value="Transform_with">
+      <comment>Batch transformation</comment>
+      <comment>
+         <val lang="en_US">Transform with</val>
+      </comment>
+      <val lang="zh_CN">Transform with</val>
+   </key>
+   <key value="Oxygen_installation_directory">
+      <comment>Editor variable for Oxygen installation directory</comment>
+      <comment>
+         <val lang="en_US">Oxygen installation directory</val>
+      </comment>
+      <val lang="zh_CN">Oxygen installation directory</val>
+   </key>
+   <key value="Schema_diagram_zoom">
+      <comment>Tooltip for schema diagram zoom combo</comment>
+      <comment>
+         <val lang="en_US">Schema diagram zoom</val>
+      </comment>
+      <val lang="zh_CN">Schema diagram zoom</val>
+   </key>
+   <key value="Enter_an_integer_value">
+      <comment>Label for the integer combo other values dialog</comment>
+      <comment>
+         <val lang="en_US">Enter an integer value</val>
+      </comment>
+      <val lang="zh_CN">Enter an integer value</val>
+   </key>
+   <key value="Custom_value">
+      <comment>Title for the integer combo other values dialog</comment>
+      <comment>
+         <val lang="en_US">Custom value</val>
+      </comment>
+      <val lang="zh_CN">Custom value</val>
+   </key>
+   <key value="Add_associated_editor">
+      <comment>Add an associated editor with a custom scanner</comment>
+      <comment>
+         <val lang="en_US">Add an associated editor</val>
+      </comment>
+      <val lang="zh_CN">Add an associated editor</val>
+   </key>
+   <key value="Remove_associated_editor">
+      <comment>Remove an associated editor with a custom scanner</comment>
+      <comment>
+         <val lang="en_US">Remove an associated editor</val>
+      </comment>
+      <val lang="zh_CN">Remove an associated editor</val>
+   </key>
+   <key value="Associated_editors">
+      <comment>Associated editors for the custom scanner</comment>
+      <comment>
+         <val lang="en_US">Associated editors</val>
+      </comment>
+      <val lang="zh_CN">Associated editors</val>
+   </key>
+   <key value="Print_selection">
+      <comment>Print selection action</comment>
+      <comment>
+         <val lang="en_US">Print Selection</val>
+      </comment>
+      <val lang="zh_CN">Print Selection</val>
+   </key>
+   <key value="Learn_words">
+      <comment>Option in the options dialog. Content Completion/Default, the section Learn options</comment>
+      <comment>
+         <val lang="en_US">Learn words (Dynamic Abbreviations, available on CTRL-SPACE)</val>
+      </comment>
+      <val lang="zh_CN">Learn words (Dynamic Abbreviations, available on CTRL-SPACE)</val>
+   </key>
+   <key value="Validation_results_available">
+      <comment>Custom validation results available</comment>
+      <comment>
+         <val lang="en_US">Validation results available</val>
+      </comment>
+      <val lang="zh_CN">Validation results available</val>
+   </key>
+   <key value="Executable_path">
+      <comment>Executable path for custom error scanner</comment>
+      <comment>
+         <val lang="en_US">Executable path</val>
+      </comment>
+      <val lang="zh_CN">Executable path</val>
+   </key>
+   <key value="Custom_validation">
+      <comment>Custom validation</comment>
+      <comment>
+         <val lang="en_US">Custom Validation</val>
+      </comment>
+      <val lang="zh_CN">Custom Validation</val>
+   </key>
+   <key value="Scale_to_fit">
+      <comment>Scale down to fit menu item caption</comment>
+      <comment>
+         <val lang="en_US">Scale to fit</val>
+      </comment>
+      <val lang="zh_CN">Scale to fit</val>
+   </key>
+   <key value="Skipped">
+      <comment>Skipped</comment>
+      <comment>
+         <val lang="en_US">Skipped</val>
+      </comment>
+      <val lang="zh_CN">Skipped</val>
+   </key>
+   <key value="Flat_schema">
+      <comment>Type of the generated schema option pane label</comment>
+      <comment>
+         <val lang="en_US">Flat schema</val>
+      </comment>
+      <val lang="zh_CN">Flat schema</val>
+   </key>
+   <key value="Hierarchical_schema">
+      <comment>Type of the generated schema option pane label</comment>
+      <comment>
+         <val lang="en_US">Hierarchical schema</val>
+      </comment>
+      <val lang="zh_CN">Hierarchical schema</val>
+   </key>
+   <key value="Format_for_schema">
+      <comment>Type of the generated schema option pane label</comment>
+      <comment>
+         <val lang="en_US">Format for generated schema</val>
+      </comment>
+      <val lang="zh_CN">Format for generated schema</val>
+   </key>
+   <key value="Spell_check_highlight_color">
+      <comment>Spell check highlight color option.</comment>
+      <comment>
+         <val lang="en_US">Spell check highlight color</val>
+      </comment>
+      <val lang="zh_CN">Spell check highlight color</val>
+   </key>
+   <key value="Matching_tag_highlight_color">
+      <comment>Matching tag highlight color option.</comment>
+      <comment>
+         <val lang="en_US">Matching tag highlight color</val>
+      </comment>
+      <val lang="zh_CN">Matching tag highlight color</val>
+   </key>
+   <key distribution="common" value="Fonts">
+      <comment>The fonts option pane.</comment>
+      <comment>
+         <val lang="en_US">Fonts</val>
+      </comment>
+      <val lang="zh_CN">Fonts</val>
+   </key>
+   <key value="Text_comp">
+      <comment>Setting in the options regarding the font of other text components than the editing area.</comment>
+      <comment>
+         <val lang="en_US">Text components</val>
+      </comment>
+      <val lang="zh_CN">Text components</val>
+   </key>
+   <key value="GUI">
+      <comment>Setting in the options regarding the font of other components than the editing area and the text
+            components.</comment>
+      <comment>
+         <val lang="en_US">GUI</val>
+      </comment>
+      <val lang="zh_CN">GUI</val>
+   </key>
+   <key value="Reset">
+      <comment>"Reset" </comment>
+      <comment>
+         <val lang="en_US">Reset</val>
+      </comment>
+      <val lang="zh_CN">Reset</val>
+   </key>
+   <key value="Drag_and_drop_or_right_click_to_insert">
+      <comment>Tooltip on node elements in the XSL Input Panel</comment>
+      <comment>
+         <val lang="en_US">Drag and drop or right-click to insert</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop or right-click to insert</val>
+   </key>
+   <key value="Enable">
+      <comment>The enable tag</comment>
+      <comment>
+         <val lang="en_US">Enable</val>
+      </comment>
+      <val lang="zh_CN">Enable</val>
+   </key>
+   <key distribution="common" value="Convert_db_to_schema">
+      <comment>Convert XML Schema from DB structure action</comment>
+      <comment>
+         <val lang="en_US" mnemonic="8">Convert &amp;DB Structure to XML Schema</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="8">Convert &amp;DB Structure to XML Schema</val>
+   </key>
+   <key value="XPath_def_ns_2_0">
+      <comment>XPath default namespace option.</comment>
+      <comment>
+         <val lang="en_US">XPath Default Namespace (only for XPath version 2.0)</val>
+      </comment>
+      <val lang="zh_CN">XPath Default Namespace (only for XPath version 2.0)</val>
+   </key>
+   <key value="No_namespace">
+      <comment>XPath default namespace option.</comment>
+      <comment>
+         <val lang="en_US">No namespace</val>
+      </comment>
+      <val lang="zh_CN">No namespace</val>
+   </key>
+   <key value="Use_the_ns_of_root">
+      <comment>XPath default namespace option.</comment>
+      <comment>
+         <val lang="en_US">Use the namespace of the root</val>
+      </comment>
+      <val lang="zh_CN">Use the namespace of the root</val>
+   </key>
+   <key value="Embedded_schematron_rules">
+      <comment/>
+      <comment>
+         <val lang="en_US">Embedded Schematron rules</val>
+      </comment>
+      <val lang="zh_CN">Embedded Schematron rules</val>
+   </key>
+   <key value="Line_number_foreground">
+      <comment>Line number format preference caption.</comment>
+      <comment>
+         <val lang="en_US">Line number foreground</val>
+      </comment>
+      <val lang="zh_CN">Line number foreground</val>
+   </key>
+   <key value="Generate_doc_for_generated_schema">
+      <comment>Option label in the import page.</comment>
+      <comment>
+         <val lang="en_US">Add annotations for generated XML Schema</val>
+      </comment>
+      <val lang="zh_CN">Add annotations for generated XML Schema</val>
+   </key>
+   <key value="Date_time_format">
+      <comment>Option label in the import page.</comment>
+      <comment>
+         <val lang="en_US">Date/Time format</val>
+      </comment>
+      <val lang="zh_CN">Date/Time format</val>
+   </key>
+   <key value="Schema_specific_date_format">
+      <comment>Option label in the import page.</comment>
+      <comment>
+         <val lang="en_US">XML Schema specific Date/Time format</val>
+      </comment>
+      <val lang="zh_CN">XML Schema specific Date/Time format</val>
+   </key>
+   <key value="Generate_schema">
+      <comment>Generate schema control from import DB.</comment>
+      <comment>
+         <val lang="en_US">Generate XML Schema</val>
+      </comment>
+      <val lang="zh_CN">Generate XML Schema</val>
+   </key>
+   <key value="No_schema_editor_selected">
+      <comment>Message shown in the viewer of the schema components when the user edits other document than an XML
+            Schema or RELAX NG schema.</comment>
+      <comment>
+         <val lang="en_US">No schema editor is currently selected.</val>
+      </comment>
+      <val lang="zh_CN">No schema editor is currently selected.</val>
+   </key>
+   <key value="The_chosen_file_is_already_opened_in_the_editor">
+      <comment>Save as error</comment>
+      <comment>
+         <val lang="en_US">The chosen file is already opened in the editor</val>
+      </comment>
+      <val lang="zh_CN">The chosen file is already opened in the editor</val>
+   </key>
+   <key value="Save_all_files_before_calling_external_tools">
+      <comment>Save option</comment>
+      <comment>
+         <val lang="en_US">Save all files before calling external tools</val>
+      </comment>
+      <val lang="zh_CN">Save all files before calling external tools</val>
+   </key>
+   <key value="Completion_proposal_background">
+      <comment>Completion proposal background</comment>
+      <comment>
+         <val lang="en_US">Completion proposal background</val>
+      </comment>
+      <val lang="zh_CN">Completion proposal background</val>
+   </key>
+   <key value="Completion_proposal_foreground">
+      <comment>Completion proposal foreground</comment>
+      <comment>
+         <val lang="en_US">Completion proposal foreground</val>
+      </comment>
+      <val lang="zh_CN">Completion proposal foreground</val>
+   </key>
+   <key value="Documentation_window_background">
+      <comment>Documentation window background</comment>
+      <comment>
+         <val lang="en_US">Documentation window background</val>
+      </comment>
+      <val lang="zh_CN">Documentation window background</val>
+   </key>
+   <key value="Documentation_window_foreground">
+      <comment>Documentation window foreground</comment>
+      <comment>
+         <val lang="en_US">Documentation window foreground</val>
+      </comment>
+      <val lang="zh_CN">Documentation window foreground</val>
+   </key>
+   <key value="Delay_after_the_last_key_event">
+      <comment>'Document Checking' Pane option name</comment>
+      <comment>
+         <val lang="en_US">Delay after the last key event</val>
+      </comment>
+      <val lang="zh_CN">Delay after the last key event</val>
+   </key>
+   <key distribution="common" value="XSLT_XQuery_Input">
+      <comment>Label for the dockable view that presents the structure of the XML document that is used as input to
+            the scenario associated with the current edited XSL/XQuery document</comment>
+      <comment>
+         <val lang="en_US">XSLT/XQuery Input</val>
+      </comment>
+      <val lang="zh_CN">XSLT/XQuery Input</val>
+   </key>
+   <key distribution="common" value="Profiler">
+      <comment>Profiler Option Pane name</comment>
+      <comment>
+         <val lang="en_US">Profiler</val>
+      </comment>
+      <val lang="zh_CN">Profiler</val>
+   </key>
+   <key value="Total">
+      <comment>Memory total in About Dialog</comment>
+      <comment>
+         <val lang="en_US">Total</val>
+      </comment>
+      <val lang="zh_CN">Total</val>
+   </key>
+   <key value="Used">
+      <comment>Memory used in About Dialog</comment>
+      <comment>
+         <val lang="en_US">Used</val>
+      </comment>
+      <val lang="zh_CN">Used</val>
+   </key>
+   <key value="Memory">
+      <comment>Memory label in About Dialog</comment>
+      <comment>
+         <val lang="en_US">Memory</val>
+      </comment>
+      <val lang="zh_CN">Memory</val>
+   </key>
+   <key distribution="common" value="Debugger_xslt">
+      <comment>Debugger XSLT</comment>
+      <comment>
+         <val lang="en_US">XSLT Debugger</val>
+      </comment>
+      <val lang="zh_CN">XSLT Debugger</val>
+   </key>
+   <key distribution="common" value="Debugger_xquery">
+      <comment>Debugger XQUERY</comment>
+      <comment>
+         <val lang="en_US">XQuery Debugger</val>
+      </comment>
+      <val lang="zh_CN">XQuery Debugger</val>
+   </key>
+   <key value="Format_transformer_output">
+      <comment>XQuery option.</comment>
+      <comment>
+         <val lang="en_US">Format transformer output</val>
+      </comment>
+      <val lang="zh_CN">Format transformer output</val>
+   </key>
+   <key value="Split">
+      <comment>Split menu.</comment>
+      <comment>
+         <val lang="en_US">Split</val>
+      </comment>
+      <val lang="zh_CN">Split</val>
+   </key>
+   <key value="Remove_selected">
+      <comment>Tooltip for results panel.</comment>
+      <comment>
+         <val lang="en_US">Remove selected</val>
+      </comment>
+      <val lang="zh_CN">Remove selected</val>
+   </key>
+   <key value="Flat">
+      <comment>Tooltip for results panel.</comment>
+      <comment>
+         <val lang="en_US">Flat</val>
+      </comment>
+      <val lang="zh_CN">Flat</val>
+   </key>
+   <key value="Hierarchical">
+      <comment>Tooltip for results panel.</comment>
+      <comment>
+         <val lang="en_US">Hierarchical</val>
+      </comment>
+      <val lang="zh_CN">Hierarchical</val>
+   </key>
+   <key value="No_schema_associated">
+      <comment>Warning message for no schema associated with the current document.</comment>
+      <comment>
+         <val lang="en_US">There is no schema or DTD associated with the document.</val>
+      </comment>
+      <val lang="zh_CN">There is no schema or DTD associated with the document.</val>
+   </key>
+   <key value="References">
+      <comment>Toolbar category</comment>
+      <comment>
+         <val lang="en_US">References</val>
+      </comment>
+      <val lang="zh_CN">References</val>
+   </key>
+   <key value="forces_ascii_output_encoding">
+      <comment>MSXML .NET options Forces ASCII output encoding</comment>
+      <comment>
+         <val lang="en_US">Forces ASCII output encoding</val>
+      </comment>
+      <val lang="zh_CN">Forces ASCII output encoding</val>
+   </key>
+   <key value="allow_multiple_output_documents">
+      <comment>MSXML .NET options Allow multiple output documents</comment>
+      <comment>
+         <val lang="en_US">Allow multiple output documents</val>
+      </comment>
+      <val lang="zh_CN">Allow multiple output documents</val>
+   </key>
+   <key value="msxml_net_options">
+      <comment>MSXML .NET options MSXML . NET</comment>
+      <comment>
+         <val lang="en_US">MSXML .NET Options</val>
+      </comment>
+      <val lang="zh_CN">MSXML .NET Options</val>
+   </key>
+   <key value="use_named_uri_resolver_class">
+      <comment>MSXML .NET options Use named URI resolver class</comment>
+      <comment>
+         <val lang="en_US">Use named URI resolver class</val>
+      </comment>
+      <val lang="zh_CN">Use named URI resolver class</val>
+   </key>
+   <key value="assembly_filename_to_look_up_uri_resolver_class">
+      <comment>MSXML .NET options Assembly filename to look up URI resolver class</comment>
+      <comment>
+         <val lang="en_US">Assembly filename for URI resolver class</val>
+      </comment>
+      <val lang="zh_CN">Assembly filename for URI resolver class</val>
+   </key>
+   <key value="assembly_GAC_name_to_look_up_uri_resolver_class">
+      <comment>MSXML .NET options Assembly GAC name to look up URI resolver class</comment>
+      <comment>
+         <val lang="en_US">Assembly GAC name for URI resolver class</val>
+      </comment>
+      <val lang="zh_CN">Assembly GAC name for URI resolver class</val>
+   </key>
+   <key value="list_of_extension_object_class_name">
+      <comment>MSXML .NET options List of extension object class name</comment>
+      <comment>
+         <val lang="en_US">List of extension object class name</val>
+      </comment>
+      <val lang="zh_CN">List of extension object class name</val>
+   </key>
+   <key value="use_specified_exslt_assembly">
+      <comment>MSXML .NET options Use specified EXSLT assembly</comment>
+      <comment>
+         <val lang="en_US">Use specified EXSLT assembly</val>
+      </comment>
+      <val lang="zh_CN">Use specified EXSLT assembly</val>
+   </key>
+   <key value="credential_loading_source_xml">
+      <comment>MSXML .NET options Credential loading source xml</comment>
+      <comment>
+         <val lang="en_US">Credentials for loading the XML source</val>
+      </comment>
+      <val lang="zh_CN">Credentials for loading the XML source</val>
+   </key>
+   <key value="credential_loading_style_xsl">
+      <comment>MSXML .NET options Credential loading style xsl</comment>
+      <comment>
+         <val lang="en_US">Credential loading stylesheet</val>
+      </comment>
+      <val lang="zh_CN">Credential loading stylesheet</val>
+   </key>
+   <key value="Start_the_transform_in_this_mode">
+      <comment>Msxsl options Start transformation in this mode</comment>
+      <comment>
+         <val lang="en_US">Start transformation in this mode</val>
+      </comment>
+      <val lang="zh_CN">Start transformation in this mode</val>
+   </key>
+   <key value="MSXML_options">
+      <comment>Msxsl options</comment>
+      <comment>
+         <val lang="en_US">MSXML 3.0/4.0 Options</val>
+      </comment>
+      <val lang="zh_CN">MSXML 3.0/4.0 Options</val>
+   </key>
+   <key value="Validate_during_parse_phase">
+      <comment>Msxsl options Validate during parse phase</comment>
+      <comment>
+         <val lang="en_US">Validate documents during parse phase</val>
+      </comment>
+      <val lang="zh_CN">Validate documents during parse phase</val>
+   </key>
+   <key value="Do_not_resolve_external_definitions">
+      <comment>Msxsl options Do not resolve external definitions</comment>
+      <comment>
+         <val lang="en_US">Do not resolve external definitions during parse phase</val>
+      </comment>
+      <val lang="zh_CN">Do not resolve external definitions during parse phase</val>
+   </key>
+   <key value="Strip_non_significant_whitespaces">
+      <comment>Msxsl options Strip non significant whitespaces</comment>
+      <comment>
+         <val lang="en_US">Strip non significant whitespaces</val>
+      </comment>
+      <val lang="zh_CN">Strip non significant whitespaces</val>
+   </key>
+   <key value="XSLTPROC_options">
+      <comment>XSLT options.</comment>
+      <comment>
+         <val lang="en_US">XSLTPROC Options</val>
+      </comment>
+      <val lang="zh_CN">XSLTPROC Options</val>
+   </key>
+   <key value="Show_version_info">
+      <comment>Xsltproc options: Show version info</comment>
+      <comment>
+         <val lang="en_US">Show version of libxml and libxslt used</val>
+      </comment>
+      <val lang="zh_CN">Show version of libxml and libxslt used</val>
+   </key>
+   <key value="Show_time_info">
+      <comment>Xsltproc options: Show timing info</comment>
+      <comment>
+         <val lang="en_US">Show time information</val>
+      </comment>
+      <val lang="zh_CN">Show time information</val>
+   </key>
+   <key value="Show_debug_info">
+      <comment>Xsltproc options: Debug information</comment>
+      <comment>
+         <val lang="en_US">Show debug information</val>
+      </comment>
+      <val lang="zh_CN">Show debug information</val>
+   </key>
+   <key value="Skip_loading_dtds">
+      <comment>Xsltproc options: Show loading DTD's</comment>
+      <comment>
+         <val lang="en_US">Skip loading the document's DTD</val>
+      </comment>
+      <val lang="zh_CN">Skip loading the document's DTD</val>
+   </key>
+   <key value="No_net_for_fetch_dtds_entities_docs">
+      <comment>Xsltproc options: Not use Internet to fetch DTD's entities docs</comment>
+      <comment>
+         <val lang="en_US">Do not use Internet to fetch DTDs, entities or docs</val>
+      </comment>
+      <val lang="zh_CN">Do not use Internet to fetch DTDs, entities or docs</val>
+   </key>
+   <key value="Show_all_loaded_documents">
+      <comment>Xsltproc options: Shows all loaded documents during transforming</comment>
+      <comment>
+         <val lang="en_US">Show all documents loaded during processing</val>
+      </comment>
+      <val lang="zh_CN">Show all documents loaded during processing</val>
+   </key>
+   <key value="Show_profile_info">
+      <comment>Xsltproc options: Shows profile information</comment>
+      <comment>
+         <val lang="en_US">Show profile information</val>
+      </comment>
+      <val lang="zh_CN">Show profile information</val>
+   </key>
+   <key value="Show_registered_extensions">
+      <comment>Xsltproc options: Show_registered_extensions</comment>
+      <comment>
+         <val lang="en_US">Show the list of registered extensions</val>
+      </comment>
+      <val lang="zh_CN">Show the list of registered extensions</val>
+   </key>
+   <key value="Refuse_to_write_to_any_resource">
+      <comment>Xsltproc options: Refuse to write to any resource</comment>
+      <comment>
+         <val lang="en_US">Refuses to write to any file or resource</val>
+      </comment>
+      <val lang="zh_CN">Refuses to write to any file or resource</val>
+   </key>
+   <key value="Refuse_to_creat_directories">
+      <comment>Xsltproc options: Refuse to create directories</comment>
+      <comment>
+         <val lang="en_US">Refuses to create directories</val>
+      </comment>
+      <val lang="zh_CN">Refuses to create directories</val>
+   </key>
+   <key value="Do_not_apply_default_attributes_from_dtd">
+      <comment>Xsltproc options: Do not apply default attributes from dtd</comment>
+      <comment>
+         <val lang="en_US">Do not apply default attributes from document's DTD</val>
+      </comment>
+      <val lang="zh_CN">Do not apply default attributes from document's DTD</val>
+   </key>
+   <key value="Support_center">
+      <comment>The Support Center shortcut in the help menu.</comment>
+      <comment>
+         <val lang="en_US">Support Center</val>
+      </comment>
+      <val lang="zh_CN">Support Center</val>
+   </key>
+   <key value="Console">
+      <comment>Option for result console</comment>
+      <comment>
+         <val lang="en_US">Console</val>
+      </comment>
+      <val lang="zh_CN">Console</val>
+   </key>
+   <key value="Namespace_declarations">
+      <comment>Label for ignore namespace declaration</comment>
+      <comment>
+         <val lang="en_US">Namespace declarations</val>
+      </comment>
+      <val lang="zh_CN">Namespace declarations</val>
+   </key>
+   <key value="Disable_all">
+      <comment>The disable all action name</comment>
+      <comment>
+         <val lang="en_US">Disable all</val>
+      </comment>
+      <val lang="zh_CN">Disable all</val>
+   </key>
+   <key value="Enable_all">
+      <comment>The enable all action name</comment>
+      <comment>
+         <val lang="en_US">Enable all</val>
+      </comment>
+      <val lang="zh_CN">Enable all</val>
+   </key>
+   <key value="The_current_file_name_with_extension">
+      <comment>An editor variable that expands to the current file name without path</comment>
+      <comment>
+         <val lang="en_US">The current file name with extension</val>
+      </comment>
+      <val lang="zh_CN">The current file name with extension</val>
+   </key>
+   <key value="Found_errors_in">
+      <comment>Label for diff warning message</comment>
+      <comment>
+         <val lang="en_US">Found errors in</val>
+      </comment>
+      <val lang="zh_CN">Found errors in</val>
+   </key>
+   <key value="Comparing_with">
+      <comment>Label for diff warning message</comment>
+      <comment>
+         <val lang="en_US">Comparing with</val>
+      </comment>
+      <val lang="zh_CN">Comparing with</val>
+   </key>
+   <key value="Select_the_content_to_print">
+      <comment>Select content to print: Text or Diagram.</comment>
+      <comment>
+         <val lang="en_US">Select content to print</val>
+      </comment>
+      <val lang="zh_CN">Select content to print</val>
+   </key>
+   <key value="Diff_out_of_memory_warning">
+      <comment>Warning for OutOfMemory problem</comment>
+      <comment>
+         <val lang="en_US">In case you were running a diff tool when this problem occurred you can try to use another
+            algorithm next time.</val>
+      </comment>
+      <val lang="zh_CN">In case you were running a diff tool when this problem occurred you can try to use another
+            algorithm next time.</val>
+   </key>
+   <key value="Line_numbering">
+      <comment>Saxon Options page label.</comment>
+      <comment>
+         <val lang="en_US">Line numbering</val>
+      </comment>
+      <val lang="zh_CN">Line numbering</val>
+   </key>
+   <key value="Other_location">
+      <comment>Scenario dialog radio button</comment>
+      <comment>
+         <val lang="en_US">Other location</val>
+      </comment>
+      <val lang="zh_CN">Other location</val>
+   </key>
+   <key value="Saved_file">
+      <comment>Scenario dialog radio button</comment>
+      <comment>
+         <val lang="en_US">Saved file</val>
+      </comment>
+      <val lang="zh_CN">Saved file</val>
+   </key>
+   <key value="Could_not_add_folders">
+      <comment>Warning message shown when folders could not be added in the project tree</comment>
+      <comment>
+         <val lang="en_US">The folders could not be added</val>
+      </comment>
+      <val lang="zh_CN">The folders could not be added</val>
+   </key>
+   <key value="Extensions">
+      <comment>Title for XSLT Extensions page</comment>
+      <comment>
+         <val lang="en_US">Extensions</val>
+      </comment>
+      <val lang="zh_CN">Extensions</val>
+   </key>
+</translation>

@@ -1,0 +1,1762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key distribution="common" value="Copy_xpath_to_clipboard">
+      <comment>Action in the contextual menu.</comment>
+      <comment>
+         <val lang="en_US">Copy XPath</val>
+      </comment>
+      <val lang="zh_CN">Copy XPath</val>
+   </key>
+   <key value="Default_prefix_namespace_mappings">
+      <comment>Title for the editor/XPath section page.</comment>
+      <comment>
+         <val lang="en_US">Default prefix-namespace mappings</val>
+      </comment>
+      <val lang="zh_CN">Default prefix-namespace mappings</val>
+   </key>
+   <key distribution="eclipse" value="Pretty_print_element_command">
+      <comment>Action in the contextual menu.</comment>
+      <comment>
+         <val lang="en_US">Format and Indent Element</val>
+      </comment>
+      <val lang="zh_CN">Format and Indent Element</val>
+   </key>
+   <key distribution="common" value="Pretty_print_element">
+      <comment>Action in the contextual menu.</comment>
+      <comment>
+         <val lang="en_US" mnemonic="0">&amp;Format and Indent Element</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="0">&amp;Format and Indent Element</val>
+   </key>
+   <key value="Performance">
+      <comment>Title for the editor/performance page.</comment>
+      <comment>
+         <val lang="en_US">Performance</val>
+      </comment>
+      <val lang="zh_CN">Performance</val>
+   </key>
+   <key value="Clear_undo_buffer_before_Format_and_Indent">
+      <comment>Checkbox in the editor/performance page.</comment>
+      <comment>
+         <val lang="en_US">Clear undo buffer before Format and Indent</val>
+      </comment>
+      <val lang="zh_CN">Clear undo buffer before Format and Indent</val>
+   </key>
+   <key value="Clear_undo_buffer_on_save">
+      <comment>Checkbox in the editor/performance page.</comment>
+      <comment>
+         <val lang="en_US">Clear undo buffer on save</val>
+      </comment>
+      <val lang="zh_CN">Clear undo buffer on save</val>
+   </key>
+   <key value="Open_last_edited_files_from_project">
+      <comment>Checkbox in the global preferences page.</comment>
+      <comment>
+         <val lang="en_US">Open last edited files from project</val>
+      </comment>
+      <val lang="zh_CN">Open last edited files from project</val>
+   </key>
+   <key value="Do_not_show_the_dialog_again">
+      <comment>Checkbox in the dialog with Standard Error messages.</comment>
+      <comment>
+         <val lang="en_US">Do not show the dialog again</val>
+      </comment>
+      <val lang="zh_CN">Do not show the dialog again</val>
+   </key>
+   <key value="Escape_Unicode_Characters_starting_with">
+      <comment>Label from the escape selection dialog</comment>
+      <comment>
+         <val lang="en_US">Escape Unicode Characters starting with</val>
+      </comment>
+      <val lang="zh_CN">Escape Unicode Characters starting with</val>
+   </key>
+   <key value="Unescape_Characters">
+      <comment>Label from the unescape selection dialog</comment>
+      <comment>
+         <val lang="en_US">Unescape Characters</val>
+      </comment>
+      <val lang="zh_CN">Unescape Characters</val>
+   </key>
+   <key value="Unescape_Entities_to_Characters">
+      <comment>Title for unescape selection dialog</comment>
+      <comment>
+         <val lang="en_US">Unescape Entities to Characters</val>
+      </comment>
+      <val lang="zh_CN">Unescape Entities to Characters</val>
+   </key>
+   <key value="Escape_Characters_to_Entities">
+      <comment>Title for escape selection dialog</comment>
+      <comment>
+         <val lang="en_US">Escape Characters to Entities</val>
+      </comment>
+      <val lang="zh_CN">Escape Characters to Entities</val>
+   </key>
+   <key distribution="common" value="Unescape_selection">
+      <comment>Menu action for the XML Editor</comment>
+      <comment>
+         <val lang="en_US">Unescape Selection</val>
+      </comment>
+      <val lang="zh_CN">Unescape Selection</val>
+   </key>
+   <key value="Enable_smart_enter">
+      <comment>Label for option in Editor/Format page</comment>
+      <comment>
+         <val lang="en_US">Enable smart enter</val>
+      </comment>
+      <val lang="zh_CN">Enable smart enter</val>
+   </key>
+   <key value="Frameworks_dir">
+      <comment>Editor variable indicating the frameworks dir.</comment>
+      <comment>
+         <val lang="en_US">Oxygen frameworks directory</val>
+      </comment>
+      <val lang="zh_CN">Oxygen frameworks directory</val>
+   </key>
+   <key value="WSDL_Analysis_may_not_be_accurate">
+      <comment>Error message when WSDL file is not valid.</comment>
+      <comment>
+         <val lang="en_US">WSDL Analysis may not be accurate</val>
+      </comment>
+      <val lang="zh_CN">WSDL Analysis may not be accurate</val>
+   </key>
+   <key value="Select">
+      <comment>Editor pop-up menu submenu</comment>
+      <comment>
+         <val lang="en_US">Select</val>
+      </comment>
+      <val lang="zh_CN">Select</val>
+   </key>
+   <key value="XQuery_result_as_input">
+      <comment>The FO processor will receive the XQuery result as input.</comment>
+      <comment>
+         <val lang="en_US">XQuery result as input</val>
+      </comment>
+      <val lang="zh_CN">XQuery result as input</val>
+   </key>
+   <key value="Line_wrap">
+      <comment>Options/Preferences/Editor/Aspect The line wrap feature.</comment>
+      <comment>
+         <val lang="en_US">Line wrap</val>
+      </comment>
+      <val lang="zh_CN">Line wrap</val>
+   </key>
+   <key distribution="common" value="XML_Refactoring">
+      <comment>Editor popup menu</comment>
+      <comment>
+         <val lang="en_US">XML Refactoring</val>
+      </comment>
+      <val lang="zh_CN">XML Refactoring</val>
+   </key>
+   <key value="Found_a_template_with_the_same_name_for">
+      <comment>Error message when a code template with same name and content type already exists.</comment>
+      <comment>
+         <val lang="en_US">Found a template with the same name for</val>
+      </comment>
+      <val lang="zh_CN">Found a template with the same name for</val>
+   </key>
+   <key value="Invalid_selected_schema">
+      <comment>Error message when selected schema for 'validate with' is invalid.</comment>
+      <comment>
+         <val lang="en_US">Invalid selected schema</val>
+      </comment>
+      <val lang="zh_CN">Invalid selected schema</val>
+   </key>
+   <key value="There_are_actions">
+      <comment>For example in Options/Preferences/Menu Shortcut Keys, error message when you set the same shortcut key
+            as for other actions.</comment>
+      <comment>
+         <val lang="en_US">There are actions with the same shortcut found</val>
+      </comment>
+      <val lang="zh_CN">There are actions with the same shortcut found</val>
+   </key>
+   <key value="Debug_now">
+      <comment>Debug now - button text into 'Select scenario for debugger' dialog.</comment>
+      <comment>
+         <val lang="en_US">Debug now</val>
+      </comment>
+      <val lang="zh_CN">Debug now</val>
+   </key>
+   <key value="Select_scenario_for_debugger">
+      <comment>Select scenario for debugger dialog title.</comment>
+      <comment>
+         <val lang="en_US">Select scenario for debugger</val>
+      </comment>
+      <val lang="zh_CN">Select scenario for debugger</val>
+   </key>
+   <key distribution="common" value="Debug_scenario">
+      <comment>Debug scenario action.</comment>
+      <comment>
+         <val lang="en_US">Debug Scenario</val>
+      </comment>
+      <val lang="zh_CN">Debug Scenario</val>
+   </key>
+   <key value="Open_with">
+      <comment>Submenu in project tree.</comment>
+      <comment>
+         <val lang="en_US">Open with</val>
+      </comment>
+      <val lang="zh_CN">Open with</val>
+   </key>
+   <key value="Press_F2_for_focus">
+      <comment>Label in Tool Tip window.</comment>
+      <comment>
+         <val lang="en_US">Press F2 for focus</val>
+      </comment>
+      <val lang="zh_CN">Press F2 for focus</val>
+   </key>
+   <key value="Press_Shift_F2_for_focus">
+      <comment>Label in Tool Tip window.</comment>
+      <comment>
+         <val lang="en_US">Press Shift+F2 for focus</val>
+      </comment>
+      <val lang="zh_CN">Press Shift+F2 for focus</val>
+   </key>
+   <key value="Surround_with">
+      <comment>Option in the editor pop-up menu.</comment>
+      <comment>
+         <val lang="en_US">Surround with</val>
+      </comment>
+      <val lang="zh_CN">Surround with</val>
+   </key>
+   <key value="Detect_line_width_on_open">
+      <comment>Detect line width on open option.</comment>
+      <comment>
+         <val lang="en_US">Detect line width on open</val>
+      </comment>
+      <val lang="zh_CN">Detect line width on open</val>
+   </key>
+   <key value="Detect_indent_on_open">
+      <comment>Detect indent on open option.</comment>
+      <comment>
+         <val lang="en_US">Detect indent on open</val>
+      </comment>
+      <val lang="zh_CN">Detect indent on open</val>
+   </key>
+   <key value="Associate_with">
+      <comment>Code template dialog label.</comment>
+      <comment>
+         <val lang="en_US">Associate with</val>
+      </comment>
+      <val lang="zh_CN">Associate with</val>
+   </key>
+   <key value="Content">
+      <comment>Code template dialog label.</comment>
+      <comment>
+         <val lang="en_US">Content</val>
+      </comment>
+      <val lang="zh_CN">Content</val>
+   </key>
+   <key value="Code_template">
+      <comment>Code template dialog title.</comment>
+      <comment>
+         <val lang="en_US">Code template</val>
+      </comment>
+      <val lang="zh_CN">Code template</val>
+   </key>
+   <key distribution="common" value="Import">
+      <comment>Code templates option pane label.</comment>
+      <comment>
+         <val lang="en_US">Import</val>
+      </comment>
+      <val lang="zh_CN">Import</val>
+   </key>
+   <key value="Preview">
+      <comment>Code templates option pane label.</comment>
+      <comment>
+         <val lang="en_US">Preview</val>
+      </comment>
+      <val lang="zh_CN">Preview</val>
+   </key>
+   <key distribution="common" value="Code_templates">
+      <comment>Code templates option pane title.</comment>
+      <comment>
+         <val lang="en_US">Code Templates</val>
+      </comment>
+      <val lang="zh_CN">Code Templates</val>
+   </key>
+   <key value="Enable_fold_on_open">
+      <comment>Enable/disable the folding support on opening a new editor.</comment>
+      <comment>
+         <val lang="en_US">Enable folding when opening a new editor</val>
+      </comment>
+      <val lang="zh_CN">Enable folding when opening a new editor</val>
+   </key>
+   <key value="Hard_line_wrap">
+      <comment>Hard line wrap.</comment>
+      <comment>
+         <val lang="en_US">Hard line wrap</val>
+      </comment>
+      <val lang="zh_CN">Hard line wrap</val>
+   </key>
+   <key value="Schematron_document">
+      <comment>New Schematron wizard.</comment>
+      <comment>
+         <val lang="en_US">Schematron document</val>
+      </comment>
+      <val lang="zh_CN">Schematron document</val>
+   </key>
+   <key value="Create_a_schematron_document">
+      <comment>New Schematron wizard.</comment>
+      <comment>
+         <val lang="en_US">Create a Schematron document</val>
+      </comment>
+      <val lang="zh_CN">Create a Schematron document</val>
+   </key>
+   <key value="Folding">
+      <comment>Name for the Folding menu item.</comment>
+      <comment>
+         <val lang="en_US">Folding</val>
+      </comment>
+      <val lang="zh_CN">Folding</val>
+   </key>
+   <key value="Schematron_phase_chooser">
+      <comment>Title for Schematron Phase Chooser Dialog.</comment>
+      <comment>
+         <val lang="en_US">Schematron Phase Chooser</val>
+      </comment>
+      <val lang="zh_CN">Schematron Phase Chooser</val>
+   </key>
+   <key value="Column">
+      <comment>"Find" menu, "Go to line" dialog label . </comment>
+      <comment>
+         <val lang="en_US">Column</val>
+      </comment>
+      <val lang="zh_CN">Column</val>
+   </key>
+   <key value="The_number_is_wrong">
+      <comment>"Find" menu, "Go to line" option, "Error message" title. </comment>
+      <comment>
+         <val lang="en_US">The number is wrong</val>
+      </comment>
+      <val lang="zh_CN">The number is wrong</val>
+   </key>
+   <key value="Offset">
+      <comment>Go To dialog.</comment>
+      <comment>
+         <val lang="en_US">Offset</val>
+      </comment>
+      <val lang="zh_CN">Offset</val>
+   </key>
+   <key value="Source">
+      <comment>Label Eclipse plugin's context menu.</comment>
+      <comment>
+         <val lang="en_US">Source</val>
+      </comment>
+      <val lang="zh_CN">Source</val>
+   </key>
+   <key value="Save_all_files_before_transformation_or_validation">
+      <comment>Save all files before transformation or validation option</comment>
+      <comment>
+         <val lang="en_US">Save all files before transformation or validation</val>
+      </comment>
+      <val lang="zh_CN">Save all files before transformation or validation</val>
+   </key>
+   <key value="Number_of_characters">
+      <comment>Used in the Document properties dialog</comment>
+      <comment>
+         <val lang="en_US">Number of characters</val>
+      </comment>
+      <val lang="zh_CN">Number of characters</val>
+   </key>
+   <key value="Variable_scope_and_type">
+      <comment>Tooltip for scope and type of the variable</comment>
+      <comment>
+         <val lang="en_US">Variable scope and type</val>
+      </comment>
+      <val lang="zh_CN">Variable scope and type</val>
+   </key>
+   <key value="Value_type">
+      <comment>Type of value for a variable on debugger variable list</comment>
+      <comment>
+         <val lang="en_US">Value type</val>
+      </comment>
+      <val lang="zh_CN">Value type</val>
+   </key>
+   <key distribution="common" value="Delete_tags">
+      <comment>Delete current elements tags action from editor popup menu</comment>
+      <comment>
+         <val lang="en_US" mnemonic="0">&amp;Delete Element Tags</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="0">&amp;Delete Element Tags</val>
+   </key>
+   <key value="Create_new_document_from_templates">
+      <comment>Eclipse new from templates wizard title</comment>
+      <comment>
+         <val lang="en_US">Create new document from templates</val>
+      </comment>
+      <val lang="zh_CN">Create new document from templates</val>
+   </key>
+   <key value="Creating_the_sample_project">
+      <comment>Eclipse new XML sample project wizard description</comment>
+      <comment>
+         <val lang="en_US">Creating the sample project</val>
+      </comment>
+      <val lang="zh_CN">Creating the sample project</val>
+   </key>
+   <key value="Choose_the_current_project_references">
+      <comment>Eclipse new XML sample project wizard description</comment>
+      <comment>
+         <val lang="en_US">Choose the current project references</val>
+      </comment>
+      <val lang="zh_CN">Choose the current project references</val>
+   </key>
+   <key value="This_is_a_text_sample">
+      <comment>Eclipse: text sample used in the editor's preference page.</comment>
+      <comment>
+         <val lang="en_US">This is a text sample</val>
+      </comment>
+      <val lang="zh_CN">This is a text sample</val>
+   </key>
+   <key value="Editor_background">
+      <comment>Eclipse: change the background used by oxygen's editors</comment>
+      <comment>
+         <val lang="en_US">Editor background</val>
+      </comment>
+      <val lang="zh_CN">Editor background</val>
+   </key>
+   <key value="Map_to_text_font">
+      <comment>Eclipse: map the font used by oxygen's editors to the one used by the default text editor.</comment>
+      <comment>
+         <val lang="en_US">Map to text font</val>
+      </comment>
+      <val lang="zh_CN">Map to text font</val>
+   </key>
+   <key value="Create_an_WSDL_document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create an WSDL document</val>
+      </comment>
+      <val lang="zh_CN">Create an WSDL document</val>
+   </key>
+   <key value="Create_an_XQuery_document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create an XQuery document</val>
+      </comment>
+      <val lang="zh_CN">Create an XQuery document</val>
+   </key>
+   <key value="Create_an_XSL_document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create an XSL document</val>
+      </comment>
+      <val lang="zh_CN">Create an XSL document</val>
+   </key>
+   <key value="Create_an_XSD_document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create an XSD document</val>
+      </comment>
+      <val lang="zh_CN">Create an XSD document</val>
+   </key>
+   <key value="Project_preferences">
+      <comment>Eclipse new XML sample project wizard title</comment>
+      <comment>
+         <val lang="en_US">Project preferences</val>
+      </comment>
+      <val lang="zh_CN">Project preferences</val>
+   </key>
+   <key value="Customize">
+      <comment>Customize something. Used for eclipse.</comment>
+      <comment>
+         <val lang="en_US">Customize</val>
+      </comment>
+      <val lang="zh_CN">Customize</val>
+   </key>
+   <key value="Customize_project">
+      <comment>Eclipse new project wizards dialog title</comment>
+      <comment>
+         <val lang="en_US">Customize project</val>
+      </comment>
+      <val lang="zh_CN">Customize project</val>
+   </key>
+   <key value="Customize_document">
+      <comment>New document wizards dialog title</comment>
+      <comment>
+         <val lang="en_US">Customize document</val>
+      </comment>
+      <val lang="zh_CN">Customize document</val>
+   </key>
+   <key value="Do_you_want_to_switch_the_perspective_now">
+      <comment>Eclipse new sample wizards ask for switch perspective</comment>
+      <comment>
+         <val lang="en_US">Do you want to switch the perspective now</val>
+      </comment>
+      <val lang="zh_CN">Do you want to switch the perspective now</val>
+   </key>
+   <key value="Switch_perspective">
+      <comment>Eclipse dialog title</comment>
+      <comment>
+         <val lang="en_US">Switch perspective</val>
+      </comment>
+      <val lang="zh_CN">Switch perspective</val>
+   </key>
+   <key value="Create_Oxygen_Sample_project">
+      <comment>Eclipse new Oxygen project dialog title</comment>
+      <comment>
+         <val lang="en_US">Create an Oxygen sample project</val>
+      </comment>
+      <val lang="zh_CN">Create an Oxygen sample project</val>
+   </key>
+   <key value="Create_an_JavaScript_document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create a JavaScript document</val>
+      </comment>
+      <val lang="zh_CN">Create a JavaScript document</val>
+   </key>
+   <key value="Create_a_Markdown_document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create a Markdown document</val>
+      </comment>
+      <val lang="zh_CN">Create a Markdown document</val>
+   </key>
+   <key value="Create_a_SQL_document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create a SQL document</val>
+      </comment>
+      <val lang="zh_CN">Create a SQL document</val>
+   </key>
+   <key value="Create_an_NVDL_document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create an NVDL document</val>
+      </comment>
+      <val lang="zh_CN">Create an NVDL document</val>
+   </key>
+   <key value="Create_an_RNC_document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create an RNC document</val>
+      </comment>
+      <val lang="zh_CN">Create an RNC document</val>
+   </key>
+   <key value="Create_an_RNG_document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create an RNG document</val>
+      </comment>
+      <val lang="zh_CN">Create an RNG document</val>
+   </key>
+   <key value="Create_an_CSS_document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create an CSS document</val>
+      </comment>
+      <val lang="zh_CN">Create an CSS document</val>
+   </key>
+   <key value="Create_an_DTD_document">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create an DTD document</val>
+      </comment>
+      <val lang="zh_CN">Create an DTD document</val>
+   </key>
+   <key value="Open_file_for_editing_when_done">
+      <comment>Eclipse new file dialog check box</comment>
+      <comment>
+         <val lang="en_US">Open file for editing when done</val>
+      </comment>
+      <val lang="zh_CN">Open file for editing when done</val>
+   </key>
+   <key distribution="common" value="Remove_breakpoint">
+      <comment>Eclipse debugger contextual menu</comment>
+      <comment>
+         <val lang="en_US">Remove breakpoint</val>
+      </comment>
+      <val lang="zh_CN">Remove breakpoint</val>
+   </key>
+   <key distribution="common" value="Add_breakpoint">
+      <comment>Eclipse debugger contextual menu</comment>
+      <comment>
+         <val lang="en_US">Add breakpoint</val>
+      </comment>
+      <val lang="zh_CN">Add breakpoint</val>
+   </key>
+   <key value="Open_resource_at_caret">
+      <comment>Eclipse editor contextual menu</comment>
+      <comment>
+         <val lang="en_US">Open resource at cursor</val>
+      </comment>
+      <val lang="zh_CN">Open resource at cursor</val>
+   </key>
+   <key value="Operation_not_available">
+      <comment>Eclipse info message</comment>
+      <comment>
+         <val lang="en_US">Operation not available</val>
+      </comment>
+      <val lang="zh_CN">Operation not available</val>
+   </key>
+   <key distribution="common" value="Clear_validation_markers">
+      <comment>Eclipse toolbar tooltip</comment>
+      <comment>
+         <val lang="en_US">Clear Validation Markers</val>
+      </comment>
+      <val lang="zh_CN">Clear Validation Markers</val>
+   </key>
+   <key value="No_system_browser_available">
+      <comment>Eclipse initialising the text viewer error message</comment>
+      <comment>
+         <val lang="en_US">No system browser available</val>
+      </comment>
+      <val lang="zh_CN">No system browser available</val>
+   </key>
+   <key value="Initializing_debugger_engine">
+      <comment>Eclipse: initializing debugger engine</comment>
+      <comment>
+         <val lang="en_US">Initializing debugger engine</val>
+      </comment>
+      <val lang="zh_CN">Initializing debugger engine</val>
+   </key>
+   <key value="Not_licensed">
+      <comment>Eclipse debugger</comment>
+      <comment>
+         <val lang="en_US">Not licensed</val>
+      </comment>
+      <val lang="zh_CN">Not licensed</val>
+   </key>
+   <key distribution="common" value="Import_entities">
+      <comment>Editor popup menu</comment>
+      <comment>
+         <val lang="en_US">Import Entities List</val>
+      </comment>
+      <val lang="zh_CN">Import Entities List</val>
+   </key>
+   <key value="Cannot_associate_extension">
+      <comment>File types association option page</comment>
+      <comment>
+         <val lang="en_US">Cannot associate same extension to different editors</val>
+      </comment>
+      <val lang="zh_CN">Cannot associate same extension to different editors</val>
+   </key>
+   <key value="XSL_Document">
+      <comment/>
+      <comment>
+         <val lang="en_US">XSL Document</val>
+      </comment>
+      <val lang="zh_CN">XSL Document</val>
+   </key>
+   <key value="XSD_Document">
+      <comment/>
+      <comment>
+         <val lang="en_US">XSD Document</val>
+      </comment>
+      <val lang="zh_CN">XSD Document</val>
+   </key>
+   <key value="XQuery_Document">
+      <comment/>
+      <comment>
+         <val lang="en_US">XQuery Document</val>
+      </comment>
+      <val lang="zh_CN">XQuery Document</val>
+   </key>
+   <key value="WSDL_Document">
+      <comment/>
+      <comment>
+         <val lang="en_US">WSDL Document</val>
+      </comment>
+      <val lang="zh_CN">WSDL Document</val>
+   </key>
+   <key value="CSS_Document">
+      <comment/>
+      <comment>
+         <val lang="en_US">CSS Document</val>
+      </comment>
+      <val lang="zh_CN">CSS Document</val>
+   </key>
+   <key value="SQL_Document">
+      <comment/>
+      <comment>
+         <val lang="en_US">SQL Document</val>
+      </comment>
+      <val lang="zh_CN">SQL Document</val>
+   </key>
+   <key value="JS_Document">
+      <comment/>
+      <comment>
+         <val lang="en_US">JavaScript Document</val>
+      </comment>
+      <val lang="zh_CN">JavaScript Document</val>
+   </key>
+   <key value="MD_Document">
+      <comment>Markdown Document</comment>
+      <comment>
+         <val lang="en_US">Markdown Document</val>
+      </comment>
+      <val lang="zh_CN">Markdown Document</val>
+   </key>
+   <key distribution="common" value="Nodes_values_set">
+      <comment>Nodes/Values Set - tab title from debugger views</comment>
+      <comment>
+         <val lang="en_US">Nodes/Values Set</val>
+      </comment>
+      <val lang="zh_CN">Nodes/Values Set</val>
+   </key>
+   <key value="New_name">
+      <comment>Label in Rename Element Dialog</comment>
+      <comment>
+         <val lang="en_US">New name</val>
+      </comment>
+      <val lang="zh_CN">New name</val>
+   </key>
+   <key distribution="eclipse" value="Split_element_command">
+      <comment>Action from contextual menu</comment>
+      <comment>
+         <val lang="en_US">Split Element</val>
+      </comment>
+      <val lang="zh_CN">Split Element</val>
+   </key>
+   <key distribution="common" value="Split_element">
+      <comment>Action from contextual menu</comment>
+      <comment>
+         <val lang="en_US" mnemonic="0">&amp;Split Element</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="0">&amp;Split Element</val>
+   </key>
+   <key distribution="eclipse" value="Join_elements_command">
+      <comment>Action from contextual menu</comment>
+      <comment>
+         <val lang="en_US">Join Elements</val>
+      </comment>
+      <val lang="zh_CN">Join Elements</val>
+   </key>
+   <key distribution="common" value="Join_elements">
+      <comment>Action from contextual menu</comment>
+      <comment>
+         <val lang="en_US" mnemonic="0">&amp;Join Elements</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="0">&amp;Join Elements</val>
+   </key>
+   <key distribution="common" value="Rename_current_element">
+      <comment>Option for rename elements dialog</comment>
+      <comment>
+         <val lang="en_US">Rename current element</val>
+      </comment>
+      <val lang="zh_CN">Rename current element</val>
+   </key>
+   <key value="Rename_siblings">
+      <comment>Option for rename elements dialog</comment>
+      <comment>
+         <val lang="en_US">Rename siblings with the same name</val>
+      </comment>
+      <val lang="zh_CN">Rename siblings with the same name</val>
+   </key>
+   <key value="Rename_all_elements">
+      <comment>Option for rename elements dialog</comment>
+      <comment>
+         <val lang="en_US">Rename all elements with the same name</val>
+      </comment>
+      <val lang="zh_CN">Rename all elements with the same name</val>
+   </key>
+   <key distribution="common" value="Rename_element">
+      <comment>Action from contextual menu</comment>
+      <comment>
+         <val lang="en_US">Rename Element</val>
+      </comment>
+      <val lang="zh_CN">Rename Element</val>
+   </key>
+   <key value="Attributes_model">
+      <comment>Tooltip for attributes model button from Model Panel</comment>
+      <comment>
+         <val lang="en_US">Attributes Model</val>
+      </comment>
+      <val lang="zh_CN">Attributes Model</val>
+   </key>
+   <key value="Use_default_catalog">
+      <comment>"Preferences" dialog/ XML Catalog page.</comment>
+      <comment>
+         <val lang="en_US">Use default catalog</val>
+      </comment>
+      <val lang="zh_CN">Use default catalog</val>
+   </key>
+   <key value="Add_first_choice_particle">
+      <comment>"Preferences" dialog/ Editor/ Tag Insight/ Features page.</comment>
+      <comment>
+         <val lang="en_US">Add first Choice particle</val>
+      </comment>
+      <val lang="zh_CN">Add first Choice particle</val>
+   </key>
+   <key value="Add_element_content">
+      <comment>"Preferences" dialog/ Editor/ Tag Insight/ Features page.</comment>
+      <comment>
+         <val lang="en_US">Add element content</val>
+      </comment>
+      <val lang="zh_CN">Add element content</val>
+   </key>
+   <key value="Format_and_indent_document_on_open">
+      <comment>Label in Preferences/Format page.</comment>
+      <comment>
+         <val lang="en_US">Format and indent the document on open</val>
+      </comment>
+      <val lang="zh_CN">Format and indent the document on open</val>
+   </key>
+   <key value="User_home">
+      <comment>Editor variable used for user home directory.</comment>
+      <comment>
+         <val lang="en_US">The path to user home directory</val>
+      </comment>
+      <val lang="zh_CN">The path to user home directory</val>
+   </key>
+   <key value="Add_optional_content">
+      <comment>Add optional content label from Tag Insight/Features page</comment>
+      <comment>
+         <val lang="en_US">Add optional content</val>
+      </comment>
+      <val lang="zh_CN">Add optional content</val>
+   </key>
+   <key value="Highlight_current_line">
+      <comment>Highlight current line option</comment>
+      <comment>
+         <val lang="en_US">Highlight current line</val>
+      </comment>
+      <val lang="zh_CN">Highlight current line</val>
+   </key>
+   <key value="Open">
+      <comment>WSDL File Chooser button</comment>
+      <comment>
+         <val lang="en_US">Open</val>
+      </comment>
+      <val lang="zh_CN">Open</val>
+   </key>
+   <key value="WSDL_Document_is_not_valid">
+      <comment>WSDL File Chooser message</comment>
+      <comment>
+         <val lang="en_US">WSDL Document is not valid</val>
+      </comment>
+      <val lang="zh_CN">WSDL Document is not valid</val>
+   </key>
+   <key value="WSDL_File_Opener">
+      <comment>WSDL File Chooser title</comment>
+      <comment>
+         <val lang="en_US">WSDL File Opener</val>
+      </comment>
+      <val lang="zh_CN">WSDL File Opener</val>
+   </key>
+   <key value="Attach">
+      <comment>Attachments panel in WSDL Dialog</comment>
+      <comment>
+         <val lang="en_US">Attach</val>
+      </comment>
+      <val lang="zh_CN">Attach</val>
+   </key>
+   <key value="Attachments">
+      <comment>Message panel in WSDL Dialog</comment>
+      <comment>
+         <val lang="en_US">Attachments</val>
+      </comment>
+      <val lang="zh_CN">Attachments</val>
+   </key>
+   <key value="Response">
+      <comment>Message panel in WSDL Dialog</comment>
+      <comment>
+         <val lang="en_US">Response</val>
+      </comment>
+      <val lang="zh_CN">Response</val>
+   </key>
+   <key value="Request">
+      <comment>Message panel in WSDL Dialog</comment>
+      <comment>
+         <val lang="en_US">Request</val>
+      </comment>
+      <val lang="zh_CN">Request</val>
+   </key>
+   <key value="Connecting_to_host">
+      <comment>Message dialog when connecting</comment>
+      <comment>
+         <val lang="en_US">Connecting to host</val>
+      </comment>
+      <val lang="zh_CN">Connecting to host</val>
+   </key>
+   <key value="Connecting">
+      <comment>Message dialog title for WSDL Dialog</comment>
+      <comment>
+         <val lang="en_US">Connecting</val>
+      </comment>
+      <val lang="zh_CN">Connecting</val>
+   </key>
+   <key value="Actions">
+      <comment>Label in WSDL Dialog</comment>
+      <comment>
+         <val lang="en_US">Actions</val>
+      </comment>
+      <val lang="zh_CN">Actions</val>
+   </key>
+   <key value="SOAP_Action">
+      <comment>Label in WSDL Dialog</comment>
+      <comment>
+         <val lang="en_US">SOAP Action</val>
+      </comment>
+      <val lang="zh_CN">SOAP Action</val>
+   </key>
+   <key value="Send">
+      <comment>Send button in WSDL Dialog</comment>
+      <comment>
+         <val lang="en_US">Send</val>
+      </comment>
+      <val lang="zh_CN">Send</val>
+   </key>
+   <key value="Services">
+      <comment>Services label in WSDL Dialog</comment>
+      <comment>
+         <val lang="en_US">Services</val>
+      </comment>
+      <val lang="zh_CN">Services</val>
+   </key>
+   <key value="Ports">
+      <comment>Ports label in WSDL Dialog</comment>
+      <comment>
+         <val lang="en_US">Ports</val>
+      </comment>
+      <val lang="zh_CN">Ports</val>
+   </key>
+   <key value="Invalid_protocol">
+      <comment>Error message in WSDL Dialog</comment>
+      <comment>
+         <val lang="en_US">Invalid protocol</val>
+      </comment>
+      <val lang="zh_CN">Invalid protocol</val>
+   </key>
+   <key value="Operations">
+      <comment>Operations label in WSDL Dialog</comment>
+      <comment>
+         <val lang="en_US">Operations</val>
+      </comment>
+      <val lang="zh_CN">Operations</val>
+   </key>
+   <key value="WSDL_SOAP_analyser">
+      <comment>Item in the Tools Menu</comment>
+      <comment>
+         <val lang="en_US">WSDL SOAP Analyzer</val>
+      </comment>
+      <val lang="zh_CN">WSDL SOAP Analyzer</val>
+   </key>
+   <key value="SVG_viewer">
+      <comment>Viewer for SVG documents.</comment>
+      <comment>
+         <val lang="en_US">SVG Viewer</val>
+      </comment>
+      <val lang="zh_CN">SVG Viewer</val>
+   </key>
+   <key value="Zoom_in">
+      <comment>Zoom in action in the SVG panel.</comment>
+      <comment>
+         <val lang="en_US">Zoom in</val>
+      </comment>
+      <val lang="zh_CN">Zoom in</val>
+   </key>
+   <key value="Zoom_out">
+      <comment>Zoom out action in the SVG panel.</comment>
+      <comment>
+         <val lang="en_US">Zoom out</val>
+      </comment>
+      <val lang="zh_CN">Zoom out</val>
+   </key>
+   <key value="Rotate">
+      <comment>Rotate in action in the SVG panel.</comment>
+      <comment>
+         <val lang="en_US">Rotate</val>
+      </comment>
+      <val lang="zh_CN">Rotate</val>
+   </key>
+   <key value="The_path_to_the_current_Debugger_source_selection">
+      <comment>Options/Preferences/FO Processor,New dialog</comment>
+      <comment>
+         <val lang="en_US">The path to the current Debugger source selection</val>
+      </comment>
+      <val lang="zh_CN">The path to the current Debugger source selection</val>
+   </key>
+   <key value="The_path_to_the_current_Debugger_stylesheet_selection">
+      <comment>Options/Preferences/FO Processor,New dialog</comment>
+      <comment>
+         <val lang="en_US">The path to the current Debugger stylesheet selection</val>
+      </comment>
+      <val lang="zh_CN">The path to the current Debugger stylesheet selection</val>
+   </key>
+   <key value="Stylesheet_version">
+      <comment>The version of the stylesheet label in the XSL version dialog.</comment>
+      <comment>
+         <val lang="en_US">Stylesheet version</val>
+      </comment>
+      <val lang="zh_CN">Stylesheet version</val>
+   </key>
+   <key value="Debugger_errors">
+      <comment>Title of the tab with debugger errors.</comment>
+      <comment>
+         <val lang="en_US">Debugger errors</val>
+      </comment>
+      <val lang="zh_CN">Debugger errors</val>
+   </key>
+   <key value="ended_by_user">
+      <comment>Status message when transformation is stopped by user.</comment>
+      <comment>
+         <val lang="en_US">ended by user.</val>
+      </comment>
+      <val lang="zh_CN">ended by user.</val>
+   </key>
+   <key value="Begin_at_caret_position">
+      <comment>Tell Spell Checker to begin checking from caret position</comment>
+      <comment>
+         <val lang="en_US">Begin at cursor position</val>
+      </comment>
+      <val lang="zh_CN">Begin at cursor position</val>
+   </key>
+   <key value="Model_is_not_available">
+      <comment>Used from element model view when model is not available</comment>
+      <comment>
+         <val lang="en_US">Model is not available.</val>
+      </comment>
+      <val lang="zh_CN">Model is not available.</val>
+   </key>
+   <key value="Show_annotations">
+      <comment>Show annotations tag insight option</comment>
+      <comment>
+         <val lang="en_US">Show Annotations</val>
+      </comment>
+      <val lang="zh_CN">Show Annotations</val>
+   </key>
+   <key value="No_element_selected">
+      <comment>Used from element model view when no element selected</comment>
+      <comment>
+         <val lang="en_US">No element selected</val>
+      </comment>
+      <val lang="zh_CN">No element selected</val>
+   </key>
+   <key value="An_annotation_is_not_available">
+      <comment>Used from element model view when an annotation is not available</comment>
+      <comment>
+         <val lang="en_US">An annotation is not available for the current selection.</val>
+      </comment>
+      <val lang="zh_CN">An annotation is not available for the current selection.</val>
+   </key>
+   <key value="Normal_contrast">
+      <comment>Normal contrast tooltip</comment>
+      <comment>
+         <val lang="en_US">Normal contrast</val>
+      </comment>
+      <val lang="zh_CN">Normal contrast</val>
+   </key>
+   <key value="Authorization_required">
+      <comment>The dialog title where username and password are entered for authorisation purpose</comment>
+      <comment>
+         <val lang="en_US">Authorization required</val>
+      </comment>
+      <val lang="zh_CN">Authorization required</val>
+   </key>
+   <key value="Stop_transformation_tooltip">
+      <comment>Tooltip for.stop transformation button.</comment>
+      <comment>
+         <val lang="en_US">Stop transformation</val>
+      </comment>
+      <val lang="zh_CN">Stop transformation</val>
+   </key>
+   <key value="is_Stopping">
+      <comment>Status message when stopping transformation.</comment>
+      <comment>
+         <val lang="en_US">is stopping</val>
+      </comment>
+      <val lang="zh_CN">is stopping</val>
+   </key>
+   <key value="Semi_transparent_text">
+      <comment>Semi-transparent text schema.</comment>
+      <comment>
+         <val lang="en_US">Semi-transparent Text</val>
+      </comment>
+      <val lang="zh_CN">Semi-transparent Text</val>
+   </key>
+   <key value="Semi_transparent_markup">
+      <comment>Semi-transparent markup schema.</comment>
+      <comment>
+         <val lang="en_US">Semi-transparent Markup</val>
+      </comment>
+      <val lang="zh_CN">Semi-transparent Markup</val>
+   </key>
+   <key value="Transparent_text">
+      <comment>Transparent text schema.</comment>
+      <comment>
+         <val lang="en_US">Transparent Text</val>
+      </comment>
+      <val lang="zh_CN">Transparent Text</val>
+   </key>
+   <key value="Transparent_markup">
+      <comment>Transparent markup schema.</comment>
+      <comment>
+         <val lang="en_US">Transparent Markup</val>
+      </comment>
+      <val lang="zh_CN">Transparent Markup</val>
+   </key>
+   <key value="Learn_on_open_document">
+      <comment>Learn xml structure when opening a document.</comment>
+      <comment>
+         <val lang="en_US">Learn on open document</val>
+      </comment>
+      <val lang="zh_CN">Learn on open document</val>
+   </key>
+   <key value="You_must_select_or_type_a_directory_name">
+      <comment>Error message displayed when OK is pressed in URL chooser dialog and the tree selection is a file, not
+            a directory.</comment>
+      <comment>
+         <val lang="en_US">You must select or type a directory name.</val>
+      </comment>
+      <val lang="zh_CN">You must select or type a directory name.</val>
+   </key>
+   <key value="Keep">
+      <comment>BOM handling option - Keep</comment>
+      <comment>
+         <val lang="en_US">Keep</val>
+      </comment>
+      <val lang="zh_CN">Keep</val>
+   </key>
+   <key value="Dont_write">
+      <comment>BOM handling option - Don't Write</comment>
+      <comment>
+         <val lang="en_US">Don't Write</val>
+      </comment>
+      <val lang="zh_CN">Don't Write</val>
+   </key>
+   <key value="Write">
+      <comment>BOM handling option - Write</comment>
+      <comment>
+         <val lang="en_US">Write</val>
+      </comment>
+      <val lang="zh_CN">Write</val>
+   </key>
+   <key value="Refresh">
+      <comment>Refresh external folder project action. </comment>
+      <comment>
+         <val lang="en_US">Refresh</val>
+      </comment>
+      <val lang="zh_CN">Refresh</val>
+   </key>
+   <key value="Infinite_loop_detection">
+      <comment>Options/Preferences/XSLT-FO/Debugger options.</comment>
+      <comment>
+         <val lang="en_US">Infinite loop detection</val>
+      </comment>
+      <val lang="zh_CN">Infinite loop detection</val>
+   </key>
+   <key value="Maximum_depth_in_templates_stack">
+      <comment>Options/Preferences/XSLT-FO/Debugger options.</comment>
+      <comment>
+         <val lang="en_US">Maximum depth in templates stack</val>
+      </comment>
+      <val lang="zh_CN">Maximum depth in templates stack</val>
+   </key>
+   <key value="Learn_attributes_values">
+      <comment>Options/Preferences/Tag Insight/Features Learn attributes values.</comment>
+      <comment>
+         <val lang="en_US">Learn attributes values</val>
+      </comment>
+      <val lang="zh_CN">Learn attributes values</val>
+   </key>
+   <key value="Learn_options">
+      <comment>Options/Preferences/Tag Insight/Features Learn options section.</comment>
+      <comment>
+         <val lang="en_US">Learn options</val>
+      </comment>
+      <val lang="zh_CN">Learn options</val>
+   </key>
+   <key distribution="common" value="Go_to_matching_tag">
+      <comment>Go to matching tag editor action. </comment>
+      <comment>
+         <val lang="en_US">Go to Matching Tag</val>
+      </comment>
+      <val lang="zh_CN">Go to Matching Tag</val>
+   </key>
+   <key value="Highlight_matching_tag">
+      <comment>Highlight matching tag editor option. </comment>
+      <comment>
+         <val lang="en_US">Highlight matching tag</val>
+      </comment>
+      <val lang="zh_CN">Highlight matching tag</val>
+   </key>
+   <key value="Wrap_around">
+      <comment>This is a find option. When the search reaches the end it is continued from the top of the document. </comment>
+      <comment>
+         <val lang="en_US">Wrap around</val>
+      </comment>
+      <val lang="zh_CN">Wrap around</val>
+   </key>
+   <key value="Associate_file_type">
+      <comment/>
+      <comment>
+         <val lang="en_US">Associate file type with editor</val>
+      </comment>
+      <val lang="zh_CN">Associate file type with editor</val>
+   </key>
+   <key value="Do_you_want_to_stop_debugging_session">
+      <comment>Do you want to stop the debugging session</comment>
+      <comment>
+         <val lang="en_US">Do you want to stop the debugging session</val>
+      </comment>
+      <val lang="zh_CN">Do you want to stop the debugging session</val>
+   </key>
+   <key distribution="eclipse" value="Pause_command">
+      <comment>Pause the debugging process.</comment>
+      <comment>
+         <val lang="en_US">Pause</val>
+      </comment>
+      <val lang="zh_CN">Pause</val>
+   </key>
+   <key distribution="common" value="Pause">
+      <comment>Pause the debugging process.</comment>
+      <comment>
+         <val lang="en_US" mnemonic="0">&amp;Pause</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="0">&amp;Pause</val>
+   </key>
+   <key value="Select_source">
+      <comment> Select a source document to perform transformation on it. Usually this is an xml file.</comment>
+      <comment>
+         <val lang="en_US">Select source</val>
+      </comment>
+      <val lang="zh_CN">Select source</val>
+   </key>
+   <key value="Select_stylesheet">
+      <comment> Select a stylesheet document to perform transformation with it. Usually this is an xsl file. </comment>
+      <comment>
+         <val lang="en_US">Select stylesheet</val>
+      </comment>
+      <val lang="zh_CN">Select stylesheet</val>
+   </key>
+   <key value="Select_transformation_engine">
+      <comment> Select a transformation engine to perform transformation with it. Usually this is Xalan or Saxon
+            processors.</comment>
+      <comment>
+         <val lang="en_US">Select transformation engine</val>
+      </comment>
+      <val lang="zh_CN">Select transformation engine</val>
+   </key>
+   <key value="Debug_execution_finished">
+      <comment>Debug execution finished. </comment>
+      <comment>
+         <val lang="en_US">Debug execution finished</val>
+      </comment>
+      <val lang="zh_CN">Debug execution finished</val>
+   </key>
+   <key value="Perspective">
+      <comment>A perspective defines the way the editor elements are arranged. For example the debugger and normal
+            editor perspectives. </comment>
+      <comment>
+         <val lang="en_US">Perspective</val>
+      </comment>
+      <val lang="zh_CN">Perspective</val>
+   </key>
+   <key distribution="common" value="Run_to_end">
+      <comment>Run to end. This will disregard the breakpoints (if any) and go to end of transformation. </comment>
+      <comment>
+         <val lang="en_US" mnemonic="7">Run to &amp;End</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="7">Run to &amp;End</val>
+   </key>
+   <key value="Stop_debugger_when_change_perspective">
+      <comment>You have to stop the debugger before changing the perspective </comment>
+      <comment>
+         <val lang="en_US">You have to stop the debugger before changing the perspective</val>
+      </comment>
+      <val lang="zh_CN">You have to stop the debugger before changing the perspective</val>
+   </key>
+   <key distribution="common" value="Breakpoints">
+      <comment>Breakpoints menu</comment>
+      <comment>
+         <val lang="en_US">Breakpoints</val>
+      </comment>
+      <val lang="zh_CN">Breakpoints</val>
+   </key>
+   <key distribution="common" value="Debugger">
+      <comment>Debugger word to be used in multiple cases.</comment>
+      <comment>
+         <val lang="en_US">Debugger</val>
+      </comment>
+      <val lang="zh_CN">Debugger</val>
+   </key>
+   <key value="Step_into">
+      <comment>Step into the next line.</comment>
+      <comment>
+         <val lang="en_US">Step Into</val>
+      </comment>
+      <val lang="zh_CN">Step Into</val>
+   </key>
+   <key distribution="common" value="Step_out">
+      <comment>Step out. </comment>
+      <comment>
+         <val lang="en_US" mnemonic="5">Step &amp;Out</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="5">Step &amp;Out</val>
+   </key>
+   <key distribution="common" value="Step_over">
+      <comment>Step over. </comment>
+      <comment>
+         <val lang="en_US" mnemonic="6">Step O&amp;ver</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="6">Step O&amp;ver</val>
+   </key>
+   <key distribution="eclipse" value="Stop_command">
+      <comment>Stop immediately the debugging process. </comment>
+      <comment>
+         <val lang="en_US">Stop</val>
+      </comment>
+      <val lang="zh_CN">Stop</val>
+   </key>
+   <key distribution="common" value="Stop">
+      <comment>Stop immediately the debugging process. </comment>
+      <comment>
+         <val lang="en_US" mnemonic="0">&amp;Stop</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="0">&amp;Stop</val>
+   </key>
+   <key distribution="common" value="Run_to_cursor">
+      <comment> Run to cursor debugger action. </comment>
+      <comment>
+         <val lang="en_US" mnemonic="7">Run to &amp;Cursor</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="7">Run to &amp;Cursor</val>
+   </key>
+   <key distribution="eclipse" value="Run_command">
+      <comment>Tooltip for debugger Run action. </comment>
+      <comment>
+         <val lang="en_US">Run</val>
+      </comment>
+      <val lang="zh_CN">Run</val>
+   </key>
+   <key distribution="common" value="Run">
+      <comment>Tooltip for debugger Run action. </comment>
+      <comment>
+         <val lang="en_US" mnemonic="0">&amp;Run</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="0">&amp;Run</val>
+   </key>
+   <key value="Line">
+      <comment>Line. </comment>
+      <comment>
+         <val lang="en_US">Line</val>
+      </comment>
+      <val lang="zh_CN">Line</val>
+   </key>
+   <key value="No_XML_document_selected">
+      <comment>No XML document selected when debugger is started. </comment>
+      <comment>
+         <val lang="en_US">No XML document selected</val>
+      </comment>
+      <val lang="zh_CN">No XML document selected</val>
+   </key>
+   <key value="No_XSL_document_selected">
+      <comment>No XSL document selected when debugger is started. </comment>
+      <comment>
+         <val lang="en_US">No XSL document selected</val>
+      </comment>
+      <val lang="zh_CN">No XSL document selected</val>
+   </key>
+   <key value="Compiling">
+      <comment>Compiling. </comment>
+      <comment>
+         <val lang="en_US">Compiling</val>
+      </comment>
+      <val lang="zh_CN">Compiling</val>
+   </key>
+   <key value="Creating_transformer">
+      <comment>Debugger is creating transformer. </comment>
+      <comment>
+         <val lang="en_US">Creating transformer</val>
+      </comment>
+      <val lang="zh_CN">Creating transformer</val>
+   </key>
+   <key value="Starting_transformation">
+      <comment>Starting transformation. </comment>
+      <comment>
+         <val lang="en_US">Starting transformation</val>
+      </comment>
+      <val lang="zh_CN">Starting transformation</val>
+   </key>
+   <key value="Possible_infinite_loop_detected">
+      <comment>Possible infinite loop detected.</comment>
+      <comment>
+         <val lang="en_US">Possible infinite loop detected</val>
+      </comment>
+      <val lang="zh_CN">Possible infinite loop detected</val>
+   </key>
+   <key value="In_source">
+      <comment>'In source' tooltip for the Stack table entries. </comment>
+      <comment>
+         <val lang="en_US">In source</val>
+      </comment>
+      <val lang="zh_CN">In source</val>
+   </key>
+   <key value="In_xsl_xquery">
+      <comment>'In xsl_xquery' tooltip for the Stack table entries</comment>
+      <comment>
+         <val lang="en_US">In xsl/xquery</val>
+      </comment>
+      <val lang="zh_CN">In xsl/xquery</val>
+   </key>
+   <key value="XML_XSL_Node">
+      <comment>Column title in debugger tables "Stack" and "Trace". </comment>
+      <comment>
+         <val lang="en_US">XML/XSL/XQuery Node</val>
+      </comment>
+      <val lang="zh_CN">XML/XSL/XQuery Node</val>
+   </key>
+   <key value="Match">
+      <comment>Match. </comment>
+      <comment>
+         <val lang="en_US">Match</val>
+      </comment>
+      <val lang="zh_CN">Match</val>
+   </key>
+   <key value="Hits">
+      <comment>Hits - the column from Templates table. </comment>
+      <comment>
+         <val lang="en_US">Hits</val>
+      </comment>
+      <val lang="zh_CN">Hits</val>
+   </key>
+   <key value="Priority">
+      <comment>Priority - the column from Templates table </comment>
+      <comment>
+         <val lang="en_US">Priority</val>
+      </comment>
+      <val lang="zh_CN">Priority</val>
+   </key>
+   <key value="Mode">
+      <comment>Mode - the column from Templates table. </comment>
+      <comment>
+         <val lang="en_US">Mode</val>
+      </comment>
+      <val lang="zh_CN">Mode</val>
+   </key>
+   <key value="Depth">
+      <comment>Depth - the column from Templates table. </comment>
+      <comment>
+         <val lang="en_US">Depth</val>
+      </comment>
+      <val lang="zh_CN">Depth</val>
+   </key>
+   <key value="Entering">
+      <comment>Entering -tooltip in Trace table. </comment>
+      <comment>
+         <val lang="en_US">Entering</val>
+      </comment>
+      <val lang="zh_CN">Entering</val>
+   </key>
+   <key value="Leaving">
+      <comment>Leaving -tooltip in Trace table. </comment>
+      <comment>
+         <val lang="en_US">Leaving</val>
+      </comment>
+      <val lang="zh_CN">Leaving</val>
+   </key>
+   <key value="Local_variable">
+      <comment>Local variable -tooltip in Variables table</comment>
+      <comment>
+         <val lang="en_US">Local variable</val>
+      </comment>
+      <val lang="zh_CN">Local variable</val>
+   </key>
+   <key value="Local_parameter">
+      <comment>Local parameter - tooltip in Variables table</comment>
+      <comment>
+         <val lang="en_US">Local parameter</val>
+      </comment>
+      <val lang="zh_CN">Local parameter</val>
+   </key>
+   <key value="Global_variable">
+      <comment>Global variable - tooltip in Variables table</comment>
+      <comment>
+         <val lang="en_US">Global variable</val>
+      </comment>
+      <val lang="zh_CN">Global variable</val>
+   </key>
+   <key value="Global_parameter">
+      <comment>Global parameter - tooltip in Variables table</comment>
+      <comment>
+         <val lang="en_US">Global parameter</val>
+      </comment>
+      <val lang="zh_CN">Global parameter</val>
+   </key>
+   <key value="Expression">
+      <comment>Expression - column from XWatch table</comment>
+      <comment>
+         <val lang="en_US">Expression</val>
+      </comment>
+      <val lang="zh_CN">Expression</val>
+   </key>
+   <key value="Message">
+      <comment>Message - column from Messages table</comment>
+      <comment>
+         <val lang="en_US">Message</val>
+      </comment>
+      <val lang="zh_CN">Message</val>
+   </key>
+   <key value="Terminate">
+      <comment>Terminate - column from Messages table</comment>
+      <comment>
+         <val lang="en_US">Terminate</val>
+      </comment>
+      <val lang="zh_CN">Terminate</val>
+   </key>
+   <key distribution="common" value="Stack">
+      <comment>Stack - tab title in Stack table</comment>
+      <comment>
+         <val lang="en_US">Stack</val>
+      </comment>
+      <val lang="zh_CN">Stack</val>
+   </key>
+   <key distribution="common" value="Trace">
+      <comment>Trace - tab title from Trace table </comment>
+      <comment>
+         <val lang="en_US">Trace</val>
+      </comment>
+      <val lang="zh_CN">Trace</val>
+   </key>
+   <key distribution="common" value="Context">
+      <comment>Context - tab title from Context table</comment>
+      <comment>
+         <val lang="en_US">Context</val>
+      </comment>
+      <val lang="zh_CN">Context</val>
+   </key>
+   <key distribution="common" value="Variables">
+      <comment>Variables - tab title from Variables table. </comment>
+      <comment>
+         <val lang="en_US">Variables</val>
+      </comment>
+      <val lang="zh_CN">Variables</val>
+   </key>
+   <key distribution="common" value="Messages">
+      <comment>Messages - tab title from Messages table. </comment>
+      <comment>
+         <val lang="en_US">Messages</val>
+      </comment>
+      <val lang="zh_CN">Messages</val>
+   </key>
+   <key value="Warning">
+      <comment>Warning - dialog title</comment>
+      <comment>
+         <val lang="en_US">Warning</val>
+      </comment>
+      <val lang="zh_CN">Warning</val>
+   </key>
+   <key value="Configure_parameters">
+      <comment>Configure parameters. </comment>
+      <comment>
+         <val lang="en_US">Configure parameters</val>
+      </comment>
+      <val lang="zh_CN">Configure parameters</val>
+   </key>
+   <key value="Input_a_stylesheet_URL">
+      <comment>Message for New stylesheet URL dialog. </comment>
+      <comment>
+         <val lang="en_US">Input a stylesheet URL:</val>
+      </comment>
+      <val lang="zh_CN">Input a stylesheet URL:</val>
+   </key>
+   <key value="Input_URL_title">
+      <comment>Title for New stylesheet URL dialog.</comment>
+      <comment>
+         <val lang="en_US">Input URL</val>
+      </comment>
+      <val lang="zh_CN">Input URL</val>
+   </key>
+   <key distribution="common" value="Move_down_tooltip">
+      <comment>Tooltip for Move down button in cascade stylesheets dialog. </comment>
+      <comment>
+         <val lang="en_US">Move Down</val>
+      </comment>
+      <val lang="zh_CN">Move Down</val>
+   </key>
+   <key distribution="common" value="Move_up_tooltip">
+      <comment>Tooltip for Move up button in cascade stylesheets dialog.</comment>
+      <comment>
+         <val lang="en_US">Move Up</val>
+      </comment>
+      <val lang="zh_CN">Move Up</val>
+   </key>
+   <key value="Open_stylesheet_URL_tooltip">
+      <comment>Tooltip for Open button in cascade stylesheets dialog.</comment>
+      <comment>
+         <val lang="en_US">Open stylesheet URL</val>
+      </comment>
+      <val lang="zh_CN">Open stylesheet URL</val>
+   </key>
+   <key value="Remove_stylesheet_URL_tooltip">
+      <comment>Tooltip for Remove button in cascade stylesheets dialog. </comment>
+      <comment>
+         <val lang="en_US">Remove stylesheet URL</val>
+      </comment>
+      <val lang="zh_CN">Remove stylesheet URL</val>
+   </key>
+   <key value="Add_stylesheet_URL_tooltip">
+      <comment>Tooltip for add button in cascade stylesheets dialog. </comment>
+      <comment>
+         <val lang="en_US">Add stylesheet URL</val>
+      </comment>
+      <val lang="zh_CN">Add stylesheet URL</val>
+   </key>
+   <key value="Image_base_url_value_not_valid_url">
+      <comment>Error message when the value from the Image URLs field of Scenario Edit dialog is not valid
+            URL.</comment>
+      <comment>
+         <val lang="en_US">You need a valid URL value in the Image URLs field</val>
+      </comment>
+      <val lang="zh_CN">You need a valid URL value in the Image URLs field</val>
+   </key>
+   <key value="Header_url_value_not_valid_url">
+      <comment>Error message when the value from the Header URL field of Scenario Edit dialog is not valid
+            URL.</comment>
+      <comment>
+         <val lang="en_US">You need a valid URL value in the Header URL field</val>
+      </comment>
+      <val lang="zh_CN">You need a valid URL value in the Header URL field</val>
+   </key>
+   <key value="Footer_url_value_not_valid_url">
+      <comment>Error message when the value from the Footer URL field of Scenario Edit dialog is not valid URL. </comment>
+      <comment>
+         <val lang="en_US">You need a valid URL value in the Footer URL field</val>
+      </comment>
+      <val lang="zh_CN">You need a valid URL value in the Footer URL field</val>
+   </key>
+   <key value="Choose_the_input_schema">
+      <comment>Schema Documentation.</comment>
+      <comment>
+         <val lang="en_US">Choose the input schema</val>
+      </comment>
+      <val lang="zh_CN">Choose the input schema</val>
+   </key>
+   <key value="Title">
+      <comment>Schema Documentation. </comment>
+      <comment>
+         <val lang="en_US">Title</val>
+      </comment>
+      <val lang="zh_CN">Title</val>
+   </key>
+   <key value="Generate">
+      <comment>Schema Documentation. </comment>
+      <comment>
+         <val lang="en_US">Generate</val>
+      </comment>
+      <val lang="zh_CN">Generate</val>
+   </key>
+   <key value="Selection_update_on_caret_move">
+      <comment>Outliner tree selection does not change on a document event. </comment>
+      <comment>
+         <val lang="en_US">Selection update on cursor move</val>
+      </comment>
+      <val lang="zh_CN">Selection update on cursor move</val>
+   </key>
+   <key value="Document">
+      <comment>Menu in the menu bar. Actions that apply to the edited document.</comment>
+      <comment>
+         <val lang="en_US">Document</val>
+      </comment>
+      <val lang="zh_CN">Document</val>
+   </key>
+   <key value="Save_result_in_tooltip">
+      <comment>Tooltip for output file field in the Configure Transformation dialog/Output Tab.</comment>
+      <comment>
+         <val lang="en_US">Save the result of the transformation in this file.</val>
+      </comment>
+      <val lang="zh_CN">Save the result of the transformation in this file.</val>
+   </key>
+   <key value="Could_not_find_stylesheet_in_xml_stylesheet_declaration">
+      <comment>Error message if the xml-stylesheet declaration is not correct. </comment>
+      <comment>
+         <val lang="en_US">Could not find a stylesheet in the "xml-stylesheet" declaration.</val>
+      </comment>
+      <val lang="zh_CN">Could not find a stylesheet in the "xml-stylesheet" declaration.</val>
+   </key>
+   <key value="Use_xml_stylesheet_declaration_from_document_every_time_the_scenario_is_applied">
+      <comment>Tooltip of checkbox for default scenario in the scenario configuration dialog.</comment>
+      <comment>
+         <val lang="en_US">Use "xml-stylesheet" declaration from document every time the scenario is applied</val>
+      </comment>
+      <val lang="zh_CN">Use "xml-stylesheet" declaration from document every time the scenario is applied</val>
+   </key>
+   <key value="Use_xml_stylesheet_declaration">
+      <comment>Checkbox for default scenario in the scenario configuration dialog.</comment>
+      <comment>
+         <val lang="en_US">Use "xml-stylesheet" declaration</val>
+      </comment>
+      <val lang="zh_CN">Use "xml-stylesheet" declaration</val>
+   </key>
+   <key value="Run_default_scenario">
+      <comment>Message displayed when transforming a document with no scenario and containing "xml-stylesheet". </comment>
+      <comment>
+         <val lang="en_US">Run the default scenario based on the "xml-stylesheet" processing instruction ?</val>
+      </comment>
+      <val lang="zh_CN">Run the default scenario based on the "xml-stylesheet" processing instruction ?</val>
+   </key>
+   <key value="The_current_file_name_without_extension">
+      <comment>An editor variable that expands to the current file name without path and extension </comment>
+      <comment>
+         <val lang="en_US">The current file name without extension</val>
+      </comment>
+      <val lang="zh_CN">The current file name without extension</val>
+   </key>
+   <key value="No_current_transformation_scenario">
+      <comment>When no scenario is selected from the "Configure Transformation Scenario" dialog. </comment>
+      <comment>
+         <val lang="en_US">No transformation scenario is associated with current document.</val>
+      </comment>
+      <val lang="zh_CN">No transformation scenario is associated with current document.</val>
+   </key>
+   <key value="Add_to_project">
+      <comment>Name of menu item on view tab's popup menu. </comment>
+      <comment>
+         <val lang="en_US">Add to Project</val>
+      </comment>
+      <val lang="zh_CN">Add to Project</val>
+   </key>
+   <key value="Add_all_to_project">
+      <comment>Name of menu item on view tab's popup menu. </comment>
+      <comment>
+         <val lang="en_US">Add All to Project</val>
+      </comment>
+      <val lang="zh_CN">Add All to Project</val>
+   </key>
+   <key value="Line_separator_system_default">
+      <comment>One of the options for line separator combo in general option pane. </comment>
+      <comment>
+         <val lang="en_US">System default</val>
+      </comment>
+      <val lang="zh_CN">System default</val>
+   </key>
+   <key value="Line_separator_unix">
+      <comment>One of the options for line separator combo in general option pane. </comment>
+      <comment>
+         <val lang="en_US">Unix-like</val>
+      </comment>
+      <val lang="zh_CN">Unix-like</val>
+   </key>
+   <key value="Line_separator_windows">
+      <comment>One of the options for line separator combo in general option pane. </comment>
+      <comment>
+         <val lang="en_US">Windows-like</val>
+      </comment>
+      <val lang="zh_CN">Windows-like</val>
+   </key>
+   <key value="Line_separator">
+      <comment>One of the options for line separator combo in general option pane. </comment>
+      <comment>
+         <val lang="en_US">Line separator</val>
+      </comment>
+      <val lang="zh_CN">Line separator</val>
+   </key>
+   <key value="Text_antialiasing">
+      <comment>Options/Preferences/Editor/Aspect. Using antialiasing for editor font.</comment>
+      <comment>
+         <val lang="en_US">Text antialiasing</val>
+      </comment>
+      <val lang="zh_CN">Text antialiasing</val>
+   </key>
+   <key distribution="common" value="Validate_with">
+      <comment>Configuration of the XSL Transformer.</comment>
+      <comment>
+         <val lang="en_US">Validate with</val>
+      </comment>
+      <val lang="zh_CN">Validate with</val>
+   </key>
+</translation>

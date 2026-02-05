@@ -1,0 +1,1810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key distribution="eclipse" value="command.description.63" type="action">
+      <comment>command.description.63</comment>
+      <comment>
+         <val lang="en_US">Select element</val>
+      </comment>
+      <val lang="zh_CN">Select element</val>
+   </key>
+   <key distribution="eclipse" value="command.description.64" type="action">
+      <comment>command.description.64</comment>
+      <comment>
+         <val lang="en_US">Select parent</val>
+      </comment>
+      <val lang="zh_CN">Select parent</val>
+   </key>
+   <key distribution="eclipse" value="command.description.65" type="action">
+      <comment>command.description.65</comment>
+      <comment>
+         <val lang="en_US">Select element's content</val>
+      </comment>
+      <val lang="zh_CN">Select element's content</val>
+   </key>
+   <key distribution="eclipse" value="command.name.65" type="action">
+      <comment>command.name.65</comment>
+      <comment>
+         <val lang="en_US">Select Content</val>
+      </comment>
+      <val lang="zh_CN">Select Content</val>
+   </key>
+   <key distribution="eclipse" value="command.description.66" type="action">
+      <comment>command.description.66</comment>
+      <comment>
+         <val lang="en_US">Select element's attributes</val>
+      </comment>
+      <val lang="zh_CN">Select element's attributes</val>
+   </key>
+   <key distribution="eclipse" value="command.name.66" type="action">
+      <comment>command.name.66</comment>
+      <comment>
+         <val lang="en_US">Select Attributes</val>
+      </comment>
+      <val lang="zh_CN">Select Attributes</val>
+   </key>
+   <key distribution="eclipse" value="command.description.67" type="action">
+      <comment>command.description.67</comment>
+      <comment>
+         <val lang="en_US">Open resource</val>
+      </comment>
+      <val lang="zh_CN">Open resource</val>
+   </key>
+   <key distribution="eclipse" value="command.description.69" type="action">
+      <comment>command.description.69</comment>
+      <comment>
+         <val lang="en_US">Open file</val>
+      </comment>
+      <val lang="zh_CN">Open file</val>
+   </key>
+   <key distribution="eclipse" value="command.description.71" type="action">
+      <comment>command.description.71</comment>
+      <comment>
+         <val lang="en_US">Shift right current selection</val>
+      </comment>
+      <val lang="zh_CN">Shift right current selection</val>
+   </key>
+   <key distribution="eclipse" value="category.description">
+      <comment>category.description</comment>
+      <comment>
+         <val lang="en_US">Oxygen XML Editor commands</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XML Editor commands</val>
+   </key>
+   <key distribution="eclipse" value="XSLT_Debugger_commands">
+      <comment>XSLT Debugger commands</comment>
+      <comment>
+         <val lang="en_US">XSLT Debugger commands</val>
+      </comment>
+      <val lang="zh_CN">XSLT Debugger commands</val>
+   </key>
+   <key distribution="eclipse" value="XQuery_Debugger_commands">
+      <comment>XQuery Debugger commands</comment>
+      <comment>
+         <val lang="en_US">XQuery Debugger commands</val>
+      </comment>
+      <val lang="zh_CN">XQuery Debugger commands</val>
+   </key>
+   <key distribution="eclipse" value="command.description" type="action">
+      <comment>command.description</comment>
+      <comment>
+         <val lang="en_US">Open an URL</val>
+      </comment>
+      <val lang="zh_CN">Open an URL</val>
+   </key>
+   <key distribution="eclipse" value="command.description.1" type="action">
+      <comment>command.description.1</comment>
+      <comment>
+         <val lang="en_US">Add feature</val>
+      </comment>
+      <val lang="zh_CN">Add feature</val>
+   </key>
+   <key distribution="eclipse" value="command.description.2" type="action">
+      <comment>command.description.2</comment>
+      <comment>
+         <val lang="en_US">Remove feature</val>
+      </comment>
+      <val lang="zh_CN">Remove feature</val>
+   </key>
+   <key distribution="eclipse" value="command.description.5" type="action">
+      <comment>command.description.5</comment>
+      <comment>
+         <val lang="en_US">Go to definition</val>
+      </comment>
+      <val lang="zh_CN">Go to definition</val>
+   </key>
+   <key distribution="eclipse" value="command.description.7" type="action">
+      <comment>command.description.7</comment>
+      <comment>
+         <val lang="en_US">Find all elements</val>
+      </comment>
+      <val lang="zh_CN">Find all elements</val>
+   </key>
+   <key distribution="eclipse" value="command.description.9" type="action">
+      <comment>command.description.9</comment>
+      <comment>
+         <val lang="en_US">Accept Change</val>
+      </comment>
+      <val lang="zh_CN">Accept Change</val>
+   </key>
+   <key distribution="eclipse" value="command.description.10" type="action">
+      <comment>command.description.10</comment>
+      <comment>
+         <val lang="en_US">Reject Change</val>
+      </comment>
+      <val lang="zh_CN">Reject Change</val>
+   </key>
+   <key distribution="eclipse" value="command.description.15" type="action">
+      <comment>command.description.15</comment>
+      <comment>
+         <val lang="en_US">Remove Comment</val>
+      </comment>
+      <val lang="zh_CN">Remove Comment</val>
+   </key>
+   <key distribution="eclipse" value="command.description.17" type="action">
+      <comment>command.description.17</comment>
+      <comment>
+         <val lang="en_US">Removes text from the selected region</val>
+      </comment>
+      <val lang="zh_CN">Removes text from the selected region</val>
+   </key>
+   <key distribution="eclipse" value="command.description.18" type="action">
+      <comment>command.description.18</comment>
+      <comment>
+         <val lang="en_US">Removes all the markup from the selected region</val>
+      </comment>
+      <val lang="zh_CN">Removes all the markup from the selected region</val>
+   </key>
+   <key distribution="eclipse" value="command.description.19" type="action">
+      <comment>command.description.19</comment>
+      <comment>
+         <val lang="en_US">Add a breakpoint</val>
+      </comment>
+      <val lang="zh_CN">Add a breakpoint</val>
+   </key>
+   <key distribution="eclipse" value="command.description.20" type="action">
+      <comment>command.description.20</comment>
+      <comment>
+         <val lang="en_US">Remove a breakpoint</val>
+      </comment>
+      <val lang="zh_CN">Remove a breakpoint</val>
+   </key>
+   <key distribution="eclipse" value="command.description.21" type="action">
+      <comment>command.description.21</comment>
+      <comment>
+         <val lang="en_US">Toggle a breakpoint's state</val>
+      </comment>
+      <val lang="zh_CN">Toggle a breakpoint's state</val>
+   </key>
+   <key distribution="eclipse" value="command.name.21" type="action">
+      <comment>command.name.21</comment>
+      <comment>
+         <val lang="en_US">Toggle Breakpoint</val>
+      </comment>
+      <val lang="zh_CN">Toggle Breakpoint</val>
+   </key>
+   <key distribution="eclipse" value="command.description.22" type="action">
+      <comment>command.description.22</comment>
+      <comment>
+         <val lang="en_US">Surround with tags</val>
+      </comment>
+      <val lang="zh_CN">Surround with tags</val>
+   </key>
+   <key distribution="eclipse" value="command.description.23" type="action">
+      <comment>command.description.23</comment>
+      <comment>
+         <val lang="en_US">Surround with last tag</val>
+      </comment>
+      <val lang="zh_CN">Surround with last tag</val>
+   </key>
+   <key distribution="eclipse" value="command.description.24" type="action">
+      <comment>command.description.24</comment>
+      <comment>
+         <val lang="en_US">Surround in CDATA</val>
+      </comment>
+      <val lang="zh_CN">Surround in CDATA</val>
+   </key>
+   <key distribution="eclipse" value="command.name.24" type="action">
+      <comment>command.name.24</comment>
+      <comment>
+         <val lang="en_US">Surround With CDATA</val>
+      </comment>
+      <val lang="zh_CN">Surround With CDATA</val>
+   </key>
+   <key distribution="eclipse" value="command.description.26" type="action">
+      <comment>command.description.26</comment>
+      <comment>
+         <val lang="en_US">Quick rename of current element</val>
+      </comment>
+      <val lang="zh_CN">Quick rename of current element</val>
+   </key>
+   <key distribution="eclipse" value="command.description.27" type="action">
+      <comment>command.description.27</comment>
+      <comment>
+         <val lang="en_US">Rename current prefix</val>
+      </comment>
+      <val lang="zh_CN">Rename current prefix</val>
+   </key>
+   <key distribution="eclipse" value="command.description.28" type="action">
+      <comment>command.description.28</comment>
+      <comment>
+         <val lang="en_US">Split the current element in two</val>
+      </comment>
+      <val lang="zh_CN">Split the current element in two</val>
+   </key>
+   <key distribution="eclipse" value="command.description.29" type="action">
+      <comment>command.description.29</comment>
+      <comment>
+         <val lang="en_US">Join the elements</val>
+      </comment>
+      <val lang="zh_CN">Join the elements</val>
+   </key>
+   <key distribution="eclipse" value="command.description.30" type="action">
+      <comment>command.description.30</comment>
+      <comment>
+         <val lang="en_US">Delete Element's Tag</val>
+      </comment>
+      <val lang="zh_CN">Delete Element's Tag</val>
+   </key>
+   <key distribution="eclipse" value="xmlproblem.marker.name">
+      <comment>XML problem marker name</comment>
+      <comment>
+         <val lang="en_US">XML Problem</val>
+      </comment>
+      <val lang="zh_CN">XML Problem</val>
+   </key>
+   <key distribution="eclipse" value="jsonproblem.marker.name">
+      <comment>JSON problem marker name</comment>
+      <comment>
+         <val lang="en_US">JSON Problem</val>
+      </comment>
+      <val lang="zh_CN">JSON Problem</val>
+   </key>
+   <key distribution="eclipse" value="yamlproblem.marker.name">
+      <comment>YAML problem marker name</comment>
+      <comment>
+         <val lang="en_US">YAML Problem</val>
+      </comment>
+      <val lang="zh_CN">YAML Problem</val>
+   </key>
+   <key distribution="eclipse" value="specification.label.0">
+      <comment>specification.label.0</comment>
+      <comment>
+         <val lang="en_US">Debugger Break Condition</val>
+      </comment>
+      <val lang="zh_CN">Debugger Break Condition</val>
+   </key>
+   <key distribution="eclipse" value="specification.label.1">
+      <comment>specification.label.1</comment>
+      <comment>
+         <val lang="en_US">Spell Check Annotation</val>
+      </comment>
+      <val lang="zh_CN">Spell Check Annotation</val>
+   </key>
+   <key distribution="eclipse" value="specification.label.2">
+      <comment>specification.label.2</comment>
+      <comment>
+         <val lang="en_US">Light Bulb for Quick Assistant</val>
+      </comment>
+      <val lang="zh_CN">Light Bulb for Quick Assistant</val>
+   </key>
+   <key distribution="eclipse" value="specification.label.3">
+      <comment>specification.label.3</comment>
+      <comment>
+         <val lang="en_US">Component Declaration</val>
+      </comment>
+      <val lang="zh_CN">Component Declaration</val>
+   </key>
+   <key distribution="eclipse" value="specification.label.4">
+      <comment>specification.label.4</comment>
+      <comment>
+         <val lang="en_US">Component Reference</val>
+      </comment>
+      <val lang="zh_CN">Component Reference</val>
+   </key>
+   <key distribution="eclipse" value="specification.label.5">
+      <comment>specification.label.5</comment>
+      <comment>
+         <val lang="en_US">XSLT/XQuery Debug Current Instruction Pointer</val>
+      </comment>
+      <val lang="zh_CN">XSLT/XQuery Debug Current Instruction Pointer</val>
+   </key>
+   <key distribution="eclipse" value="specification.label.6">
+      <comment>specification.label.6</comment>
+      <comment>
+         <val lang="en_US">Matching XML Start Tag</val>
+      </comment>
+      <val lang="zh_CN">Matching XML Start Tag</val>
+   </key>
+   <key distribution="eclipse" value="specification.label.7">
+      <comment>specification.label.7</comment>
+      <comment>
+         <val lang="en_US">Matching XML End Tag</val>
+      </comment>
+      <val lang="zh_CN">Matching XML End Tag</val>
+   </key>
+   <key distribution="eclipse" value="specification.label.8">
+      <comment>specification.label.8</comment>
+      <comment>
+         <val lang="en_US">Same Line XML Tags</val>
+      </comment>
+      <val lang="zh_CN">Same Line XML Tags</val>
+   </key>
+   <key distribution="eclipse" value="zip.content-type">
+      <comment>Oxygen Archive content type</comment>
+      <comment>
+         <val lang="en_US">Archive File</val>
+      </comment>
+      <val lang="zh_CN">Archive File</val>
+   </key>
+   <key distribution="eclipse" value="epub.content-type">
+      <comment>Oxygen EPUB content type</comment>
+      <comment>
+         <val lang="en_US">EPUB File</val>
+      </comment>
+      <val lang="zh_CN">EPUB File</val>
+   </key>
+   <key distribution="eclipse" value="Open_in_DITAMAP" type="action">
+      <comment>Open in DITA Maps manager action label text.</comment>
+      <comment>
+         <val lang="en_US">&amp;Open in DITA Maps manager</val>
+      </comment>
+      <val lang="zh_CN">&amp;Open in DITA Maps manager</val>
+   </key>
+   <key distribution="eclipse"
+        value="Open_in_DITAMAP_Tooltip"
+        type="action">
+      <comment>Open in DITA Maps manager action tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Open in DITA Maps manager</val>
+      </comment>
+      <val lang="zh_CN">Open in DITA Maps manager</val>
+   </key>
+   <key distribution="eclipse"
+        value="Generate_Sample_XML_Files_EC"
+        type="action">
+      <comment>Generate Sample XML Files action label text.</comment>
+      <comment>
+         <val lang="en_US">Generate Sample XML Files...</val>
+      </comment>
+      <val lang="zh_CN">Generate Sample XML Files...</val>
+   </key>
+   <key distribution="eclipse" value="Flatten_XML_Schema" type="action">
+      <comment>Flatten XML Schema action label text.</comment>
+      <comment>
+         <val lang="en_US">&amp;Flatten XML Schema</val>
+      </comment>
+      <val lang="zh_CN">&amp;Flatten XML Schema</val>
+   </key>
+   <key distribution="eclipse"
+        value="Flatten_XML_Schema_Tooltip"
+        type="action">
+      <comment>Flatten XML Schema action tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Flatten XML Schema</val>
+      </comment>
+      <val lang="zh_CN">Flatten XML Schema</val>
+   </key>
+   <key distribution="eclipse"
+        value="Generate_StyleSheet_Documentation"
+        type="action">
+      <comment>Generate Stylesheet Documentation action label text.</comment>
+      <comment>
+         <val lang="en_US">&amp;Generate Stylesheet Documentation</val>
+      </comment>
+      <val lang="zh_CN">&amp;Generate Stylesheet Documentation</val>
+   </key>
+   <key distribution="eclipse"
+        value="Generate_StyleSheet_Documentation_Tooltip"
+        type="action">
+      <comment>Generate Stylesheet Documentation action tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Generate Stylesheet Documentation</val>
+      </comment>
+      <val lang="zh_CN">Generate Stylesheet Documentation</val>
+   </key>
+   <key distribution="eclipse" value="action.label.7" type="action">
+      <comment>Show Resource Dependencies action label text.</comment>
+      <comment>
+         <val lang="en_US">Show Resource &amp;Dependencies</val>
+      </comment>
+      <val lang="zh_CN">Show Resource &amp;Dependencies</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.7" type="action">
+      <comment>Show Resource Dependencies action tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Show Resource Dependencies</val>
+      </comment>
+      <val lang="zh_CN">Show Resource Dependencies</val>
+   </key>
+   <key distribution="eclipse" value="action.label.8" type="action">
+      <comment>Show Resource Hierarchy action label text.</comment>
+      <comment>
+         <val lang="en_US">Show Resource &amp;Hierarchy</val>
+      </comment>
+      <val lang="zh_CN">Show Resource &amp;Hierarchy</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.8" type="action">
+      <comment>Show Resource Hierarchy action tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Show Resource Hierarchy</val>
+      </comment>
+      <val lang="zh_CN">Show Resource Hierarchy</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.10" type="action">
+      <comment>Configure validation scenario action tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Configure the validation scenario for the selected resources</val>
+      </comment>
+      <val lang="zh_CN">Configure the validation scenario for the selected resources</val>
+   </key>
+   <key distribution="eclipse" value="action.label.11" type="action">
+      <comment>Validate With Schema action label text.</comment>
+      <comment>
+         <val lang="en_US">Validate with &amp;Schema...</val>
+      </comment>
+      <val lang="zh_CN">Validate with &amp;Schema...</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.11">
+      <comment>Validate With Schema action tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Batch Validation with a specified schema</val>
+      </comment>
+      <val lang="zh_CN">Batch Validation with a specified schema</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.12">
+      <comment>Batch Validation action label text.</comment>
+      <comment>
+         <val lang="en_US">Batch Validation</val>
+      </comment>
+      <val lang="zh_CN">Batch Validation</val>
+   </key>
+   <key distribution="eclipse" value="action.label.13" type="action">
+      <comment>Check Wellform action label text.</comment>
+      <comment>
+         <val lang="en_US">Check &amp;Well-Formedness</val>
+      </comment>
+      <val lang="zh_CN">Check &amp;Well-Formedness</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.13" type="action">
+      <comment>Check Wellform action tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Check Well-Form</val>
+      </comment>
+      <val lang="zh_CN">Check Well-Form</val>
+   </key>
+   <key distribution="eclipse" value="action.label.14" type="action">
+      <comment>'Transform with' action label text.</comment>
+      <comment>
+         <val lang="en_US">&amp;Transform with...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Transform with...</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.14" type="action">
+      <comment>'Transform with' action tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Configure transformation scenario for the selected resources</val>
+      </comment>
+      <val lang="zh_CN">Configure transformation scenario for the selected resources</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.16" type="action">
+      <comment>'Apply Transformation' action tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Apply transformation on the selected resources</val>
+      </comment>
+      <val lang="zh_CN">Apply transformation on the selected resources</val>
+   </key>
+   <key distribution="eclipse" value="action.label.17" type="action">
+      <comment>'Check Spelling in files' action label text.</comment>
+      <comment>
+         <val lang="en_US">Check &amp;Spelling in files...</val>
+      </comment>
+      <val lang="zh_CN">Check &amp;Spelling in files...</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.17" type="action">
+      <comment>'Check Spelling in files' action tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Apply spell checking on the selected resources</val>
+      </comment>
+      <val lang="zh_CN">Apply spell checking on the selected resources</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.18" type="action">
+      <comment>'Open URL' action tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Open URLs</val>
+      </comment>
+      <val lang="zh_CN">Open URLs</val>
+   </key>
+   <key distribution="eclipse" value="actionSet.label.0" type="action">
+      <comment>Report Oxygen problem</comment>
+      <comment>
+         <val lang="en_US">Report Oxygen problem</val>
+      </comment>
+      <val lang="zh_CN">Report Oxygen problem</val>
+   </key>
+   <key distribution="eclipse" value="action.label.19" type="action">
+      <comment>'Report Oxygen problem' action label text.</comment>
+      <comment>
+         <val lang="en_US">&amp;Report Oxygen problem...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Report Oxygen problem...</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.19" type="action">
+      <comment>'Report Oxygen problem' action tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Send a problem report to the Oxygen Technical Support</val>
+      </comment>
+      <val lang="zh_CN">Send a problem report to the Oxygen Technical Support</val>
+   </key>
+   <key distribution="eclipse" value="action.label.20" type="action">
+      <comment>'Oxygen Improvement Program Options' action label text.</comment>
+      <comment>
+         <val lang="en_US">&amp;Oxygen Improvement Program Options...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Oxygen Improvement Program Options...</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.20">
+      <comment>'Oxygen Improvement Program Options' action tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Oxygen Improvement Program Options...</val>
+      </comment>
+      <val lang="zh_CN">Oxygen Improvement Program Options...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.21" type="action">
+      <comment>The text of the 'Verify Signature' action from XML Tools menu.</comment>
+      <comment>
+         <val lang="en_US">&amp;Verify Signature...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Verify Signature...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.22">
+      <comment>The text of the 'XML to JSON' action from XML Tools menu.</comment>
+      <comment>
+         <val lang="en_US">XML to JSON...</val>
+      </comment>
+      <val lang="zh_CN">XML to JSON...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.23" type="action">
+      <comment>The text of the 'Sign' action from XML Tools menu.</comment>
+      <comment>
+         <val lang="en_US">&amp;Sign...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Sign...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.24" type="action">
+      <comment>The text of the 'Canonicalize' action from XML Tools menu.</comment>
+      <comment>
+         <val lang="en_US">&amp;Canonicalize...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Canonicalize...</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.25">
+      <comment>The tooltip text of the 'XML Schema Regular Expression Builder' action from XML Tools menu.</comment>
+      <comment>
+         <val lang="en_US">XML Schema regular expression builder</val>
+      </comment>
+      <val lang="zh_CN">XML Schema regular expression builder</val>
+   </key>
+   <key distribution="eclipse" value="action.label.26" type="action">
+      <comment>The text of the 'Convert DB Structure to XML Schema' action from XML Tools menu.</comment>
+      <comment>
+         <val lang="en_US">Convert DB Structure to &amp;XML Schema...</val>
+      </comment>
+      <val lang="zh_CN">Convert DB Structure to &amp;XML Schema...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.27" type="action">
+      <comment>The text of the 'Generate Sample XML Files' action from XML Tools menu.</comment>
+      <comment>
+         <val lang="en_US">Generate Sample XML &amp;Files...</val>
+      </comment>
+      <val lang="zh_CN">Generate Sample XML &amp;Files...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.28">
+      <comment>The text of the 'WSDL Documentation' action from 'Generate documentation' menu entry.</comment>
+      <comment>
+         <val lang="en_US">&amp;WSDL Documentation...</val>
+      </comment>
+      <val lang="zh_CN">&amp;WSDL Documentation...</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.28" type="action">
+      <comment>The tooltip text of the 'WSDL Documentation' action from 'Generate documentation' menu entry.</comment>
+      <comment>
+         <val lang="en_US">Create WSDL documentation</val>
+      </comment>
+      <val lang="zh_CN">Create WSDL documentation</val>
+   </key>
+   <key distribution="eclipse" value="action.label.29">
+      <comment>The text of the 'XQuery Documentation' action from 'Generate documentation' menu entry.</comment>
+      <comment>
+         <val lang="en_US">&amp;XQuery Documentation...</val>
+      </comment>
+      <val lang="zh_CN">&amp;XQuery Documentation...</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.29" type="action">
+      <comment>The tooltip text of the 'XQuery Documentation' action from 'Generate documentation' menu
+            entry.</comment>
+      <comment>
+         <val lang="en_US">Create XQuery documentation</val>
+      </comment>
+      <val lang="zh_CN">Create XQuery documentation</val>
+   </key>
+   <key distribution="eclipse" value="action.label.31">
+      <comment>The text of the 'Stylesheet Documentation...' action from 'Generate documentation' menu
+            entry.</comment>
+      <comment>
+         <val lang="en_US">&amp;Stylesheet Documentation...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Stylesheet Documentation...</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.31" type="action">
+      <comment>The tooltip text of the 'Schema Documentation' action from 'Generate documentation' menu
+            entry.</comment>
+      <comment>
+         <val lang="en_US">Create stylesheet documentation</val>
+      </comment>
+      <val lang="zh_CN">Create stylesheet documentation</val>
+   </key>
+   <key distribution="eclipse" value="action.label.32" type="action">
+      <comment>The text of the 'Generate/Convert Schema' action from XML Tools menu.</comment>
+      <comment>
+         <val lang="en_US">&amp;Generate/Convert Schema...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Generate/Convert Schema...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.33" type="action">
+      <comment>Compile XSL stylesheet for Saxon.</comment>
+      <comment>
+         <val lang="en_US">Compile XSL stylesheet for Saxon</val>
+      </comment>
+      <val lang="zh_CN">Compile XSL stylesheet for Saxon</val>
+   </key>
+   <key distribution="eclipse" value="extension.name.0" type="action">
+      <comment>extension.name.0</comment>
+      <comment>
+         <val lang="en_US">XML Refactory</val>
+      </comment>
+      <val lang="zh_CN">XML Refactory</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.33" type="action">
+      <comment>The tooltip of the 'Delete element Tag' action from Refactoring pop-up menu.</comment>
+      <comment>
+         <val lang="en_US">Delete the current element tags</val>
+      </comment>
+      <val lang="zh_CN">Delete the current element tags</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.34" type="action">
+      <comment>The tooltip of the 'Join Elements' action from Refactoring pop-up menu.</comment>
+      <comment>
+         <val lang="en_US">Join current elements</val>
+      </comment>
+      <val lang="zh_CN">Join current elements</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.35" type="action">
+      <comment>The tooltip of the 'Split Element' action from Refactoring pop-up menu.</comment>
+      <comment>
+         <val lang="en_US">Split current element</val>
+      </comment>
+      <val lang="zh_CN">Split current element</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.38" type="action">
+      <comment>action.tooltip.38</comment>
+      <comment>
+         <val lang="en_US">Rename component in current working set</val>
+      </comment>
+      <val lang="zh_CN">Rename component in current working set</val>
+   </key>
+   <key distribution="eclipse" value="extension.name.2">
+      <comment>extension.name.2</comment>
+      <comment>
+         <val lang="en_US">XML Source</val>
+      </comment>
+      <val lang="zh_CN">XML Source</val>
+   </key>
+   <key distribution="eclipse" value="extension.name.3">
+      <comment>extension.name.3</comment>
+      <comment>
+         <val lang="en_US">XSLT Debugger Actions</val>
+      </comment>
+      <val lang="zh_CN">XSLT Debugger Actions</val>
+   </key>
+   <key distribution="eclipse" value="extension.name.8">
+      <comment>extension.name.8</comment>
+      <comment>
+         <val lang="en_US">XQuery Debugger Actions</val>
+      </comment>
+      <val lang="zh_CN">XQuery Debugger Actions</val>
+   </key>
+   <key distribution="eclipse" value="menu.label.4" type="action">
+      <comment>menu.label.4</comment>
+      <comment>
+         <val lang="en_US">Debug</val>
+      </comment>
+      <val lang="zh_CN">Debug</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.49" type="action">
+      <comment>action.tooltip.49</comment>
+      <comment>
+         <val lang="en_US">Pause debugger</val>
+      </comment>
+      <val lang="zh_CN">Pause debugger</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.52" type="action">
+      <comment>action.tooltip.52</comment>
+      <comment>
+         <val lang="en_US">Run debugger</val>
+      </comment>
+      <val lang="zh_CN">Run debugger</val>
+   </key>
+   <key distribution="eclipse" value="extension.name.4">
+      <comment>extension.name.4</comment>
+      <comment>
+         <val lang="en_US">XML Builder</val>
+      </comment>
+      <val lang="zh_CN">XML Builder</val>
+   </key>
+   <key distribution="eclipse" value="extension.name.5">
+      <comment>extension.name.5</comment>
+      <comment>
+         <val lang="en_US">XML Project</val>
+      </comment>
+      <val lang="zh_CN">XML Project</val>
+   </key>
+   <key value="Directory_does_not_exist">
+      <comment>Message presented when a directory is not found on disk</comment>
+      <comment>
+         <val lang="en_US">Directory does not exist.</val>
+      </comment>
+      <val lang="zh_CN">Directory does not exist.</val>
+   </key>
+   <key value="Svn_wc_already_defined">
+      <comment>Message presented when, after editing a working copy item, we obtain a duplicate</comment>
+      <comment>
+         <val lang="en_US">Working copy already defined.</val>
+      </comment>
+      <val lang="zh_CN">Working copy already defined.</val>
+   </key>
+   <key value="Svn_wc_already_defined_as">
+      <comment>Message presented when adding a working copy already defined previously</comment>
+      <comment>
+         <val lang="en_US">Working copy already defined as: "{0}".</val>
+      </comment>
+      <val lang="zh_CN">Working copy already defined as: "{0}".</val>
+   </key>
+   <key value="Svn_wc_duplicate_name_warning">
+      <comment>Message displayed when trying to add a working copy with the same name as one already defined</comment>
+      <comment>
+         <val lang="en_US">A working copy with the same name is already defined:\n{0}</val>
+      </comment>
+      <val lang="zh_CN">A working copy with the same name is already defined:\n{0}</val>
+   </key>
+   <key value="Svn_wc_duplicate_name_rename">
+      <comment>Message displayed when trying to add a working copy with the same name as one already defined</comment>
+      <comment>
+         <val lang="en_US">Please input another name for the new working copy:\n{0}</val>
+      </comment>
+      <val lang="zh_CN">Please input another name for the new working copy:\n{0}</val>
+   </key>
+   <key value="Svn_name_conflict">
+      <comment>Name of the dialog presenting working copy name conflicts</comment>
+      <comment>
+         <val lang="en_US">Name Conflict</val>
+      </comment>
+      <val lang="zh_CN">Name Conflict</val>
+   </key>
+   <key value="Svn_working_copies_manager">
+      <comment>The working copies manager</comment>
+      <comment>
+         <val lang="en_US">Working Copies Manager</val>
+      </comment>
+      <val lang="zh_CN">Working Copies Manager</val>
+   </key>
+   <key value="Svn_no_working_copies_defined">
+      <comment>Message presented in the SVN Client's working copies combo box when no working copies defined</comment>
+      <comment>
+         <val lang="en_US">No working copies defined</val>
+      </comment>
+      <val lang="zh_CN">No working copies defined</val>
+   </key>
+   <key value="Check_open_in_system_application_tooltip" type="action">
+      <comment>Tooltip for Ant "Configure Transformation" dialog, Output Tab, the checkbox "Open in system
+            application".</comment>
+      <comment>
+         <val lang="en_US">Select this if you want to open the transformation result in the associated browser/system
+            application</val>
+      </comment>
+      <val lang="zh_CN">Select this if you want to open the transformation result in the associated browser/system
+            application</val>
+   </key>
+   <key value="Check_open_url_in_system_application_tooltip" type="action">
+      <comment>Tooltip for opening the specified URL in the associated system application.</comment>
+      <comment>
+         <val lang="en_US">Select this if you want to open the specified URL in the associated browser/system
+            application</val>
+      </comment>
+      <val lang="zh_CN">Select this if you want to open the specified URL in the associated browser/system
+            application</val>
+   </key>
+   <key value="Open_in_system_application" type="action">
+      <comment>Option from Project Panel contextual menu and editor pop-up menu</comment>
+      <comment>
+         <val lang="en_US">Open in Browser/System Application</val>
+      </comment>
+      <val lang="zh_CN">Open in Browser/System Application</val>
+   </key>
+   <key value="Dont_import" type="action">
+      <comment>Button name displayed in the switch scenarios dialog.</comment>
+      <comment>
+         <val lang="en_US">Don't import</val>
+      </comment>
+      <val lang="zh_CN">Don't import</val>
+   </key>
+   <key value="Preserve" type="action">
+      <comment>Button name displayed in the switch options dialog.</comment>
+      <comment>
+         <val lang="en_US">Preserve</val>
+      </comment>
+      <val lang="zh_CN">Preserve</val>
+   </key>
+   <key value="Keep_both" type="action">
+      <comment>Button name displayed in the import scenario dialog, when a scenario with the same name already
+            exist.</comment>
+      <comment>
+         <val lang="en_US">Keep both</val>
+      </comment>
+      <val lang="zh_CN">Keep both</val>
+   </key>
+   <key value="Keep_existing" type="action">
+      <comment>Button name displayed in the import scenario dialog, when a scenario with the same name already
+            exist.</comment>
+      <comment>
+         <val lang="en_US">Keep existing</val>
+      </comment>
+      <val lang="zh_CN">Keep existing</val>
+   </key>
+   <key value="Import_scenarios_message">
+      <comment>Message displayed when importing a scenario with the same name and type as an existing one.</comment>
+      <comment>
+         <val lang="en_US">A scenario with the name "{0}" and same type already exists.\nWhat would you like to do?</val>
+      </comment>
+      <val lang="zh_CN">A scenario with the name "{0}" and same type already exists.\nWhat would you like to do?</val>
+   </key>
+   <key value="Import_scenarios" type="action">
+      <comment>Question dialog title showed when merging scenarios.</comment>
+      <comment>
+         <val lang="en_US">Import scenarios</val>
+      </comment>
+      <val lang="zh_CN">Import scenarios</val>
+   </key>
+   <key value="Resolve_schema_locations_through_system_mappings" type="action">
+      <comment>Option from 'XML Catalog' page used to control if schema locations will be resolved also through system
+            mappings.</comment>
+      <comment>
+         <val lang="en_US">Resolve schema locations also through system mappings</val>
+      </comment>
+      <val lang="zh_CN">Resolve schema locations also through system mappings</val>
+   </key>
+   <key value="Insert_value_before" type="action">
+      <comment>Insert before a new JSON value.</comment>
+      <comment>
+         <val lang="en_US">Insert value before</val>
+      </comment>
+      <val lang="zh_CN">Insert value before</val>
+   </key>
+   <key value="Insert_value_after" type="action">
+      <comment>Insert after a new JSON value.</comment>
+      <comment>
+         <val lang="en_US">Insert value after</val>
+      </comment>
+      <val lang="zh_CN">Insert value after</val>
+   </key>
+   <key value="Append_value_as_child" type="action">
+      <comment>Append as child a new JSON value.</comment>
+      <comment>
+         <val lang="en_US">Append value as child</val>
+      </comment>
+      <val lang="zh_CN">Append value as child</val>
+   </key>
+   <key value="Show_line_numbers" type="action">
+      <comment>"Editor/Text" options.</comment>
+      <comment>
+         <val lang="en_US">Show line numbers</val>
+      </comment>
+      <val lang="zh_CN">Show line numbers</val>
+   </key>
+   <key value="Problem_reported_successfully">
+      <comment>Message shown when the feedback provided by the user was successfully sent to Technical Support
+            server.</comment>
+      <comment>
+         <val lang="en_US">Problem was reported successfully. Thank you for your time!</val>
+      </comment>
+      <val lang="zh_CN">Problem was reported successfully. Thank you for your time!</val>
+   </key>
+   <key value="Problem_report_submission_failed">
+      <comment>Message shown when the submission of the feedback provided by the user has failed</comment>
+      <comment>
+         <val lang="en_US"> Report submission failed!\n\nThere was a problem while trying to contact the {0} server. It
+            is possible that you are experiencing issues with your Internet connection. If you are using a proxy server,
+            please check your proxy settings or contact your network administrator. </val>
+      </comment>
+      <val lang="zh_CN"> Report submission failed!\n\nThere was a problem while trying to contact the {0} server. It
+            is possible that you are experiencing issues with your Internet connection. If you are using a proxy server,
+            please check your proxy settings or contact your network administrator. </val>
+   </key>
+   <key value="Problem_report_alternative_solution">
+      <comment>Message shown when the submission of the feedback provided by the user has failed.</comment>
+      <comment>
+         <val lang="en_US">You can also describe the problem that you encountered by writing us an email at {0}.</val>
+      </comment>
+      <val lang="zh_CN">You can also describe the problem that you encountered by writing us an email at {0}.</val>
+   </key>
+   <key value="Adjust_proxy_settings" type="action">
+      <comment>Link to the proxy settings options page.</comment>
+      <comment>
+         <val lang="en_US">Adjust proxy settings</val>
+      </comment>
+      <val lang="zh_CN">Adjust proxy settings</val>
+   </key>
+   <key value="Http_https_server">
+      <comment>Label for HTTP/HTTPS server address</comment>
+      <comment>
+         <val lang="en_US">HTTP/HTTPS server</val>
+      </comment>
+      <val lang="zh_CN">HTTP/HTTPS server</val>
+   </key>
+   <key value="User_defined_check_tooltip">
+      <comment>Tooltip for the checkbox that enables user defined background color.</comment>
+      <comment>
+         <val lang="en_US">Select this to override the editor background color</val>
+      </comment>
+      <val lang="zh_CN">Select this to override the editor background color</val>
+   </key>
+   <key value="Enable_nested_syntax_highlight">
+      <comment>Enable the nested syntax highlight</comment>
+      <comment>
+         <val lang="en_US">Enable nested syntax highlight</val>
+      </comment>
+      <val lang="zh_CN">Enable nested syntax highlight</val>
+   </key>
+   <key value="CSS_class_selector">
+      <comment>Syntax Highlight token name.</comment>
+      <comment>
+         <val lang="en_US">Class selector</val>
+      </comment>
+      <val lang="zh_CN">Class selector</val>
+   </key>
+   <key value="CSS_id_selector">
+      <comment>Syntax Highlight token name.</comment>
+      <comment>
+         <val lang="en_US">ID selector</val>
+      </comment>
+      <val lang="zh_CN">ID selector</val>
+   </key>
+   <key value="CSS_selector">
+      <comment>Syntax Highlight token name.</comment>
+      <comment>
+         <val lang="en_US">Selector</val>
+      </comment>
+      <val lang="zh_CN">Selector</val>
+   </key>
+   <key value="Present_as_sequence">
+      <comment>Mode for presenting the output of a XQuery transformation scenario.</comment>
+      <comment>
+         <val lang="en_US">Present as a sequence</val>
+      </comment>
+      <val lang="zh_CN">Present as a sequence</val>
+   </key>
+   <key value="Present_as_sequence_tooltip">
+      <comment>Explanation tooltip for the mode that presents the output of an XQuery transformation
+            scenario.</comment>
+      <comment>
+         <val lang="en_US">Presents the output of the XQuery transformation in a sequential mode</val>
+      </comment>
+      <val lang="zh_CN">Presents the output of the XQuery transformation in a sequential mode</val>
+   </key>
+   <key value="Xml_attribute">
+      <comment>XML Attribute</comment>
+      <comment>
+         <val lang="en_US">XML Attribute</val>
+      </comment>
+      <val lang="zh_CN">XML Attribute</val>
+   </key>
+   <key value="Yes_until_finished">
+      <comment>Continue the action without asking again.</comment>
+      <comment>
+         <val lang="en_US">Yes, until finished</val>
+      </comment>
+      <val lang="zh_CN">Yes, until finished</val>
+   </key>
+   <key value="Active_cell_color">
+      <comment>Grid views current active cell color option</comment>
+      <comment>
+         <val lang="en_US">Active cell color</val>
+      </comment>
+      <val lang="zh_CN">Active cell color</val>
+   </key>
+   <key value="Treat_as_binary_files_matching">
+      <comment>Label for treating as binary files with the following file patterns (followed by a text
+            field).</comment>
+      <comment>
+         <val lang="en_US">Binary file patterns</val>
+      </comment>
+      <val lang="zh_CN">Binary file patterns</val>
+   </key>
+   <key value="Treat_as_ditamap_patterns">
+      <comment>Label for treating as DITA Maps files with the following file patterns (followed by a text
+            field).</comment>
+      <comment>
+         <val lang="en_US">DITA map file patterns</val>
+      </comment>
+      <val lang="zh_CN">DITA map file patterns</val>
+   </key>
+   <key value="No_reusable_component_found">
+      <comment>No reusable component found.</comment>
+      <comment>
+         <val lang="en_US">No reusable component found.</val>
+      </comment>
+      <val lang="zh_CN">No reusable component found.</val>
+   </key>
+   <key value="Content_reference">
+      <comment>Content reference.</comment>
+      <comment>
+         <val lang="en_US">Content reference</val>
+      </comment>
+      <val lang="zh_CN">Content reference</val>
+   </key>
+   <key value="Insert_as">
+      <comment>Insert as.</comment>
+      <comment>
+         <val lang="en_US">Insert as</val>
+      </comment>
+      <val lang="zh_CN">Insert as</val>
+   </key>
+   <key value="Reusable_component_files">
+      <comment>Reusable Component files.</comment>
+      <comment>
+         <val lang="en_US">Reusable Component files</val>
+      </comment>
+      <val lang="zh_CN">Reusable Component files</val>
+   </key>
+   <key value="Insert_reusable_component">
+      <comment>Insert Reusable Component dialog title.</comment>
+      <comment>
+         <val lang="en_US">Insert Reusable Component</val>
+      </comment>
+      <val lang="zh_CN">Insert Reusable Component</val>
+   </key>
+   <key value="Selected_text">
+      <comment>Selected text.</comment>
+      <comment>
+         <val lang="en_US">Selected Text</val>
+      </comment>
+      <val lang="zh_CN">Selected Text</val>
+   </key>
+   <key value="Reusable_components">
+      <comment>Reusable components.</comment>
+      <comment>
+         <val lang="en_US">Reusable Components</val>
+      </comment>
+      <val lang="zh_CN">Reusable Components</val>
+   </key>
+   <key value="Replace_selection_with_content_reference">
+      <comment>Replace selection with content reference checkbox.</comment>
+      <comment>
+         <val lang="en_US">Replace selection with content reference</val>
+      </comment>
+      <val lang="zh_CN">Replace selection with content reference</val>
+   </key>
+   <key value="Reuse_content">
+      <comment>Reuse content label.</comment>
+      <comment>
+         <val lang="en_US">Reuse Content</val>
+      </comment>
+      <val lang="zh_CN">Reuse Content</val>
+   </key>
+   <key value="Create_reusable_component">
+      <comment>Create Reusable Component dialog title.</comment>
+      <comment>
+         <val lang="en_US">Create Reusable Component</val>
+      </comment>
+      <val lang="zh_CN">Create Reusable Component</val>
+   </key>
+   <key value="Select_multiple_siblings_for_conrefend_range">
+      <comment>Select multiple siblings to set the conrefend range end tooltip message.</comment>
+      <comment>
+         <val lang="en_US">Select multiple siblings to set the conrefend range end.</val>
+      </comment>
+      <val lang="zh_CN">Select multiple siblings to set the conrefend range end.</val>
+   </key>
+   <key value="Target_type">
+      <comment>Target type.</comment>
+      <comment>
+         <val lang="en_US">Target type</val>
+      </comment>
+      <val lang="zh_CN">Target type</val>
+   </key>
+   <key value="Insert_content_reference">
+      <comment>Insert Content Reference title.</comment>
+      <comment>
+         <val lang="en_US">Insert Content Reference</val>
+      </comment>
+      <val lang="zh_CN">Insert Content Reference</val>
+   </key>
+   <key value="Add_edit_content_reference">
+      <comment>Add/Edit Content Reference title.</comment>
+      <comment>
+         <val lang="en_US">Add/Edit Content Reference</val>
+      </comment>
+      <val lang="zh_CN">Add/Edit Content Reference</val>
+   </key>
+   <key value="Insert_key_reference">
+      <comment>Insert Key Reference title.</comment>
+      <comment>
+         <val lang="en_US">Insert Key Reference</val>
+      </comment>
+      <val lang="zh_CN">Insert Key Reference</val>
+   </key>
+   <key value="Insert_content_key_reference">
+      <comment>Insert Content Key Reference title.</comment>
+      <comment>
+         <val lang="en_US">Insert Content Key Reference</val>
+      </comment>
+      <val lang="zh_CN">Insert Content Key Reference</val>
+   </key>
+   <key value="Find_sub_topic_element_id">
+      <comment>Find a sub-topic element ID tooltip.</comment>
+      <comment>
+         <val lang="en_US">Find a sub-topic element ID</val>
+      </comment>
+      <val lang="zh_CN">Find a sub-topic element ID</val>
+   </key>
+   <key value="Sub_topic">
+      <comment>Sub-topic.</comment>
+      <comment>
+         <val lang="en_US">Sub-topic</val>
+      </comment>
+      <val lang="zh_CN">Sub-topic</val>
+   </key>
+   <key value="No_conref_found_in_current_context">
+      <comment>Message shown when no conref was found in the current context.</comment>
+      <comment>
+         <val lang="en_US">No conref found in the current context</val>
+      </comment>
+      <val lang="zh_CN">No conref found in the current context</val>
+   </key>
+   <key value="Filter_documents">
+      <comment>Filter documents</comment>
+      <comment>
+         <val lang="en_US">Filter documents</val>
+      </comment>
+      <val lang="zh_CN">Filter documents</val>
+   </key>
+   <key value="No_target_specified">
+      <comment>No target specified message.</comment>
+      <comment>
+         <val lang="en_US">No target specified.</val>
+      </comment>
+      <val lang="zh_CN">No target specified.</val>
+   </key>
+   <key value="Insert_xreftext_in_OLink">
+      <comment>Insert xreftext in the OLink checkbox message.</comment>
+      <comment>
+         <val lang="en_US">Insert xreftext in the OLink</val>
+      </comment>
+      <val lang="zh_CN">Insert xreftext in the OLink</val>
+   </key>
+   <key value="Edit_olink_action_not_available">
+      <comment>Message shown when 'Edit OLink' action is not available.</comment>
+      <comment>
+         <val lang="en_US">The action "Edit OLink" is not available in the current context.</val>
+      </comment>
+      <val lang="zh_CN">The action "Edit OLink" is not available in the current context.</val>
+   </key>
+   <key value="Conditional_cannot_edit_content_inside_pi_cdata_comment">
+      <comment>Message shown when a content inside PI, CDATA or comment must be profiled.</comment>
+      <comment>
+         <val lang="en_US">The content inside PI, CDATA and comment cannot be profiled.</val>
+      </comment>
+      <val lang="zh_CN">The content inside PI, CDATA and comment cannot be profiled.</val>
+   </key>
+   <key value="Conditional_cannot_edit_content_outside_root">
+      <comment>Message shown when a content outside the root must be profiled.</comment>
+      <comment>
+         <val lang="en_US">The content outside the root cannot be profiled.</val>
+      </comment>
+      <val lang="zh_CN">The content outside the root cannot be profiled.</val>
+   </key>
+   <key value="Conditional_cannot_edit_read_only_content">
+      <comment>Message shown when the user invokes "Edit profiling attributes" action for read-only content.</comment>
+      <comment>
+         <val lang="en_US">You cannot edit profiling attributes for read-only content.</val>
+      </comment>
+      <val lang="zh_CN">You cannot edit profiling attributes for read-only content.</val>
+   </key>
+   <key value="Xml_node_renderer_customizer">
+      <comment>Label in the Document Type editing dialog/Extensions tab</comment>
+      <comment>
+         <val lang="en_US">XML node renderer customizer</val>
+      </comment>
+      <val lang="zh_CN">XML node renderer customizer</val>
+   </key>
+   <key value="Fixed_license_warning_EC">
+      <comment>Message shown when license.xml is loaded from installation directory and the user tries to modify
+            it.</comment>
+      <comment>
+         <val lang="en_US">{0} uses a fixed license file located in the plugin lib directory.\n If you want to register a
+            new license you have to manually remove the fixed license file.</val>
+      </comment>
+      <val lang="zh_CN">{0} uses a fixed license file located in the plugin lib directory.\n If you want to register a
+            new license you have to manually remove the fixed license file.</val>
+   </key>
+   <key value="Fixed_license_warning_SA">
+      <comment>Message shown when license.xml is loaded from installation directory and the user tries to modify
+            it.</comment>
+      <comment>
+         <val lang="en_US">{0} uses a fixed license loaded from:\n {1}\nIf you want to register a new license you have to
+            manually remove the fixed license file.</val>
+      </comment>
+      <val lang="zh_CN">{0} uses a fixed license loaded from:\n {1}\nIf you want to register a new license you have to
+            manually remove the fixed license file.</val>
+   </key>
+   <key value="Conditional_cannot_edit_read_only_element">
+      <comment>Message shown when the user invokes "Edit profiling attributes" action for read-only
+            elements.</comment>
+      <comment>
+         <val lang="en_US">You cannot edit profiling attributes for read-only elements.</val>
+      </comment>
+      <val lang="zh_CN">You cannot edit profiling attributes for read-only elements.</val>
+   </key>
+   <key value="Axis">
+      <comment>Axis</comment>
+      <comment>
+         <val lang="en_US">Axis</val>
+      </comment>
+      <val lang="zh_CN">Axis</val>
+   </key>
+   <key value="Delimiter">
+      <comment>Delimiter</comment>
+      <comment>
+         <val lang="en_US">Delimiter</val>
+      </comment>
+      <val lang="zh_CN">Delimiter</val>
+   </key>
+   <key value="Xml_tag">
+      <comment>Xml tag</comment>
+      <comment>
+         <val lang="en_US">XML tag</val>
+      </comment>
+      <val lang="zh_CN">XML tag</val>
+   </key>
+   <key value="Command">
+      <comment>Command</comment>
+      <comment>
+         <val lang="en_US">Command</val>
+      </comment>
+      <val lang="zh_CN">Command</val>
+   </key>
+   <key value="Shebang">
+      <comment>Shebang</comment>
+      <comment>
+         <val lang="en_US">Shebang</val>
+      </comment>
+      <val lang="zh_CN">Shebang</val>
+   </key>
+   <key value="Argument_number">
+      <comment>Argument number</comment>
+      <comment>
+         <val lang="en_US">Argument number</val>
+      </comment>
+      <val lang="zh_CN">Argument number</val>
+   </key>
+   <key value="RQ_String">
+      <comment>Reverse quote string</comment>
+      <comment>
+         <val lang="en_US">Reverse quote string</val>
+      </comment>
+      <val lang="zh_CN">Reverse quote string</val>
+   </key>
+   <key value="XML_comment">
+      <comment>XML Comment</comment>
+      <comment>
+         <val lang="en_US">XML Comment</val>
+      </comment>
+      <val lang="zh_CN">XML Comment</val>
+   </key>
+   <key value="Header_content">
+      <comment>Header content</comment>
+      <comment>
+         <val lang="en_US">Header content</val>
+      </comment>
+      <val lang="zh_CN">Header content</val>
+   </key>
+   <key value="Unix_comment">
+      <comment>UNIX Comment</comment>
+      <comment>
+         <val lang="en_US">UNIX Comment</val>
+      </comment>
+      <val lang="zh_CN">UNIX Comment</val>
+   </key>
+   <key value="Php_markers">
+      <comment>PHP Markers</comment>
+      <comment>
+         <val lang="en_US">PHP Markers</val>
+      </comment>
+      <val lang="zh_CN">PHP Markers</val>
+   </key>
+   <key value="Instructions">
+      <comment>Instructions</comment>
+      <comment>
+         <val lang="en_US">Instructions</val>
+      </comment>
+      <val lang="zh_CN">Instructions</val>
+   </key>
+   <key value="Operators">
+      <comment>Operators</comment>
+      <comment>
+         <val lang="en_US">Operators</val>
+      </comment>
+      <val lang="zh_CN">Operators</val>
+   </key>
+   <key value="Declaratives">
+      <comment>Declaratives</comment>
+      <comment>
+         <val lang="en_US">Declaratives</val>
+      </comment>
+      <val lang="zh_CN">Declaratives</val>
+   </key>
+   <key value="Primitives">
+      <comment>Primitives</comment>
+      <comment>
+         <val lang="en_US">Primitives</val>
+      </comment>
+      <val lang="zh_CN">Primitives</val>
+   </key>
+   <key value="Var_name">
+      <comment>Variable name</comment>
+      <comment>
+         <val lang="en_US">Variable name</val>
+      </comment>
+      <val lang="zh_CN">Variable name</val>
+   </key>
+   <key value="Colon">
+      <comment>Colon</comment>
+      <comment>
+         <val lang="en_US">Colon</val>
+      </comment>
+      <val lang="zh_CN">Colon</val>
+   </key>
+   <key value="Ellipsis">
+      <comment>Ellipsis</comment>
+      <comment>
+         <val lang="en_US">Ellipsis</val>
+      </comment>
+      <val lang="zh_CN">Ellipsis</val>
+   </key>
+   <key value="Null">
+      <comment>Null</comment>
+      <comment>
+         <val lang="en_US">Null</val>
+      </comment>
+      <val lang="zh_CN">Null</val>
+   </key>
+   <key value="Boolean">
+      <comment>Boolean</comment>
+      <comment>
+         <val lang="en_US">Boolean</val>
+      </comment>
+      <val lang="zh_CN">Boolean</val>
+   </key>
+   <key value="JSP_Markup">
+      <comment>JSP Markup</comment>
+      <comment>
+         <val lang="en_US">JSP Markup</val>
+      </comment>
+      <val lang="zh_CN">JSP Markup</val>
+   </key>
+   <key value="Number">
+      <comment>Number</comment>
+      <comment>
+         <val lang="en_US">Number</val>
+      </comment>
+      <val lang="zh_CN">Number</val>
+   </key>
+   <key value="Dot">
+      <comment>Dot</comment>
+      <comment>
+         <val lang="en_US">Dot</val>
+      </comment>
+      <val lang="zh_CN">Dot</val>
+   </key>
+   <key value="Identifier">
+      <comment>Identifier</comment>
+      <comment>
+         <val lang="en_US">Identifier</val>
+      </comment>
+      <val lang="zh_CN">Identifier</val>
+   </key>
+   <key value="Change_values_label">
+      <comment>Label used in "Edit profiling attributes" dialog.</comment>
+      <comment>
+         <val lang="en_US">Change Now</val>
+      </comment>
+      <val lang="zh_CN">Change Now</val>
+   </key>
+   <key value="Different_values_label">
+      <comment>Label used in "Edit profiling attributes" dialog.</comment>
+      <comment>
+         <val lang="en_US">Different values detected for </val>
+      </comment>
+      <val lang="zh_CN">Different values detected for </val>
+   </key>
+   <key value="Conditional_keep_values_label">
+      <comment>Label used in "Edit profiling attributes" dialog.</comment>
+      <comment>
+         <val lang="en_US">Keep</val>
+      </comment>
+      <val lang="zh_CN">Keep</val>
+   </key>
+   <key value="Additional_extensions_must_be_configured_in_the_associated_scenario">
+      <comment>Warning in the XQuery Saxon Options Page.</comment>
+      <comment>
+         <val lang="en_US">The extension jar files and the initializer ("-init") can be configured from the
+            transformation scenario dialog.</val>
+      </comment>
+      <val lang="zh_CN">The extension jar files and the initializer ("-init") can be configured from the
+            transformation scenario dialog.</val>
+   </key>
+   <key value="Project_selected_resources">
+      <comment>Radio button used in the find/replace in files dialog. Selects as input the current selected project
+            resources (local files or remote URL references). </comment>
+      <comment>
+         <val lang="en_US">Selected project resources</val>
+      </comment>
+      <val lang="zh_CN">Selected project resources</val>
+   </key>
+   <key value="Copied">
+      <comment>Copied resources</comment>
+      <comment>
+         <val lang="en_US">Copied</val>
+      </comment>
+      <val lang="zh_CN">Copied</val>
+   </key>
+   <key value="Generate_stylesheet_documentation">
+      <comment>Checkbox option when creating a new XSL document.</comment>
+      <comment>
+         <val lang="en_US">Add documentation annotations</val>
+      </comment>
+      <val lang="zh_CN">Add documentation annotations</val>
+   </key>
+   <key value="More_results_available">
+      <comment>Label from the Results Panel sequence transformation results presenter tab.</comment>
+      <comment>
+         <val lang="en_US">More results available</val>
+      </comment>
+      <val lang="zh_CN">More results available</val>
+   </key>
+   <key value="More_results_available_tooltip">
+      <comment>Label tooltip from the Results Panel sequence transformation results presenter tab.</comment>
+      <comment>
+         <val lang="en_US">The results size displayed in the Sequence View was limited to {0} MB.\nYou can modify this
+            limit in the Preferences-&gt;XML/XSLT-XQuery/XQuery option page.</val>
+      </comment>
+      <val lang="zh_CN">The results size displayed in the Sequence View was limited to {0} MB.\nYou can modify this
+            limit in the Preferences-&gt;XML/XSLT-XQuery/XQuery option page.</val>
+   </key>
+   <key value="XQuery_options">
+      <comment>XQuery options</comment>
+      <comment>
+         <val lang="en_US">XQuery options</val>
+      </comment>
+      <val lang="zh_CN">XQuery options</val>
+   </key>
+   <key value="Safe_save_create_temp_warning">
+      <comment>Safe save operation warning message that the safe save cannot be performed.</comment>
+      <comment>
+         <val lang="en_US">Unable to safe save {0}. The save will be performed normally. If this problem persists you can
+            disable "Safe Save" from Preferences-&gt;Editor-&gt;Save.</val>
+      </comment>
+      <val lang="zh_CN">Unable to safe save {0}. The save will be performed normally. If this problem persists you can
+            disable "Safe Save" from Preferences-&gt;Editor-&gt;Save.</val>
+   </key>
+   <key value="Safe_save_fail_save">
+      <comment>Safe save operation warning message that the safe save cannot be performed.</comment>
+      <comment>
+         <val lang="en_US">Please note that the content of {0} has not been altered.</val>
+      </comment>
+      <val lang="zh_CN">Please note that the content of {0} has not been altered.</val>
+   </key>
+   <key value="Safe_save_fail_copy">
+      <comment>Safe save operation warning message that the safe save cannot be performed.</comment>
+      <comment>
+         <val lang="en_US">Please note that the file content might have been altered. A copy of the editor''s content can
+            be found in: {0}.</val>
+      </comment>
+      <val lang="zh_CN">Please note that the file content might have been altered. A copy of the editor''s content can
+            be found in: {0}.</val>
+   </key>
+   <key value="Safe_save">
+      <comment>Safe save operation</comment>
+      <comment>
+         <val lang="en_US">Safe save</val>
+      </comment>
+      <val lang="zh_CN">Safe save</val>
+   </key>
+   <key value="Revisions">
+      <comment>More SVN revisions</comment>
+      <comment>
+         <val lang="en_US">Revisions</val>
+      </comment>
+      <val lang="zh_CN">Revisions</val>
+   </key>
+   <key value="This_week">
+      <comment>Current week time-frame</comment>
+      <comment>
+         <val lang="en_US">This week</val>
+      </comment>
+      <val lang="zh_CN">This week</val>
+   </key>
+   <key value="Last_week">
+      <comment>Time-frame of the week before of the current week</comment>
+      <comment>
+         <val lang="en_US">Last week</val>
+      </comment>
+      <val lang="zh_CN">Last week</val>
+   </key>
+   <key value="This_month">
+      <comment>This month time-frame</comment>
+      <comment>
+         <val lang="en_US">This month</val>
+      </comment>
+      <val lang="zh_CN">This month</val>
+   </key>
+   <key value="Last_month">
+      <comment>Time-frame of the month before of the current month</comment>
+      <comment>
+         <val lang="en_US">Last month</val>
+      </comment>
+      <val lang="zh_CN">Last month</val>
+   </key>
+   <key value="Older">
+      <comment>Anything which is older than something presented before of it</comment>
+      <comment>
+         <val lang="en_US">Older</val>
+      </comment>
+      <val lang="zh_CN">Older</val>
+   </key>
+   <key value="Wrong_license_error_message">
+      <comment>Error message for wrong license component (Developer license instead of Editor license)</comment>
+      <comment>
+         <val lang="en_US">The current license applies for {0}\nand is not suitable for {1}.</val>
+      </comment>
+      <val lang="zh_CN">The current license applies for {0}\nand is not suitable for {1}.</val>
+   </key>
+   <key value="Current_license_install_appropriate_application_standalone">
+      <comment>Last part of error message for wrong license component (Developer license instead of Editor
+            license).</comment>
+      <comment>
+         <val lang="en_US">Please install the appropriate Oxygen application for your license.</val>
+      </comment>
+      <val lang="zh_CN">Please install the appropriate Oxygen application for your license.</val>
+   </key>
+   <key value="Current_license_install_appropriate_application_eclipse">
+      <comment>Last part of error message for wrong license component (Developer license instead of Editor
+            license).</comment>
+      <comment>
+         <val lang="en_US">Please install the appropriate Oxygen Eclipse plugin for your license.</val>
+      </comment>
+      <val lang="zh_CN">Please install the appropriate Oxygen Eclipse plugin for your license.</val>
+   </key>
+   <key value="Show_group_columns">
+      <comment>Name of the action used to show/hide group columns in results table.</comment>
+      <comment>
+         <val lang="en_US">Show Group Columns</val>
+      </comment>
+      <val lang="zh_CN">Show Group Columns</val>
+   </key>
+   <key value="Changes">
+      <comment>* Label indicating some sort of changes (e.g. used in SVN to indicate number of changes in History
+            view)</comment>
+      <comment>
+         <val lang="en_US">Changes</val>
+      </comment>
+      <val lang="zh_CN">Changes</val>
+   </key>
+   <key value="Copied_from">
+      <comment>Label indicating a source/location from which a resource was copied</comment>
+      <comment>
+         <val lang="en_US">Copied from</val>
+      </comment>
+      <val lang="zh_CN">Copied from</val>
+   </key>
+   <key value="Initializer_classpath_hint">
+      <comment> Initializer classpath hint</comment>
+      <comment>
+         <val lang="en_US">Add the required jars in the associated scenario extensions.</val>
+      </comment>
+      <val lang="zh_CN">Add the required jars in the associated scenario extensions.</val>
+   </key>
+   <key value="Initializer">
+      <comment> Initializer</comment>
+      <comment>
+         <val lang="en_US">Initializer</val>
+      </comment>
+      <val lang="zh_CN">Initializer</val>
+   </key>
+   <key value="Prefix_empty_namespace_bound_error">
+      <comment> Error message show when a prefix is bound to an empty namespace.</comment>
+      <comment>
+         <val lang="en_US">The prefix "{0}" can not be bound to empty namespace.</val>
+      </comment>
+      <val lang="zh_CN">The prefix "{0}" can not be bound to empty namespace.</val>
+   </key>
+   <key value="Prefix_bound_to_multiple_namespaces">
+      <comment> Error message show when the same prefix is bound to multiple namespaces.</comment>
+      <comment>
+         <val lang="en_US">The prefix "{0}" can not be bound to more than one namespace.</val>
+      </comment>
+      <val lang="zh_CN">The prefix "{0}" can not be bound to more than one namespace.</val>
+   </key>
+   <key value="Choose_key_reference">
+      <comment> Tooltip for choosing key references.</comment>
+      <comment>
+         <val lang="en_US">Choose key reference</val>
+      </comment>
+      <val lang="zh_CN">Choose key reference</val>
+   </key>
+   <key value="Always_perform_this_action">
+      <comment>Always perform this action.</comment>
+      <comment>
+         <val lang="en_US">Always perform this action</val>
+      </comment>
+      <val lang="zh_CN">Always perform this action</val>
+   </key>
+   <key value="Always_create_backup_copies_of_modified_archives">
+      <comment>Always create backup copies of modified archives.</comment>
+      <comment>
+         <val lang="en_US">Always create backup copies of modified archives</val>
+      </comment>
+      <val lang="zh_CN">Always create backup copies of modified archives</val>
+   </key>
+   <key value="Never_create_backup_copies_of_modified_archives">
+      <comment>Never create backup copies of modified archives.</comment>
+      <comment>
+         <val lang="en_US">Never create backup copies of modified archives</val>
+      </comment>
+      <val lang="zh_CN">Never create backup copies of modified archives</val>
+   </key>
+   <key value="Ask_for_each_archive_once_per_session">
+      <comment>Ask for each archive once per session.</comment>
+      <comment>
+         <val lang="en_US">Ask for each archive once per session</val>
+      </comment>
+      <val lang="zh_CN">Ask for each archive once per session</val>
+   </key>
+   <key value="Cannot_determine_the_scenario_input_URL">
+      <comment>Cannot determine the scenario input URL.</comment>
+      <comment>
+         <val lang="en_US">Cannot determine the scenario input URL</val>
+      </comment>
+      <val lang="zh_CN">Cannot determine the scenario input URL</val>
+   </key>
+   <key value="No_preferences_available">
+      <comment>No preferences available.</comment>
+      <comment>
+         <val lang="en_US">No preferences available.</val>
+      </comment>
+      <val lang="zh_CN">No preferences available.</val>
+   </key>
+   <key value="Scenario_require_current_editor">
+      <comment/>
+      <comment>
+         <val lang="en_US">This can happen if the scenario contains editor variables that require a current editor.</val>
+      </comment>
+      <val lang="zh_CN">This can happen if the scenario contains editor variables that require a current editor.</val>
+   </key>
+   <key value="Automatic_spell_check_in">
+      <comment>Label for choosing the editors in which the automatic spell check will work.</comment>
+      <comment>
+         <val lang="en_US">Automatic spell check in:</val>
+      </comment>
+      <val lang="zh_CN">Automatic spell check in:</val>
+   </key>
+   <key value="Select_editors">
+      <comment>Button name for changing the editors that must be automatic spell checked.</comment>
+      <comment>
+         <val lang="en_US">Select editors</val>
+      </comment>
+      <val lang="zh_CN">Select editors</val>
+   </key>
+   <key value="Automatic_spell_check_editors_tooltip">
+      <comment>Hint for changing the editors that must be automatic spell checked.</comment>
+      <comment>
+         <val lang="en_US">Choose the editors to automatically spell check into.</val>
+      </comment>
+      <val lang="zh_CN">Choose the editors to automatically spell check into.</val>
+   </key>
+   <key value="Scenario_name">
+      <comment>Tooltip for missing projects.</comment>
+      <comment>
+         <val lang="en_US">Scenario name</val>
+      </comment>
+      <val lang="zh_CN">Scenario name</val>
+   </key>
+   <key value="Project_is_missing">
+      <comment>Tooltip for missing projects.</comment>
+      <comment>
+         <val lang="en_US">Project {0} is missing</val>
+      </comment>
+      <val lang="zh_CN">Project {0} is missing</val>
+   </key>
+   <key value="Problems">
+      <comment>The title of the tab that presents error and warning messages.</comment>
+      <comment>
+         <val lang="en_US">Problems</val>
+      </comment>
+      <val lang="zh_CN">Problems</val>
+   </key>
+   <key value="Transformation_problems">
+      <comment>The title of the tab that presents error and warning messages after a transformation
+            operation.</comment>
+      <comment>
+         <val lang="en_US">Transformation problems</val>
+      </comment>
+      <val lang="zh_CN">Transformation problems</val>
+   </key>
+   <key value="Batch_validation_problems">
+      <comment>The title of the tab that presents error and warning messages after a batch validation
+            operation.</comment>
+      <comment>
+         <val lang="en_US">Batch validation problems</val>
+      </comment>
+      <val lang="zh_CN">Batch validation problems</val>
+   </key>
+   <key value="Batch_transformation_problems">
+      <comment>The title of the tab that presents error and warning messages after a batch transformation
+            operation.</comment>
+      <comment>
+         <val lang="en_US">Batch transformation problems</val>
+      </comment>
+      <val lang="zh_CN">Batch transformation problems</val>
+   </key>
+   <key value="Schema_doc_relative_output_not_supported">
+      <comment>Error message from Schema Documentation Dialog in case of an relative output for a schema is not
+            resolved to a local file.</comment>
+      <comment>
+         <val lang="en_US">Cannot generate the documentation to the specified output location. Please specify an absolute
+            output file path.</val>
+      </comment>
+      <val lang="zh_CN">Cannot generate the documentation to the specified output location. Please specify an absolute
+            output file path.</val>
+   </key>
+   <key value="Svn_toggle_flexible_layout">
+      <comment>Name of the SVN action used to toggle Syncro SVN Client flexible layout</comment>
+      <comment>
+         <val lang="en_US">Toggle flexible layout</val>
+      </comment>
+      <val lang="zh_CN">Toggle flexible layout</val>
+   </key>
+   <key value="Svn_enable_flexible_layout">
+      <comment>Description of the action used to enable Syncro SVN Client flexible layout</comment>
+      <comment>
+         <val lang="en_US">Enable flexible layout</val>
+      </comment>
+      <val lang="zh_CN">Enable flexible layout</val>
+   </key>
+   <key value="Svn_disable_flexible_layout">
+      <comment>Description of the action used to disable Syncro SVN Client flexible layout</comment>
+      <comment>
+         <val lang="en_US">Disable flexible layout</val>
+      </comment>
+      <val lang="zh_CN">Disable flexible layout</val>
+   </key>
+   <key value="Css_recognize_browser_extension">
+      <comment>Checkbox in CSS Validator to recognize the CSS browser extensions.</comment>
+      <comment>
+         <val lang="en_US">Recognize browser CSS extensions (applies also to content completion)</val>
+      </comment>
+      <val lang="zh_CN">Recognize browser CSS extensions (applies also to content completion)</val>
+   </key>
+</translation>

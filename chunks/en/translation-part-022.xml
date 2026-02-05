@@ -1,0 +1,1770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="Conflict_previous_base_file">
+      <comment>SVN resource property</comment>
+      <comment>
+         <val lang="en_US">Conflict previous base file</val>
+      </comment>
+      <val lang="zh_CN">Conflict previous base file</val>
+   </key>
+   <key value="Conflict_previous_working_file">
+      <comment>SVN resource property</comment>
+      <comment>
+         <val lang="en_US">Conflict previous working file</val>
+      </comment>
+      <val lang="zh_CN">Conflict previous working file</val>
+   </key>
+   <key value="Conflict_current_base_file">
+      <comment>SVN resource property</comment>
+      <comment>
+         <val lang="en_US">Conflict current base file</val>
+      </comment>
+      <val lang="zh_CN">Conflict current base file</val>
+   </key>
+   <key value="Conflict_properties_file">
+      <comment>SVN resource property meaning: The path to the file generated because a resource's properties have
+            conflicts</comment>
+      <comment>
+         <val lang="en_US">Conflict properties file</val>
+      </comment>
+      <val lang="zh_CN">Conflict properties file</val>
+   </key>
+   <key value="Checksum">
+      <comment>SVN Resource Checksum</comment>
+      <comment>
+         <val lang="en_US">Checksum</val>
+      </comment>
+      <val lang="zh_CN">Checksum</val>
+   </key>
+   <key value="Lock_token">
+      <comment>ID for lock</comment>
+      <comment>
+         <val lang="en_US">Lock token</val>
+      </comment>
+      <val lang="zh_CN">Lock token</val>
+   </key>
+   <key value="Lock_expiration_date">
+      <comment>Expiration date for lock</comment>
+      <comment>
+         <val lang="en_US">Lock expiration date</val>
+      </comment>
+      <val lang="zh_CN">Lock expiration date</val>
+   </key>
+   <key value="Issued_to">
+      <comment>Used in the certificate information dialog</comment>
+      <comment>
+         <val lang="en_US">Issued to</val>
+      </comment>
+      <val lang="zh_CN">Issued to</val>
+   </key>
+   <key value="Common_name">
+      <comment>Used in the certificate information dialog</comment>
+      <comment>
+         <val lang="en_US">Common Name</val>
+      </comment>
+      <val lang="zh_CN">Common Name</val>
+   </key>
+   <key value="Organization">
+      <comment>Used in the certificate information dialog</comment>
+      <comment>
+         <val lang="en_US">Organization</val>
+      </comment>
+      <val lang="zh_CN">Organization</val>
+   </key>
+   <key value="Organization_unit">
+      <comment>Used in the certificate information dialog</comment>
+      <comment>
+         <val lang="en_US">Organization Unit</val>
+      </comment>
+      <val lang="zh_CN">Organization Unit</val>
+   </key>
+   <key value="Serial_number">
+      <comment>Used in the certificate information dialog</comment>
+      <comment>
+         <val lang="en_US">Serial Number</val>
+      </comment>
+      <val lang="zh_CN">Serial Number</val>
+   </key>
+   <key value="Issued_by">
+      <comment>Used in the certificate information dialog</comment>
+      <comment>
+         <val lang="en_US">Issued by</val>
+      </comment>
+      <val lang="zh_CN">Issued by</val>
+   </key>
+   <key value="Validity">
+      <comment>Used in the certificate information dialog</comment>
+      <comment>
+         <val lang="en_US">Validity</val>
+      </comment>
+      <val lang="zh_CN">Validity</val>
+   </key>
+   <key value="Issued_on">
+      <comment>Used in the certificate information dialog, means issued on... a certain date</comment>
+      <comment>
+         <val lang="en_US">Issued on</val>
+      </comment>
+      <val lang="zh_CN">Issued on</val>
+   </key>
+   <key value="Expires_on">
+      <comment>Used in the certificate information dialog</comment>
+      <comment>
+         <val lang="en_US">Expires on</val>
+      </comment>
+      <val lang="zh_CN">Expires on</val>
+   </key>
+   <key value="Fingerprints">
+      <comment>Used in the certificate information dialog</comment>
+      <comment>
+         <val lang="en_US">Fingerprints</val>
+      </comment>
+      <val lang="zh_CN">Fingerprints</val>
+   </key>
+   <key value="Unspecified">
+      <comment>Used in the certificate information dialog</comment>
+      <comment>
+         <val lang="en_US">Unspecified</val>
+      </comment>
+      <val lang="zh_CN">Unspecified</val>
+   </key>
+   <key value="Adding">
+      <comment>SVN Adding resource to repository process name</comment>
+      <comment>
+         <val lang="en_US">Adding</val>
+      </comment>
+      <val lang="zh_CN">Adding</val>
+   </key>
+   <key value="Creating_branch_tag">
+      <comment>SVN process name: creating branch/tag</comment>
+      <comment>
+         <val lang="en_US">Creating Branch/Tag</val>
+      </comment>
+      <val lang="zh_CN">Creating Branch/Tag</val>
+   </key>
+   <key value="Checking_out">
+      <comment>SVN process name: checking out resources</comment>
+      <comment>
+         <val lang="en_US">Checking out</val>
+      </comment>
+      <val lang="zh_CN">Checking out</val>
+   </key>
+   <key value="Collecting_outgoing_changes">
+      <comment>SVN process name: collecting outgoing changes</comment>
+      <comment>
+         <val lang="en_US">Collecting outgoing changes</val>
+      </comment>
+      <val lang="zh_CN">Collecting outgoing changes</val>
+   </key>
+   <key value="Comparing">
+      <comment>SVN process name: compare</comment>
+      <comment>
+         <val lang="en_US">Comparing</val>
+      </comment>
+      <val lang="zh_CN">Comparing</val>
+   </key>
+   <key value="Exporting">
+      <comment>SVN process name: export</comment>
+      <comment>
+         <val lang="en_US">Exporting</val>
+      </comment>
+      <val lang="zh_CN">Exporting</val>
+   </key>
+   <key value="Importing">
+      <comment>SVN process name: import</comment>
+      <comment>
+         <val lang="en_US">Importing</val>
+      </comment>
+      <val lang="zh_CN">Importing</val>
+   </key>
+   <key value="Fetching_information">
+      <comment>SVN process name: fetching information for resource</comment>
+      <comment>
+         <val lang="en_US">Fetching information</val>
+      </comment>
+      <val lang="zh_CN">Fetching information</val>
+   </key>
+   <key value="Opening">
+      <comment>SVN process name: open a resource</comment>
+      <comment>
+         <val lang="en_US">Opening</val>
+      </comment>
+      <val lang="zh_CN">Opening</val>
+   </key>
+   <key value="Moving">
+      <comment>SVN process name: move a resource</comment>
+      <comment>
+         <val lang="en_US">Moving</val>
+      </comment>
+      <val lang="zh_CN">Moving</val>
+   </key>
+   <key value="Copying">
+      <comment>SVN process name: copy a resource</comment>
+      <comment>
+         <val lang="en_US">Copying</val>
+      </comment>
+      <val lang="zh_CN">Copying</val>
+   </key>
+   <key value="Deleting">
+      <comment>SVN process name: delete resources</comment>
+      <comment>
+         <val lang="en_US">Deleting</val>
+      </comment>
+      <val lang="zh_CN">Deleting</val>
+   </key>
+   <key value="Scanning_for_locks">
+      <comment>SVN process name: scan resources for locks</comment>
+      <comment>
+         <val lang="en_US">Scanning for locks</val>
+      </comment>
+      <val lang="zh_CN">Scanning for locks</val>
+   </key>
+   <key value="Selecting_working_copy_resource">
+      <comment>SVN process name: select the working copy resource</comment>
+      <comment>
+         <val lang="en_US">Selecting Working Copy Resource</val>
+      </comment>
+      <val lang="zh_CN">Selecting Working Copy Resource</val>
+   </key>
+   <key value="Refreshing">
+      <comment>SVN process name: refresh resources states</comment>
+      <comment>
+         <val lang="en_US">Refreshing</val>
+      </comment>
+      <val lang="zh_CN">Refreshing</val>
+   </key>
+   <key value="Synchronizing">
+      <comment>SVN process name: synchronize resources with repository</comment>
+      <comment>
+         <val lang="en_US">Synchronizing</val>
+      </comment>
+      <val lang="zh_CN">Synchronizing</val>
+   </key>
+   <key value="Cleaning_up">
+      <comment>SVN process name: clean up for SVN locks</comment>
+      <comment>
+         <val lang="en_US">Cleaning up</val>
+      </comment>
+      <val lang="zh_CN">Cleaning up</val>
+   </key>
+   <key value="Committing">
+      <comment>SVN process name: commit resources to repository</comment>
+      <comment>
+         <val lang="en_US">Committing</val>
+      </comment>
+      <val lang="zh_CN">Committing</val>
+   </key>
+   <key value="Locking">
+      <comment>SVN process name: lock resources</comment>
+      <comment>
+         <val lang="en_US">Locking</val>
+      </comment>
+      <val lang="zh_CN">Locking</val>
+   </key>
+   <key value="Merging">
+      <comment>SVN process name: merge resource</comment>
+      <comment>
+         <val lang="en_US">Merging</val>
+      </comment>
+      <val lang="zh_CN">Merging</val>
+   </key>
+   <key value="Reverting">
+      <comment>SVN process name: revert resources</comment>
+      <comment>
+         <val lang="en_US">Reverting</val>
+      </comment>
+      <val lang="zh_CN">Reverting</val>
+   </key>
+   <key value="Editing_properties">
+      <comment>SVN process name: edit resource properties</comment>
+      <comment>
+         <val lang="en_US">Editing properties</val>
+      </comment>
+      <val lang="zh_CN">Editing properties</val>
+   </key>
+   <key value="Unlocking">
+      <comment>SVN process name: unlock resource</comment>
+      <comment>
+         <val lang="en_US">Unlocking</val>
+      </comment>
+      <val lang="zh_CN">Unlocking</val>
+   </key>
+   <key value="Updating">
+      <comment>SVN process name: update resources</comment>
+      <comment>
+         <val lang="en_US">Updating</val>
+      </comment>
+      <val lang="zh_CN">Updating</val>
+   </key>
+   <key value="Checked_out">
+      <comment>SVN subtask name</comment>
+      <comment>
+         <val lang="en_US">Checked out</val>
+      </comment>
+      <val lang="zh_CN">Checked out</val>
+   </key>
+   <key value="Checked_out_revision">
+      <comment>SVN subtask name</comment>
+      <comment>
+         <val lang="en_US">Checked out revision</val>
+      </comment>
+      <val lang="zh_CN">Checked out revision</val>
+   </key>
+   <key value="Commit_targets_should_belong_to_the_same_working_copy">
+      <comment>SVN commit warning</comment>
+      <comment>
+         <val lang="en_US">Commit targets should belong to the same working copy</val>
+      </comment>
+      <val lang="zh_CN">Commit targets should belong to the same working copy</val>
+   </key>
+   <key value="Sending">
+      <comment>SVN commit message label when sending data to SVN repository</comment>
+      <comment>
+         <val lang="en_US">Sending</val>
+      </comment>
+      <val lang="zh_CN">Sending</val>
+   </key>
+   <key value="Transmitting_file_data">
+      <comment>SVN commit message label when transmitting file data</comment>
+      <comment>
+         <val lang="en_US">Transmitting file data</val>
+      </comment>
+      <val lang="zh_CN">Transmitting file data</val>
+   </key>
+   <key value="Replacing">
+      <comment>SVN commit message label when replacing a resource</comment>
+      <comment>
+         <val lang="en_US">Replacing</val>
+      </comment>
+      <val lang="zh_CN">Replacing</val>
+   </key>
+   <key value="Commit_completed">
+      <comment>SVN commit message label when commit is completed</comment>
+      <comment>
+         <val lang="en_US">Commit completed</val>
+      </comment>
+      <val lang="zh_CN">Commit completed</val>
+   </key>
+   <key value="Files_are_identical">
+      <comment>Compare binary files information message</comment>
+      <comment>
+         <val lang="en_US">Files are identical</val>
+      </comment>
+      <val lang="zh_CN">Files are identical</val>
+   </key>
+   <key value="Resource_does_not_exist">
+      <comment>SVN error message (local or remote resource does not exist)</comment>
+      <comment>
+         <val lang="en_US">Resource does not exist</val>
+      </comment>
+      <val lang="zh_CN">Resource does not exist</val>
+   </key>
+   <key value="Cannot_compare">
+      <comment>SVN compare error message</comment>
+      <comment>
+         <val lang="en_US">Cannot compare</val>
+      </comment>
+      <val lang="zh_CN">Cannot compare</val>
+   </key>
+   <key value="Deleted">
+      <comment>SVN operation status</comment>
+      <comment>
+         <val lang="en_US">Deleted</val>
+      </comment>
+      <val lang="zh_CN">Deleted</val>
+   </key>
+   <key value="Updated">
+      <comment>SVN operation status</comment>
+      <comment>
+         <val lang="en_US">Updated</val>
+      </comment>
+      <val lang="zh_CN">Updated</val>
+   </key>
+   <key value="Dry_run_merge_done">
+      <comment>SVN operation status</comment>
+      <comment>
+         <val lang="en_US">Dry-run merge done</val>
+      </comment>
+      <val lang="zh_CN">Dry-run merge done</val>
+   </key>
+   <key value="Merge_done">
+      <comment>SVN operation status</comment>
+      <comment>
+         <val lang="en_US">Merge done</val>
+      </comment>
+      <val lang="zh_CN">Merge done</val>
+   </key>
+   <key value="Failed_to_revert">
+      <comment>SVN error message, revert has failed</comment>
+      <comment>
+         <val lang="en_US">Failed to revert</val>
+      </comment>
+      <val lang="zh_CN">Failed to revert</val>
+   </key>
+   <key value="No_locks_found">
+      <comment>SVN message when scan for locks finds no locks</comment>
+      <comment>
+         <val lang="en_US">No locks found</val>
+      </comment>
+      <val lang="zh_CN">No locks found</val>
+   </key>
+   <key value="The_working_copy_is_locked_do_you_want_to_perform_a_clean_up">
+      <comment>SVN question</comment>
+      <comment>
+         <val lang="en_US">The working copy is locked. Do you want to perform a cleanup?</val>
+      </comment>
+      <val lang="zh_CN">The working copy is locked. Do you want to perform a cleanup?</val>
+   </key>
+   <key value="Synchronization_finished">
+      <comment>SVN synchronize status</comment>
+      <comment>
+         <val lang="en_US">Synchronization finished</val>
+      </comment>
+      <val lang="zh_CN">Synchronization finished</val>
+   </key>
+   <key value="No_changes_found">
+      <comment>SVN synchronize status</comment>
+      <comment>
+         <val lang="en_US">No changes found</val>
+      </comment>
+      <val lang="zh_CN">No changes found</val>
+   </key>
+   <key value="Unlocked">
+      <comment>SVN message during unlocking process</comment>
+      <comment>
+         <val lang="en_US">Unlocked</val>
+      </comment>
+      <val lang="zh_CN">Unlocked</val>
+   </key>
+   <key value="Update_external">
+      <comment>SVN message during update process</comment>
+      <comment>
+         <val lang="en_US">Update external</val>
+      </comment>
+      <val lang="zh_CN">Update external</val>
+   </key>
+   <key value="Pending">
+      <comment>SVN message while browsing the repository</comment>
+      <comment>
+         <val lang="en_US">Pending</val>
+      </comment>
+      <val lang="zh_CN">Pending</val>
+   </key>
+   <key value="Repositories">
+      <comment>Root of the repositories tree</comment>
+      <comment>
+         <val lang="en_US">Repositories</val>
+      </comment>
+      <val lang="zh_CN">Repositories</val>
+   </key>
+   <key value="Locked">
+      <comment>SVN resource was locked message</comment>
+      <comment>
+         <val lang="en_US">Locked</val>
+      </comment>
+      <val lang="zh_CN">Locked</val>
+   </key>
+   <key value="Remove_from_list">
+      <comment>Question when the Working Copy is missing</comment>
+      <comment>
+         <val lang="en_US">Remove from list?</val>
+      </comment>
+      <val lang="zh_CN">Remove from list?</val>
+   </key>
+   <key value="The_working_copy_is_missing">
+      <comment>Message when the working copy is missing</comment>
+      <comment>
+         <val lang="en_US">The working copy is missing</val>
+      </comment>
+      <val lang="zh_CN">The working copy is missing</val>
+   </key>
+   <key value="State">
+      <comment>SVN resource state</comment>
+      <comment>
+         <val lang="en_US">State</val>
+      </comment>
+      <val lang="zh_CN">State</val>
+   </key>
+   <key value="Expiration_date">
+      <comment>Expiration date for lock</comment>
+      <comment>
+         <val lang="en_US">Expiration Date</val>
+      </comment>
+      <val lang="zh_CN">Expiration Date</val>
+   </key>
+   <key value="Creation_date">
+      <comment>Creation date for lock</comment>
+      <comment>
+         <val lang="en_US">Creation date</val>
+      </comment>
+      <val lang="zh_CN">Creation date</val>
+   </key>
+   <key value="Cannot_detect_working_copy_root_for">
+      <comment>Warning message when working copy root could not be determined for a local resource</comment>
+      <comment>
+         <val lang="en_US">Cannot detect working copy root for</val>
+      </comment>
+      <val lang="zh_CN">Cannot detect working copy root for</val>
+   </key>
+   <key value="Properties_state">
+      <comment>SVN properties state</comment>
+      <comment>
+         <val lang="en_US">Properties state</val>
+      </comment>
+      <val lang="zh_CN">Properties state</val>
+   </key>
+   <key value="Local_file_status">
+      <comment>SVN local file status</comment>
+      <comment>
+         <val lang="en_US">Local file status</val>
+      </comment>
+      <val lang="zh_CN">Local file status</val>
+   </key>
+   <key value="Local_properties_status">
+      <comment>SVN properties status</comment>
+      <comment>
+         <val lang="en_US">Local properties status</val>
+      </comment>
+      <val lang="zh_CN">Local properties status</val>
+   </key>
+   <key value="Remote_file_status">
+      <comment>SVN remote file status</comment>
+      <comment>
+         <val lang="en_US">Remote file status</val>
+      </comment>
+      <val lang="zh_CN">Remote file status</val>
+   </key>
+   <key value="Remote_properties_status">
+      <comment>Remote properties status</comment>
+      <comment>
+         <val lang="en_US">Remote properties status</val>
+      </comment>
+      <val lang="zh_CN">Remote properties status</val>
+   </key>
+   <key value="Remote_revision">
+      <comment>Remote resource revision</comment>
+      <comment>
+         <val lang="en_US">Remote revision</val>
+      </comment>
+      <val lang="zh_CN">Remote revision</val>
+   </key>
+   <key distribution="common" value="Edit_attributes">
+      <comment>Edit element's attributes (popup menu on outliner and schema diagram)</comment>
+      <comment>
+         <val lang="en_US">Edit Attributes</val>
+      </comment>
+      <val lang="zh_CN">Edit Attributes</val>
+   </key>
+   <key value="Flatten_schema_confirm_message">
+      <comment>Flat schema (included schemas elements are added in the current schema)</comment>
+      <comment>
+         <val lang="en_US">All the components from the included or redefined schema(s) will be inserted in the current
+            file</val>
+      </comment>
+      <val lang="zh_CN">All the components from the included or redefined schema(s) will be inserted in the current
+            file</val>
+   </key>
+   <key value="SVN_first_start_options_warning">
+      <comment>Warning message shown when SVN Client is launched for the first time</comment>
+      <comment>
+         <val lang="en_US">Please note that the SVN client uses two different sets of options: one when it is launched
+            from the editor, as a tool, and another one when it is launched directly, as a standalone application. </val>
+      </comment>
+      <val lang="zh_CN">Please note that the SVN client uses two different sets of options: one when it is launched
+            from the editor, as a tool, and another one when it is launched directly, as a standalone application. </val>
+   </key>
+   <key value="Are_you_sure_you_want_to_remove_this_repository_from_the_list">
+      <comment/>
+      <comment>
+         <val lang="en_US">Are you sure you want to remove this repository from the list?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to remove this repository from the list?</val>
+   </key>
+   <key value="Add_to_svn_ignore">
+      <comment>SVN action</comment>
+      <comment>
+         <val lang="en_US">Add to "svn:ignore"</val>
+      </comment>
+      <val lang="zh_CN">Add to "svn:ignore"</val>
+   </key>
+   <key value="Resources_by_name">
+      <comment>Resources (files, directories) that can be ignored.</comment>
+      <comment>
+         <val lang="en_US">Resource(s) by name</val>
+      </comment>
+      <val lang="zh_CN">Resource(s) by name</val>
+   </key>
+   <key value="Examples">
+      <comment>List of example patterns</comment>
+      <comment>
+         <val lang="en_US">Examples</val>
+      </comment>
+      <val lang="zh_CN">Examples</val>
+   </key>
+   <key value="Custom_pattern">
+      <comment/>
+      <comment>
+         <val lang="en_US">Custom pattern</val>
+      </comment>
+      <val lang="zh_CN">Custom pattern</val>
+   </key>
+   <key value="The_wildcard_characters_are_permitted">
+      <comment>Filters for the svn:ignore</comment>
+      <comment>
+         <val lang="en_US">The wildcard characters '*' and '?' are permitted</val>
+      </comment>
+      <val lang="zh_CN">The wildcard characters '*' and '?' are permitted</val>
+   </key>
+   <key value="Branch_tag">
+      <comment>Branch or Tag SVN action</comment>
+      <comment>
+         <val lang="en_US">Branch/Tag</val>
+      </comment>
+      <val lang="zh_CN">Branch/Tag</val>
+   </key>
+   <key value="Malformed_destination_URL">
+      <comment>SVN warning</comment>
+      <comment>
+         <val lang="en_US">Malformed destination URL</val>
+      </comment>
+      <val lang="zh_CN">Malformed destination URL</val>
+   </key>
+   <key value="HEAD_revision_in_the_repository">
+      <comment>In a SVN action</comment>
+      <comment>
+         <val lang="en_US">HEAD revision in the repository</val>
+      </comment>
+      <val lang="zh_CN">HEAD revision in the repository</val>
+   </key>
+   <key value="Specific_revision_in_the_repository">
+      <comment>SVN action</comment>
+      <comment>
+         <val lang="en_US">Specific revision in the repository</val>
+      </comment>
+      <val lang="zh_CN">Specific revision in the repository</val>
+   </key>
+   <key value="Copy_noun">
+      <comment>Copy some files</comment>
+      <comment>
+         <val lang="en_US">Copy</val>
+      </comment>
+      <val lang="zh_CN">Copy</val>
+   </key>
+   <key value="Destination_must_be_different_from_sources">
+      <comment>Copy SVN action warning</comment>
+      <comment>
+         <val lang="en_US">Destination must be different from any of the sources.</val>
+      </comment>
+      <val lang="zh_CN">Destination must be different from any of the sources.</val>
+   </key>
+   <key value="No_information_available">
+      <comment>Indication message in Show Info SVN action</comment>
+      <comment>
+         <val lang="en_US">No information available.</val>
+      </comment>
+      <val lang="zh_CN">No information available.</val>
+   </key>
+   <key value="Merge">
+      <comment>Merge of two files/revisions</comment>
+      <comment>
+         <val lang="en_US">Merge</val>
+      </comment>
+      <val lang="zh_CN">Merge</val>
+   </key>
+   <key value="HEAD_revision">
+      <comment>The top level revision in the repository</comment>
+      <comment>
+         <val lang="en_US">HEAD revision</val>
+      </comment>
+      <val lang="zh_CN">HEAD revision</val>
+   </key>
+   <key value="Revision">
+      <comment>A revision in a repository</comment>
+      <comment>
+         <val lang="en_US">Revision</val>
+      </comment>
+      <val lang="zh_CN">Revision</val>
+   </key>
+   <key value="The_corresponding_repository_URL">
+      <comment>Message</comment>
+      <comment>
+         <val lang="en_US">The corresponding repository URL</val>
+      </comment>
+      <val lang="zh_CN">The corresponding repository URL</val>
+   </key>
+   <key value="Dry_run">
+      <comment>A SVN operation that is simulated</comment>
+      <comment>
+         <val lang="en_US">Dry run</val>
+      </comment>
+      <val lang="zh_CN">Dry run</val>
+   </key>
+   <key value="Show_history">
+      <comment>Shows the history of some files on a SVN repository</comment>
+      <comment>
+         <val lang="en_US">Show History</val>
+      </comment>
+      <val lang="zh_CN">Show History</val>
+   </key>
+   <key value="Not_available">
+      <comment>Generic message</comment>
+      <comment>
+         <val lang="en_US">Not available</val>
+      </comment>
+      <val lang="zh_CN">Not available</val>
+   </key>
+   <key value="The_following_items_will_be_updated">
+      <comment>Message</comment>
+      <comment>
+         <val lang="en_US">The following items will be updated</val>
+      </comment>
+      <val lang="zh_CN">The following items will be updated</val>
+   </key>
+   <key value="Commit_message">
+      <comment>Message associated to the commit operation</comment>
+      <comment>
+         <val lang="en_US">Commit message</val>
+      </comment>
+      <val lang="zh_CN">Commit message</val>
+   </key>
+   <key value="Choose_a_previously_entered_message">
+      <comment>Message in a combo</comment>
+      <comment>
+         <val lang="en_US">Choose a previously entered message</val>
+      </comment>
+      <val lang="zh_CN">Choose a previously entered message</val>
+   </key>
+   <key value="Previous_messages">
+      <comment/>
+      <comment>
+         <val lang="en_US">Previous messages</val>
+      </comment>
+      <val lang="zh_CN">Previous messages</val>
+   </key>
+   <key value="Cannot_commit_folder_deletion_and_folder_properties_in_non_recursive_manner">
+      <comment>Warning on a SVN commit action</comment>
+      <comment>
+         <val lang="en_US">Cannot commit folder deletion and folder properties in non recursive manner.\n All files
+            beneath the folder with properties changed must also be selected.</val>
+      </comment>
+      <val lang="zh_CN">Cannot commit folder deletion and folder properties in non recursive manner.\n All files
+            beneath the folder with properties changed must also be selected.</val>
+   </key>
+   <key value="Compare_with_working_copy">
+      <comment>Action name - SVN</comment>
+      <comment>
+         <val lang="en_US">Compare with working copy</val>
+      </comment>
+      <val lang="zh_CN">Compare with working copy</val>
+   </key>
+   <key value="Compare_revisions">
+      <comment>Action name - SVN</comment>
+      <comment>
+         <val lang="en_US">Compare revisions</val>
+      </comment>
+      <val lang="zh_CN">Compare revisions</val>
+   </key>
+   <key value="Revert_changes_from_these_revisions">
+      <comment>Action name - SVN</comment>
+      <comment>
+         <val lang="en_US">Revert changes from these revisions</val>
+      </comment>
+      <val lang="zh_CN">Revert changes from these revisions</val>
+   </key>
+   <key value="Revert_changes_from_this_revision">
+      <comment>Action name - in the history view, SVN</comment>
+      <comment>
+         <val lang="en_US">Revert changes from this revision</val>
+      </comment>
+      <val lang="zh_CN">Revert changes from this revision</val>
+   </key>
+   <key value="Revert_changes">
+      <comment>Action name - SVN</comment>
+      <comment>
+         <val lang="en_US">Revert changes</val>
+      </comment>
+      <val lang="zh_CN">Revert changes</val>
+   </key>
+   <key value="Update_to_revision">
+      <comment>Action name - SVN</comment>
+      <comment>
+         <val lang="en_US">Update to revision</val>
+      </comment>
+      <val lang="zh_CN">Update to revision</val>
+   </key>
+   <key value="Action">
+      <comment>Action name - SVN</comment>
+      <comment>
+         <val lang="en_US">Action</val>
+      </comment>
+      <val lang="zh_CN">Action</val>
+   </key>
+   <key value="Copy_from">
+      <comment>Source of the SVN copy</comment>
+      <comment>
+         <val lang="en_US">Copy from</val>
+      </comment>
+      <val lang="zh_CN">Copy from</val>
+   </key>
+   <key value="Creating_log">
+      <comment>Message during the show history operation</comment>
+      <comment>
+         <val lang="en_US">Creating log</val>
+      </comment>
+      <val lang="zh_CN">Creating log</val>
+   </key>
+   <key value="Date">
+      <comment>A calendar date</comment>
+      <comment>
+         <val lang="en_US">Date</val>
+      </comment>
+      <val lang="zh_CN">Date</val>
+   </key>
+   <key distribution="common" value="Author">
+      <comment>Author of a change</comment>
+      <comment>
+         <val lang="en_US">Author</val>
+      </comment>
+      <val lang="zh_CN">Author</val>
+   </key>
+   <key value="Last_change_revision">
+      <comment>End of a message </comment>
+      <comment>
+         <val lang="en_US">Last change revision</val>
+      </comment>
+      <val lang="zh_CN">Last change revision</val>
+   </key>
+   <key value="Added">
+      <comment>Added files</comment>
+      <comment>
+         <val lang="en_US">Added</val>
+      </comment>
+      <val lang="zh_CN">Added</val>
+   </key>
+   <key value="Are_you_sure_you_want_to_remove_the_property">
+      <comment>Confirmation message - SVN</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to remove the property?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to remove the property?</val>
+   </key>
+   <key value="Remove_recursively">
+      <comment>Removes a properly</comment>
+      <comment>
+         <val lang="en_US">Remove recursively</val>
+      </comment>
+      <val lang="zh_CN">Remove recursively</val>
+   </key>
+   <key value="Current_value">
+      <comment>Message</comment>
+      <comment>
+         <val lang="en_US">Current value</val>
+      </comment>
+      <val lang="zh_CN">Current value</val>
+   </key>
+   <key value="Base_value">
+      <comment>Property value that from the base revision</comment>
+      <comment>
+         <val lang="en_US">Base value</val>
+      </comment>
+      <val lang="zh_CN">Base value</val>
+   </key>
+   <key value="Set_property_recursively">
+      <comment/>
+      <comment>
+         <val lang="en_US">Set property recursively</val>
+      </comment>
+      <val lang="zh_CN">Set property recursively</val>
+   </key>
+   <key value="Property_name_cannot_be_empty">
+      <comment>Warning</comment>
+      <comment>
+         <val lang="en_US">Property name cannot be empty.</val>
+      </comment>
+      <val lang="zh_CN">Property name cannot be empty.</val>
+   </key>
+   <key value="Add_property_for_file">
+      <comment/>
+      <comment>
+         <val lang="en_US">Add property for file</val>
+      </comment>
+      <val lang="zh_CN">Add property for file</val>
+   </key>
+   <key value="Edit_property_for_file">
+      <comment/>
+      <comment>
+         <val lang="en_US">Edit property for file</val>
+      </comment>
+      <val lang="zh_CN">Edit property for file</val>
+   </key>
+   <key value="Removed">
+      <comment>Info message</comment>
+      <comment>
+         <val lang="en_US">Removed</val>
+      </comment>
+      <val lang="zh_CN">Removed</val>
+   </key>
+   <key value="Property_value">
+      <comment/>
+      <comment>
+         <val lang="en_US">Property value</val>
+      </comment>
+      <val lang="zh_CN">Property value</val>
+   </key>
+   <key value="Check_out">
+      <comment>SVN operation - extracts a module from the repository</comment>
+      <comment>
+         <val lang="en_US">Check out</val>
+      </comment>
+      <val lang="zh_CN">Check out</val>
+   </key>
+   <key value="Copy_url_location">
+      <comment>Copies the URL of the selected resource to the clipboard. In the repository view</comment>
+      <comment>
+         <val lang="en_US">Copy URL Location</val>
+      </comment>
+      <val lang="zh_CN">Copy URL Location</val>
+   </key>
+   <key value="Edit_repository_location">
+      <comment/>
+      <comment>
+         <val lang="en_US">Edit Repository Location</val>
+      </comment>
+      <val lang="zh_CN">Edit Repository Location</val>
+   </key>
+   <key value="New_repository_location">
+      <comment/>
+      <comment>
+         <val lang="en_US">New Repository Location</val>
+      </comment>
+      <val lang="zh_CN">New Repository Location</val>
+   </key>
+   <key value="Remove_repository_location">
+      <comment/>
+      <comment>
+         <val lang="en_US">Remove Repository Location</val>
+      </comment>
+      <val lang="zh_CN">Remove Repository Location</val>
+   </key>
+   <key value="Repository_browser">
+      <comment/>
+      <comment>
+         <val lang="en_US">Repository browser</val>
+      </comment>
+      <val lang="zh_CN">Repository browser</val>
+   </key>
+   <key value="Head" skipTranslation="true">
+      <comment/>
+      <comment>
+         <val lang="en_US">HEAD</val>
+      </comment>
+      <val lang="zh_CN">HEAD</val>
+   </key>
+   <key value="Invalid_revision_number">
+      <comment/>
+      <comment>
+         <val lang="en_US">Invalid revision number</val>
+      </comment>
+      <val lang="zh_CN">Invalid revision number</val>
+   </key>
+   <key value="Repository_uuid">
+      <comment/>
+      <comment>
+         <val lang="en_US">Repository UUID</val>
+      </comment>
+      <val lang="zh_CN">Repository UUID</val>
+   </key>
+   <key value="Repository_url">
+      <comment/>
+      <comment>
+         <val lang="en_US">Repository URL</val>
+      </comment>
+      <val lang="zh_CN">Repository URL</val>
+   </key>
+   <key value="No_results_found">
+      <comment>Info message</comment>
+      <comment>
+         <val lang="en_US">No results found</val>
+      </comment>
+      <val lang="zh_CN">No results found</val>
+   </key>
+   <key value="Values_of_elements_and_attributes">
+      <comment>Fill elements and attributes(XML instance generator).</comment>
+      <comment>
+         <val lang="en_US">Values of elements and attributes</val>
+      </comment>
+      <val lang="zh_CN">Values of elements and attributes</val>
+   </key>
+   <key value="Rename_also_attribute_values_having_the_same_prefix">
+      <comment>Rename label.</comment>
+      <comment>
+         <val lang="en_US">Rename also attribute values having the same prefix</val>
+      </comment>
+      <val lang="zh_CN">Rename also attribute values having the same prefix</val>
+   </key>
+   <key value="Browse_workspace">
+      <comment>Tooltip for buttons.</comment>
+      <comment>
+         <val lang="en_US">Browse workspace</val>
+      </comment>
+      <val lang="zh_CN">Browse workspace</val>
+   </key>
+   <key value="Strip_ws">
+      <comment>Entry in Saxon 9 XQuery &amp; XSLT Options.</comment>
+      <comment>
+         <val lang="en_US">Strip whitespaces</val>
+      </comment>
+      <val lang="zh_CN">Strip whitespaces</val>
+   </key>
+   <key value="Proxy_should_not_be_empty">
+      <comment>Warning message in XQuery documentation dialog.</comment>
+      <comment>
+         <val lang="en_US">Proxy should not be empty</val>
+      </comment>
+      <val lang="zh_CN">Proxy should not be empty</val>
+   </key>
+   <key value="This_proxy_already_exists">
+      <comment>Warning message in XQuery documentation dialog.</comment>
+      <comment>
+         <val lang="en_US">This proxy already exists</val>
+      </comment>
+      <val lang="zh_CN">This proxy already exists</val>
+   </key>
+   <key value="Namespace_should_not_be_empty">
+      <comment>Warning message in XQuery documentation dialog.</comment>
+      <comment>
+         <val lang="en_US">Namespace should not be empty</val>
+      </comment>
+      <val lang="zh_CN">Namespace should not be empty</val>
+   </key>
+   <key value="The_input_file_does_not_exist_or_is_not_valid">
+      <comment>Warning message in XQuery documentation.</comment>
+      <comment>
+         <val lang="en_US">The input file does not exist or is not valid</val>
+      </comment>
+      <val lang="zh_CN">The input file does not exist or is not valid</val>
+   </key>
+   <key value="The_input_directory_does_not_exist_or_is_not_valid">
+      <comment>Warning message in XQuery documentation.</comment>
+      <comment>
+         <val lang="en_US">The input directory does not exist or is not valid</val>
+      </comment>
+      <val lang="zh_CN">The input directory does not exist or is not valid</val>
+   </key>
+   <key value="Incorrect_file_extensions">
+      <comment>Warning message in XQuery documentation.</comment>
+      <comment>
+         <val lang="en_US">The specified file extensions are incorrect</val>
+      </comment>
+      <val lang="zh_CN">The specified file extensions are incorrect</val>
+   </key>
+   <key value="The_output_directory_does_not_exist_or_is_not_valid">
+      <comment>Warning message in XQuery documentation.</comment>
+      <comment>
+         <val lang="en_US">The output directory does not exist or is not valid</val>
+      </comment>
+      <val lang="zh_CN">The output directory does not exist or is not valid</val>
+   </key>
+   <key value="Proxy">
+      <comment>Proxy.</comment>
+      <comment>
+         <val lang="en_US">Proxy</val>
+      </comment>
+      <val lang="zh_CN">Proxy</val>
+   </key>
+   <key value="Default_function_namespace">
+      <comment>Default function namespace.</comment>
+      <comment>
+         <val lang="en_US">Default function namespace</val>
+      </comment>
+      <val lang="zh_CN">Default function namespace</val>
+   </key>
+   <key value="Predefined_function_namespaces">
+      <comment>Predefined function namespaces.</comment>
+      <comment>
+         <val lang="en_US">Predefined function namespaces</val>
+      </comment>
+      <val lang="zh_CN">Predefined function namespaces</val>
+   </key>
+   <key value="Minimum_fold_range">
+      <comment>Folding option.</comment>
+      <comment>
+         <val lang="en_US">Minimum fold range</val>
+      </comment>
+      <val lang="zh_CN">Minimum fold range</val>
+   </key>
+   <key value="Svn_open_svn_client_anyway_question">
+      <comment>Question if user wants to open the SVN Client anyway</comment>
+      <comment>
+         <val lang="en_US">Do you still want to open the SVN Client?</val>
+      </comment>
+      <val lang="zh_CN">Do you still want to open the SVN Client?</val>
+   </key>
+   <key value="Svn_unversioned_resource_warning">
+      <comment>Message presented when a resource is not under version control, when using "Open in SVN Client" from
+            Oxygen Project view</comment>
+      <comment>
+         <val lang="en_US">The selected resource is not under version control.</val>
+      </comment>
+      <val lang="zh_CN">The selected resource is not under version control.</val>
+   </key>
+   <key value="Open_in_SVN_client">
+      <comment>Project tree subversion client action.</comment>
+      <comment>
+         <val lang="en_US">Open in SVN Client</val>
+      </comment>
+      <val lang="zh_CN">Open in SVN Client</val>
+   </key>
+   <key value="SVN_client">
+      <comment>Subversion Client.</comment>
+      <comment>
+         <val lang="en_US">SVN Client</val>
+      </comment>
+      <val lang="zh_CN">SVN Client</val>
+   </key>
+   <key value="Strings_and_values">
+      <comment>Section name in the options, the XML generator</comment>
+      <comment>
+         <val lang="en_US">Strings and values</val>
+      </comment>
+      <val lang="zh_CN">Strings and values</val>
+   </key>
+   <key value="Max_length_for_strings">
+      <comment>Maximum length for strings in XML generator.</comment>
+      <comment>
+         <val lang="en_US">Maximum length</val>
+      </comment>
+      <val lang="zh_CN">Maximum length</val>
+   </key>
+   <key value="Use_incremental_names_as_default">
+      <comment>Use incremental attributes/elements names as default for string values in XML generator.</comment>
+      <comment>
+         <val lang="en_US">Use incremental attribute/element names as default</val>
+      </comment>
+      <val lang="zh_CN">Use incremental attribute/element names as default</val>
+   </key>
+   <key value="Operation_canceled_by_user">
+      <comment>The current operation is canceled by user.</comment>
+      <comment>
+         <val lang="en_US">Operation canceled by user</val>
+      </comment>
+      <val lang="zh_CN">Operation canceled by user</val>
+   </key>
+   <key value="Generated_file_size_will_exceed">
+      <comment>Warning in generated xml instance if the generated file becomes bigger.</comment>
+      <comment>
+         <val lang="en_US">Generated file size will exceed</val>
+      </comment>
+      <val lang="zh_CN">Generated file size will exceed</val>
+   </key>
+   <key value="Not_if_it_has_a_matching_end_tag">
+      <comment>Checkbox in Content Completion preferences page</comment>
+      <comment>
+         <val lang="en_US">If it has no matching end tag</val>
+      </comment>
+      <val lang="zh_CN">If it has no matching end tag</val>
+   </key>
+   <key value="Remove_property">
+      <comment>Action in SVN properties table</comment>
+      <comment>
+         <val lang="en_US">Remove Property</val>
+      </comment>
+      <val lang="zh_CN">Remove Property</val>
+   </key>
+   <key value="Edit_property">
+      <comment>Action in SVN properties table</comment>
+      <comment>
+         <val lang="en_US">Edit Property</val>
+      </comment>
+      <val lang="zh_CN">Edit Property</val>
+   </key>
+   <key value="Add_a_new_property">
+      <comment>Action in SVN properties table</comment>
+      <comment>
+         <val lang="en_US">Add a New Property</val>
+      </comment>
+      <val lang="zh_CN">Add a New Property</val>
+   </key>
+   <key value="Prefix">
+      <comment>Prefix</comment>
+      <comment>
+         <val lang="en_US">Prefix</val>
+      </comment>
+      <val lang="zh_CN">Prefix</val>
+   </key>
+   <key distribution="common" value="Go_after_next_tag">
+      <comment>Moves the caret after the next tag in the right.</comment>
+      <comment>
+         <val lang="en_US">Go after Next Tag</val>
+      </comment>
+      <val lang="zh_CN">Go after Next Tag</val>
+   </key>
+   <key distribution="common" value="Go_after_previous_tag">
+      <comment>Moves the caret after the previous tag in the right.</comment>
+      <comment>
+         <val lang="en_US">Go after Previous Tag</val>
+      </comment>
+      <val lang="zh_CN">Go after Previous Tag</val>
+   </key>
+   <key value="Add_extension">
+      <comment>Add extension dialog title.</comment>
+      <comment>
+         <val lang="en_US">Add extension</val>
+      </comment>
+      <val lang="zh_CN">Add extension</val>
+   </key>
+   <key value="Edit_extensions">
+      <comment>Edit extensions dialog title.</comment>
+      <comment>
+         <val lang="en_US">Edit extensions</val>
+      </comment>
+      <val lang="zh_CN">Edit extensions</val>
+   </key>
+   <key value="Edit_extensions_tooltip">
+      <comment>Tooltip for the button which displays the dialog for configuring processor extensions in the scenario
+            edit dialog.</comment>
+      <comment>
+         <val lang="en_US">Configure the extensions specific for the selected transformer.</val>
+      </comment>
+      <val lang="zh_CN">Configure the extensions specific for the selected transformer.</val>
+   </key>
+   <key value="Encoding_errors_handling">
+      <comment>The message in the preferences dialog that indicated the user preference for handling encoding errors.
+            The user can choose from REPORT, REPLACE and IGNORE. REPORT means reporting errors on encoding errors,
+            REPLACE means replacing silently the errors with replacement characters like ? for ASCII for instance and a
+            question mark in a black diamond for UTF-8 and IGNORE means just ignoring these invalid characters.
+            IMPORTANT: The To_ignore_encoding_errors depends on this one. If you change here make sure you change also
+            the above key values. </comment>
+      <comment>
+         <val lang="en_US">Encoding errors handling</val>
+      </comment>
+      <val lang="zh_CN">Encoding errors handling</val>
+   </key>
+   <key value="Size">
+      <comment>Size of a file.</comment>
+      <comment>
+         <val lang="en_US">Size</val>
+      </comment>
+      <val lang="zh_CN">Size</val>
+   </key>
+   <key value="Default_namespace">
+      <comment>Default namespace (XML instance generator).</comment>
+      <comment>
+         <val lang="en_US">Default Namespace</val>
+      </comment>
+      <val lang="zh_CN">Default Namespace</val>
+   </key>
+   <key value="Choice_strategy">
+      <comment>Choice strategy (XML instance generator).</comment>
+      <comment>
+         <val lang="en_US">Choice strategy</val>
+      </comment>
+      <val lang="zh_CN">Choice strategy</val>
+   </key>
+   <key value="Choice_and_substitution_group">
+      <comment>Choice and substitution (XSD elements) group(XML instance generator).</comment>
+      <comment>
+         <val lang="en_US">"Choice" and "Substitution Group"</val>
+      </comment>
+      <val lang="zh_CN">"Choice" and "Substitution Group"</val>
+   </key>
+   <key value="Max_recurse_level">
+      <comment>Maximum recursivity level(XML instance generator).</comment>
+      <comment>
+         <val lang="en_US">Maximum recursivity level</val>
+      </comment>
+      <val lang="zh_CN">Maximum recursivity level</val>
+   </key>
+   <key value="Preferred_repeatable">
+      <comment>Preferred repeatable number(XML instance generator).</comment>
+      <comment>
+         <val lang="en_US">Preferred number of repetitions</val>
+      </comment>
+      <val lang="zh_CN">Preferred number of repetitions</val>
+   </key>
+   <key value="Default">
+      <comment>The implicit default(s) value(s).</comment>
+      <comment>
+         <val lang="en_US">Default</val>
+      </comment>
+      <val lang="zh_CN">Default</val>
+   </key>
+   <key value="Random">
+      <comment>Random - random distribution(XML instance generator).</comment>
+      <comment>
+         <val lang="en_US">Random</val>
+      </comment>
+      <val lang="zh_CN">Random</val>
+   </key>
+   <key value="Generate_other_options_commented">
+      <comment>Generate other choice/subs group as commented(XML instance generator).</comment>
+      <comment>
+         <val lang="en_US">Generate the other options as comments</val>
+      </comment>
+      <val lang="zh_CN">Generate the other options as comments</val>
+   </key>
+   <key value="Generate_optional_elements">
+      <comment>Generate optional elements(XML instance generator).</comment>
+      <comment>
+         <val lang="en_US">Generate optional elements</val>
+      </comment>
+      <val lang="zh_CN">Generate optional elements</val>
+   </key>
+   <key value="Generate_optional_attributes">
+      <comment>Generate optional attributes(XML instance generator).</comment>
+      <comment>
+         <val lang="en_US">Generate optional attributes</val>
+      </comment>
+      <val lang="zh_CN">Generate optional attributes</val>
+   </key>
+   <key value="Number_of_instances">
+      <comment>Number of instances (XML instance generator).</comment>
+      <comment>
+         <val lang="en_US">Number of instances</val>
+      </comment>
+      <val lang="zh_CN">Number of instances</val>
+   </key>
+   <key value="File_name_prefix">
+      <comment>The file name prefix for the generated XML instance.</comment>
+      <comment>
+         <val lang="en_US">File name prefix</val>
+      </comment>
+      <val lang="zh_CN">File name prefix</val>
+   </key>
+   <key value="Open_first_instance">
+      <comment>Open first instance in editor (XML Instance generator)</comment>
+      <comment>
+         <val lang="en_US">Open first instance in editor</val>
+      </comment>
+      <val lang="zh_CN">Open first instance in editor</val>
+   </key>
+   <key value="Engine_name_is_already_in_use">
+      <comment>Warning in custom processors edit dialog</comment>
+      <comment>
+         <val lang="en_US">Engine name is already in use</val>
+      </comment>
+      <val lang="zh_CN">Engine name is already in use</val>
+   </key>
+   <key value="Engine_type">
+      <comment>Label in custom processors edit dialog</comment>
+      <comment>
+         <val lang="en_US">Engine type</val>
+      </comment>
+      <val lang="zh_CN">Engine type</val>
+   </key>
+   <key value="Show_pseudo_conflicts">
+      <comment>Three way diff option</comment>
+      <comment>
+         <val lang="en_US">Show pseudo conflicts</val>
+      </comment>
+      <val lang="zh_CN">Show pseudo conflicts</val>
+   </key>
+   <key value="Reset_authentication">
+      <comment>SVN Reset Authentication Action name </comment>
+      <comment>
+         <val lang="en_US">Reset Authentication</val>
+      </comment>
+      <val lang="zh_CN">Reset Authentication</val>
+   </key>
+   <key distribution="common" value="Generate_sample_xml_files">
+      <comment>Label for action that generates XML instances from XSD schema</comment>
+      <comment>
+         <val lang="en_US">Generate Sample XML Files</val>
+      </comment>
+      <val lang="zh_CN">Generate Sample XML Files</val>
+   </key>
+   <key value="Locked_items">
+      <comment>Dialog title for 'scan for locks' action from Subversion client</comment>
+      <comment>
+         <val lang="en_US">Locked items</val>
+      </comment>
+      <val lang="zh_CN">Locked items</val>
+   </key>
+   <key value="Selected_resources_not_contain_locked_items">
+      <comment>Message of 'scan for locks' action from Subversion client</comment>
+      <comment>
+         <val lang="en_US">Selected resources do not contain locked items</val>
+      </comment>
+      <val lang="zh_CN">Selected resources do not contain locked items</val>
+   </key>
+   <key value="Lock">
+      <comment>Name of action in working copy tree from Subversion client</comment>
+      <comment>
+         <val lang="en_US">Lock</val>
+      </comment>
+      <val lang="zh_CN">Lock</val>
+   </key>
+   <key value="Unlock">
+      <comment>Name of action in working copy tree from Subversion client</comment>
+      <comment>
+         <val lang="en_US">Unlock</val>
+      </comment>
+      <val lang="zh_CN">Unlock</val>
+   </key>
+   <key value="Scan_for_locks">
+      <comment>Name of action in working copy tree from Subversion client</comment>
+      <comment>
+         <val lang="en_US">Scan for Locks</val>
+      </comment>
+      <val lang="zh_CN">Scan for Locks</val>
+   </key>
+   <key value="Steal_locks">
+      <comment>Name of checkbox in lock dialog from Subversion client</comment>
+      <comment>
+         <val lang="en_US">Steal locks</val>
+      </comment>
+      <val lang="zh_CN">Steal locks</val>
+   </key>
+   <key value="Break_locks">
+      <comment>Name of checkbox in unlock dialog from Subversion client</comment>
+      <comment>
+         <val lang="en_US">Break locks</val>
+      </comment>
+      <val lang="zh_CN">Break locks</val>
+   </key>
+   <key distribution="common" value="Generate_documentation">
+      <comment>Label for actions that generate documentation</comment>
+      <comment>
+         <val lang="en_US" mnemonic="9">Generate &amp;Documentation</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="9">Generate &amp;Documentation</val>
+   </key>
+   <key distribution="common" value="WSDL_documentation">
+      <comment>Title in the WSDL documentation dialog</comment>
+      <comment>
+         <val lang="en_US">WSDL Documentation</val>
+      </comment>
+      <val lang="zh_CN">WSDL Documentation</val>
+   </key>
+   <key value="FTP_Control_Connection_Encoding">
+      <comment>Option name in HTTP/FTP Options panel.</comment>
+      <comment>
+         <val lang="en_US">Encoding for SFTP control connection</val>
+      </comment>
+      <val lang="zh_CN">Encoding for SFTP control connection</val>
+   </key>
+   <key value="Warning_level">
+      <comment>Label in CSS Validator options</comment>
+      <comment>
+         <val lang="en_US">Warning level</val>
+      </comment>
+      <val lang="zh_CN">Warning level</val>
+   </key>
+   <key value="Folder">
+      <comment>Folder</comment>
+      <comment>
+         <val lang="en_US">Folder</val>
+      </comment>
+      <val lang="zh_CN">Folder</val>
+   </key>
+   <key value="XQ_documentation">
+      <comment>XQuery documentation</comment>
+      <comment>
+         <val lang="en_US">XQuery Documentation</val>
+      </comment>
+      <val lang="zh_CN">XQuery Documentation</val>
+   </key>
+   <key value="SVN" skipTranslation="true">
+      <comment>SVN option pane</comment>
+      <comment>
+         <val lang="en_US">SVN</val>
+      </comment>
+      <val lang="zh_CN">SVN</val>
+   </key>
+   <key value="To_upper">
+      <comment>Converts the selected text to upper case</comment>
+      <comment>
+         <val lang="en_US">To Upper Case</val>
+      </comment>
+      <val lang="zh_CN">To Upper Case</val>
+   </key>
+   <key value="To_lower">
+      <comment>Converts the selected text to lower case</comment>
+      <comment>
+         <val lang="en_US">To Lower Case</val>
+      </comment>
+      <val lang="zh_CN">To Lower Case</val>
+   </key>
+   <key value="Capitalize_lines">
+      <comment>Changes the first letter of the line to upper case</comment>
+      <comment>
+         <val lang="en_US">Capitalize Lines</val>
+      </comment>
+      <val lang="zh_CN">Capitalize Lines</val>
+   </key>
+   <key value="Dynamic_Help">
+      <comment>Dynamic help frame title (a frame showing help contents depending on the current context)</comment>
+      <comment>
+         <val lang="en_US">Dynamic Help</val>
+      </comment>
+      <val lang="zh_CN">Dynamic Help</val>
+   </key>
+   <key distribution="common" value="Flatten_schema">
+      <comment>Flat schema (included schemas elements are added in the current schema)</comment>
+      <comment>
+         <val lang="en_US">Flatten Schema</val>
+      </comment>
+      <val lang="zh_CN">Flatten Schema</val>
+   </key>
+   <key value="Show_print_margin">
+      <comment>Print margin options (a vertical line which appears in the editor at a certain column)</comment>
+      <comment>
+         <val lang="en_US">Show print margin</val>
+      </comment>
+      <val lang="zh_CN">Show print margin</val>
+   </key>
+   <key value="Print_margin_column">
+      <comment>Print margin options (a vertical line which appears in the editor at a certain column)</comment>
+      <comment>
+         <val lang="en_US">Print margin column</val>
+      </comment>
+      <val lang="zh_CN">Print margin column</val>
+   </key>
+   <key value="Keep_locks">
+      <comment>Checkbox name in the svn commit dialog</comment>
+      <comment>
+         <val lang="en_US">Keep locks</val>
+      </comment>
+      <val lang="zh_CN">Keep locks</val>
+   </key>
+   <key value="Override_selected_files_confirmation">
+      <comment>Action name from the synchronization tree in the subversion client</comment>
+      <comment>
+         <val lang="en_US">Do you want to override the local changes for the selected files?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to override the local changes for the selected files?</val>
+   </key>
+   <key value="Override_and_commit">
+      <comment>Action name from the synchronization tree in the subversion client</comment>
+      <comment>
+         <val lang="en_US">Override and Commit</val>
+      </comment>
+      <val lang="zh_CN">Override and Commit</val>
+   </key>
+   <key value="Before">
+      <comment>Action name from schema diagram</comment>
+      <comment>
+         <val lang="en_US">Before</val>
+      </comment>
+      <val lang="zh_CN">Before</val>
+   </key>
+   <key value="Override_and_update">
+      <comment>Action name from svn</comment>
+      <comment>
+         <val lang="en_US">Override and Update</val>
+      </comment>
+      <val lang="zh_CN">Override and Update</val>
+   </key>
+   <key value="Mark_as_merged">
+      <comment>Action name from svn</comment>
+      <comment>
+         <val lang="en_US">Mark as Merged</val>
+      </comment>
+      <val lang="zh_CN">Mark as Merged</val>
+   </key>
+   <key value="Location_relative_to_editor">
+      <comment>Label on the editor diagram option page.</comment>
+      <comment>
+         <val lang="en_US">Location relative to editor</val>
+      </comment>
+      <val lang="zh_CN">Location relative to editor</val>
+   </key>
+   <key value="Available_expressions">
+      <comment>Label in Schema regexp pattern builder</comment>
+      <comment>
+         <val lang="en_US">Available expressions</val>
+      </comment>
+      <val lang="zh_CN">Available expressions</val>
+   </key>
+   <key value="Evaluate_expression_on">
+      <comment>Label in Schema regexp pattern builder</comment>
+      <comment>
+         <val lang="en_US">Evaluate expression on</val>
+      </comment>
+      <val lang="zh_CN">Evaluate expression on</val>
+   </key>
+   <key value="Positive_file_filter_patterns">
+      <comment>Project filters dialog label</comment>
+      <comment>
+         <val lang="en_US">Matching files will be shown</val>
+      </comment>
+      <val lang="zh_CN">Matching files will be shown</val>
+   </key>
+   <key value="Negative_file_filter_patterns">
+      <comment>Project filters dialog label</comment>
+      <comment>
+         <val lang="en_US">Matching files will be hidden</val>
+      </comment>
+      <val lang="zh_CN">Matching files will be hidden</val>
+   </key>
+   <key value="Compare_with">
+      <comment>Action name from SVN</comment>
+      <comment>
+         <val lang="en_US">Compare with</val>
+      </comment>
+      <val lang="zh_CN">Compare with</val>
+   </key>
+   <key value="Latest_from_head">
+      <comment>Action name from SVN</comment>
+      <comment>
+         <val lang="en_US">Latest from HEAD</val>
+      </comment>
+      <val lang="zh_CN">Latest from HEAD</val>
+   </key>
+   <key value="Open_in_compare_editor">
+      <comment>Action name from SVN</comment>
+      <comment>
+         <val lang="en_US">Open in Compare Editor</val>
+      </comment>
+      <val lang="zh_CN">Open in Compare Editor</val>
+   </key>
+   <key value="Test">
+      <comment>Name of the test area in regexp builder</comment>
+      <comment>
+         <val lang="en_US">Test</val>
+      </comment>
+      <val lang="zh_CN">Test</val>
+   </key>
+   <key value="Number_of_matches_found">
+      <comment>Message showing the number of matched lines..</comment>
+      <comment>
+         <val lang="en_US">Number of matches found</val>
+      </comment>
+      <val lang="zh_CN">Number of matches found</val>
+   </key>
+   <key value="Match_the_whole_content">
+      <comment>Tooltip for test area in regexp builder</comment>
+      <comment>
+         <val lang="en_US">Match the whole content (multiple line span)</val>
+      </comment>
+      <val lang="zh_CN">Match the whole content (multiple line span)</val>
+   </key>
+   <key value="Enter_values_to_be_matched_one_per_line">
+      <comment>Tooltip for test area in regexp builder</comment>
+      <comment>
+         <val lang="en_US">Enter values to be matched one per line</val>
+      </comment>
+      <val lang="zh_CN">Enter values to be matched one per line</val>
+   </key>
+   <key value="each_line">
+      <comment>Means that the pattern will be applied on each of the lines</comment>
+      <comment>
+         <val lang="en_US">each line</val>
+      </comment>
+      <val lang="zh_CN">each line</val>
+   </key>
+   <key value="all_text">
+      <comment>Means that the pattern will be applied on all of the content</comment>
+      <comment>
+         <val lang="en_US">all text</val>
+      </comment>
+      <val lang="zh_CN">all text</val>
+   </key>
+   <key value="Regular_expressions_editor">
+      <comment>Label from XML Schema regular expression builder dialog</comment>
+      <comment>
+         <val lang="en_US">Regular expressions editor</val>
+      </comment>
+      <val lang="zh_CN">Regular expressions editor</val>
+   </key>
+   <key value="Schema_regular_expressions_builder">
+      <comment>Label for XML Schema regular expression builder dialog title</comment>
+      <comment>
+         <val lang="en_US">XML Schema Regular Expressions Builder</val>
+      </comment>
+      <val lang="zh_CN">XML Schema Regular Expressions Builder</val>
+   </key>
+   <key value="Please_choose_valid_key">
+      <comment>Label from SVN</comment>
+      <comment>
+         <val lang="en_US">Please choose valid key</val>
+      </comment>
+      <val lang="zh_CN">Please choose valid key</val>
+   </key>
+   <key value="Passphrase">
+      <comment>Label from SVN</comment>
+      <comment>
+         <val lang="en_US">Passphrase</val>
+      </comment>
+      <val lang="zh_CN">Passphrase</val>
+   </key>
+   <key value="Private_key_file">
+      <comment>Label from SVN</comment>
+      <comment>
+         <val lang="en_US">Private key file</val>
+      </comment>
+      <val lang="zh_CN">Private key file</val>
+   </key>
+   <key value="Store_authentication_data">
+      <comment>Label from SVN</comment>
+      <comment>
+         <val lang="en_US">Store authentication data</val>
+      </comment>
+      <val lang="zh_CN">Store authentication data</val>
+   </key>
+   <key value="Client_certificate_file">
+      <comment>Label from SVN</comment>
+      <comment>
+         <val lang="en_US">Client certificate file</val>
+      </comment>
+      <val lang="zh_CN">Client certificate file</val>
+   </key>
+   <key value="Do_not_accept_this_certificate">
+      <comment>Label from SVN</comment>
+      <comment>
+         <val lang="en_US">Do not accept this certificate</val>
+      </comment>
+      <val lang="zh_CN">Do not accept this certificate</val>
+   </key>
+   <key value="Accept_this_certificate_temporarily">
+      <comment>Label from SVN</comment>
+      <comment>
+         <val lang="en_US">Accept this certificate temporarily for this session</val>
+      </comment>
+      <val lang="zh_CN">Accept this certificate temporarily for this session</val>
+   </key>
+   <key value="Accept_this_certificate_permanently">
+      <comment>Label from SVN certification</comment>
+      <comment>
+         <val lang="en_US">Accept this certificate permanently</val>
+      </comment>
+      <val lang="zh_CN">Accept this certificate permanently</val>
+   </key>
+   <key value="Certificate_information">
+      <comment>Label from SVN</comment>
+      <comment>
+         <val lang="en_US">Certificate information</val>
+      </comment>
+      <val lang="zh_CN">Certificate information</val>
+   </key>
+   <key value="Property">
+      <comment>Label from SVN</comment>
+      <comment>
+         <val lang="en_US">Property</val>
+      </comment>
+      <val lang="zh_CN">Property</val>
+   </key>
+   <key value="Svn_information">
+      <comment>Dialog title from SVN</comment>
+      <comment>
+         <val lang="en_US">SVN Information</val>
+      </comment>
+      <val lang="zh_CN">SVN Information</val>
+   </key>
+   <key value="Update_all">
+      <comment>Action name from SVN</comment>
+      <comment>
+         <val lang="en_US">Update All</val>
+      </comment>
+      <val lang="zh_CN">Update All</val>
+   </key>
+   <key value="Update">
+      <comment>Action name from SVN</comment>
+      <comment>
+         <val lang="en_US">Update</val>
+      </comment>
+      <val lang="zh_CN">Update</val>
+   </key>
+</translation>

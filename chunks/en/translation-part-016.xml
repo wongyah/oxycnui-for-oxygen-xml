@@ -1,0 +1,1855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="Svn_incoming_tooltip">
+      <comment>Tooltip for SVN "Incoming" working copy view mode button</comment>
+      <comment>
+         <val lang="en_US">Show only repository modified files</val>
+      </comment>
+      <val lang="zh_CN">Show only repository modified files</val>
+   </key>
+   <key value="Svn_outgoing_tooltip">
+      <comment>Tooltip for SVN "Outgoing" working copy view mode button</comment>
+      <comment>
+         <val lang="en_US">Show only working copy modified files</val>
+      </comment>
+      <val lang="zh_CN">Show only working copy modified files</val>
+   </key>
+   <key value="Svn_conflicts_tooltip">
+      <comment>Tooltip for SVN "Conflicts" working copy view mode button</comment>
+      <comment>
+         <val lang="en_US">Show only conflicting files</val>
+      </comment>
+      <val lang="zh_CN">Show only conflicting files</val>
+   </key>
+   <key value="Search_references_workspace_warning">
+      <comment>Message shown when executing a search/refactor operation for a resource that is not of the workspace. </comment>
+      <comment>
+         <val lang="en_US">This operation is not available because the resource does not belong to the workspace.</val>
+      </comment>
+      <val lang="zh_CN">This operation is not available because the resource does not belong to the workspace.</val>
+   </key>
+   <key value="The_maximum_number_of_licenses_has_been_reached">
+      <comment>The maximum number of licenses has been reached.</comment>
+      <comment>
+         <val lang="en_US">The maximum number of licenses ({0}) has been reached</val>
+      </comment>
+      <val lang="zh_CN">The maximum number of licenses ({0}) has been reached</val>
+   </key>
+   <key value="Cannot_obtain_license">
+      <comment>Cannot obtain license.</comment>
+      <comment>
+         <val lang="en_US">Cannot obtain license from server</val>
+      </comment>
+      <val lang="zh_CN">Cannot obtain license from server</val>
+   </key>
+   <key value="Unknown_server_response">
+      <comment>Unknown server response.</comment>
+      <comment>
+         <val lang="en_US">Unknown server response</val>
+      </comment>
+      <val lang="zh_CN">Unknown server response</val>
+   </key>
+   <key value="No_response_from_server">
+      <comment>No response from server during licensing.</comment>
+      <comment>
+         <val lang="en_US">No response from server</val>
+      </comment>
+      <val lang="zh_CN">No response from server</val>
+   </key>
+   <key value="Working_sets">
+      <comment>Label in the dialog used to configure Search/Refactor operations scope.</comment>
+      <comment>
+         <val lang="en_US">Working sets</val>
+      </comment>
+      <val lang="zh_CN">Working sets</val>
+   </key>
+   <key value="Workspace">
+      <comment>Eclipse workspace</comment>
+      <comment>
+         <val lang="en_US">Workspace</val>
+      </comment>
+      <val lang="zh_CN">Workspace</val>
+   </key>
+   <key value="Define_scope">
+      <comment>Title of the dialog used to define the scope for search and refactor operations.</comment>
+      <comment>
+         <val lang="en_US">Define scope</val>
+      </comment>
+      <val lang="zh_CN">Define scope</val>
+   </key>
+   <key value="Select_operation_scope">
+      <comment>Label in the dialog used to configure Search/Refactor operations scope.</comment>
+      <comment>
+         <val lang="en_US">Select the scope for Search and Refactor operations</val>
+      </comment>
+      <val lang="zh_CN">Select the scope for Search and Refactor operations</val>
+   </key>
+   <key value="New_working_set">
+      <comment>Button in the dialog used to configure Search/Refactor operations scope.</comment>
+      <comment>
+         <val lang="en_US">New working set</val>
+      </comment>
+      <val lang="zh_CN">New working set</val>
+   </key>
+   <key value="Add_resources">
+      <comment>Button in the dialog used to configure Search/Refactor operations scope.</comment>
+      <comment>
+         <val lang="en_US">Add resources</val>
+      </comment>
+      <val lang="zh_CN">Add resources</val>
+   </key>
+   <key value="Command_line_already_used_name">
+      <comment>Error message presented when try to commit a command line with a name that already exists.</comment>
+      <comment>
+         <val lang="en_US">A command line with name "{0}" already exists.</val>
+      </comment>
+      <val lang="zh_CN">A command line with name "{0}" already exists.</val>
+   </key>
+   <key value="Enable_disable_code_template">
+      <comment>Enable/disable code template tooltip.</comment>
+      <comment>
+         <val lang="en_US">Enable/disable. Disabled templates will not be presented when code templates are
+            requested.</val>
+      </comment>
+      <val lang="zh_CN">Enable/disable. Disabled templates will not be presented when code templates are
+            requested.</val>
+   </key>
+   <key value="Cancel_regexp_search_question">
+      <comment>Question which appears when the Regexp search takes a long time.</comment>
+      <comment>
+         <val lang="en_US">The regular expression engine is taking a very long time to complete the current operation.
+            \nDo you want to stop it?</val>
+      </comment>
+      <val lang="zh_CN">The regular expression engine is taking a very long time to complete the current operation.
+            \nDo you want to stop it?</val>
+   </key>
+   <key value="Read_Timeout">
+      <comment>HTTP configuration label.</comment>
+      <comment>
+         <val lang="en_US">Read timeout (seconds)</val>
+      </comment>
+      <val lang="zh_CN">Read timeout (seconds)</val>
+   </key>
+   <key value="These_folders_were_already_added">
+      <comment>Warning message showed when adding new files to project</comment>
+      <comment>
+         <val lang="en_US">These folders were already added</val>
+      </comment>
+      <val lang="zh_CN">These folders were already added</val>
+   </key>
+   <key value="These_files_were_already_added">
+      <comment> Warning message showed when adding new files to project.</comment>
+      <comment>
+         <val lang="en_US">These files were already added</val>
+      </comment>
+      <val lang="zh_CN">These files were already added</val>
+   </key>
+   <key value="Add_space_before_closing_empty">
+      <comment>Format and Indent option name.</comment>
+      <comment>
+         <val lang="en_US">Add space before slash in empty elements</val>
+      </comment>
+      <val lang="zh_CN">Add space before slash in empty elements</val>
+   </key>
+   <key value="insert_entity_explanation_info">
+      <comment> Explanation message used for entity insertion.</comment>
+      <comment>
+         <val lang="en_US">Enter an entity name or a character entity code (Eg. "nbsp", "apos", "&amp;#160;")</val>
+      </comment>
+      <val lang="zh_CN">Enter an entity name or a character entity code (Eg. "nbsp", "apos", "&amp;#160;")</val>
+   </key>
+   <key value="Show_current_context">
+      <comment>Show current context on xml source and stylesheet documents.</comment>
+      <comment>
+         <val lang="en_US">Show current execution nodes</val>
+      </comment>
+      <val lang="zh_CN">Show current execution nodes</val>
+   </key>
+   <key value="DTD_based_validation_of_the_source_file">
+      <comment>Entry in Saxon 9 Options.</comment>
+      <comment>
+         <val lang="en_US">DTD validation of the source</val>
+      </comment>
+      <val lang="zh_CN">DTD validation of the source</val>
+   </key>
+   <key value="Recover">
+      <comment>Possible value for DTD based validation option of the Saxon 9.</comment>
+      <comment>
+         <val lang="en_US">Recover</val>
+      </comment>
+      <val lang="zh_CN">Recover</val>
+   </key>
+   <key value="applies_to_debugging_sessions">
+      <comment>applies to debugging sessions</comment>
+      <comment>
+         <val lang="en_US">applies to debugging sessions</val>
+      </comment>
+      <val lang="zh_CN">applies to debugging sessions</val>
+   </key>
+   <key value="Allow_calls_on_extension_functions">
+      <comment>Entry in Saxon 9 Options.</comment>
+      <comment>
+         <val lang="en_US">Allow calls on extension functions</val>
+      </comment>
+      <val lang="zh_CN">Allow calls on extension functions</val>
+   </key>
+   <key value="Resources_presented">
+      <comment>Tooltip message presented in the SVN status bar</comment>
+      <comment>
+         <val lang="en_US">"{0}" resources are presented.</val>
+      </comment>
+      <val lang="zh_CN">"{0}" resources are presented.</val>
+   </key>
+   <key value="Resources_not_presented">
+      <comment>Tooltip message presented in the SVN status bar</comment>
+      <comment>
+         <val lang="en_US">"{0}" resources are not presented.</val>
+      </comment>
+      <val lang="zh_CN">"{0}" resources are not presented.</val>
+   </key>
+   <key value="Externals_definitions_ignored">
+      <comment>Tooltip message presented in the SVN status bar</comment>
+      <comment>
+         <val lang="en_US">"svn:externals" definitions are ignored.</val>
+      </comment>
+      <val lang="zh_CN">"svn:externals" definitions are ignored.</val>
+   </key>
+   <key value="Externals_definitions_processed">
+      <comment>Tooltip message presented in the SVN status bar</comment>
+      <comment>
+         <val lang="en_US">"svn:externals" definitions are not ignored.</val>
+      </comment>
+      <val lang="zh_CN">"svn:externals" definitions are not ignored.</val>
+   </key>
+   <key value="Add_comments_for_validation_problems">
+      <comment>Advanced option for Saxon transformer used to write comments in result document is there are validation
+            errors.</comment>
+      <comment>
+         <val lang="en_US">Write comments for non-fatal validation errors of the result document</val>
+      </comment>
+      <val lang="zh_CN">Write comments for non-fatal validation errors of the result document</val>
+   </key>
+   <key value="Show_warning_dialog_when_ignore_externals">
+      <comment>Message presented in the 'Messages' option pane to reset warning dialog when ignore externals option is
+            active</comment>
+      <comment>
+         <val lang="en_US">Show warning dialog when "svn:externals" definitions are ignored</val>
+      </comment>
+      <val lang="zh_CN">Show warning dialog when "svn:externals" definitions are ignored</val>
+   </key>
+   <key value="Ask_user_ignore_externals">
+      <comment>Message presented when updating working copy with 'ignore externals' option active</comment>
+      <comment>
+         <val lang="en_US">The current working copy was checked out ignoring external resources. \nDo you want to
+            continue using this option? \n\nNote: changing this option will affect all future operations on this working
+            copy.</val>
+      </comment>
+      <val lang="zh_CN">The current working copy was checked out ignoring external resources. \nDo you want to
+            continue using this option? \n\nNote: changing this option will affect all future operations on this working
+            copy.</val>
+   </key>
+   <key value="Ignore_externals">
+      <comment>SVN option to ignore externals definitions</comment>
+      <comment>
+         <val lang="en_US">Ignore "svn:externals" definitions</val>
+      </comment>
+      <val lang="zh_CN">Ignore "svn:externals" definitions</val>
+   </key>
+   <key value="SMP_reminder">
+      <comment>Title for dialog that presents the Support &amp; Maintenance Pack remainder.</comment>
+      <comment>
+         <val lang="en_US">Support and Maintenance Pack Reminder</val>
+      </comment>
+      <val lang="zh_CN">Support and Maintenance Pack Reminder</val>
+   </key>
+   <key value="Your_SMP_will_expire_today">
+      <comment>Message to the user when the S&amp;MP expires today.</comment>
+      <comment>
+         <val lang="en_US">Your Support and Maintenance Pack will expire today.</val>
+      </comment>
+      <val lang="zh_CN">Your Support and Maintenance Pack will expire today.</val>
+   </key>
+   <key value="Your_SMP_will_expire_in_x_days">
+      <comment>Optional part of previous message (YOUR_SMP_WILL_EXPIRE).</comment>
+      <comment>
+         <val lang="en_US">Your Support and Maintenance Pack will expire in {0} day(s).</val>
+      </comment>
+      <val lang="zh_CN">Your Support and Maintenance Pack will expire in {0} day(s).</val>
+   </key>
+   <key value="Benefits_during_smp">
+      <comment>Message to the user when the S&amp;MP is close to expiration.</comment>
+      <comment>
+         <val lang="en_US">Your current Support and Maintenance Pack has provided you with access to all new versions
+            (minor and major) released during its period of performance.</val>
+      </comment>
+      <val lang="zh_CN">Your current Support and Maintenance Pack has provided you with access to all new versions
+            (minor and major) released during its period of performance.</val>
+   </key>
+   <key value="See_features_overview_for_each_version_at">
+      <comment>Message to the user when the S&amp;MP is close to expiration.</comment>
+      <comment>
+         <val lang="en_US">You can see an overview of the features added in each version at:</val>
+      </comment>
+      <val lang="zh_CN">You can see an overview of the features added in each version at:</val>
+   </key>
+   <key value="You_should_renew_smp">
+      <comment>Message to the user when the S&amp;MP is close to expiration. This the first part.</comment>
+      <comment>
+         <val lang="en_US">To continue to have access to new versions that will be released in the future, you should
+            renew your Support and Maintenance Pack.</val>
+      </comment>
+      <val lang="zh_CN">To continue to have access to new versions that will be released in the future, you should
+            renew your Support and Maintenance Pack.</val>
+   </key>
+   <key value="For_renewal_see_pricing_options_at">
+      <comment>Message to the user when the S&amp;MP is close to expiration.</comment>
+      <comment>
+         <val lang="en_US">For renewal, see the available pricing options at:</val>
+      </comment>
+      <val lang="zh_CN">For renewal, see the available pricing options at:</val>
+   </key>
+   <key value="Feel_free_to_contact">
+      <comment>Message to the user when the S&amp;MP is close to expiration.</comment>
+      <comment>
+         <val lang="en_US">For more information about our products, or if you need assistance, feel free to contact us
+            at:</val>
+      </comment>
+      <val lang="zh_CN">For more information about our products, or if you need assistance, feel free to contact us
+            at:</val>
+   </key>
+   <key value="Task_in_progress">
+      <comment>Message displayed when a task is in progress</comment>
+      <comment>
+         <val lang="en_US">Task in progress...</val>
+      </comment>
+      <val lang="zh_CN">Task in progress...</val>
+   </key>
+   <key value="Filter_debugger_variables">
+      <comment>Hint for filtering debugger variables in Variable view</comment>
+      <comment>
+         <val lang="en_US">Variable/Parameter name filter</val>
+      </comment>
+      <val lang="zh_CN">Variable/Parameter name filter</val>
+   </key>
+   <key value="Do_you_want_to_save_the_changes">
+      <comment>Warning dialog message. Do you want to save the changes?</comment>
+      <comment>
+         <val lang="en_US">Do you want to save the changes?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to save the changes?</val>
+   </key>
+   <key value="Remove_content_completion_items">
+      <comment>Title of table used to remove Content Completion items.</comment>
+      <comment>
+         <val lang="en_US">Remove content completion items</val>
+      </comment>
+      <val lang="zh_CN">Remove content completion items</val>
+   </key>
+   <key value="Remove_item_from">
+      <comment>Button group title for deciding the place from which to remove the Content Completion item.</comment>
+      <comment>
+         <val lang="en_US">Remove item from</val>
+      </comment>
+      <val lang="zh_CN">Remove item from</val>
+   </key>
+   <key value="Copy_all_changes_from_right_to_left">
+      <comment>Action used in diff files toolbar</comment>
+      <comment>
+         <val lang="en_US">Copy All Changes from Right to Left</val>
+      </comment>
+      <val lang="zh_CN">Copy All Changes from Right to Left</val>
+   </key>
+   <key value="Copy_all_changes_from_left_to_right">
+      <comment>Action used in diff files toolbar</comment>
+      <comment>
+         <val lang="en_US">Copy All Changes from Left to Right</val>
+      </comment>
+      <val lang="zh_CN">Copy All Changes from Left to Right</val>
+   </key>
+   <key value="Show_only_modifications">
+      <comment>Diff Directories option</comment>
+      <comment>
+         <val lang="en_US">Show Only Modifications</val>
+      </comment>
+      <val lang="zh_CN">Show Only Modifications</val>
+   </key>
+   <key value="Checkout_a_new_working_copy">
+      <comment>SVN link action presented in the "All Files" working copy view-mode start panel</comment>
+      <comment>
+         <val lang="en_US">Check out a new working copy</val>
+      </comment>
+      <val lang="zh_CN">Check out a new working copy</val>
+   </key>
+   <key value="Checkout_a_new_working_copy_description">
+      <comment>Description of the "Checkout a new working copy" link presented in the "All Files" working copy
+            view-mode start panel</comment>
+      <comment>
+         <val lang="en_US">You can start using Syncro SVN Client by checking out a new working copy.</val>
+      </comment>
+      <val lang="zh_CN">You can start using Syncro SVN Client by checking out a new working copy.</val>
+   </key>
+   <key value="Add_a_working_copy">
+      <comment>SVN link action presented in the "All Files" working copy view-mode start panel</comment>
+      <comment>
+         <val lang="en_US">Add a working copy</val>
+      </comment>
+      <val lang="zh_CN">Add a working copy</val>
+   </key>
+   <key value="Add_a_working_copy_description">
+      <comment>Description of the "Add a working copy" link presented in the "All Files" working copy view-mode start
+            panel</comment>
+      <comment>
+         <val lang="en_US">If you already have a working copy on disk, you can add it to Syncro SVN Client and start to
+            work.</val>
+      </comment>
+      <val lang="zh_CN">If you already have a working copy on disk, you can add it to Syncro SVN Client and start to
+            work.</val>
+   </key>
+   <key value="Ask_what_to_do_next">
+      <comment>Option name for diff directories.</comment>
+      <comment>
+         <val lang="en_US">Ask what to do next</val>
+      </comment>
+      <val lang="zh_CN">Ask what to do next</val>
+   </key>
+   <key value="Do_nothing">
+      <comment>Option name for diff directories.</comment>
+      <comment>
+         <val lang="en_US">Do nothing</val>
+      </comment>
+      <val lang="zh_CN">Do nothing</val>
+   </key>
+   <key value="Go_next_previous">
+      <comment>Option name for diff directories.</comment>
+      <comment>
+         <val lang="en_US">Go to the next/previous file</val>
+      </comment>
+      <val lang="zh_CN">Go to the next/previous file</val>
+   </key>
+   <key value="When_end_beginning_diff_reached">
+      <comment>Option name for diff directories.</comment>
+      <comment>
+         <val lang="en_US">When reaching the first/last difference in a file</val>
+      </comment>
+      <val lang="zh_CN">When reaching the first/last difference in a file</val>
+   </key>
+   <key value="End_diffs_reached_messages">
+      <comment>Messages shown when the end of the differences from a file has been reached in diff
+            directories.</comment>
+      <comment>
+         <val lang="en_US">You have reached the end of differences from the current file.\n Do you want to open the next
+            modified file?</val>
+      </comment>
+      <val lang="zh_CN">You have reached the end of differences from the current file.\n Do you want to open the next
+            modified file?</val>
+   </key>
+   <key value="Beginning_diffs_reached_messages">
+      <comment>Messages shown when the start of the differences from a file has been reached in diff
+            directories.</comment>
+      <comment>
+         <val lang="en_US">You have reached the beginning of differences from the current file.\n Do you want to open the
+            previous modified file?</val>
+      </comment>
+      <val lang="zh_CN">You have reached the beginning of differences from the current file.\n Do you want to open the
+            previous modified file?</val>
+   </key>
+   <key value="Configure_content_comparison">
+      <comment>Link between Diff directories and Diff Files option pages.</comment>
+      <comment>
+         <val lang="en_US">Configure content comparison</val>
+      </comment>
+      <val lang="zh_CN">Configure content comparison</val>
+   </key>
+   <key value="Files_comparison">
+      <comment>Diff files option page label.</comment>
+      <comment>
+         <val lang="en_US">Files Comparison</val>
+      </comment>
+      <val lang="zh_CN">Files Comparison</val>
+   </key>
+   <key value="Leave_display_name_empty">
+      <comment>A text field called "Display Name" has this explanation below</comment>
+      <comment>
+         <val lang="en_US">Leave field empty to use the defined action name</val>
+      </comment>
+      <val lang="zh_CN">Leave field empty to use the defined action name</val>
+   </key>
+   <key value="Content_completion_window">
+      <comment>A checkbox used to add additional Author actions to the Author Content Completion Window.</comment>
+      <comment>
+         <val lang="en_US">Content Completion Window</val>
+      </comment>
+      <val lang="zh_CN">Content Completion Window</val>
+   </key>
+   <key value="Element_insert_menus">
+      <comment>A checkbox used to add additional Author actions to the Author Outliner and Breadcrumb pop-up menus
+            which are used to insert elements.</comment>
+      <comment>
+         <val lang="en_US">Element Insert Menus</val>
+      </comment>
+      <val lang="zh_CN">Element Insert Menus</val>
+   </key>
+   <key value="Elements_View">
+      <comment>A checkbox used to add additional Author actions to Oxygen's Elements View.</comment>
+      <comment>
+         <val lang="en_US">Elements View</val>
+      </comment>
+      <val lang="zh_CN">Elements View</val>
+   </key>
+   <key value="Scanning_working_copy_for_changes">
+      <comment>A message displayed when a file system change has been detected in SVN Client</comment>
+      <comment>
+         <val lang="en_US">Scanning working copy for changes...</val>
+      </comment>
+      <val lang="zh_CN">Scanning working copy for changes...</val>
+   </key>
+   <key value="Open_file_from_archive">
+      <comment>Open file from archive action name.</comment>
+      <comment>
+         <val lang="en_US">Open File from Archive</val>
+      </comment>
+      <val lang="zh_CN">Open File from Archive</val>
+   </key>
+   <key value="Algorithm_strength">
+      <comment>LCS algorithm strength</comment>
+      <comment>
+         <val lang="en_US">Algorithm strength</val>
+      </comment>
+      <val lang="zh_CN">Algorithm strength</val>
+   </key>
+   <key value="Check_display_large_images_option">
+      <comment>Tooltip message shown for an image that is too large to be displayed in the Author.</comment>
+      <comment>
+         <val lang="en_US">To display large images you can select the ''{0}'' checkbox in the Author Preferences
+            page.</val>
+      </comment>
+      <val lang="zh_CN">To display large images you can select the ''{0}'' checkbox in the Author Preferences
+            page.</val>
+   </key>
+   <key value="Image_too_large_to_display">
+      <comment>Message shown when an image is too large to be displayed in the Author.</comment>
+      <comment>
+         <val lang="en_US">Image too large to display</val>
+      </comment>
+      <val lang="zh_CN">Image too large to display</val>
+   </key>
+   <key value="hover_for_details">
+      <comment>Hover for details information.</comment>
+      <comment>
+         <val lang="en_US">hover for details</val>
+      </comment>
+      <val lang="zh_CN">hover for details</val>
+   </key>
+   <key value="Quick_assist_stripe_tooltip">
+      <comment>Quick assist stripe tooltip.</comment>
+      <comment>
+         <val lang="en_US">Quick Assist proposals</val>
+      </comment>
+      <val lang="zh_CN">Quick Assist proposals</val>
+   </key>
+   <key value="Quick_assist_search_occurrences_in_file_description">
+      <comment>Description of the 'Search Occurrences in File' quick assist.</comment>
+      <comment>
+         <val lang="en_US">Searches all occurrences of the component within the current file.</val>
+      </comment>
+      <val lang="zh_CN">Searches all occurrences of the component within the current file.</val>
+   </key>
+   <key value="Quick_assist_search_declaration_description">
+      <comment>Description of the 'Search Declaration' quick assist.</comment>
+      <comment>
+         <val lang="en_US">Searches the declaration of the component in a predefined scope.</val>
+      </comment>
+      <val lang="zh_CN">Searches the declaration of the component in a predefined scope.</val>
+   </key>
+   <key value="Quick_assist_search_references_description">
+      <comment>Description of the 'Search References' quick assist.</comment>
+      <comment>
+         <val lang="en_US">Searches all references of the component in a predefined scope.</val>
+      </comment>
+      <val lang="zh_CN">Searches all references of the component in a predefined scope.</val>
+   </key>
+   <key value="Quick_assist_rename_component_in_description">
+      <comment>Description of the Rename Component quick assist</comment>
+      <comment>
+         <val lang="en_US">Renames the component and updates all its references.</val>
+      </comment>
+      <val lang="zh_CN">Renames the component and updates all its references.</val>
+   </key>
+   <key value="Quick_assist_component_dependencies_description">
+      <comment>Component dependencies quick assist description</comment>
+      <comment>
+         <val lang="en_US">Searches the component dependencies in a predefined scope.</val>
+      </comment>
+      <val lang="zh_CN">Searches the component dependencies in a predefined scope.</val>
+   </key>
+   <key value="Quick_assist">
+      <comment>Quick Assist action</comment>
+      <comment>
+         <val lang="en_US">Quick Assist</val>
+      </comment>
+      <val lang="zh_CN">Quick Assist</val>
+   </key>
+   <key value="Max_sim_connections_per_host">
+      <comment>The number of simultaneous connections that can be open at a given time to a single server
+            host.</comment>
+      <comment>
+         <val lang="en_US">Maximum number of simultaneous connections per host</val>
+      </comment>
+      <val lang="zh_CN">Maximum number of simultaneous connections per host</val>
+   </key>
+   <key value="Very_high">
+      <comment>Comparison algorithm strength.</comment>
+      <comment>
+         <val lang="en_US">Very high</val>
+      </comment>
+      <val lang="zh_CN">Very high</val>
+   </key>
+   <key value="High">
+      <comment>Comparison algorithm strength.</comment>
+      <comment>
+         <val lang="en_US">High</val>
+      </comment>
+      <val lang="zh_CN">High</val>
+   </key>
+   <key value="Medium">
+      <comment>Comparison algorithm strength.</comment>
+      <comment>
+         <val lang="en_US">Medium</val>
+      </comment>
+      <val lang="zh_CN">Medium</val>
+   </key>
+   <key value="Low">
+      <comment>Comparison algorithm strength.</comment>
+      <comment>
+         <val lang="en_US">Low</val>
+      </comment>
+      <val lang="zh_CN">Low</val>
+   </key>
+   <key value="Lcs_max_differences_option_link">
+      <comment>Too many changes when applying a LCS diff algorithm.</comment>
+      <comment>
+         <val lang="en_US">Increase comparison algorithm strength.</val>
+      </comment>
+      <val lang="zh_CN">Increase comparison algorithm strength.</val>
+   </key>
+   <key value="Too_many_changes_message">
+      <comment>Too many changes when applying a LCS diff algorithm.</comment>
+      <comment>
+         <val lang="en_US">Too many differences between the two documents. Only the first {0} differences were
+            computed.\nIn order to completely compare the documents you must increase the algorithm strength.</val>
+      </comment>
+      <val lang="zh_CN">Too many differences between the two documents. Only the first {0} differences were
+            computed.\nIn order to completely compare the documents you must increase the algorithm strength.</val>
+   </key>
+   <key value="Too_many_changes_ignore_whitespaces_message">
+      <comment>Too many changes when applying a LCS diff algorithm.</comment>
+      <comment>
+         <val lang="en_US">You can also ignore the whitespaces during comparison using the "Ignore Whitespaces" toolbar
+            button.</val>
+      </comment>
+      <val lang="zh_CN">You can also ignore the whitespaces during comparison using the "Ignore Whitespaces" toolbar
+            button.</val>
+   </key>
+   <key value="Menu_shortcut_keys_example">
+      <comment>Example in the menu shortcut keys edit dialog</comment>
+      <comment>
+         <val lang="en_US">For example: {0} + [{1}] + KEY.</val>
+      </comment>
+      <val lang="zh_CN">For example: {0} + [{1}] + KEY.</val>
+   </key>
+   <key value="Press_the_shortcut_keys">
+      <comment>Menu Shortcut Keys - allows user to change action shortcut</comment>
+      <comment>
+         <val lang="en_US">Press the desired shortcut keys</val>
+      </comment>
+      <val lang="zh_CN">Press the desired shortcut keys</val>
+   </key>
+   <key value="Cannot_delete_value">
+      <comment>Title for the error dialog shown when try to delete a profiling attribute value used in defined
+            condition sets.</comment>
+      <comment>
+         <val lang="en_US">Cannot delete value</val>
+      </comment>
+      <val lang="zh_CN">Cannot delete value</val>
+   </key>
+   <key value="Cannot_delete_profiling_attribute_value_cause">
+      <comment>Message shown when try to delete a profiling attribute value used in defined condition sets.</comment>
+      <comment>
+         <val lang="en_US">Cannot delete profiling attribute value ''{0}'' because it is used in the following condition
+            sets: {1}.</val>
+      </comment>
+      <val lang="zh_CN">Cannot delete profiling attribute value ''{0}'' because it is used in the following condition
+            sets: {1}.</val>
+   </key>
+   <key value="Cannot_delete_attribute">
+      <comment>Title for the error dialog shown when try to delete a profiling attribute used in defined condition
+            sets.</comment>
+      <comment>
+         <val lang="en_US">Cannot delete attribute</val>
+      </comment>
+      <val lang="zh_CN">Cannot delete attribute</val>
+   </key>
+   <key value="Cannot_delete_profiling_attribute_cause">
+      <comment>Message shown when try to delete a profiling attribute used in defined condition sets.</comment>
+      <comment>
+         <val lang="en_US">Cannot delete profiling attribute ''{0}'' because it is used in the following condition sets:
+            {1}.</val>
+      </comment>
+      <val lang="zh_CN">Cannot delete profiling attribute ''{0}'' because it is used in the following condition sets:
+            {1}.</val>
+   </key>
+   <key value="Diff_change_algorithm_message">
+      <comment>Advice when we detect that a file is too complex for a specific algorithm.</comment>
+      <comment>
+         <val lang="en_US">The files are too complex to be compared using {0} algorithm. We recommend using {1} algorithm
+            instead.</val>
+      </comment>
+      <val lang="zh_CN">The files are too complex to be compared using {0} algorithm. We recommend using {1} algorithm
+            instead.</val>
+   </key>
+   <key value="Diff_oom_change_algorithm_message">
+      <comment>Advice on a OOM caught during the execution of a DIFF algorithm.</comment>
+      <comment>
+         <val lang="en_US">If the problem persists, it is recommended to use {0} algorithm.</val>
+      </comment>
+      <val lang="zh_CN">If the problem persists, it is recommended to use {0} algorithm.</val>
+   </key>
+   <key value="Diff_algorithm_oom_message">
+      <comment>Advice on a OOM caught during the execution of a DIFF algorithm.</comment>
+      <comment>
+         <val lang="en_US">The application exceeded the available memory: {0}MB.\nTo successfully apply {1} algorithm on
+            the current files you should increase the amount of memory available to the application to at least
+            {2}MB.</val>
+      </comment>
+      <val lang="zh_CN">The application exceeded the available memory: {0}MB.\nTo successfully apply {1} algorithm on
+            the current files you should increase the amount of memory available to the application to at least
+            {2}MB.</val>
+   </key>
+   <key value="Clear_history_confirmation">
+      <comment>Confirmation message shown on clear history action.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to clear the history?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to clear the history?</val>
+   </key>
+   <key value="Signature_algorithm">
+      <comment>Signature algorithm to be used when signing a document</comment>
+      <comment>
+         <val lang="en_US">Signature algorithm</val>
+      </comment>
+      <val lang="zh_CN">Signature algorithm</val>
+   </key>
+   <key value="Choose_application">
+      <comment>SVN Client action name for "Open with -&gt; Other Application"</comment>
+      <comment>
+         <val lang="en_US">Choose application</val>
+      </comment>
+      <val lang="zh_CN">Choose application</val>
+   </key>
+   <key value="Oxygen" skipTranslation="true">
+      <comment>Name for the actions used to open a file in Oxygen from SVN Client</comment>
+      <comment>
+         <val lang="en_US">Oxygen</val>
+      </comment>
+      <val lang="zh_CN">Oxygen</val>
+   </key>
+   <key value="Add_to_version_control">
+      <comment>SVN Client action name</comment>
+      <comment>
+         <val lang="en_US">Add to version control</val>
+      </comment>
+      <val lang="zh_CN">Add to version control</val>
+   </key>
+   <key value="You_must_configure_a_valid_certificate">
+      <comment>Configure certificate message to link to preferences</comment>
+      <comment>
+         <val lang="en_US">You must configure a valid certificate.</val>
+      </comment>
+      <val lang="zh_CN">You must configure a valid certificate.</val>
+   </key>
+   <key value="Could_not_obtain_the_certificate">
+      <comment>Configure certificate warning message</comment>
+      <comment>
+         <val lang="en_US">Could not obtain a valid certificate.</val>
+      </comment>
+      <val lang="zh_CN">Could not obtain a valid certificate.</val>
+   </key>
+   <key value="Unset">
+      <comment>Button in edit parameters dialog</comment>
+      <comment>
+         <val lang="en_US">Unset</val>
+      </comment>
+      <val lang="zh_CN">Unset</val>
+   </key>
+   <key value="Configure_table_columns">
+      <comment>Name of the dialog used to configure what columns are displayed.</comment>
+      <comment>
+         <val lang="en_US">Configure columns</val>
+      </comment>
+      <val lang="zh_CN">Configure columns</val>
+   </key>
+   <key value="Size_column_to_fit">
+      <comment>Action name in the SVN working copy table.</comment>
+      <comment>
+         <val lang="en_US">Size Column to Fit</val>
+      </comment>
+      <val lang="zh_CN">Size Column to Fit</val>
+   </key>
+   <key value="Size_all_columns_to_fit">
+      <comment>Action name in the SVN working copy table.</comment>
+      <comment>
+         <val lang="en_US">Size All Columns to Fit</val>
+      </comment>
+      <val lang="zh_CN">Size All Columns to Fit</val>
+   </key>
+   <key value="condition_set">
+      <comment>Default name for condition sets</comment>
+      <comment>
+         <val lang="en_US">condition set</val>
+      </comment>
+      <val lang="zh_CN">condition set</val>
+   </key>
+   <key value="Profiling_condition_sets_info">
+      <comment>Information message used in options for profiling condition sets</comment>
+      <comment>
+         <val lang="en_US">A condition set is a collection of profiling attributes values, used to filter the text
+            content or structure from the document, either when editing or when generating output.</val>
+      </comment>
+      <val lang="zh_CN">A condition set is a collection of profiling attributes values, used to filter the text
+            content or structure from the document, either when editing or when generating output.</val>
+   </key>
+   <key value="Link_with_editor">
+      <comment>Link the debugger inputs with the selected editors.</comment>
+      <comment>
+         <val lang="en_US">Link with Editor</val>
+      </comment>
+      <val lang="zh_CN">Link with Editor</val>
+   </key>
+   <key value="Profiling_options">
+      <comment>Check for completeness dialog options button text.</comment>
+      <comment>
+         <val lang="en_US">Profiling Preferences</val>
+      </comment>
+      <val lang="zh_CN">Profiling Preferences</val>
+   </key>
+   <key value="Scanning_for_references">
+      <comment>Message used in the progress dialog that is shown when searching for references.</comment>
+      <comment>
+         <val lang="en_US">Scanning for references</val>
+      </comment>
+      <val lang="zh_CN">Scanning for references</val>
+   </key>
+   <key value="Scanning_for_declaration">
+      <comment>Message used in the progress dialog that is shown when searching for declaration.</comment>
+      <comment>
+         <val lang="en_US">Scanning for declaration</val>
+      </comment>
+      <val lang="zh_CN">Scanning for declaration</val>
+   </key>
+   <key value="Computing_resources_dependencies">
+      <comment>Message used in the progress dialog that is shown when searching for references/declaration.</comment>
+      <comment>
+         <val lang="en_US">Computing resources dependencies</val>
+      </comment>
+      <val lang="zh_CN">Computing resources dependencies</val>
+   </key>
+   <key value="Occurrences_of">
+      <comment>Message used when searching the occurrences of a component</comment>
+      <comment>
+         <val lang="en_US">Occurrences of</val>
+      </comment>
+      <val lang="zh_CN">Occurrences of</val>
+   </key>
+   <key value="References_of">
+      <comment>Message used when searching the references of a component</comment>
+      <comment>
+         <val lang="en_US">References of</val>
+      </comment>
+      <val lang="zh_CN">References of</val>
+   </key>
+   <key value="Declarations_of">
+      <comment>Message used when searching the declaration of a component</comment>
+      <comment>
+         <val lang="en_US">Declaration of</val>
+      </comment>
+      <val lang="zh_CN">Declaration of</val>
+   </key>
+   <key value="Searching_occurrences_of">
+      <comment>Message displayed when searching the occurrences of a component</comment>
+      <comment>
+         <val lang="en_US">Searching occurrences of</val>
+      </comment>
+      <val lang="zh_CN">Searching occurrences of</val>
+   </key>
+   <key value="Searching_references_of">
+      <comment>Message displayed when searching the references of a component</comment>
+      <comment>
+         <val lang="en_US">Searching references of</val>
+      </comment>
+      <val lang="zh_CN">Searching references of</val>
+   </key>
+   <key value="Searching_declarations_of">
+      <comment>Message displayed when searching the declaration of a component</comment>
+      <comment>
+         <val lang="en_US">Searching declaration of</val>
+      </comment>
+      <val lang="zh_CN">Searching declaration of</val>
+   </key>
+   <key value="Collecting_project_resources">
+      <comment>Message shown while collecting resources from project.</comment>
+      <comment>
+         <val lang="en_US">Collecting resources</val>
+      </comment>
+      <val lang="zh_CN">Collecting resources</val>
+   </key>
+   <key value="Search_component_declaration">
+      <comment>The title of the progress dialog shown when searching for a component's declaration.</comment>
+      <comment>
+         <val lang="en_US">Search Component Declaration</val>
+      </comment>
+      <val lang="zh_CN">Search Component Declaration</val>
+   </key>
+   <key value="Search_component_occurrences_in_current_file">
+      <comment>The title of the progress dialog shown when searching for a component's occurrences in the current
+            file.</comment>
+      <comment>
+         <val lang="en_US">Search Component Occurrences in the Current File</val>
+      </comment>
+      <val lang="zh_CN">Search Component Occurrences in the Current File</val>
+   </key>
+   <key value="Search_component_references">
+      <comment>The title of the progress dialog shown when searching for a component's references.</comment>
+      <comment>
+         <val lang="en_US">Search Component References</val>
+      </comment>
+      <val lang="zh_CN">Search Component References</val>
+   </key>
+   <key value="Stop_debugger_when_change_project">
+      <comment>You have to stop the debugger before changing the project </comment>
+      <comment>
+         <val lang="en_US">You have to stop the debugger before changing the project</val>
+      </comment>
+      <val lang="zh_CN">You have to stop the debugger before changing the project</val>
+   </key>
+   <key value="Use_same_color_for_text_foreground">
+      <comment>The color chosen to be used for track changes will be used also as a text foreground.</comment>
+      <comment>
+         <val lang="en_US">Use same color for text foreground</val>
+      </comment>
+      <val lang="zh_CN">Use same color for text foreground</val>
+   </key>
+   <key value="Unhandled_exception_error_message">
+      <comment>Generic unhandled exception error message</comment>
+      <comment>
+         <val lang="en_US">The application detected an error that is not automatically handled. It is possible that this
+            error is not critical and the application may continue to work normally but our recommendation is to report
+            the error and restart the application. If the application has become unstable and cannot be closed normally,
+            you can use the Force Quit button from this dialog. Be aware that by doing this you will lose all unsaved
+            changes in the opened documents.</val>
+      </comment>
+      <val lang="zh_CN">The application detected an error that is not automatically handled. It is possible that this
+            error is not critical and the application may continue to work normally but our recommendation is to report
+            the error and restart the application. If the application has become unstable and cannot be closed normally,
+            you can use the Force Quit button from this dialog. Be aware that by doing this you will lose all unsaved
+            changes in the opened documents.</val>
+   </key>
+   <key value="Report_profiling_conflicts_with_pref">
+      <comment>Checkbox in DITA Map completeness checker.</comment>
+      <comment>
+         <val lang="en_US">Report attributes and values that conflict with profiling preferences</val>
+      </comment>
+      <val lang="zh_CN">Report attributes and values that conflict with profiling preferences</val>
+   </key>
+   <key value="Use_built_in_Apache_FOP">
+      <comment>Use the built-in Apache FOP.</comment>
+      <comment>
+         <val lang="en_US">Use built-in Apache FOP</val>
+      </comment>
+      <val lang="zh_CN">Use built-in Apache FOP</val>
+   </key>
+   <key value="Use_other_Apache_FOP">
+      <comment>Use other Apache FOP installed on your computer.</comment>
+      <comment>
+         <val lang="en_US">Use other Apache FOP</val>
+      </comment>
+      <val lang="zh_CN">Use other Apache FOP</val>
+   </key>
+   <key value="Track_changes_final_tooltip">
+      <comment>Description used for the "View Final" action, used in tooltip.</comment>
+      <comment>
+         <val lang="en_US">The document will be displayed as if all changes were accepted</val>
+      </comment>
+      <val lang="zh_CN">The document will be displayed as if all changes were accepted</val>
+   </key>
+   <key value="Track_changes_original_tooltip">
+      <comment>Description used for the "View Original" action, used in tooltip.</comment>
+      <comment>
+         <val lang="en_US">The document will be displayed as if all changes were rejected</val>
+      </comment>
+      <val lang="zh_CN">The document will be displayed as if all changes were rejected</val>
+   </key>
+   <key value="Track_changes_final_mode">
+      <comment>Presenting the document with all changes accepted (final document).</comment>
+      <comment>
+         <val lang="en_US">View Final</val>
+      </comment>
+      <val lang="zh_CN">View Final</val>
+   </key>
+   <key value="Track_changes_original_mode">
+      <comment>Presenting the document with all changes rejected (original document).</comment>
+      <comment>
+         <val lang="en_US">View Original</val>
+      </comment>
+      <val lang="zh_CN">View Original</val>
+   </key>
+   <key value="Identify_profiling_conflicts">
+      <comment>Checkbox in DITA Map completeness checker.</comment>
+      <comment>
+         <val lang="en_US">Identify possible conflicts in profiling attribute values</val>
+      </comment>
+      <val lang="zh_CN">Identify possible conflicts in profiling attribute values</val>
+   </key>
+   <key value="Scenario_contains_cascading_stylesheets">
+      <comment>Warning message displayed when the debugged scenario contains cascading stylesheets that will be
+            ignored in the debugger.</comment>
+      <comment>
+         <val lang="en_US">The associated scenario contains cascading stylesheets.\nNote that the additional stylesheets
+            will be ignored during the debugging session.</val>
+      </comment>
+      <val lang="zh_CN">The associated scenario contains cascading stylesheets.\nNote that the additional stylesheets
+            will be ignored during the debugging session.</val>
+   </key>
+   <key value="Only_topic_in_map">
+      <comment>Option in the DITA Map completeness checker. If checked and there are links to topics which are not
+            referenced in any DITA Map, they are reported as warnings.</comment>
+      <comment>
+         <val lang="en_US">Report links to topics not referenced in DITA maps</val>
+      </comment>
+      <val lang="zh_CN">Report links to topics not referenced in DITA maps</val>
+   </key>
+   <key value="Highlight_caret_proximity_elements">
+      <comment>Appears as a option label in the Author edit mode options.</comment>
+      <comment>
+         <val lang="en_US">Highlight elements near cursor</val>
+      </comment>
+      <val lang="zh_CN">Highlight elements near cursor</val>
+   </key>
+   <key value="Svn_special_date_time_tooltip">
+      <comment>Tooltip message for SVN item's last changed time (special format). Complete format example: Modified
+            TODAY/YESTERDAY at 12:55 PM</comment>
+      <comment>
+         <val lang="en_US">Modified {0} at {1}</val>
+      </comment>
+      <val lang="zh_CN">Modified {0} at {1}</val>
+   </key>
+   <key value="Svn_show_confirm_update_all">
+      <comment>SVN option to show or not a confirmation dialog when using "Update All" action</comment>
+      <comment>
+         <val lang="en_US">Show confirmation dialog when using the "Update All" action</val>
+      </comment>
+      <val lang="zh_CN">Show confirmation dialog when using the "Update All" action</val>
+   </key>
+   <key value="Unable_to_perform_copy_move">
+      <comment>Error message displayed when a file Copy/Move operation cannot be performed.</comment>
+      <comment>
+         <val lang="en_US">Unable to perform the Copy/Move operation. The cause of this situation:</val>
+      </comment>
+      <val lang="zh_CN">Unable to perform the Copy/Move operation. The cause of this situation:</val>
+   </key>
+   <key value="XSL_XQuery_Node">
+      <comment>Column title in debugger Back Mapping Stack table.</comment>
+      <comment>
+         <val lang="en_US">XSL/XQuery Node</val>
+      </comment>
+      <val lang="zh_CN">XSL/XQuery Node</val>
+   </key>
+   <key value="Copy_value">
+      <comment>Copy value</comment>
+      <comment>
+         <val lang="en_US">Copy Value</val>
+      </comment>
+      <val lang="zh_CN">Copy Value</val>
+   </key>
+   <key value="Please_restart_after_allocating_more_memory">
+      <comment>Eclipse - Message used when encountering out of memory error.</comment>
+      <comment>
+         <val lang="en_US">The application exceeded the available memory: {0}MB. To avoid stability issues please restart
+            the application.\nIf the problem persists, it is recommended to increase the amount of memory available to
+            the application.</val>
+      </comment>
+      <val lang="zh_CN">The application exceeded the available memory: {0}MB. To avoid stability issues please restart
+            the application.\nIf the problem persists, it is recommended to increase the amount of memory available to
+            the application.</val>
+   </key>
+   <key value="Fewer">
+      <comment>Label used in the "Edit Attributes" dialog, placed near the button that hides attributes
+            table.</comment>
+      <comment>
+         <val lang="en_US">Fewer</val>
+      </comment>
+      <val lang="zh_CN">Fewer</val>
+   </key>
+   <key value="Save_and_close">
+      <comment>Button text in the Select scenario dialog</comment>
+      <comment>
+         <val lang="en_US">Save and close</val>
+      </comment>
+      <val lang="zh_CN">Save and close</val>
+   </key>
+   <key value="Save_changes_and_close_dialog">
+      <comment>Button tooltip text in the Select scenario dialog</comment>
+      <comment>
+         <val lang="en_US">Save changes and close the dialog</val>
+      </comment>
+      <val lang="zh_CN">Save changes and close the dialog</val>
+   </key>
+   <key value="Add_folder">
+      <comment>The "Add Folder" action used in project panel.</comment>
+      <comment>
+         <val lang="en_US">Add Folder</val>
+      </comment>
+      <val lang="zh_CN">Add Folder</val>
+   </key>
+   <key value="Svn_selected_column_width">
+      <comment>Message presenting the selected SVN tree table column width in the SVN working copy column
+            configuration dialog</comment>
+      <comment>
+         <val lang="en_US">Width of selected column (in pixels):</val>
+      </comment>
+      <val lang="zh_CN">Width of selected column (in pixels):</val>
+   </key>
+   <key value="Svn_choose_wc_columns">
+      <comment>Message presented in the SVN working copy column configuration dialog</comment>
+      <comment>
+         <val lang="en_US">Select the details you want to display for the items in the working copy:</val>
+      </comment>
+      <val lang="zh_CN">Select the details you want to display for the items in the working copy:</val>
+   </key>
+   <key value="Enable_breakpoint">
+      <comment>The name of the action that will enable a breakpoint.</comment>
+      <comment>
+         <val lang="en_US">Enable breakpoint</val>
+      </comment>
+      <val lang="zh_CN">Enable breakpoint</val>
+   </key>
+   <key value="Disable_breakpoint">
+      <comment>The name of the action that will disable a breakpoint.</comment>
+      <comment>
+         <val lang="en_US">Disable breakpoint</val>
+      </comment>
+      <val lang="zh_CN">Disable breakpoint</val>
+   </key>
+   <key value="File_type">
+      <comment>The type of a file</comment>
+      <comment>
+         <val lang="en_US">File type</val>
+      </comment>
+      <val lang="zh_CN">File type</val>
+   </key>
+   <key value="Cannot_determine_working_copy_root_path">
+      <comment>SVN error message displayed when the working copy root path could not be obtained</comment>
+      <comment>
+         <val lang="en_US">Cannot determine the working copy root path.</val>
+      </comment>
+      <val lang="zh_CN">Cannot determine the working copy root path.</val>
+   </key>
+   <key value="License_expired_message">
+      <comment>Message used when the trial license expired.</comment>
+      <comment>
+         <val lang="en_US">You have used the application on a trial basis and now your evaluation period is over.\nIf you
+            would like to continue to use the product, you need a valid license key.</val>
+      </comment>
+      <val lang="zh_CN">You have used the application on a trial basis and now your evaluation period is over.\nIf you
+            would like to continue to use the product, you need a valid license key.</val>
+   </key>
+   <key value="Svn_synchronize_with_repository">
+      <comment>SVN link label action used to 'Synchronize with Repository'</comment>
+      <comment>
+         <val lang="en_US">Synchronize with Repository</val>
+      </comment>
+      <val lang="zh_CN">Synchronize with Repository</val>
+   </key>
+   <key value="Synchronize_with_repository_details">
+      <comment>Details message for the 'Synchronize with Repository' link label</comment>
+      <comment>
+         <val lang="en_US">Synchronize with repository to see if there are any incoming changes.</val>
+      </comment>
+      <val lang="zh_CN">Synchronize with repository to see if there are any incoming changes.</val>
+   </key>
+   <key value="Show_all_changes">
+      <comment>SVN link label action used to show all working copy changes</comment>
+      <comment>
+         <val lang="en_US">Show all changes</val>
+      </comment>
+      <val lang="zh_CN">Show all changes</val>
+   </key>
+   <key value="Show_all_changes_details">
+      <comment>Details message for the 'Show all changes' link label</comment>
+      <comment>
+         <val lang="en_US">There are some changes in the working copy.</val>
+      </comment>
+      <val lang="zh_CN">There are some changes in the working copy.</val>
+   </key>
+   <key value="No_wc_changes">
+      <comment>Message presented in the SVN 'Modified' mode when no changes presented</comment>
+      <comment>
+         <val lang="en_US">There are no changes in the working copy.</val>
+      </comment>
+      <val lang="zh_CN">There are no changes in the working copy.</val>
+   </key>
+   <key value="No_changes_for">
+      <comment>Message presented when no changes found for some specific synchronized files</comment>
+      <comment>
+         <val lang="en_US">There are no changes for: {0}.</val>
+      </comment>
+      <val lang="zh_CN">There are no changes for: {0}.</val>
+   </key>
+   <key value="Switch_to_incoming">
+      <comment>SVN link label action used to switch to 'Incoming' mode</comment>
+      <comment>
+         <val lang="en_US">Switch to 'Incoming'</val>
+      </comment>
+      <val lang="zh_CN">Switch to 'Incoming'</val>
+   </key>
+   <key value="Show_all_incoming_changes">
+      <comment>SVN link label action used to show all incoming changes</comment>
+      <comment>
+         <val lang="en_US">Show all incoming changes</val>
+      </comment>
+      <val lang="zh_CN">Show all incoming changes</val>
+   </key>
+   <key value="Show_all_incoming_changes_details">
+      <comment>Details label for the 'Show all incoming changes' link label and for 'Switch to Incoming' link
+            label</comment>
+      <comment>
+         <val lang="en_US">There are some incoming changes from the repository.</val>
+      </comment>
+      <val lang="zh_CN">There are some incoming changes from the repository.</val>
+   </key>
+   <key value="Incoming_changes_for">
+      <comment>Details label for the 'Switch to Incoming' link label</comment>
+      <comment>
+         <val lang="en_US">There are some incoming changes for: {0}.</val>
+      </comment>
+      <val lang="zh_CN">There are some incoming changes for: {0}.</val>
+   </key>
+   <key value="No_wc_incoming_changes">
+      <comment>Message presented inside the 'Incoming' mode when no modifications presented</comment>
+      <comment>
+         <val lang="en_US">There are no incoming changes from the repository.</val>
+      </comment>
+      <val lang="zh_CN">There are no incoming changes from the repository.</val>
+   </key>
+   <key value="No_incoming_changes_for">
+      <comment>Message presented when no incoming changes found for some specific synchronized files</comment>
+      <comment>
+         <val lang="en_US">There are no incoming changes for: {0}.</val>
+      </comment>
+      <val lang="zh_CN">There are no incoming changes for: {0}.</val>
+   </key>
+   <key value="Switch_to_outgoing">
+      <comment>SVN link label action used to switch to 'Outgoing' mode</comment>
+      <comment>
+         <val lang="en_US">Switch to 'Outgoing'</val>
+      </comment>
+      <val lang="zh_CN">Switch to 'Outgoing'</val>
+   </key>
+   <key value="Show_all_outgoing_changes">
+      <comment>SVN link label action used to show all outgoing changes</comment>
+      <comment>
+         <val lang="en_US">Show all outgoing changes</val>
+      </comment>
+      <val lang="zh_CN">Show all outgoing changes</val>
+   </key>
+   <key value="Show_all_outgoing_changes_details">
+      <comment>Details label for the 'Show all outgoing changes' link label and for 'Switch to Outgoing' link
+            label</comment>
+      <comment>
+         <val lang="en_US">There are some outgoing changes in the working copy.</val>
+      </comment>
+      <val lang="zh_CN">There are some outgoing changes in the working copy.</val>
+   </key>
+   <key value="Outgoing_changes_for">
+      <comment>Details label for the 'Switch to Outgoing' link label</comment>
+      <comment>
+         <val lang="en_US">There are some outgoing changes for: {0}.</val>
+      </comment>
+      <val lang="zh_CN">There are some outgoing changes for: {0}.</val>
+   </key>
+   <key value="No_wc_outgoing_changes">
+      <comment>Message presented inside the 'Outgoing' mode when no outgoing changes presented</comment>
+      <comment>
+         <val lang="en_US">There are no outgoing changes in the working copy.</val>
+      </comment>
+      <val lang="zh_CN">There are no outgoing changes in the working copy.</val>
+   </key>
+   <key value="No_outgoing_changes_for">
+      <comment>Message presented when no outgoing changes found for some specific synchronized files</comment>
+      <comment>
+         <val lang="en_US">There are no outgoing changes for: {0}.</val>
+      </comment>
+      <val lang="zh_CN">There are no outgoing changes for: {0}.</val>
+   </key>
+   <key value="Switch_to_conflicts">
+      <comment>SVN link label action used to switch to 'Conflicts' mode</comment>
+      <comment>
+         <val lang="en_US">Switch to 'Conflicts'</val>
+      </comment>
+      <val lang="zh_CN">Switch to 'Conflicts'</val>
+   </key>
+   <key value="Show_all_conflicting_changes">
+      <comment>SVN link label action used to show all conflicting changes</comment>
+      <comment>
+         <val lang="en_US">Show all conflicting changes</val>
+      </comment>
+      <val lang="zh_CN">Show all conflicting changes</val>
+   </key>
+   <key value="Show_all_conflicting_changes_details">
+      <comment>Details label for the 'Show all conflicting changes' link label and for 'Switch to Conflicts' link
+            label</comment>
+      <comment>
+         <val lang="en_US">There are some conflicting changes in the working copy.</val>
+      </comment>
+      <val lang="zh_CN">There are some conflicting changes in the working copy.</val>
+   </key>
+   <key value="Conflicting_changes_for">
+      <comment>Details label for the 'Switch to Conflicts' link label</comment>
+      <comment>
+         <val lang="en_US">There are some conflicting changes for: {0}.</val>
+      </comment>
+      <val lang="zh_CN">There are some conflicting changes for: {0}.</val>
+   </key>
+   <key value="No_wc_conflicting_changes">
+      <comment>Message presented inside the 'Conflicts' mode when no conflicting changes presented</comment>
+      <comment>
+         <val lang="en_US">There are no conflicting changes in the working copy.</val>
+      </comment>
+      <val lang="zh_CN">There are no conflicting changes in the working copy.</val>
+   </key>
+   <key value="No_conflicting_changes_for">
+      <comment>Message presented when no conflicting changes found for some specific synchronized files</comment>
+      <comment>
+         <val lang="en_US">There are no conflicting changes for: {0}.</val>
+      </comment>
+      <val lang="zh_CN">There are no conflicting changes for: {0}.</val>
+   </key>
+   <key value="Pattern_regular_expressions_builder">
+      <comment>Label for pattern editing in XML Schema regular expression builder</comment>
+      <comment>
+         <val lang="en_US">Open in Regular Expression Builder</val>
+      </comment>
+      <val lang="zh_CN">Open in Regular Expression Builder</val>
+   </key>
+   <key value="Filename_to_be_searched">
+      <comment>Label in Open/Find resource in project for text field where type the text for resource to be
+            searched</comment>
+      <comment>
+         <val lang="en_US">Enter filename prefix or pattern (? = any character, * = any string)</val>
+      </comment>
+      <val lang="zh_CN">Enter filename prefix or pattern (? = any character, * = any string)</val>
+   </key>
+   <key value="Indexed_resources">
+      <comment>Label in the Open/Find Resources dialog.</comment>
+      <comment>
+         <val lang="en_US">Indexed resources</val>
+      </comment>
+      <val lang="zh_CN">Indexed resources</val>
+   </key>
+   <key value="Recently_opened_resources">
+      <comment>Label in Open/Find Resources dialog.</comment>
+      <comment>
+         <val lang="en_US">Recently opened resources</val>
+      </comment>
+      <val lang="zh_CN">Recently opened resources</val>
+   </key>
+   <key value="All_matches">
+      <comment>Label in the Open/Find Resources dialog list.</comment>
+      <comment>
+         <val lang="en_US">All matches</val>
+      </comment>
+      <val lang="zh_CN">All matches</val>
+   </key>
+   <key value="Show_current_editor_scenarios">
+      <comment>Show current editor scenarios on Transformation scenarios</comment>
+      <comment>
+         <val lang="en_US">Show only the scenarios available for the editor</val>
+      </comment>
+      <val lang="zh_CN">Show only the scenarios available for the editor</val>
+   </key>
+   <key value="Miscellaneous">
+      <comment>Section in Syncro SVN Client options</comment>
+      <comment>
+         <val lang="en_US">Miscellaneous</val>
+      </comment>
+      <val lang="zh_CN">Miscellaneous</val>
+   </key>
+   <key value="When_synchronizing_with_repository">
+      <comment>SVN option title</comment>
+      <comment>
+         <val lang="en_US">When synchronizing with repository</val>
+      </comment>
+      <val lang="zh_CN">When synchronizing with repository</val>
+   </key>
+   <key value="Ask_switch_to_modified_mode">
+      <comment>Question displayed when synchronizing with repository in Syncro SVN Client</comment>
+      <comment>
+         <val lang="en_US">Would you like to switch to 'Modified' mode?</val>
+      </comment>
+      <val lang="zh_CN">Would you like to switch to 'Modified' mode?</val>
+   </key>
+   <key value="Administrative_area">
+      <comment>Section in Syncro SVN Client options</comment>
+      <comment>
+         <val lang="en_US">Administrative area</val>
+      </comment>
+      <val lang="zh_CN">Administrative area</val>
+   </key>
+   <key value="Never_switch_to_modified">
+      <comment>SVN option to never switch to Modified mode when synchronizing from All Files mode</comment>
+      <comment>
+         <val lang="en_US">Never switch to 'Modified' mode</val>
+      </comment>
+      <val lang="zh_CN">Never switch to 'Modified' mode</val>
+   </key>
+   <key value="Always_switch_to_modified">
+      <comment>SVN option to always switch to Modified mode when synchronizing from All Files mode</comment>
+      <comment>
+         <val lang="en_US">Always switch to 'Modified' mode</val>
+      </comment>
+      <val lang="zh_CN">Always switch to 'Modified' mode</val>
+   </key>
+   <key value="Wait">
+      <comment>Wait button in the stop debugger dialog.</comment>
+      <comment>
+         <val lang="en_US">Wait</val>
+      </comment>
+      <val lang="zh_CN">Wait</val>
+   </key>
+   <key value="No_log_entries_found_for">
+      <comment>Message from the SVN history table.</comment>
+      <comment>
+         <val lang="en_US">No log entries found for: ''{0}''</val>
+      </comment>
+      <val lang="zh_CN">No log entries found for: ''{0}''</val>
+   </key>
+   <key value="History_for_resource_revision">
+      <comment>Message presented in the SVN History view: History for FILE @ REVISION</comment>
+      <comment>
+         <val lang="en_US">History for: "{0}" @ {1}</val>
+      </comment>
+      <val lang="zh_CN">History for: "{0}" @ {1}</val>
+   </key>
+   <key value="History_for_resource">
+      <comment>Message presented in the SVN History view: History for FILE</comment>
+      <comment>
+         <val lang="en_US">History for: "{0}"</val>
+      </comment>
+      <val lang="zh_CN">History for: "{0}"</val>
+   </key>
+   <key value="Apply_XSL_2_0_XML_input_required">
+      <comment>Warning when closing an XSLT 2.0 scenario edit dialog without specifying an XML input.</comment>
+      <comment>
+         <val lang="en_US">You have to either specify a valid XML input or set an initial template name.\n To set an
+            initial template name you can use the configuration button next to the Transformer combo.</val>
+      </comment>
+      <val lang="zh_CN">You have to either specify a valid XML input or set an initial template name.\n To set an
+            initial template name you can use the configuration button next to the Transformer combo.</val>
+   </key>
+   <key value="Optimize_loading_for_documents_with_lines_longer_than">
+      <comment>Option from Open / Save page from Preferences.</comment>
+      <comment>
+         <val lang="en_US">Optimize loading for documents with lines longer than</val>
+      </comment>
+      <val lang="zh_CN">Optimize loading for documents with lines longer than</val>
+   </key>
+   <key value="Show_warning_when_opening_documents_with_long_lines">
+      <comment>Option from Open / Save page from Preferences.</comment>
+      <comment>
+         <val lang="en_US">Show warning when opening documents with long lines</val>
+      </comment>
+      <val lang="zh_CN">Show warning when opening documents with long lines</val>
+   </key>
+   <key value="Debugger_operation_taking_long_time">
+      <comment>Message showed when the Stop debugger operation is taking long time to complete.</comment>
+      <comment>
+         <val lang="en_US">The debugging engine did not respond to the stop operation.\nDo you want to wait for it to
+            finish?</val>
+      </comment>
+      <val lang="zh_CN">The debugging engine did not respond to the stop operation.\nDo you want to wait for it to
+            finish?</val>
+   </key>
+   <key value="From_current_condition_set">
+      <comment>Button in edit parameters dialog</comment>
+      <comment>
+         <val lang="en_US">From the current condition set</val>
+      </comment>
+      <val lang="zh_CN">From the current condition set</val>
+   </key>
+   <key value="Please_restart_after_allocating_more_memory_with_force_quit">
+      <comment>Message used when encountering out of memory error.</comment>
+      <comment>
+         <val lang="en_US">The application exceeded the available memory: {0}MB. To avoid stability issues please restart
+            the application. If the application has become unstable and cannot be closed normally, you can use the Force
+            Quit button from this dialog. Be aware that by doing this you will lose any unsaved documents.\nIf the
+            problem persists, it is recommended to increase the amount of memory available to the application.</val>
+      </comment>
+      <val lang="zh_CN">The application exceeded the available memory: {0}MB. To avoid stability issues please restart
+            the application. If the application has become unstable and cannot be closed normally, you can use the Force
+            Quit button from this dialog. Be aware that by doing this you will lose any unsaved documents.\nIf the
+            problem persists, it is recommended to increase the amount of memory available to the application.</val>
+   </key>
+   <key value="For_this_modify_the_parameter_Xmx_in_the_file">
+      <comment>Message 2 in Error dialog for OutOfMemory error.</comment>
+      <comment>
+         <val lang="en_US">You can increase the memory available to the application by setting a larger value for the
+            -Xmx parameter in the startup script, for example -Xmx{0}m.</val>
+      </comment>
+      <val lang="zh_CN">You can increase the memory available to the application by setting a larger value for the
+            -Xmx parameter in the startup script, for example -Xmx{0}m.</val>
+   </key>
+   <key value="Doctype_filter_field_wildcard_info">
+      <comment>Information message used in options for a document type pattern field</comment>
+      <comment>
+         <val lang="en_US">Use "*" and "?" as wildcards. Use "," to specify more patterns.\nFor example use DITA* to
+            match any document type name that starts with 'DITA'.</val>
+      </comment>
+      <val lang="zh_CN">Use "*" and "?" as wildcards. Use "," to specify more patterns.\nFor example use DITA* to
+            match any document type name that starts with 'DITA'.</val>
+   </key>
+   <key value="Svn_item_remotely_added_tooltip">
+      <comment>Tooltip message for SVN remotely added items</comment>
+      <comment>
+         <val lang="en_US">Item is newly added in repository.</val>
+      </comment>
+      <val lang="zh_CN">Item is newly added in repository.</val>
+   </key>
+   <key value="Svn_item_remotely_deleted_tooltip">
+      <comment>Tooltip message for SVN remotely deleted items</comment>
+      <comment>
+         <val lang="en_US">Item was deleted from repository.</val>
+      </comment>
+      <val lang="zh_CN">Item was deleted from repository.</val>
+   </key>
+   <key value="Svn_item_remotely_modified_tooltip">
+      <comment>Tooltip message for SVN remotely modified items</comment>
+      <comment>
+         <val lang="en_US">The content of the item has been modified in repository.</val>
+      </comment>
+      <val lang="zh_CN">The content of the item has been modified in repository.</val>
+   </key>
+   <key value="Svn_item_remotely_replaced_tooltip">
+      <comment>Tooltip message for SVN remotely replaced items</comment>
+      <comment>
+         <val lang="en_US">Item was replaced in repository.</val>
+      </comment>
+      <val lang="zh_CN">Item was replaced in repository.</val>
+   </key>
+   <key value="Svn_date_time_tooltip">
+      <comment>Tooltip message for SVN item's last changed time. Complete format example: Modified on 3.06.2010 at
+            12:55 PM</comment>
+      <comment>
+         <val lang="en_US">Modified on {0} at {1}</val>
+      </comment>
+      <val lang="zh_CN">Modified on {0} at {1}</val>
+   </key>
+   <key value="Svn_properties_conflicted_tooltip">
+      <comment>Tooltip message for SVN items with properties conflicted</comment>
+      <comment>
+         <val lang="en_US">Properties for this item are in conflict with property updates received from the
+            repository.</val>
+      </comment>
+      <val lang="zh_CN">Properties for this item are in conflict with property updates received from the
+            repository.</val>
+   </key>
+   <key value="Svn_properties_modified_tooltip">
+      <comment>Tooltip message for SVN items with properties modified</comment>
+      <comment>
+         <val lang="en_US">Properties for this item have been modified.</val>
+      </comment>
+      <val lang="zh_CN">Properties for this item have been modified.</val>
+   </key>
+   <key value="Svn_properties_normal_tooltip">
+      <comment>Tooltip message for SVN items with properties</comment>
+      <comment>
+         <val lang="en_US">Item has properties set.</val>
+      </comment>
+      <val lang="zh_CN">Item has properties set.</val>
+   </key>
+   <key value="Svn_item_unversioned_tooltip">
+      <comment>Tooltip message for SVN unversioned items</comment>
+      <comment>
+         <val lang="en_US">Item is not under version control.</val>
+      </comment>
+      <val lang="zh_CN">Item is not under version control.</val>
+   </key>
+   <key value="Svn_item_replaced_tooltip">
+      <comment>Tooltip message for SVN replaced items</comment>
+      <comment>
+         <val lang="en_US">Item has been replaced in your working copy (the file was scheduled for deletion, and then a
+            new file with the same name was scheduled for addition in its place).</val>
+      </comment>
+      <val lang="zh_CN">Item has been replaced in your working copy (the file was scheduled for deletion, and then a
+            new file with the same name was scheduled for addition in its place).</val>
+   </key>
+   <key value="Svn_item_obstructed_tooltip">
+      <comment>Tooltip message for SVN obstructed items</comment>
+      <comment>
+         <val lang="en_US">Item is obstructed (versioned as one kind of object: file, directory or symbolic link, but has
+            been replaced by a different kind of object).</val>
+      </comment>
+      <val lang="zh_CN">Item is obstructed (versioned as one kind of object: file, directory or symbolic link, but has
+            been replaced by a different kind of object).</val>
+   </key>
+   <key value="Svn_item_modified_tooltip">
+      <comment>Tooltip message for SVN modified items</comment>
+      <comment>
+         <val lang="en_US">The content of the item has been modified.</val>
+      </comment>
+      <val lang="zh_CN">The content of the item has been modified.</val>
+   </key>
+   <key value="Svn_item_missing_tooltip">
+      <comment>Tooltip message for SVN missing items</comment>
+      <comment>
+         <val lang="en_US">Item is missing (you moved or deleted it from another application).</val>
+      </comment>
+      <val lang="zh_CN">Item is missing (you moved or deleted it from another application).</val>
+   </key>
+   <key value="Svn_item_incomplete_tooltip">
+      <comment>Tooltip message for SVN incomplete items</comment>
+      <comment>
+         <val lang="en_US">The item is incomplete (a checkout or update was interrupted).</val>
+      </comment>
+      <val lang="zh_CN">The item is incomplete (a checkout or update was interrupted).</val>
+   </key>
+   <key value="Svn_item_ignored_tooltip">
+      <comment>Tooltip message for SVN ignored items</comment>
+      <comment>
+         <val lang="en_US">Item is being ignored.</val>
+      </comment>
+      <val lang="zh_CN">Item is being ignored.</val>
+   </key>
+   <key value="Svn_item_deleted_tooltip">
+      <comment>Tooltip message for SVN deleted items</comment>
+      <comment>
+         <val lang="en_US">Item is scheduled for deletion.</val>
+      </comment>
+      <val lang="zh_CN">Item is scheduled for deletion.</val>
+   </key>
+   <key value="Svn_item_conflicted_tooltip">
+      <comment>Tooltip message for SVN conflicted items</comment>
+      <comment>
+         <val lang="en_US">The contents of the item conflict with updates received from the repository.</val>
+      </comment>
+      <val lang="zh_CN">The contents of the item conflict with updates received from the repository.</val>
+   </key>
+   <key value="Svn_item_tree_conflicted_tooltip">
+      <comment>Tooltip message for SVN tree conflicted items</comment>
+      <comment>
+         <val lang="en_US">Item is in tree conflict state:</val>
+      </comment>
+      <val lang="zh_CN">Item is in tree conflict state:</val>
+   </key>
+   <key value="Svn_item_added_tooltip">
+      <comment>Tooltip message for SVN added items</comment>
+      <comment>
+         <val lang="en_US">Item is scheduled for addition.</val>
+      </comment>
+      <val lang="zh_CN">Item is scheduled for addition.</val>
+   </key>
+   <key value="Svn_item_copied_tooltip">
+      <comment>Tooltip message for SVN copied items</comment>
+      <comment>
+         <val lang="en_US">Item is scheduled for addition with history (copied).</val>
+      </comment>
+      <val lang="zh_CN">Item is scheduled for addition with history (copied).</val>
+   </key>
+   <key value="Enable_back_mapping">
+      <comment>Tooltip message for action to enable debugger back mapping support.</comment>
+      <comment>
+         <val lang="en_US">Turn on output to source mapping</val>
+      </comment>
+      <val lang="zh_CN">Turn on output to source mapping</val>
+   </key>
+   <key value="Disable_back_mapping">
+      <comment>Tooltip message for action to disable debugger back mapping support.</comment>
+      <comment>
+         <val lang="en_US">Turn off output to source mapping</val>
+      </comment>
+      <val lang="zh_CN">Turn off output to source mapping</val>
+   </key>
+   <key value="Remote_author">
+      <comment>SVN table column name that presents the remote resource author.</comment>
+      <comment>
+         <val lang="en_US">Remote author</val>
+      </comment>
+      <val lang="zh_CN">Remote author</val>
+   </key>
+   <key value="Remote_date">
+      <comment>SVN table column name that presents the remote resource date.</comment>
+      <comment>
+         <val lang="en_US">Remote date</val>
+      </comment>
+      <val lang="zh_CN">Remote date</val>
+   </key>
+   <key value="Back_mapping_instruction_stack_message">
+      <comment>Message used in 'Back Mapping Stack' view.</comment>
+      <comment>
+         <val lang="en_US">Click an output fragment to see the stylesheet instruction which generated it.</val>
+      </comment>
+      <val lang="zh_CN">Click an output fragment to see the stylesheet instruction which generated it.</val>
+   </key>
+   <key distribution="common" value="Back_mapping_instruction_stack">
+      <comment>Name of the view showing the stack for a back mapping XSL instruction.</comment>
+      <comment>
+         <val lang="en_US">Output Mapping Stack</val>
+      </comment>
+      <val lang="zh_CN">Output Mapping Stack</val>
+   </key>
+   <key value="Use_current_profiling_condition_set">
+      <comment>Use in the DITA transformation scenario the current profiling condition set which was selected on the
+            DITA Map view.</comment>
+      <comment>
+         <val lang="en_US">Use current profiling condition set</val>
+      </comment>
+      <val lang="zh_CN">Use current profiling condition set</val>
+   </key>
+   <key value="Please_choose_an_action_to_resolve_the_problem">
+      <comment>Message when editing an attribute value</comment>
+      <comment>
+         <val lang="en_US">Please choose an action to resolve the problem</val>
+      </comment>
+      <val lang="zh_CN">Please choose an action to resolve the problem</val>
+   </key>
+   <key value="Insert_attr_valid_value">
+      <comment>Message when editing an attribute value</comment>
+      <comment>
+         <val lang="en_US">Insert a valid value</val>
+      </comment>
+      <val lang="zh_CN">Insert a valid value</val>
+   </key>
+   <key value="Escape_attr_value">
+      <comment>Message when editing an attribute value</comment>
+      <comment>
+         <val lang="en_US">Escape value</val>
+      </comment>
+      <val lang="zh_CN">Escape value</val>
+   </key>
+   <key value="Keep_previous_attr_value">
+      <comment>Message when editing an attribute value</comment>
+      <comment>
+         <val lang="en_US">Keep previous value</val>
+      </comment>
+      <val lang="zh_CN">Keep previous value</val>
+   </key>
+   <key value="Invalid_attr_value">
+      <comment>Message when editing an attribute value</comment>
+      <comment>
+         <val lang="en_US">Invalid attribute value</val>
+      </comment>
+      <val lang="zh_CN">Invalid attribute value</val>
+   </key>
+   <key value="Choose_wc">
+      <comment>Label displayed when the SVN working copy combo box is empty</comment>
+      <comment>
+         <val lang="en_US">Choose a working copy...</val>
+      </comment>
+      <val lang="zh_CN">Choose a working copy...</val>
+   </key>
+   <key value="Search_returned_no_results">
+      <comment>Message in Outline View presented when the user search returned no results.</comment>
+      <comment>
+         <val lang="en_US">Search returned no results</val>
+      </comment>
+      <val lang="zh_CN">Search returned no results</val>
+   </key>
+   <key value="Copy_to_clipboard">
+      <comment>Copy an exception trace to clipboard</comment>
+      <comment>
+         <val lang="en_US">Copy to clipboard</val>
+      </comment>
+      <val lang="zh_CN">Copy to clipboard</val>
+   </key>
+   <key value="Unhandled_exception_details">
+      <comment>Generic unhandled exception error message preceding the actual exception</comment>
+      <comment>
+         <val lang="en_US">Here are the error details</val>
+      </comment>
+      <val lang="zh_CN">Here are the error details</val>
+   </key>
+   <key value="Out_of_memory_recommend_close_editors">
+      <comment>Tips to avoid out of memory situations</comment>
+      <comment>
+         <val lang="en_US">Do not keep many editors open, close them when you do not need them anymore.</val>
+      </comment>
+      <val lang="zh_CN">Do not keep many editors open, close them when you do not need them anymore.</val>
+   </key>
+   <key value="Out_of_memory_recommend_large_file_viewer">
+      <comment>When an Out of Memory error occurs, this message is displayed, indicating to the user that if he just
+            wants to see the file, he/she can use the Large File Viewer.</comment>
+      <comment>
+         <val lang="en_US">If you just want to inspect a large file, please use the Large File Viewer available from the
+            Tools menu.</val>
+      </comment>
+      <val lang="zh_CN">If you just want to inspect a large file, please use the Large File Viewer available from the
+            Tools menu.</val>
+   </key>
+   <key value="Out_of_memory_tips">
+      <comment>Tips to avoid out of memory situations</comment>
+      <comment>
+         <val lang="en_US">How to avoid these errors</val>
+      </comment>
+      <val lang="zh_CN">How to avoid these errors</val>
+   </key>
+   <key value="Error_messages_in_Java_console">
+      <comment>Label with description of dialog with Standard Error messages.</comment>
+      <comment>
+         <val lang="en_US">Unhandled errors encountered</val>
+      </comment>
+      <val lang="zh_CN">Unhandled errors encountered</val>
+   </key>
+   <key value="Operation_taking_long_time">
+      <comment>Message showed when the Expand All operation is taking long time to complete.</comment>
+      <comment>
+         <val lang="en_US">This operation is taking a long time</val>
+      </comment>
+      <val lang="zh_CN">This operation is taking a long time</val>
+   </key>
+   <key value="Condition_Set_Explanation">
+      <comment>Explanation about the usage of condition set, displayed in "Condition Set" dialog.</comment>
+      <comment>
+         <val lang="en_US">Include the content matching the following conditions</val>
+      </comment>
+      <val lang="zh_CN">Include the content matching the following conditions</val>
+   </key>
+   <key value="Outgoing">
+      <comment>Button name that selects the working copy outgoing mode to be presented.</comment>
+      <comment>
+         <val lang="en_US">Outgoing</val>
+      </comment>
+      <val lang="zh_CN">Outgoing</val>
+   </key>
+   <key value="Incoming">
+      <comment>Button name that selects the working copy incoming mode to be presented.</comment>
+      <comment>
+         <val lang="en_US">Incoming</val>
+      </comment>
+      <val lang="zh_CN">Incoming</val>
+   </key>
+   <key value="Conflicts">
+      <comment>Button name that selects the working copy conflicts mode to be presented.</comment>
+      <comment>
+         <val lang="en_US">Conflicts</val>
+      </comment>
+      <val lang="zh_CN">Conflicts</val>
+   </key>
+   <key value="Remote">
+      <comment>Column name in the working copy tree table, presenting the remote status.</comment>
+      <comment>
+         <val lang="en_US">Remote</val>
+      </comment>
+      <val lang="zh_CN">Remote</val>
+   </key>
+</translation>

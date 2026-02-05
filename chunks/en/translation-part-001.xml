@@ -1,0 +1,1784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="XProc_version">
+      <comment>The version of the XProc label in the XProc version dialog.</comment>
+      <comment>
+         <val lang="en_US">XProc version</val>
+      </comment>
+      <val lang="zh_CN">XProc version</val>
+   </key>
+   <key value="Enable_secure_processing">
+      <comment>Enable secure processing</comment>
+      <comment>
+         <val lang="en_US">Enable secure processing</val>
+      </comment>
+      <val lang="zh_CN">Enable secure processing</val>
+   </key>
+   <key value="Entity_expansion_limit">
+      <comment>Entity expansion limit</comment>
+      <comment>
+         <val lang="en_US">Entity expansion limit</val>
+      </comment>
+      <val lang="zh_CN">Entity expansion limit</val>
+   </key>
+   <key value="Maximum_occurance_node_limit">
+      <comment>XML Schema nodes maximum occurrence limit</comment>
+      <comment>
+         <val lang="en_US">XML Schema nodes maximum occurrence limit</val>
+      </comment>
+      <val lang="zh_CN">XML Schema nodes maximum occurrence limit</val>
+   </key>
+   <key value="Configure_addons_update_site_warning">
+      <comment>Warning message when editing add-ons update site.</comment>
+      <comment>
+         <val lang="en_US">You are about to configure a source for plugins and add-ons. Please be aware that, while this can enhance the functionality
+            of your application, it may also expose you to potential security risks. \n\nTo ensure your safety, make sure the update site is reputable
+            and trustworthy. Do not install add-ons that are unsigned or from sources you do not fully trust.</val>
+      </comment>
+      <val lang="zh_CN">You are about to configure a source for plugins and add-ons. Please be aware that, while this can enhance the functionality
+            of your application, it may also expose you to potential security risks. \n\nTo ensure your safety, make sure the update site is reputable
+            and trustworthy. Do not install add-ons that are unsigned or from sources you do not fully trust.</val>
+   </key>
+   <key value="Accept_risk_and_continue">
+      <comment>Button name</comment>
+      <comment>
+         <val lang="en_US">Accept risk and continue</val>
+      </comment>
+      <val lang="zh_CN">Accept risk and continue</val>
+   </key>
+   <key value="Add_update_site_url">
+      <comment>Dialog title</comment>
+      <comment>
+         <val lang="en_US">Add update site URL</val>
+      </comment>
+      <val lang="zh_CN">Add update site URL</val>
+   </key>
+   <key value="Edit_update_site_url">
+      <comment>Dialog title</comment>
+      <comment>
+         <val lang="en_US">Edit update site URL</val>
+      </comment>
+      <val lang="zh_CN">Edit update site URL</val>
+   </key>
+   <key value="Initializing_plugins">
+      <comment>Message on loading the application main frame.</comment>
+      <comment>
+         <val lang="en_US">Initializing plugins</val>
+      </comment>
+      <val lang="zh_CN">Initializing plugins</val>
+   </key>
+   <key distribution="webauthor" value="HIGHLIGHT_CANNOT_BE_ADDED_">
+      <comment>Message to be presented to the user when a color highlight cannot be added.</comment>
+      <comment>
+         <val lang="en_US">The highlight cannot be added on the current selection (the selection must not start or end in a read-only content).</val>
+      </comment>
+      <val lang="zh_CN">The highlight cannot be added on the current selection (the selection must not start or end in a read-only content).</val>
+   </key>
+   <key value="Sort_keys">
+      <comment>Sort keys</comment>
+      <comment>
+         <val lang="en_US">Sort keys</val>
+      </comment>
+      <val lang="zh_CN">Sort keys</val>
+   </key>
+   <key distribution="webauthor"
+        value="OPERATION_NOT_SUPPORTED_CONCURRENT_EDITING_">
+      <comment>Warning shown when an operation is not supported in concurrent editing.</comment>
+      <comment>
+         <val lang="en_US">Operation is not supported in concurrent editing</val>
+      </comment>
+      <val lang="zh_CN">Operation is not supported in concurrent editing</val>
+   </key>
+   <key value="Current">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Current</val>
+      </comment>
+      <val lang="zh_CN">Current</val>
+   </key>
+   <key value="Proposed_changes">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Proposed changes</val>
+      </comment>
+      <val lang="zh_CN">Proposed changes</val>
+   </key>
+   <key value="Apply_all_default_quick_fix_proposals_for_all_problems_additional_info">
+      <comment>Additional explanation about an action name.</comment>
+      <comment>
+         <val lang="en_US">Each default quick fix proposal for each validation problem reported in the document will be applied</val>
+      </comment>
+      <val lang="zh_CN">Each default quick fix proposal for each validation problem reported in the document will be applied</val>
+   </key>
+   <key value="Apply_all_default_quick_fix_proposals_in_all_files">
+      <comment>Action name.</comment>
+      <comment>
+         <val lang="en_US">Apply all default quick fix proposals in all files</val>
+      </comment>
+      <val lang="zh_CN">Apply all default quick fix proposals in all files</val>
+   </key>
+   <key value="Cannot_convert_schema">
+      <comment>Message when schema generation process fails.</comment>
+      <comment>
+         <val lang="en_US">Schema cannot be converted</val>
+      </comment>
+      <val lang="zh_CN">Schema cannot be converted</val>
+   </key>
+   <key distribution="webauthor" value="csp_use_custom_policy">
+      <comment>Label for a CSP checkbox.</comment>
+      <comment>
+         <val lang="en_US">Use a custom policy</val>
+      </comment>
+      <val lang="zh_CN">Use a custom policy</val>
+   </key>
+   <key distribution="webauthor" value="use_csp_header">
+      <comment>Header for a section from administration page that contains security checklist (checkboxes)</comment>
+      <comment>
+         <val lang="en_US">Use CSP</val>
+      </comment>
+      <val lang="zh_CN">Use CSP</val>
+   </key>
+   <key distribution="webauthor" value="one_value_per_line">
+      <comment>Short explanation appended after a label.</comment>
+      <comment>
+         <val lang="en_US">(one value per line):</val>
+      </comment>
+      <val lang="zh_CN">(one value per line):</val>
+   </key>
+   <key value="Application_authentication" distribution="webauthor">
+      <comment>Label for the application authentication security option.</comment>
+      <comment>
+         <val lang="en_US">Application authentication provider:</val>
+      </comment>
+      <val lang="zh_CN">Application authentication provider:</val>
+   </key>
+   <key value="Application_authentication_disabled" distribution="webauthor">
+      <comment>Message used when the application authentication is disabled.</comment>
+      <comment>
+         <val lang="en_US">Application authentication is disabled</val>
+      </comment>
+      <val lang="zh_CN">Application authentication is disabled</val>
+   </key>
+   <key value="No_authentication_provider" distribution="webauthor">
+      <comment>Message used when there is no application authentication provider.</comment>
+      <comment>
+         <val lang="en_US">No authentication provider installed or configured</val>
+      </comment>
+      <val lang="zh_CN">No authentication provider installed or configured</val>
+   </key>
+   <key value="The_folder_not_found" distribution="webauthor">
+      <comment>Error message when fails to list a folder that's missing.</comment>
+      <comment>
+         <val lang="en_US">Folder not found.</val>
+      </comment>
+      <val lang="zh_CN">Folder not found.</val>
+   </key>
+   <key value="Enable_dynamic_conversion">
+      <comment>Options for enable/disable the dynamic conversion of specific non-DITA resources</comment>
+      <comment>
+         <val lang="en_US">Dynamic conversion of specific non-DITA resources</val>
+      </comment>
+      <val lang="zh_CN">Dynamic conversion of specific non-DITA resources</val>
+   </key>
+   <key value="Subscript">
+      <comment>Subscript</comment>
+      <comment>
+         <val lang="en_US">Subscript</val>
+      </comment>
+      <val lang="zh_CN">Subscript</val>
+   </key>
+   <key value="Superscript">
+      <comment>Superscript</comment>
+      <comment>
+         <val lang="en_US">Superscript</val>
+      </comment>
+      <val lang="zh_CN">Superscript</val>
+   </key>
+   <key value="No_dita_reusable_components_found_message">
+      <comment>Message in dialog explaining that no DITA Key definitions were found.</comment>
+      <comment>
+         <val lang="en_US">No reusable components were found. Reusable components are elements with IDs that are defined in topics referenced as "resource-only" in the context DITA map.</val>
+      </comment>
+      <val lang="zh_CN">No reusable components were found. Reusable components are elements with IDs that are defined in topics referenced as "resource-only" in the context DITA map.</val>
+   </key>
+   <key value="No_dita_keys_found_message">
+      <comment>Message in dialog explaining that no DITA Key definitions were found.</comment>
+      <comment>
+         <val lang="en_US">No key definitions were found. Keys are gathered from the context DITA map.</val>
+      </comment>
+      <val lang="zh_CN">No key definitions were found. Keys are gathered from the context DITA map.</val>
+   </key>
+   <key value="YAML_Header">
+      <comment>YAML Header for markdown documents</comment>
+      <comment>
+         <val lang="en_US">YAML Header</val>
+      </comment>
+      <val lang="zh_CN">YAML Header</val>
+   </key>
+   <key value="Comparison_tools">
+      <comment>Sub-menu in Tools main menu.</comment>
+      <comment>
+         <val lang="en_US">Comparison Tools</val>
+      </comment>
+      <val lang="zh_CN">Comparison Tools</val>
+   </key>
+   <key value="Quick_fixes_could_not_be_applied_document_became_unparsable">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">Quick fixes could not be applied, the document may have become not well-formed during the update process</val>
+      </comment>
+      <val lang="zh_CN">Quick fixes could not be applied, the document may have become not well-formed during the update process</val>
+   </key>
+   <key value="Apply_all_default_quick_fix_proposals">
+      <comment>Action name.</comment>
+      <comment>
+         <val lang="en_US">Apply all default quick fix proposals</val>
+      </comment>
+      <val lang="zh_CN">Apply all default quick fix proposals</val>
+   </key>
+   <key value="Could_not_create_document_copy">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">Could not create a document copy.</val>
+      </comment>
+      <val lang="zh_CN">Could not create a document copy.</val>
+   </key>
+   <key value="Could_not_generate_operations_for_quick_fix">
+      <comment>Formatted error message. The parameter is a String indicating the name of the quick fix.</comment>
+      <comment>
+         <val lang="en_US">"{0}" quick fix not applied because the associated operations could not be generated correctly.</val>
+      </comment>
+      <val lang="zh_CN">"{0}" quick fix not applied because the associated operations could not be generated correctly.</val>
+   </key>
+   <key value="Conflicting_quick_fixes_detcted">
+      <comment>Formatted error message. The parameter is a String indicating the name of the quick fix.</comment>
+      <comment>
+         <val lang="en_US">"{0}" quick fix not applied because it would have conflicted with one of the previously performed fixes.</val>
+      </comment>
+      <val lang="zh_CN">"{0}" quick fix not applied because it would have conflicted with one of the previously performed fixes.</val>
+   </key>
+   <key value="Quick_fix_not_performed_as_it_required_providing_user_entered_values">
+      <comment>Formatted error message. The parameter is a String indicating the name of the quick fix.</comment>
+      <comment>
+         <val lang="en_US">"{0}" quick fix not performed because it required providing user-entered values.</val>
+      </comment>
+      <val lang="zh_CN">"{0}" quick fix not performed because it required providing user-entered values.</val>
+   </key>
+   <key value="Quick_fix_not_applied_in_referenced_doc">
+      <comment>Formatted error message. The 1st parameter is a String indicating the name of the quick fix. The 2nd parameter is the system ID of the referenced document.</comment>
+      <comment>
+         <val lang="en_US">"{0}" quick fix not applied in the referenced document "{1}".</val>
+      </comment>
+      <val lang="zh_CN">"{0}" quick fix not applied in the referenced document "{1}".</val>
+   </key>
+   <key value="Several_quick_fixes_could_not_be_applied">
+      <comment>Formatted error message. The parameters are numbers.</comment>
+      <comment>
+         <val lang="en_US">{0} out of {1} quick fixes could not be applied</val>
+      </comment>
+      <val lang="zh_CN">{0} out of {1} quick fixes could not be applied</val>
+   </key>
+   <key value="All_quick_fixes_applied_quantitative_info">
+      <comment>Formatted error message. The parameter is a number.</comment>
+      <comment>
+         <val lang="en_US">{0} out of {0} quick fixes applied successfully</val>
+      </comment>
+      <val lang="zh_CN">{0} out of {0} quick fixes applied successfully</val>
+   </key>
+   <key value="Several_quick_fixes_could_not_be_applied_in_scope">
+      <comment>Formatted error message. The parameters are numbers.</comment>
+      <comment>
+         <val lang="en_US">{0} out of {1} documents not completely updated</val>
+      </comment>
+      <val lang="zh_CN">{0} out of {1} documents not completely updated</val>
+   </key>
+   <key value="All_quick_fixes_applied_in_scope_quantitative_info">
+      <comment>Formatted error message. The parameter is a number.</comment>
+      <comment>
+         <val lang="en_US">{0} out of {0} documents updated successfully</val>
+      </comment>
+      <val lang="zh_CN">{0} out of {0} documents updated successfully</val>
+   </key>
+   <key value="Apply_transform_JSON_tooltip">
+      <comment>Tooltip for the input URL in the transformation configuration dialog.</comment>
+      <comment>
+         <val lang="en_US">The transformation will be applied on the JSON document at this URL</val>
+      </comment>
+      <val lang="zh_CN">The transformation will be applied on the JSON document at this URL</val>
+   </key>
+   <key value="Browse_Json_Local_Tooltip">
+      <comment>Browse for an input file, used in XSL transformation. Transformation Configuration dialog.</comment>
+      <comment>
+         <val lang="en_US">Browse for a local input JSON file</val>
+      </comment>
+      <val lang="zh_CN">Browse for a local input JSON file</val>
+   </key>
+   <key value="Browse_Json_URL_Tooltip">
+      <comment>Configure Transformation Scenario dialog.</comment>
+      <comment>
+         <val lang="en_US">Browse for a remote input JSON file</val>
+      </comment>
+      <val lang="zh_CN">Browse for a remote input JSON file</val>
+   </key>
+   <key value="Open_Json_Tooltip">
+      <comment/>
+      <comment>
+         <val lang="en_US">Open the JSON file</val>
+      </comment>
+      <val lang="zh_CN">Open the JSON file</val>
+   </key>
+   <key value="No_value_specified">
+      <comment>Tooltip for combo box in which an XML attribute value is edited.</comment>
+      <comment>
+         <val lang="en_US">No value specified</val>
+      </comment>
+      <val lang="zh_CN">No value specified</val>
+   </key>
+   <key value="Inline_equations">
+      <comment>Inline Equations</comment>
+      <comment>
+         <val lang="en_US">Inline Equations</val>
+      </comment>
+      <val lang="zh_CN">Inline Equations</val>
+   </key>
+   <key value="Display_equations">
+      <comment>Display Equations</comment>
+      <comment>
+         <val lang="en_US">Display Equations</val>
+      </comment>
+      <val lang="zh_CN">Display Equations</val>
+   </key>
+   <key distribution="webauthor" value="use_hsts_header">
+      <comment>Header for a section from administration page that contains security checklist (checkboxes)</comment>
+      <comment>
+         <val lang="en_US">Use HTTP Strict Transport Security (HSTS)</val>
+      </comment>
+      <val lang="zh_CN">Use HTTP Strict Transport Security (HSTS)</val>
+   </key>
+   <key distribution="webauthor" value="security_checklist">
+      <comment>Header for a section from administration page that contains security checklist (checkboxes)</comment>
+      <comment>
+         <val lang="en_US">Security Options</val>
+      </comment>
+      <val lang="zh_CN">Security Options</val>
+   </key>
+   <key distribution="webauthor" value="use_secure_cookie_attribute">
+      <comment>Label for a security checkbox</comment>
+      <comment>
+         <val lang="en_US">Use the "Secure" attribute for the session cookie</val>
+      </comment>
+      <val lang="zh_CN">Use the "Secure" attribute for the session cookie</val>
+   </key>
+   <key distribution="webauthor" value="Reject_invalid_security_certificates">
+      <comment>Label for a security checkbox</comment>
+      <comment>
+         <val lang="en_US">Reject invalid security certificates</val>
+      </comment>
+      <val lang="zh_CN">Reject invalid security certificates</val>
+   </key>
+   <key value="Auto_apply_styles_ditaval_main_files">
+      <comment>Checkbox for applying colors defined in DITAVAL files which are referenced in the Main Files Folder</comment>
+      <comment>
+         <val lang="en_US">Automatically apply colors and styles from DITAVAL files referenced in the Main Files folder</val>
+      </comment>
+      <val lang="zh_CN">Automatically apply colors and styles from DITAVAL files referenced in the Main Files folder</val>
+   </key>
+   <key value="Json_Schema_components">
+      <comment>Name for JSON Schema components outliner.</comment>
+      <comment>
+         <val lang="en_US">JSON Schema components</val>
+      </comment>
+      <val lang="zh_CN">JSON Schema components</val>
+   </key>
+   <key value="Index_only_resource_only_topics">
+      <comment>Info message that shows how to disable option in preferences page.</comment>
+      <comment>
+         <val lang="en_US">Only index files referenced in the context DITA map as "resource-only"</val>
+      </comment>
+      <val lang="zh_CN">Only index files referenced in the context DITA map as "resource-only"</val>
+   </key>
+   <key value="Save_comparison_as_document_with_tracked_changes">
+      <comment>Name of a Diff action that saves the comparison results as a document with tracked changes.</comment>
+      <comment>
+         <val lang="en_US">Save Comparison as Document with Tracked Changes</val>
+      </comment>
+      <val lang="zh_CN">Save Comparison as Document with Tracked Changes</val>
+   </key>
+   <key value="Merge_documents_with_change_tracking_highlights">
+      <comment>Action name</comment>
+      <comment>
+         <val lang="en_US">Merge Documents with Change Tracking Highlights</val>
+      </comment>
+      <val lang="zh_CN">Merge Documents with Change Tracking Highlights</val>
+   </key>
+   <key value="Base_document">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Base document</val>
+      </comment>
+      <val lang="zh_CN">Base document</val>
+   </key>
+   <key value="Document_to_merge_with">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Document to merge with</val>
+      </comment>
+      <val lang="zh_CN">Document to merge with</val>
+   </key>
+   <key value="Failed_to_open_resulting_file">
+      <comment>Error message</comment>
+      <comment>
+         <val lang="en_US">Failed to open the resulting file.</val>
+      </comment>
+      <val lang="zh_CN">Failed to open the resulting file.</val>
+   </key>
+   <key value="Merge_directories_with_change_tracking_highlights">
+      <comment>Action name</comment>
+      <comment>
+         <val lang="en_US">Merge Directories with Change Tracking Highlights</val>
+      </comment>
+      <val lang="zh_CN">Merge Directories with Change Tracking Highlights</val>
+   </key>
+   <key value="Directory_to_merge_with">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Directory to merge with</val>
+      </comment>
+      <val lang="zh_CN">Directory to merge with</val>
+   </key>
+   <key value="Merge_options">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Merge options</val>
+      </comment>
+      <val lang="zh_CN">Merge options</val>
+   </key>
+   <key value="Update_the_modified_non_XML_files">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Update the modified non-XML files</val>
+      </comment>
+      <val lang="zh_CN">Update the modified non-XML files</val>
+   </key>
+   <key value="Add_the_files_found_only_in_the_directory_to_merge_with">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Add the files found only in the directory to merge with</val>
+      </comment>
+      <val lang="zh_CN">Add the files found only in the directory to merge with</val>
+   </key>
+   <key value="Create_change_tracking_markers_for_the_XML_files_to_be_added">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Create change tracking markers for the XML files to be added</val>
+      </comment>
+      <val lang="zh_CN">Create change tracking markers for the XML files to be added</val>
+   </key>
+   <key value="Delete_the_files_found_only_in_the_base_directory">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Delete the files found only in the base directory</val>
+      </comment>
+      <val lang="zh_CN">Delete the files found only in the base directory</val>
+   </key>
+   <key value="Open_the_operation_report_file_in_editor">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Open the operation report file in editor</val>
+      </comment>
+      <val lang="zh_CN">Open the operation report file in editor</val>
+   </key>
+   <key value="Backup_the_base_directory">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Backup the base directory</val>
+      </comment>
+      <val lang="zh_CN">Backup the base directory</val>
+   </key>
+   <key value="Output_dir_same_as_dir_to_merge_with_conflict_msg_1">
+      <comment>Error message</comment>
+      <comment>
+         <val lang="en_US">The directory to merge with cannot be used as the output directory.</val>
+      </comment>
+      <val lang="zh_CN">The directory to merge with cannot be used as the output directory.</val>
+   </key>
+   <key value="Output_dir_same_as_dir_to_merge_with_conflict_msg_2">
+      <comment>Error message</comment>
+      <comment>
+         <val lang="en_US">You can leave the field blank to save the merge results in the base directory, overwriting it</val>
+      </comment>
+      <val lang="zh_CN">You can leave the field blank to save the merge results in the base directory, overwriting it</val>
+   </key>
+   <key value="Output_dir_same_as_dir_to_merge_with_conflict_msg_3">
+      <comment>Error message - continuation of the message above, in a certain context. There should be no semantic problems at all. The preposition OR at the beginning actually composes the 2 messages.</comment>
+      <comment>
+         <val lang="en_US">or you can choose a separate output directory</val>
+      </comment>
+      <val lang="zh_CN">or you can choose a separate output directory</val>
+   </key>
+   <key value="Directory_to_merge_with_does_not_exist">
+      <comment>Info message associated with an error</comment>
+      <comment>
+         <val lang="en_US">The specified directory to merge with does not exist.</val>
+      </comment>
+      <val lang="zh_CN">The specified directory to merge with does not exist.</val>
+   </key>
+   <key value="Dir_to_merge_with_file_specified_instead_of_directory">
+      <comment>Info message associated with an error</comment>
+      <comment>
+         <val lang="en_US">You specified a file as directory to merge with.</val>
+      </comment>
+      <val lang="zh_CN">You specified a file as directory to merge with.</val>
+   </key>
+   <key value="Generating_change_tracking_files_for_modified_XML_file_pairs">
+      <comment>Merge operation status message</comment>
+      <comment>
+         <val lang="en_US">Generating change tracking files for modified XML file pairs</val>
+      </comment>
+      <val lang="zh_CN">Generating change tracking files for modified XML file pairs</val>
+   </key>
+   <key value="Show_vertical_bars">
+      <comment>Option to show vertical bars character marks in YAML editors only. It's an "extension" of the already existing key "Show_SPACE_marks"</comment>
+      <comment>
+         <val lang="en_US">Show vertical bars</val>
+      </comment>
+      <val lang="zh_CN">Show vertical bars</val>
+   </key>
+   <key value="Accompanying_message_for_link_to_show_space_marks_option">
+      <comment>Info message that accompanies a link to a specific option in preferences page.</comment>
+      <comment>
+         <val lang="en_US">You can display SPACE marks for all editors by selecting the following option</val>
+      </comment>
+      <val lang="zh_CN">You can display SPACE marks for all editors by selecting the following option</val>
+   </key>
+   <key value="Info_disable_option_from_preferences">
+      <comment>Info message that shows how to disable option in preferences page.</comment>
+      <comment>
+         <val lang="en_US">To disable this check, deselect the "{0}" option in the {1} preferences page.</val>
+      </comment>
+      <val lang="zh_CN">To disable this check, deselect the "{0}" option in the {1} preferences page.</val>
+   </key>
+   <key value="Check_for_notifications_description">
+      <comment>Tooltip for the Check for notification options from Notification dialog.</comment>
+      <comment>
+         <val lang="en_US">Oxygen will periodically check for any new events and will display them in this dialog.</val>
+      </comment>
+      <val lang="zh_CN">Oxygen will periodically check for any new events and will display them in this dialog.</val>
+   </key>
+   <key value="Generic_event">
+      <comment>Event type</comment>
+      <comment>
+         <val lang="en_US">Generic event</val>
+      </comment>
+      <val lang="zh_CN">Generic event</val>
+   </key>
+   <key value="Blog_post">
+      <comment>Event type</comment>
+      <comment>
+         <val lang="en_US">Blog post</val>
+      </comment>
+      <val lang="zh_CN">Blog post</val>
+   </key>
+   <key value="Conference">
+      <comment>Event type</comment>
+      <comment>
+         <val lang="en_US">Conference</val>
+      </comment>
+      <val lang="zh_CN">Conference</val>
+   </key>
+   <key value="Oxygen_release">
+      <comment>Event type</comment>
+      <comment>
+         <val lang="en_US">Oxygen release</val>
+      </comment>
+      <val lang="zh_CN">Oxygen release</val>
+   </key>
+   <key value="User_meetup">
+      <comment>Event type</comment>
+      <comment>
+         <val lang="en_US">User meetup</val>
+      </comment>
+      <val lang="zh_CN">User meetup</val>
+   </key>
+   <key value="Video_demonstration">
+      <comment>Event type</comment>
+      <comment>
+         <val lang="en_US">Video demonstration</val>
+      </comment>
+      <val lang="zh_CN">Video demonstration</val>
+   </key>
+   <key value="Webinar">
+      <comment>Event type</comment>
+      <comment>
+         <val lang="en_US">Webinar</val>
+      </comment>
+      <val lang="zh_CN">Webinar</val>
+   </key>
+   <key value="Cannot_check_for_new_version">
+      <comment>Message presented when application cannot check for new version.</comment>
+      <comment>
+         <val lang="en_US">Cannot check for new versions.</val>
+      </comment>
+      <val lang="zh_CN">Cannot check for new versions.</val>
+   </key>
+   <key value="Addons_signature_hint">
+      <comment>Part of the description of the Addons Wizard page. It is a hint about what the user that it must
+            inspect the signature in this page.</comment>
+      <comment>
+         <val lang="en_US">Please note that the installation of third-party add-ons allows them to access 
+        	and use data stored on your device or local network. This presents a risk when using add-ons 
+        	from untrusted or unknown sources. We strongly recommend thoroughly researching the publisher of any third-party 
+       	 	add-on before installation and only installing add-ons from reputable sources.</val>
+      </comment>
+      <val lang="zh_CN">Please note that the installation of third-party add-ons allows them to access 
+        	and use data stored on your device or local network. This presents a risk when using add-ons 
+        	from untrusted or unknown sources. We strongly recommend thoroughly researching the publisher of any third-party 
+       	 	add-on before installation and only installing add-ons from reputable sources.</val>
+   </key>
+   <key value="Show_only_keys_with_closest_relative_keyscope">
+      <comment>Filtering action in DITA Reusable Components</comment>
+      <comment>
+         <val lang="en_US">Show only keys with closest relative key scope</val>
+      </comment>
+      <val lang="zh_CN">Show only keys with closest relative key scope</val>
+   </key>
+   <key value="Show_only_dita_maps">
+      <comment>Filtering action in the Choose context dialog</comment>
+      <comment>
+         <val lang="en_US">Show only DITA maps</val>
+      </comment>
+      <val lang="zh_CN">Show only DITA maps</val>
+   </key>
+   <key value="Show_only_dita_ot_project_contexts">
+      <comment>Filtering action in the Choose context dialog</comment>
+      <comment>
+         <val lang="en_US">Show only DITA-OT project contexts</val>
+      </comment>
+      <val lang="zh_CN">Show only DITA-OT project contexts</val>
+   </key>
+   <key value="Choose_context_root_map" distribution="common">
+      <comment>The title of the dialog used to choose the context root map.</comment>
+      <comment>
+         <val lang="en_US">Choose context root map</val>
+      </comment>
+      <val lang="zh_CN">Choose context root map</val>
+   </key>
+   <key value="Choose_context_from_main_files">
+      <comment>Action for choosing a context from main files</comment>
+      <comment>
+         <val lang="en_US">Choose context from main files</val>
+      </comment>
+      <val lang="zh_CN">Choose context from main files</val>
+   </key>
+   <key value="Choose_context_from_main_files_tooltip">
+      <comment>Tooltip for the action that chooses a context from main files</comment>
+      <comment>
+         <val lang="en_US">Choose a context from the DITA maps and the DITA-OT projects set as main files</val>
+      </comment>
+      <val lang="zh_CN">Choose a context from the DITA maps and the DITA-OT projects set as main files</val>
+   </key>
+   <key value="Display_referred_content">
+      <comment>Author option page label.</comment>
+      <comment>
+         <val lang="en_US">Display referenced content (e.g.: external entities, XInclude, DITA conref, etc.)</val>
+      </comment>
+      <val lang="zh_CN">Display referenced content (e.g.: external entities, XInclude, DITA conref, etc.)</val>
+   </key>
+   <key value="Oxygen_recommends_mathml_editor">
+      <comment>Message recommending MathML editor for editing.</comment>
+      <comment>
+         <val lang="en_US">Note that Oxygen also provides support for editing MathML equations using the Wiris MathType or an external MathML editor.
+         \nFor information about installing MathType in Oxygen and configuring it, see:</val>
+      </comment>
+      <val lang="zh_CN">Note that Oxygen also provides support for editing MathML equations using the Wiris MathType or an external MathML editor.
+         \nFor information about installing MathType in Oxygen and configuring it, see:</val>
+   </key>
+   <key value="Prefer_adding_keyrefs_to_already_referenced_resources">
+      <comment>Option check box for prefering adding key references to already referenced resources.</comment>
+      <comment>
+         <val lang="en_US">Prefer adding key references to already referenced resources</val>
+      </comment>
+      <val lang="zh_CN">Prefer adding key references to already referenced resources</val>
+   </key>
+   <key value="Format_not_set_on_topicref">
+      <comment>Message presented when the "format" attribute must be set on an element.</comment>
+      <comment>
+         <val lang="en_US">The "format" attribute is not set on the topic reference element.</val>
+      </comment>
+      <val lang="zh_CN">The "format" attribute is not set on the topic reference element.</val>
+   </key>
+   <key value="Key_scopes_context">
+      <comment>Label used to present the context of the key scopes.</comment>
+      <comment>
+         <val lang="en_US">Key scopes context</val>
+      </comment>
+      <val lang="zh_CN">Key scopes context</val>
+   </key>
+   <key value="Present_only_items_related_to_opened_maps">
+      <comment>Options for filtering items into the Context combobox by presenting only the items related to the opened maps.</comment>
+      <comment>
+         <val lang="en_US">Only display items related to currently open maps in the Context drop-down list</val>
+      </comment>
+      <val lang="zh_CN">Only display items related to currently open maps in the Context drop-down list</val>
+   </key>
+   <key value="Cancel_Import_Addons_Question_Button_Text">
+      <comment>The cancel button for import addons dialog.</comment>
+      <comment>
+         <val lang="en_US">Don't import anything</val>
+      </comment>
+      <val lang="zh_CN">Don't import anything</val>
+   </key>
+   <key value="Confirm_Import_Addons_Question_Button_Text">
+      <comment>The confirmation button for import addons dialog.</comment>
+      <comment>
+         <val lang="en_US">Review and import</val>
+      </comment>
+      <val lang="zh_CN">Review and import</val>
+   </key>
+   <key value="Confirm_Import_Addons_Question">
+      <comment>Asking the user to confirm the import of addons.</comment>
+      <comment>
+         <val lang="en_US">Addons were detected in the previous version. Do you want to preview them and choose which ones to import? If you install a new addon at any point, you will no longer be able to import them.</val>
+      </comment>
+      <val lang="zh_CN">Addons were detected in the previous version. Do you want to preview them and choose which ones to import? If you install a new addon at any point, you will no longer be able to import them.</val>
+   </key>
+   <key value="Email">
+      <comment>Email</comment>
+      <comment>
+         <val lang="en_US">Email</val>
+      </comment>
+      <val lang="zh_CN">Email</val>
+   </key>
+   <key value="Feature_not_available">
+      <comment>Dynamic help: inform user that Dynamic Help is not available.</comment>
+      <comment>
+         <val lang="en_US">Dynamic Help feature not available.</val>
+      </comment>
+      <val lang="zh_CN">Dynamic Help feature not available.</val>
+   </key>
+   <key value="Download_user_manual">
+      <comment>Name of an action in Help menu.</comment>
+      <comment>
+         <val lang="en_US">Download User Manual</val>
+      </comment>
+      <val lang="zh_CN">Download User Manual</val>
+   </key>
+   <key value="Unresolved_reference">
+      <comment>Message associated with an error that might occur during 'Flatten JSON Schema' operation.</comment>
+      <comment>
+         <val lang="en_US">Unresolved reference</val>
+      </comment>
+      <val lang="zh_CN">Unresolved reference</val>
+   </key>
+   <key value="Show_json_property_name">
+      <comment>Show property names in JSON editor after the closing brackets.</comment>
+      <comment>
+         <val lang="en_US">Show property name after ending bracket</val>
+      </comment>
+      <val lang="zh_CN">Show property name after ending bracket</val>
+   </key>
+   <key value="Addon_status_disabled_enabled_after_update">
+      <comment>Description of an disabled add-on that informs the user that the add-on will be enabled after update.</comment>
+      <comment>
+         <val lang="en_US">The add-on will automatically be enabled after updating.</val>
+      </comment>
+      <val lang="zh_CN">The add-on will automatically be enabled after updating.</val>
+   </key>
+   <key value="Illegal_character_in_attribute_value" distribution="common">
+      <comment>Warning that value of an attribute should not contain any spaces.</comment>
+      <comment>
+         <val lang="en_US">Illegal character in attribute value: {0}.</val>
+      </comment>
+      <val lang="zh_CN">Illegal character in attribute value: {0}.</val>
+   </key>
+   <key value="Specified_attribute_value_is_already_added"
+        distribution="common">
+      <comment>Warning that value of the attribute is already added.</comment>
+      <comment>
+         <val lang="en_US">Specified attribute value is already added.</val>
+      </comment>
+      <val lang="zh_CN">Specified attribute value is already added.</val>
+   </key>
+   <key value="You_must_specify_attribute_value" distribution="common">
+      <comment>Warning that value must be specified for an attribute.</comment>
+      <comment>
+         <val lang="en_US">You must specify an attribute value.</val>
+      </comment>
+      <val lang="zh_CN">You must specify an attribute value.</val>
+   </key>
+   <key value="Extract_the_selected_definition_to" distribution="common">
+      <comment>Messages shown in the dialog displayed when extracting a definition from a schema to another.</comment>
+      <comment>
+         <val lang="en_US">Extract the selected definition to file</val>
+      </comment>
+      <val lang="zh_CN">Extract the selected definition to file</val>
+   </key>
+   <key value="Automatically_save_local_dita_maps_after_modification_message">
+      <comment>Information message regarding the behaviour of Autosave after modification in DITA Maps Manager.</comment>
+      <comment>
+         <val lang="en_US">This option is ignored if the "{0}" option in the "{1} / {2}" options page is also selected.</val>
+      </comment>
+      <val lang="zh_CN">This option is ignored if the "{0}" option in the "{1} / {2}" options page is also selected.</val>
+   </key>
+   <key value="Save_Autosave_enabled">
+      <comment>Tooltip message for Save action associated to DITA Maps Manager save action 
+        when the 'Automatically save DITA maps after each modification' option is enabled.</comment>
+      <comment>
+         <val lang="en_US">Save (Autosave enabled)</val>
+      </comment>
+      <val lang="zh_CN">Save (Autosave enabled)</val>
+   </key>
+   <key value="Addon_status_disabled_tooltip">
+      <comment>Tooltip for the status of an add-on that informs the user that the add-on is installed but disabled.</comment>
+      <comment>
+         <val lang="en_US">The add-on is disabled. You can enable it in Options &gt; Preferences &gt; Plugins.</val>
+      </comment>
+      <val lang="zh_CN">The add-on is disabled. You can enable it in Options &gt; Preferences &gt; Plugins.</val>
+   </key>
+   <key value="Choose_another_schema" distribution="common">
+      <comment>Messages shown in the dialog displayed when extracting a definition from a schema to another.</comment>
+      <comment>
+         <val lang="en_US">The chosen schema is the same one with the current schema. Please select another schema.</val>
+      </comment>
+      <val lang="zh_CN">The chosen schema is the same one with the current schema. Please select another schema.</val>
+   </key>
+   <key value="Destination_schema_is_modified">
+      <comment>Message shown when extracting a definition to other file and the destination schema is modified.</comment>
+      <comment>
+         <val lang="en_US">The destination schema "{0}" is already opened and modified in the editor.\nTo continue,
+            the file must be saved.</val>
+      </comment>
+      <val lang="zh_CN">The destination schema "{0}" is already opened and modified in the editor.\nTo continue,
+            the file must be saved.</val>
+   </key>
+   <key value="Extract_definition_in_current_file" distribution="common">
+      <comment>JSON Diagram Contextual menu action name</comment>
+      <comment>
+         <val lang="en_US">Extract definition in current file</val>
+      </comment>
+      <val lang="zh_CN">Extract definition in current file</val>
+   </key>
+   <key value="Extract_definition_in_another_file" distribution="common">
+      <comment>JSON Diagram Contextual menu action name</comment>
+      <comment>
+         <val lang="en_US">Extract definition in another file</val>
+      </comment>
+      <val lang="zh_CN">Extract definition in another file</val>
+   </key>
+   <key value="Selected_documents_are_identical">
+      <comment>Diff: Selected documents are identical</comment>
+      <comment>
+         <val lang="en_US">Selected documents are identical.</val>
+      </comment>
+      <val lang="zh_CN">Selected documents are identical.</val>
+   </key>
+   <key value="Found_differences">
+      <comment>Diff: Found X differences</comment>
+      <comment>
+         <val lang="en_US">Found {0} differences.</val>
+      </comment>
+      <val lang="zh_CN">Found {0} differences.</val>
+   </key>
+   <key value="Used_algorithm">
+      <comment>Diff: Used algorithm</comment>
+      <comment>
+         <val lang="en_US">Used algorithm:</val>
+      </comment>
+      <val lang="zh_CN">Used algorithm:</val>
+   </key>
+   <key value="Convert_JSON_Schema" distribution="common">
+      <comment>The JSON Tools action for converting JSON Schema to a newer version.</comment>
+      <comment>
+         <val lang="en_US">Convert JSON Schema</val>
+      </comment>
+      <val lang="zh_CN">Convert JSON Schema</val>
+   </key>
+   <key value="Automatically_save_local_dita_maps_after_modification">
+      <comment>Option that enables automatically save of DITAMaps opened in DITA Maps Manager after each change.</comment>
+      <comment>
+         <val lang="en_US">Automatically save local DITA maps after each modification</val>
+      </comment>
+      <val lang="zh_CN">Automatically save local DITA maps after each modification</val>
+   </key>
+   <key distribution="common" value="Edit_dependencies">
+      <comment>Action/dialog name for editing dependencies in JSON Diagram.</comment>
+      <comment>
+         <val lang="en_US">Edit Dependencies</val>
+      </comment>
+      <val lang="zh_CN">Edit Dependencies</val>
+   </key>
+   <key value="Cannot_move_rename_resources_out_of_date">
+      <comment>Error message displayed when try to rename/move a resource and one or more resources are out of
+            date.</comment>
+      <comment>
+         <val lang="en_US">The move/rename operation cannot be performed because one or more resources are out of date.
+            \nPlease refresh the 'Referenced/Dependent Resource' view and try again.</val>
+      </comment>
+      <val lang="zh_CN">The move/rename operation cannot be performed because one or more resources are out of date.
+            \nPlease refresh the 'Referenced/Dependent Resource' view and try again.</val>
+   </key>
+   <key distribution="common" value="Resource_hierarchy_dependencies">
+      <comment>Dependencies or hierarchy view</comment>
+      <comment>
+         <val lang="en_US">Referenced/Dependent Resources</val>
+      </comment>
+      <val lang="zh_CN">Referenced/Dependent Resources</val>
+   </key>
+   <key value="Hierarchy_info_message">
+      <comment>Hierarchy/dependencies view information message</comment>
+      <comment>
+         <val lang="en_US">To display the referenced resources for a particular resource, use the "{0}" action from the contextual menu in the Project view, or to display the dependent resources for a particular resource, use the "{1}" action.</val>
+      </comment>
+      <val lang="zh_CN">To display the referenced resources for a particular resource, use the "{0}" action from the contextual menu in the Project view, or to display the dependent resources for a particular resource, use the "{1}" action.</val>
+   </key>
+   <key value="Dependencies_refresh_info_message">
+      <comment>Hierarchy/dependencies view, computing dependencies information message</comment>
+      <comment>
+         <val lang="en_US">Use the "{0}" action from toolbar to recompute the dependencies for last resource "{1}".</val>
+      </comment>
+      <val lang="zh_CN">Use the "{0}" action from toolbar to recompute the dependencies for last resource "{1}".</val>
+   </key>
+   <key value="Hierarchy_refresh_info_message">
+      <comment>Hierarchy/dependencies view, computing hierarchy information message</comment>
+      <comment>
+         <val lang="en_US">Use the "{0}" action from toolbar to recompute the hierarchy for last resource "{1}".</val>
+      </comment>
+      <val lang="zh_CN">Use the "{0}" action from toolbar to recompute the hierarchy for last resource "{1}".</val>
+   </key>
+   <key value="Show_referenced_resources">
+      <comment>Show file referenced hierarchy.</comment>
+      <comment>
+         <val lang="en_US">Show referenced resources</val>
+      </comment>
+      <val lang="zh_CN">Show referenced resources</val>
+   </key>
+   <key value="Show_dependent_resources">
+      <comment>Show file dependencies.</comment>
+      <comment>
+         <val lang="en_US">Show dependent resources</val>
+      </comment>
+      <val lang="zh_CN">Show dependent resources</val>
+   </key>
+   <key value="Ignore_these_files">
+      <comment>A text field. The user specifies the file patterns, like *.tmp of the files that are excepted from
+            indexing and searching.</comment>
+      <comment>
+         <val lang="en_US">Ignore these files</val>
+      </comment>
+      <val lang="zh_CN">Ignore these files</val>
+   </key>
+   <key value="Remove_from_main_files">
+      <comment>Remove files from main files action tag</comment>
+      <comment>
+         <val lang="en_US">Remove from Main Files</val>
+      </comment>
+      <val lang="zh_CN">Remove from Main Files</val>
+   </key>
+   <key value="Table_no_rows">
+      <comment>Error message when validating a table.</comment>
+      <comment>
+         <val lang="en_US">No rows are present in the element "{0}".</val>
+      </comment>
+      <val lang="zh_CN">No rows are present in the element "{0}".</val>
+   </key>
+   <key value="changes_in_selected_file">
+      <comment>Part of an explanatory message shown when previewing changes to be performed in a group of files.</comment>
+      <comment>
+         <val lang="en_US">changes in the selected file</val>
+      </comment>
+      <val lang="zh_CN">changes in the selected file</val>
+   </key>
+   <key value="json_keyword_unevaluated_properties_tooltip">
+      <comment>Tooltip for unevaluatedProperties keyword.</comment>
+      <comment>
+         <val lang="en_US">The "unevaluatedProperties" keyword is similar to "additionalProperties" except that it can recognize properties declared in subschemas.</val>
+      </comment>
+      <val lang="zh_CN">The "unevaluatedProperties" keyword is similar to "additionalProperties" except that it can recognize properties declared in subschemas.</val>
+   </key>
+   <key value="json_keyword_unevaluated_items_tooltip">
+      <comment>Tooltip for unevaluatedItems keyword.</comment>
+      <comment>
+         <val lang="en_US">The value must be a valid JSON Schema, which will be applied to all array items that were not evaluated by other keywords for items (prefixItems, items, contains).</val>
+      </comment>
+      <val lang="zh_CN">The value must be a valid JSON Schema, which will be applied to all array items that were not evaluated by other keywords for items (prefixItems, items, contains).</val>
+   </key>
+   <key value="json_keyword_min_contains_tooltip">
+      <comment>Tooltip for minContains keyword.</comment>
+      <comment>
+         <val lang="en_US">Specifies minimum times a schema should match the "contains" constraint.</val>
+      </comment>
+      <val lang="zh_CN">Specifies minimum times a schema should match the "contains" constraint.</val>
+   </key>
+   <key value="json_keyword_max_contains_tooltip">
+      <comment>Tooltip for maxContains keyword.</comment>
+      <comment>
+         <val lang="en_US">Specifies maximum times a schema should match the "contains" constraint.</val>
+      </comment>
+      <val lang="zh_CN">Specifies maximum times a schema should match the "contains" constraint.</val>
+   </key>
+   <key value="json_keyword_deprecated_tooltip">
+      <comment>Tooltip for deprecated keyword.</comment>
+      <comment>
+         <val lang="en_US">Indicates that the instance value is deprecated and should not be used since it may be removed in the future.</val>
+      </comment>
+      <val lang="zh_CN">Indicates that the instance value is deprecated and should not be used since it may be removed in the future.</val>
+   </key>
+   <key value="Cache_content_similar_http_req">
+      <comment>Name of checkbox in the HTTP preferences page.</comment>
+      <comment>
+         <val lang="en_US">Cache content for similar HTTP requests when opening and validating documents</val>
+      </comment>
+      <val lang="zh_CN">Cache content for similar HTTP requests when opening and validating documents</val>
+   </key>
+   <key value="Insert_as_Figure">
+      <comment>Name of the action that inserts an image as 'figure' element.</comment>
+      <comment>
+         <val lang="en_US">Insert as Figure</val>
+      </comment>
+      <val lang="zh_CN">Insert as Figure</val>
+   </key>
+   <key value="Expand_reference">
+      <comment>Tooltip used on a button which expands references to content located some place else.</comment>
+      <comment>
+         <val lang="en_US">Expand reference</val>
+      </comment>
+      <val lang="zh_CN">Expand reference</val>
+   </key>
+   <key value="Error_extra_libs_uninstall">
+      <comment>Please close the application and remove the additional jar libraries from the application "lib" folder.
+          Alternatively, you can uninstall the application, remove the application folder, if it still exists after the uninstall, and then re-install.</comment>
+      <comment>
+         <val lang="en_US">Please close the application and remove the additional jar libraries from the application's "lib" folder.\nAlternatively, you can uninstall the application, remove the application folder (if it still exists after the uninstall process), and then re-install it.</val>
+      </comment>
+      <val lang="zh_CN">Please close the application and remove the additional jar libraries from the application's "lib" folder.\nAlternatively, you can uninstall the application, remove the application folder (if it still exists after the uninstall process), and then re-install it.</val>
+   </key>
+   <key value="Error_extra_libs_in_lib_folder">
+      <comment>Error shown by the application when additional libraries are found in the libraries folder.</comment>
+      <comment>
+         <val lang="en_US">There are additional libraries present in the application's libraries folder:</val>
+      </comment>
+      <val lang="zh_CN">There are additional libraries present in the application's libraries folder:</val>
+   </key>
+   <key value="Specify_the_new_name">
+      <comment>SVN Rename dialog, 'Specify the new name:' label</comment>
+      <comment>
+         <val lang="en_US">Specify the new name:</val>
+      </comment>
+      <val lang="zh_CN">Specify the new name:</val>
+   </key>
+   <key value="Convert_type_to_any_type">
+      <comment>JSON Diagram Contextual menu action name.</comment>
+      <comment>
+         <val lang="en_US">Convert type to 'any' type</val>
+      </comment>
+      <val lang="zh_CN">Convert type to 'any' type</val>
+   </key>
+   <key value="Convert_any_type_to_standard_type">
+      <comment>JSON Diagram Contextual menu action name.</comment>
+      <comment>
+         <val lang="en_US">Convert 'any' type to standard type</val>
+      </comment>
+      <val lang="zh_CN">Convert 'any' type to standard type</val>
+   </key>
+   <key value="Keys_not_gathered_no_ditamap">
+      <comment>Warning message when we don't have a DITA Map from which to collect keys.</comment>
+      <comment>
+         <val lang="en_US">There is no map opened in the DITA Maps Manager view and no context map specified.</val>
+      </comment>
+      <val lang="zh_CN">There is no map opened in the DITA Maps Manager view and no context map specified.</val>
+   </key>
+   <key value="Rename_resource_root_map">
+      <comment>Label message shown in the Rename resource dialog to inform the user about the current map context.</comment>
+      <comment>
+         <val lang="en_US">Rename resource in the context of the DITA map(s)</val>
+      </comment>
+      <val lang="zh_CN">Rename resource in the context of the DITA map(s)</val>
+   </key>
+   <key value="Move_resource_root_map">
+      <comment>Label message shown in the Move resource dialog to inform the user about the current map context.</comment>
+      <comment>
+         <val lang="en_US">Move resource in the context of the DITA map(s)</val>
+      </comment>
+      <val lang="zh_CN">Move resource in the context of the DITA map(s)</val>
+   </key>
+   <key value="Generate_metrics_report">
+      <comment>Name of the action for generating metrics report</comment>
+      <comment>
+         <val lang="en_US">Generate Metrics Report</val>
+      </comment>
+      <val lang="zh_CN">Generate Metrics Report</val>
+   </key>
+   <key value="CONCURRENT_SESSION_CLOSED_UNEX" distribution="webauthor">
+      <comment>Description for an error shown when the concurrent editing session closed unexpectedly.</comment>
+      <comment>
+         <val lang="en_US">Concurrent editing session closed unexpectedly.</val>
+      </comment>
+      <val lang="zh_CN">Concurrent editing session closed unexpectedly.</val>
+   </key>
+   <key value="Review_settings">
+      <comment>Name of the action for opening the prefferences for Review Settings</comment>
+      <comment>
+         <val lang="en_US">Review Settings</val>
+      </comment>
+      <val lang="zh_CN">Review Settings</val>
+   </key>
+   <key value="Initial_display_mode">
+      <comment>The track changes view changes/comments combo label</comment>
+      <comment>
+         <val lang="en_US">Initial display mode</val>
+      </comment>
+      <val lang="zh_CN">Initial display mode</val>
+   </key>
+   <key value="Make_all_properties_required">
+      <comment>JSON Schema Generator option to mark all properties as required.</comment>
+      <comment>
+         <val lang="en_US">Make all properties required</val>
+      </comment>
+      <val lang="zh_CN">Make all properties required</val>
+   </key>
+   <key value="Include_content_of_these_binary_files">
+      <comment>A text field. The user specifies the file patterns, like *.pdf of the binary files that are included in
+            content indexing and searching.</comment>
+      <comment>
+         <val lang="en_US">Include the contents of these binary files:</val>
+      </comment>
+      <val lang="zh_CN">Include the contents of these binary files:</val>
+   </key>
+   <key value="Binary_files_are_ignored">
+      <comment>Message stating that the binary files are ignored from searching. The patterns for binary files are
+            defined in another section in the preferences dialog. (See translation key: File_types)</comment>
+      <comment>
+         <val lang="en_US">All other binary files are ignored. See </val>
+      </comment>
+      <val lang="zh_CN">All other binary files are ignored. See </val>
+   </key>
+   <key value="Component_with_same_name">
+      <comment>Label in the JSON schema diagram displayed when a component with the same name is inserted.</comment>
+      <comment>
+         <val lang="en_US">There is already a component with the same name, set a different name.</val>
+      </comment>
+      <val lang="zh_CN">There is already a component with the same name, set a different name.</val>
+   </key>
+   <key value="duplicate_name">
+      <comment>JSON Diagram duplicate component dialog.</comment>
+      <comment>
+         <val lang="en_US">Duplicate name</val>
+      </comment>
+      <val lang="zh_CN">Duplicate name</val>
+   </key>
+   <key value="Extract_definition">
+      <comment>JSON Diagram Contextual menu action name.</comment>
+      <comment>
+         <val lang="en_US">Extract definition</val>
+      </comment>
+      <val lang="zh_CN">Extract definition</val>
+   </key>
+   <key value="Perform_rename_on_local_references">
+      <comment>Warning message shown when DITA Map Rename action is invoked on remote resources.</comment>
+      <comment>
+         <val lang="en_US">The rename can be performed only on local referenced resources.</val>
+      </comment>
+      <val lang="zh_CN">The rename can be performed only on local referenced resources.</val>
+   </key>
+   <key value="Perform_move_on_local_references">
+      <comment>Warning message shown when DITA Map Move action is invoked on remote resources.</comment>
+      <comment>
+         <val lang="en_US">The move can be performed only on local referenced resources.</val>
+      </comment>
+      <val lang="zh_CN">The move can be performed only on local referenced resources.</val>
+   </key>
+   <key value="Image_Map">
+      <comment>JSON Schema Documentation Generator option.</comment>
+      <comment>
+         <val lang="en_US">Image Map</val>
+      </comment>
+      <val lang="zh_CN">Image Map</val>
+   </key>
+   <key distribution="webauthor" value="unexpected-state-please-reload">
+      <comment>Message to be presented to the end-user when server ran into an unexpected state and user is requested to reload the page.</comment>
+      <comment>
+         <val lang="en_US">Server ran into an unexpected state. Please reload the page.</val>
+      </comment>
+      <val lang="zh_CN">Server ran into an unexpected state. Please reload the page.</val>
+   </key>
+   <key value="Convert_empty_elements_to">
+      <comment>Label for XML to JSON conversion option.</comment>
+      <comment>
+         <val lang="en_US">Convert empty elements to structures of type</val>
+      </comment>
+      <val lang="zh_CN">Convert empty elements to structures of type</val>
+   </key>
+   <key value="array" skipTranslation="true">
+      <comment>JSON array data structure.</comment>
+      <comment>
+         <val lang="en_US">array</val>
+      </comment>
+      <val lang="zh_CN">array</val>
+   </key>
+   <key value="object" skipTranslation="true">
+      <comment>JSON object data structure.</comment>
+      <comment>
+         <val lang="en_US">object</val>
+      </comment>
+      <val lang="zh_CN">object</val>
+   </key>
+   <key value="string" skipTranslation="true">
+      <comment>JSON array data structure.</comment>
+      <comment>
+         <val lang="en_US">string</val>
+      </comment>
+      <val lang="zh_CN">string</val>
+   </key>
+   <key value="Default_namespace_for_unprefixed_element_names_tooltip">
+      <comment>Tooltip presented when hover over a combo-box in "Compile XSLT" dialog box.</comment>
+      <comment>
+         <val lang="en_US">Specify a URI or choose a predefined value from the list.</val>
+      </comment>
+      <val lang="zh_CN">Specify a URI or choose a predefined value from the list.</val>
+   </key>
+   <key value="Default_namespace_for_unprefixed_element_names">
+      <comment>Name of an option in "Compile XSLT" dialog box.</comment>
+      <comment>
+         <val lang="en_US">Set the default namespace for unprefixed element names</val>
+      </comment>
+      <val lang="zh_CN">Set the default namespace for unprefixed element names</val>
+   </key>
+   <key value="Make_Optional">
+      <comment>JSON Diagram action name.</comment>
+      <comment>
+         <val lang="en_US">Make optional</val>
+      </comment>
+      <val lang="zh_CN">Make optional</val>
+   </key>
+   <key value="Make_Required">
+      <comment>JSON Diagram action name.</comment>
+      <comment>
+         <val lang="en_US">Make required</val>
+      </comment>
+      <val lang="zh_CN">Make required</val>
+   </key>
+   <key value="Schema_composition">
+      <comment>Name of a section in JSON Schema Palette View.</comment>
+      <comment>
+         <val lang="en_US">Schema composition</val>
+      </comment>
+      <val lang="zh_CN">Schema composition</val>
+   </key>
+   <key value="Conditionals">
+      <comment>Name of a section in JSON Schema Palette View.</comment>
+      <comment>
+         <val lang="en_US">Conditionals</val>
+      </comment>
+      <val lang="zh_CN">Conditionals</val>
+   </key>
+   <key value="Json_palette_group_tooltip">
+      <comment>Tooltip for groups used in JSON Schema Palette View. The parameter is one of the following String constructs: properties, pattern properties, definitions, items, items array.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to create a new "{0}" group</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to create a new "{0}" group</val>
+   </key>
+   <key value="Json_palette_component_tooltip">
+      <comment>Tooltip for components used in JSON Schema Palette View. The parameter is one of the following String constructs: property, pattern property, definition, additional properties, additional items.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to create a new "{0}" component</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to create a new "{0}" component</val>
+   </key>
+   <key value="Json_palette_schema_composition_tooltip">
+      <comment>Tooltip for schema composition used in JSON Schema Palette View. The parameter is one of the following String constructs: anyOf, oneOf, allOf, not.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to add a schema composition of type "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to add a schema composition of type "{0}"</val>
+   </key>
+   <key value="Json_palette_conditional_tooltip">
+      <comment>Tooltip for conditionals used in JSON Schema Palette View. The parameter is one of the following String constructs: if, then, else.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to add a conditional of type "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Drag and drop into Design page to add a conditional of type "{0}"</val>
+   </key>
+   <key value="json_keyword_examples_tooltip">
+      <comment>Tooltip for examples keyword.</comment>
+      <comment>
+         <val lang="en_US">The "examples" keyword provides an array of examples that validate against the schema.</val>
+      </comment>
+      <val lang="zh_CN">The "examples" keyword provides an array of examples that validate against the schema.</val>
+   </key>
+   <key value="json_keyword_default_tooltip">
+      <comment>Tooltip for default keyword.</comment>
+      <comment>
+         <val lang="en_US">The "default" keyword specifies a default value.</val>
+      </comment>
+      <val lang="zh_CN">The "default" keyword specifies a default value.</val>
+   </key>
+   <key value="json_keyword_description_tooltip">
+      <comment>Tooltip for description keyword.</comment>
+      <comment>
+         <val lang="en_US">The "description" annotation keyword is descriptive only.</val>
+      </comment>
+      <val lang="zh_CN">The "description" annotation keyword is descriptive only.</val>
+   </key>
+   <key value="json_keyword_title_tooltip">
+      <comment>Tooltip for title keyword.</comment>
+      <comment>
+         <val lang="en_US">The "title" annotation keyword is descriptive only.</val>
+      </comment>
+      <val lang="zh_CN">The "title" annotation keyword is descriptive only.</val>
+   </key>
+   <key value="json_keyword_items_tooltip">
+      <comment>Tooltip for items keyword.</comment>
+      <comment>
+         <val lang="en_US">An array is valid against this keyword if all its items are valid against the corresponding schemas provided by the keyword value.</val>
+      </comment>
+      <val lang="zh_CN">An array is valid against this keyword if all its items are valid against the corresponding schemas provided by the keyword value.</val>
+   </key>
+   <key value="json_keyword_contains_tooltip">
+      <comment>Tooltip for contains keyword.</comment>
+      <comment>
+         <val lang="en_US">An array is valid against this keyword if at least one of its items is valid against the schema defined by the keyword value.</val>
+      </comment>
+      <val lang="zh_CN">An array is valid against this keyword if at least one of its items is valid against the schema defined by the keyword value.</val>
+   </key>
+   <key value="json_keyword_content_encoding_tooltip">
+      <comment>Tooltip for contentEncoding keyword.</comment>
+      <comment>
+         <val lang="en_US">A string is valid against this keyword if it is encoded using the method indicated by the keyword value. The value must be a string.</val>
+      </comment>
+      <val lang="zh_CN">A string is valid against this keyword if it is encoded using the method indicated by the keyword value. The value must be a string.</val>
+   </key>
+   <key value="json_keyword_id_tooltip">
+      <comment>Tooltip for $id keyword.</comment>
+      <comment>
+         <val lang="en_US">Specifies a unique ID for a document or a document sub-schema. The value must be a string representing a URI.</val>
+      </comment>
+      <val lang="zh_CN">Specifies a unique ID for a document or a document sub-schema. The value must be a string representing a URI.</val>
+   </key>
+   <key value="json_keyword_content_media_type_tooltip">
+      <comment>Tooltip for contentMediaType keyword.</comment>
+      <comment>
+         <val lang="en_US">A string is valid against this keyword if its content has the media type (MIME type) indicated by the keyword value. If the "contentEncoding" keyword is also specified, the decoded content must have the indicated media type.</val>
+      </comment>
+      <val lang="zh_CN">A string is valid against this keyword if its content has the media type (MIME type) indicated by the keyword value. If the "contentEncoding" keyword is also specified, the decoded content must have the indicated media type.</val>
+   </key>
+   <key value="json_keyword_format_tooltip">
+      <comment>Tooltip for format keyword.</comment>
+      <comment>
+         <val lang="en_US">Performs a semantic validation on data. The value must be a string that represents a format.</val>
+      </comment>
+      <val lang="zh_CN">Performs a semantic validation on data. The value must be a string that represents a format.</val>
+   </key>
+   <key value="json_keyword_property_names_tooltip">
+      <comment>Tooltip for propertyNames keyword.</comment>
+      <comment>
+         <val lang="en_US">An object is valid against this keyword if every property name (key) is valid against the keyword value.</val>
+      </comment>
+      <val lang="zh_CN">An object is valid against this keyword if every property name (key) is valid against the keyword value.</val>
+   </key>
+   <key value="json_keyword_schema_tooltip">
+      <comment>Tooltip for $schema keyword.</comment>
+      <comment>
+         <val lang="en_US">This keyword is used to specify the desired schema version.</val>
+      </comment>
+      <val lang="zh_CN">This keyword is used to specify the desired schema version.</val>
+   </key>
+   <key value="json_keyword_comment_tooltip">
+      <comment>Tooltip for $comment keyword.</comment>
+      <comment>
+         <val lang="en_US">Contains an observation about the schema. The value must be a string.</val>
+      </comment>
+      <val lang="zh_CN">Contains an observation about the schema. The value must be a string.</val>
+   </key>
+   <key value="json_keyword_write_only_tooltip">
+      <comment>Tooltip for writeOnly keyword.</comment>
+      <comment>
+         <val lang="en_US">Used to mark specific properties as write-only.</val>
+      </comment>
+      <val lang="zh_CN">Used to mark specific properties as write-only.</val>
+   </key>
+   <key value="json_keyword_read_only_tooltip">
+      <comment>Tooltip for readOnly keyword.</comment>
+      <comment>
+         <val lang="en_US">Used to mark specific properties as read-only.</val>
+      </comment>
+      <val lang="zh_CN">Used to mark specific properties as read-only.</val>
+   </key>
+   <key value="json_keyword_const_tooltip">
+      <comment>Tooltip for const keyword.</comment>
+      <comment>
+         <val lang="en_US">An instance validates against this keyword if its value equals the value of this keyword. The value can be anything.</val>
+      </comment>
+      <val lang="zh_CN">An instance validates against this keyword if its value equals the value of this keyword. The value can be anything.</val>
+   </key>
+   <key value="json_keyword_enum_tooltip">
+      <comment>Tooltip for enum keyword.</comment>
+      <comment>
+         <val lang="en_US">An instance validates against this keyword if its value can be found in the items defined by the keyword value. The value must be an array that contains anything (an empty array is not allowed).</val>
+      </comment>
+      <val lang="zh_CN">An instance validates against this keyword if its value can be found in the items defined by the keyword value. The value must be an array that contains anything (an empty array is not allowed).</val>
+   </key>
+   <key value="json_keyword_required_tooltip">
+      <comment>Tooltip for required keyword.</comment>
+      <comment>
+         <val lang="en_US">An object is valid against this keyword if it contains all property names (keys) specified by the keyword value. The value must be a non-empty array of strings that represent property names.</val>
+      </comment>
+      <val lang="zh_CN">An object is valid against this keyword if it contains all property names (keys) specified by the keyword value. The value must be a non-empty array of strings that represent property names.</val>
+   </key>
+   <key value="json_keyword_pattern_tooltip">
+      <comment>Tooltip for pattern keyword.</comment>
+      <comment>
+         <val lang="en_US">A string is valid against this keyword if it matches the regular expression specified by the keyword value. The value must be a string that represents a valid regular expression.</val>
+      </comment>
+      <val lang="zh_CN">A string is valid against this keyword if it matches the regular expression specified by the keyword value. The value must be a string that represents a valid regular expression.</val>
+   </key>
+   <key value="json_keyword_max_length_tooltip">
+      <comment>Tooltip for maxLength keyword.</comment>
+      <comment>
+         <val lang="en_US">A string is valid against this keyword if its length is lower than or equal to the keyword value. The value must be a non-negative integer.</val>
+      </comment>
+      <val lang="zh_CN">A string is valid against this keyword if its length is lower than or equal to the keyword value. The value must be a non-negative integer.</val>
+   </key>
+   <key value="json_keyword_min_length_tooltip">
+      <comment>Tooltip for minLength keyword.</comment>
+      <comment>
+         <val lang="en_US">A string is valid against this keyword if its length is greater than or equal to the keyword value. The value must be a non-negative integer.</val>
+      </comment>
+      <val lang="zh_CN">A string is valid against this keyword if its length is greater than or equal to the keyword value. The value must be a non-negative integer.</val>
+   </key>
+   <key value="json_keyword_type_tooltip">
+      <comment>Tooltip for type keyword.</comment>
+      <comment>
+         <val lang="en_US">Specifies the type of data that the schema is expecting to validate. This keyword is not mandatory and the value must be a string representing a valid data type, or an array of strings representing a valid list of data types.</val>
+      </comment>
+      <val lang="zh_CN">Specifies the type of data that the schema is expecting to validate. This keyword is not mandatory and the value must be a string representing a valid data type, or an array of strings representing a valid list of data types.</val>
+   </key>
+   <key value="json_keyword_ref_tooltip">
+      <comment>Tooltip for $ref keyword.</comment>
+      <comment>
+         <val lang="en_US">An instance is valid against this keyword if it is valid against the schema that points to the location indicated by the keyword value. The value must be a string representing a URI, URI reference, URI template, or JSON pointer.</val>
+      </comment>
+      <val lang="zh_CN">An instance is valid against this keyword if it is valid against the schema that points to the location indicated by the keyword value. The value must be a string representing a URI, URI reference, URI template, or JSON pointer.</val>
+   </key>
+   <key value="json_keyword_min_items_tooltip">
+      <comment>Tooltip for minItems keyword.</comment>
+      <comment>
+         <val lang="en_US">An array is valid against this keyword if the number of items it contains is greater than or equal to the keyword value. The value must be a non-negative integer.</val>
+      </comment>
+      <val lang="zh_CN">An array is valid against this keyword if the number of items it contains is greater than or equal to the keyword value. The value must be a non-negative integer.</val>
+   </key>
+   <key value="json_keyword_max_items_tooltip">
+      <comment>Tooltip for maxItems keyword.</comment>
+      <comment>
+         <val lang="en_US">An array is valid against this keyword if the number of items it contains is lower than or equal to the keyword value. The value must be a non-negative integer.</val>
+      </comment>
+      <val lang="zh_CN">An array is valid against this keyword if the number of items it contains is lower than or equal to the keyword value. The value must be a non-negative integer.</val>
+   </key>
+   <key value="json_keyword_unique_items_tooltip">
+      <comment>Tooltip for uniqueItems keyword.</comment>
+      <comment>
+         <val lang="en_US">An array is valid against this keyword if an item cannot be found more than once in the array. The value must be boolean. If set to false, the keyword validation will be ignored.</val>
+      </comment>
+      <val lang="zh_CN">An array is valid against this keyword if an item cannot be found more than once in the array. The value must be boolean. If set to false, the keyword validation will be ignored.</val>
+   </key>
+   <key value="json_keyword_additional_items_tooltip">
+      <comment>Tooltip for additionalItems keyword.</comment>
+      <comment>
+         <val lang="en_US">An array is valid against this keyword if all its unchecked items are valid against the schema defined by the keyword value.</val>
+      </comment>
+      <val lang="zh_CN">An array is valid against this keyword if all its unchecked items are valid against the schema defined by the keyword value.</val>
+   </key>
+   <key value="json_keyword_min_properties_tooltip">
+      <comment>Tooltip for minProperties keyword.</comment>
+      <comment>
+         <val lang="en_US">An object is valid against this keyword if the number of properties it contains is greater than or equal to the keyword value. The value of this keyword must be a non-negative integer. Using 0 as a value has no effect.</val>
+      </comment>
+      <val lang="zh_CN">An object is valid against this keyword if the number of properties it contains is greater than or equal to the keyword value. The value of this keyword must be a non-negative integer. Using 0 as a value has no effect.</val>
+   </key>
+   <key value="json_keyword_max_properties_tooltip">
+      <comment>Tooltip for maxProperties keyword.</comment>
+      <comment>
+         <val lang="en_US">An object is valid against this keyword if the number of properties it contains is lower than or equal to the keyword value. The value must be a non-negative integer. Using 0 as a value means that the object must be empty (no properties).</val>
+      </comment>
+      <val lang="zh_CN">An object is valid against this keyword if the number of properties it contains is lower than or equal to the keyword value. The value must be a non-negative integer. Using 0 as a value means that the object must be empty (no properties).</val>
+   </key>
+   <key value="json_keyword_additional_properties_tooltip">
+      <comment>Tooltip for additionalProperties keyword.</comment>
+      <comment>
+         <val lang="en_US">An object is valid against this keyword if all its unchecked properties are valid against the schema defined by the keyword value. Unchecked properties are the properties not checked by the "properties" and "patternProperties" keywords.</val>
+      </comment>
+      <val lang="zh_CN">An object is valid against this keyword if all its unchecked properties are valid against the schema defined by the keyword value. Unchecked properties are the properties not checked by the "properties" and "patternProperties" keywords.</val>
+   </key>
+   <key value="json_keyword_pattern_properties_tooltip">
+      <comment>Tooltip for patternProperties keyword.</comment>
+      <comment>
+         <val lang="en_US">An object is valid against this keyword if every property where a property name (key) matches a regular expression from its value and is also valid against the corresponding schema.</val>
+      </comment>
+      <val lang="zh_CN">An object is valid against this keyword if every property where a property name (key) matches a regular expression from its value and is also valid against the corresponding schema.</val>
+   </key>
+   <key value="json_keyword_minimum_tooltip">
+      <comment>Tooltip for minimum keyword.</comment>
+      <comment>
+         <val lang="en_US">A number is valid against this keyword if it is greater than or equal to the keyword value. The value must be a number (integer or float).</val>
+      </comment>
+      <val lang="zh_CN">A number is valid against this keyword if it is greater than or equal to the keyword value. The value must be a number (integer or float).</val>
+   </key>
+   <key value="json_keyword_maximum_tooltip">
+      <comment>Tooltip for maximum keyword.</comment>
+      <comment>
+         <val lang="en_US">A number is valid against this keyword if it is lower than or equal to the keyword value. The value must be a number (integer or float).</val>
+      </comment>
+      <val lang="zh_CN">A number is valid against this keyword if it is lower than or equal to the keyword value. The value must be a number (integer or float).</val>
+   </key>
+   <key value="json_keyword_exclusive_minimum_tooltip">
+      <comment>Tooltip for exclusiveMinimum keyword.</comment>
+      <comment>
+         <val lang="en_US">A number is valid against this keyword if it is strictly greater than the keyword value. The value must be a number (integer or float) or boolean.</val>
+      </comment>
+      <val lang="zh_CN">A number is valid against this keyword if it is strictly greater than the keyword value. The value must be a number (integer or float) or boolean.</val>
+   </key>
+   <key value="json_keyword_exclusive_maximum_tooltip">
+      <comment>Tooltip for exclusiveMaximum keyword.</comment>
+      <comment>
+         <val lang="en_US">A number is valid against this keyword if it is strictly lower than the keyword value. The value must be a number (integer or float) or boolean.</val>
+      </comment>
+      <val lang="zh_CN">A number is valid against this keyword if it is strictly lower than the keyword value. The value must be a number (integer or float) or boolean.</val>
+   </key>
+   <key value="json_keyword_multiple_of_tooltip">
+      <comment>Tooltip for multipleOf keyword.</comment>
+      <comment>
+         <val lang="en_US">A number is valid against this keyword if the division between the number and its value results in an integer. The value must be a strictly positive number (zero is not allowed).</val>
+      </comment>
+      <val lang="zh_CN">A number is valid against this keyword if the division between the number and its value results in an integer. The value must be a strictly positive number (zero is not allowed).</val>
+   </key>
+   <key value="Additional_ant_args">
+      <comment>Label for the text field specifying additional DITA Open Toolkit Ant command line arguments</comment>
+      <comment>
+         <val lang="en_US">Additional Ant arguments</val>
+      </comment>
+      <val lang="zh_CN">Additional Ant arguments</val>
+   </key>
+   <key value="Check_if_entitled_to_receive_new_version_license_key">
+      <comment>Message in the Version Checker dialog.</comment>
+      <comment>
+         <val lang="en_US">You can check if you are entitled to receive a license key for the new version here</val>
+      </comment>
+      <val lang="zh_CN">You can check if you are entitled to receive a license key for the new version here</val>
+   </key>
+   <key value="Current_license_key_will_not_work_with_new_version">
+      <comment>Message in the Version Checker dialog.</comment>
+      <comment>
+         <val lang="en_US">Your current license key might not work with the new version.</val>
+      </comment>
+      <val lang="zh_CN">Your current license key might not work with the new version.</val>
+   </key>
+   <key value="OpenAPI_Documentation" skipTranslation="true">
+      <comment>Name of Generate Documentation -&gt; OpenAPI Documentation action.</comment>
+      <comment>
+         <val lang="en_US">OpenAPI Documentation</val>
+      </comment>
+      <val lang="zh_CN">OpenAPI Documentation</val>
+   </key>
+   <key value="OpenAPI_Tester" skipTranslation="true">
+      <comment>Name of JSON Tools -&gt; OpenAPI Tester action.</comment>
+      <comment>
+         <val lang="en_US">OpenAPI Tester</val>
+      </comment>
+      <val lang="zh_CN">OpenAPI Tester</val>
+   </key>
+   <key value="Content_cannot_be_inserted">
+      <comment>Title for an error message that appears after typing or pasting content</comment>
+      <comment>
+         <val lang="en_US">Content cannot be inserted</val>
+      </comment>
+      <val lang="zh_CN">Content cannot be inserted</val>
+   </key>
+   <key value="Server_url_does_not_match_with_activation">
+      <comment>Rejection message if the URL at which the License Server is reached at does not match the one
+         used to activate the license key.</comment>
+      <comment>
+         <val lang="en_US">The configured License Server URL does not match the server URL the license key was activated for.</val>
+      </comment>
+      <val lang="zh_CN">The configured License Server URL does not match the server URL the license key was activated for.</val>
+   </key>
+   <key value="Pattern">
+      <comment>JSON Schema keyword</comment>
+      <comment>
+         <val lang="en_US">Pattern</val>
+      </comment>
+      <val lang="zh_CN">Pattern</val>
+   </key>
+   <key value="Definitions">
+      <comment>JSON Schema keyword</comment>
+      <comment>
+         <val lang="en_US">Definitions</val>
+      </comment>
+      <val lang="zh_CN">Definitions</val>
+   </key>
+   <key value="Duplicate_property">
+      <comment>Warning message in JSON Diagram</comment>
+      <comment>
+         <val lang="en_US">Duplicate property</val>
+      </comment>
+      <val lang="zh_CN">Duplicate property</val>
+   </key>
+   <key value="Conditional">
+      <comment>Name of an actions menu in JSON Diagram</comment>
+      <comment>
+         <val lang="en_US">Conditional</val>
+      </comment>
+      <val lang="zh_CN">Conditional</val>
+   </key>
+   <key value="Wrong_license_category_error_message">
+      <comment>Error message when the license category doesn't match the required ones.</comment>
+      <comment>
+         <val lang="en_US">A license is required with one of the following categories: {0}.\nThe current license category is: {1}.</val>
+      </comment>
+      <val lang="zh_CN">A license is required with one of the following categories: {0}.\nThe current license category is: {1}.</val>
+   </key>
+   <key value="Property_with_same_name" distribution="common">
+      <comment>Label in the JSON schema diagram displayed when a property with the same name is inserted.</comment>
+      <comment>
+         <val lang="en_US">A property with the same name already exists. Set a different name.</val>
+      </comment>
+      <val lang="zh_CN">A property with the same name already exists. Set a different name.</val>
+   </key>
+   <key value="Update_reference_to_image">
+      <comment>Option for updating reference to the image</comment>
+      <comment>
+         <val lang="en_US">Update the reference to the image</val>
+      </comment>
+      <val lang="zh_CN">Update the reference to the image</val>
+   </key>
+   <key value="Save_image_as">
+      <comment>Name of an action used to save image as</comment>
+      <comment>
+         <val lang="en_US">Save image as</val>
+      </comment>
+      <val lang="zh_CN">Save image as</val>
+   </key>
+   <key value="Built_in_dita_ot_4x">
+      <comment>Option for the built-in DITA-OT 4.x directory</comment>
+      <comment>
+         <val lang="en_US">Built-in Oxygen Publishing Engine (based on DITA-OT 4.x)</val>
+      </comment>
+      <val lang="zh_CN">Built-in Oxygen Publishing Engine (based on DITA-OT 4.x)</val>
+   </key>
+   <key value="Discard_changes_and_refresh">
+      <comment>Sharepoint online tenant URL tooltip</comment>
+      <comment>
+         <val lang="en_US">Discard changes and refresh</val>
+      </comment>
+      <val lang="zh_CN">Discard changes and refresh</val>
+   </key>
+   <key value="Tenant_URL_tooltip">
+      <comment>Sharepoint online tenant URL tooltip</comment>
+      <comment>
+         <val lang="en_US">The SharePoint Online URL or site e.g. https://tenant.sharepoint.com, https://tenant.sharepoint.com/sites/siteName</val>
+      </comment>
+      <val lang="zh_CN">The SharePoint Online URL or site e.g. https://tenant.sharepoint.com, https://tenant.sharepoint.com/sites/siteName</val>
+   </key>
+   <key value="Composition">
+      <comment>JSON Schema Documentation option label.</comment>
+      <comment>
+         <val lang="en_US">Composition</val>
+      </comment>
+      <val lang="zh_CN">Composition</val>
+   </key>
+   <key value="Could_not_connect_to_server_Access_Denied_or_Invalid_URL">
+      <comment>Error presented to user when the SharePoint connection to server could not be performed.</comment>
+      <comment>
+         <val lang="en_US">Could not connect to server. Access Denied or Invalid URL.</val>
+      </comment>
+      <val lang="zh_CN">Could not connect to server. Access Denied or Invalid URL.</val>
+   </key>
+   <key value="Imported_scenarios_are_already_contained">
+      <comment>Message received when importing global scenarios</comment>
+      <comment>
+         <val lang="en_US">Selected scenario(s) already imported.</val>
+      </comment>
+      <val lang="zh_CN">Selected scenario(s) already imported.</val>
+   </key>
+   <key value="json_schema_properties">
+      <comment>Name of a preference page</comment>
+      <comment>
+         <val lang="en_US">JSON Schema Properties</val>
+      </comment>
+      <val lang="zh_CN">JSON Schema Properties</val>
+   </key>
+   <key value="xsd_properties">
+      <comment>Name of a preference page</comment>
+      <comment>
+         <val lang="en_US">XSD Properties</val>
+      </comment>
+      <val lang="zh_CN">XSD Properties</val>
+   </key>
+   <key value="Block_tags_without_element_names">
+      <comment>Display mode for tags that shows block tags elements without text in tag.</comment>
+      <comment>
+         <val lang="en_US">Block Tags without Element Names</val>
+      </comment>
+      <val lang="zh_CN">Block Tags without Element Names</val>
+   </key>
+   <key value="Required_addons_not_found_question">
+      <comment>Message present inside the dialog that recommends installing required add-ons.</comment>
+      <comment>
+         <val lang="en_US">Do you want to review the information about the add-ons and the corresponding update sites?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to review the information about the add-ons and the corresponding update sites?</val>
+   </key>
+   <key value="Required_addons_install_hint">
+      <comment>Message present inside the dialog that recommends installing required add-ons.</comment>
+      <comment>
+         <val lang="en_US">The installation of the following add-ons is configured in the Add-ons preferences page:\n{0}</val>
+      </comment>
+      <val lang="zh_CN">The installation of the following add-ons is configured in the Add-ons preferences page:\n{0}</val>
+   </key>
+   <key value="Validation_engine_not_compatible_with_document_type">
+      <comment>Error message presented when the validation engine is not compatible with the current document.</comment>
+      <comment>
+         <val lang="en_US">The "{0}" validation engine is not compatible with the current document type.</val>
+      </comment>
+      <val lang="zh_CN">The "{0}" validation engine is not compatible with the current document type.</val>
+   </key>
+   <key value="Prefer_using_dita_command">
+      <comment>Checkbox used to indicate that an executable command line script named "dita" (name which must not be translated) should be used for publishing.</comment>
+      <comment>
+         <val lang="en_US">Prefer using the "dita" command</val>
+      </comment>
+      <val lang="zh_CN">Prefer using the "dita" command</val>
+   </key>
+   <key value="Key_ref_value_missing">
+      <comment>Message shown when a key reference value is missing/empty.</comment>
+      <comment>
+         <val lang="en_US">Key reference value is missing.</val>
+      </comment>
+      <val lang="zh_CN">Key reference value is missing.</val>
+   </key>
+   <key value="Required_addons_not_found_install_hint">
+      <comment>Message present inside the dialog that recommends installing required add-ons. These add-ons ids 
+            are not found in the configured update sites.</comment>
+      <comment>
+         <val lang="en_US">One or more add-ons are configured for automatic installation in the Add-ons preferences page, but the following add-on(s) could not be found in the configured update sites:\n{0}</val>
+      </comment>
+      <val lang="zh_CN">One or more add-ons are configured for automatic installation in the Add-ons preferences page, but the following add-on(s) could not be found in the configured update sites:\n{0}</val>
+   </key>
+   <key value="Update_sites_urls">
+      <comment>Add-ons update sites URLs column title from add-ons option pane. It represents a location where an
+            add-ons descriptor is found. This descriptor contains the information required to install add-ons.</comment>
+      <comment>
+         <val lang="en_US">Add-on Update Site URLs</val>
+      </comment>
+      <val lang="zh_CN">Add-on Update Site URLs</val>
+   </key>
+   <key value="Automatically_install_addons">
+      <comment>Label presented before a list of add-ons that will be installed automatically.</comment>
+      <comment>
+         <val lang="en_US">Automatically install add-ons</val>
+      </comment>
+      <val lang="zh_CN">Automatically install add-ons</val>
+   </key>
+</translation>

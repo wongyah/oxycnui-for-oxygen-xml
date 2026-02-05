@@ -1,0 +1,1822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="Today">
+      <comment>Label for the current day</comment>
+      <comment>
+         <val lang="en_US">Today</val>
+      </comment>
+      <val lang="zh_CN">Today</val>
+   </key>
+   <key value="Yesterday">
+      <comment>Label for the day before current day</comment>
+      <comment>
+         <val lang="en_US">Yesterday</val>
+      </comment>
+      <val lang="zh_CN">Yesterday</val>
+   </key>
+   <key value="Specify_Condition_Set">
+      <comment>Message in Add/Edit Condition Set dialog.</comment>
+      <comment>
+         <val lang="en_US">You must specify a condition set name</val>
+      </comment>
+      <val lang="zh_CN">You must specify a condition set name</val>
+   </key>
+   <key value="Unique_Condition_Set_Name">
+      <comment>Message in Add/Edit Condition Set dialog.</comment>
+      <comment>
+         <val lang="en_US">You must specify an unique condition set name</val>
+      </comment>
+      <val lang="zh_CN">You must specify an unique condition set name</val>
+   </key>
+   <key value="Select_Condition_Set_Values">
+      <comment>Message in Add/Edit Condition Set dialog.</comment>
+      <comment>
+         <val lang="en_US">You must select at least one condition value</val>
+      </comment>
+      <val lang="zh_CN">You must select at least one condition value</val>
+   </key>
+   <key value="Condition_Set">
+      <comment>Edit Condition Set dialog name.</comment>
+      <comment>
+         <val lang="en_US">Condition Set</val>
+      </comment>
+      <val lang="zh_CN">Condition Set</val>
+   </key>
+   <key value="Profiling_Condition_Sets">
+      <comment>Category in Profiling/Condition Text option page for condition sets.</comment>
+      <comment>
+         <val lang="en_US">Profiling Condition Sets</val>
+      </comment>
+      <val lang="zh_CN">Profiling Condition Sets</val>
+   </key>
+   <key value="No_Profiling_Condition_Set_defined">
+      <comment>Text of the menu that appears in the DITA Maps Manager Setting when no profiling condition set is
+            defined</comment>
+      <comment>
+         <val lang="en_US">No Profiling Condition Set is defined</val>
+      </comment>
+      <val lang="zh_CN">No Profiling Condition Set is defined</val>
+   </key>
+   <key value="Evaluating">
+      <comment>Message shown during XPath evaluation.</comment>
+      <comment>
+         <val lang="en_US">Evaluating</val>
+      </comment>
+      <val lang="zh_CN">Evaluating</val>
+   </key>
+   <key value="Enable_backup">
+      <comment>Label in options to determine if the backup will be enabled when using XQuery update.</comment>
+      <comment>
+         <val lang="en_US">Backup files updated by XQuery</val>
+      </comment>
+      <val lang="zh_CN">Backup files updated by XQuery</val>
+   </key>
+   <key value="XWatch_evaluation_timeout">
+      <comment>XPath evaluation timeout for XWatch view option.</comment>
+      <comment>
+         <val lang="en_US">XWatch evaluation timeout (seconds)</val>
+      </comment>
+      <val lang="zh_CN">XWatch evaluation timeout (seconds)</val>
+   </key>
+   <key value="Change_the_timeout_now">
+      <comment>Link to options to change a timeout option.</comment>
+      <comment>
+         <val lang="en_US">Change the timeout now</val>
+      </comment>
+      <val lang="zh_CN">Change the timeout now</val>
+   </key>
+   <key value="Debugger_stopped_on_xpath_timeout">
+      <comment>Information message when the debugger is stopped because of a timeout encountered when executing an
+            XPath expression.</comment>
+      <comment>
+         <val lang="en_US">Debugger was finished because the following XPath expression took too long to evaluate in {0}
+            view</val>
+      </comment>
+      <val lang="zh_CN">Debugger was finished because the following XPath expression took too long to evaluate in {0}
+            view</val>
+   </key>
+   <key value="Show_Profiling_Attributes">
+      <comment>Option in DITA Maps Manager to present all the profiling conditions for each node.</comment>
+      <comment>
+         <val lang="en_US">Show Profiling Attributes</val>
+      </comment>
+      <val lang="zh_CN">Show Profiling Attributes</val>
+   </key>
+   <key value="Find_all_results">
+      <comment>Prefix for the results tab containing all the find results.</comment>
+      <comment>
+         <val lang="en_US">Find all</val>
+      </comment>
+      <val lang="zh_CN">Find all</val>
+   </key>
+   <key value="Default_space">
+      <comment>Default space elements list in the /Editor/Format/XML option page.</comment>
+      <comment>
+         <val lang="en_US">Default space</val>
+      </comment>
+      <val lang="zh_CN">Default space</val>
+   </key>
+   <key value="Mixed_content">
+      <comment>Mixed content elements list in the /Editor/Format/XML option page.</comment>
+      <comment>
+         <val lang="en_US">Mixed content</val>
+      </comment>
+      <val lang="zh_CN">Mixed content</val>
+   </key>
+   <key value="Preserve_space">
+      <comment>Preserve space elements list in the /Editor/Format/XML option page.</comment>
+      <comment>
+         <val lang="en_US">Preserve space</val>
+      </comment>
+      <val lang="zh_CN">Preserve space</val>
+   </key>
+   <key value="Elements_Spacing">
+      <comment>Elements spacing section in Editor/Format/XML option page.</comment>
+      <comment>
+         <val lang="en_US">Elements Spacing</val>
+      </comment>
+      <val lang="zh_CN">Elements Spacing</val>
+   </key>
+   <key value="Relax_ng_compact_syntax">
+      <comment>Description for RELAX NG compact schemas.</comment>
+      <comment>
+         <val lang="en_US">RELAX NG compact syntax</val>
+      </comment>
+      <val lang="zh_CN">RELAX NG compact syntax</val>
+   </key>
+   <key value="Relax_ng_xml_syntax">
+      <comment>Description for RELAX NG XML schemas.</comment>
+      <comment>
+         <val lang="en_US">RELAX NG XML syntax</val>
+      </comment>
+      <val lang="zh_CN">RELAX NG XML syntax</val>
+   </key>
+   <key value="Character_decoder_error">
+      <comment>Internal error of the character decoder. Abnormal situation.</comment>
+      <comment>
+         <val lang="en_US">Character decoder internal error</val>
+      </comment>
+      <val lang="zh_CN">Character decoder internal error</val>
+   </key>
+   <key value="No_profiling_defined">
+      <comment>No profiling attributes are defined.</comment>
+      <comment>
+         <val lang="en_US">There are no attribute conditions defined</val>
+      </comment>
+      <val lang="zh_CN">There are no attribute conditions defined</val>
+   </key>
+   <key value="Configure_profiling_attrs_values">
+      <comment>Go to the Oxygen Preferences and configure more profiling attributes.</comment>
+      <comment>
+         <val lang="en_US">Configure profiling attributes and values</val>
+      </comment>
+      <val lang="zh_CN">Configure profiling attributes and values</val>
+   </key>
+   <key value="Select_profiling_values">
+      <comment>Select the attribute values to insert in the document.</comment>
+      <comment>
+         <val lang="en_US">Select the values describing the profiling conditions</val>
+      </comment>
+      <val lang="zh_CN">Select the values describing the profiling conditions</val>
+   </key>
+   <key value="Preserve_config">
+      <comment>Preserve unchanged the values in the Oxygen Conditional Processing Preferences page.</comment>
+      <comment>
+         <val lang="en_US">Preserve the configuration</val>
+      </comment>
+      <val lang="zh_CN">Preserve the configuration</val>
+   </key>
+   <key value="Edit_config">
+      <comment>Edit values in the Oxygen Conditional Processing Preferences page.</comment>
+      <comment>
+         <val lang="en_US">Edit the configuration</val>
+      </comment>
+      <val lang="zh_CN">Edit the configuration</val>
+   </key>
+   <key value="Add_these_vals_to_config">
+      <comment>Add some values presented below to the Oxygen Conditional Processing Preferences page.</comment>
+      <comment>
+         <val lang="en_US">Add these values to the configuration</val>
+      </comment>
+      <val lang="zh_CN">Add these values to the configuration</val>
+   </key>
+   <key value="Select_your_action">
+      <comment>The user is presented with some actions which he can perform to resolve the conflict.</comment>
+      <comment>
+         <val lang="en_US">Select your action</val>
+      </comment>
+      <val lang="zh_CN">Select your action</val>
+   </key>
+   <key value="Profiling_conditions_conflict_warning">
+      <comment>Warning that in the current document there are values for profiling attributes which do not exist in
+            the Oxygen configuration.</comment>
+      <comment>
+         <val lang="en_US">The following profiling attribute values were found in the document, but not in the
+            conditional text configuration</val>
+      </comment>
+      <val lang="zh_CN">The following profiling attribute values were found in the document, but not in the
+            conditional text configuration</val>
+   </key>
+   <key value="You_must_specify_value_separator">
+      <comment>Warning that a values separator must be specified for an attribute.</comment>
+      <comment>
+         <val lang="en_US">You must specify a value separator</val>
+      </comment>
+      <val lang="zh_CN">You must specify a value separator</val>
+   </key>
+   <key value="You_must_specify_attribute_values">
+      <comment>Warning that values must be specified for an attribute.</comment>
+      <comment>
+         <val lang="en_US">You must specify the attribute values</val>
+      </comment>
+      <val lang="zh_CN">You must specify the attribute values</val>
+   </key>
+   <key value="You_must_specify_attribute_name">
+      <comment>Warning that an attribute name must be specified.</comment>
+      <comment>
+         <val lang="en_US">You must specify an attribute name</val>
+      </comment>
+      <val lang="zh_CN">You must specify an attribute name</val>
+   </key>
+   <key value="Multiple_values_separated_by">
+      <comment>An attribute can have multiple values separated by a certain character separator.</comment>
+      <comment>
+         <val lang="en_US">Multiple values separated by</val>
+      </comment>
+      <val lang="zh_CN">Multiple values separated by</val>
+   </key>
+   <key value="Single_value">
+      <comment>An attribute can have only one value (as opposed to multiple values).</comment>
+      <comment>
+         <val lang="en_US">Single value</val>
+      </comment>
+      <val lang="zh_CN">Single value</val>
+   </key>
+   <key value="Display_name">
+      <comment>Display name of an attribute which gets edited in the Oxygen Preferences</comment>
+      <comment>
+         <val lang="en_US">Display name</val>
+      </comment>
+      <val lang="zh_CN">Display name</val>
+   </key>
+   <key value="NVDL_Script">
+      <comment>The namespace validation and dispatching language script</comment>
+      <comment>
+         <val lang="en_US">NVDL Script</val>
+      </comment>
+      <val lang="zh_CN">NVDL Script</val>
+   </key>
+   <key value="Available_editors">
+      <comment>Templates category name in the "Open As" dialog</comment>
+      <comment>
+         <val lang="en_US">Available editors</val>
+      </comment>
+      <val lang="zh_CN">Available editors</val>
+   </key>
+   <key value="Working_copy_toolbar">
+      <comment>The name of the SVN toolbar for the working copy actions</comment>
+      <comment>
+         <val lang="en_US">Working Copy</val>
+      </comment>
+      <val lang="zh_CN">Working Copy</val>
+   </key>
+   <key value="History_toolbar">
+      <comment>The name of the SVN toolbar for history actions</comment>
+      <comment>
+         <val lang="en_US">History</val>
+      </comment>
+      <val lang="zh_CN">History</val>
+   </key>
+   <key value="All_files">
+      <comment>Label for the buttons used to switch the working copy view mode</comment>
+      <comment>
+         <val lang="en_US">All Files</val>
+      </comment>
+      <val lang="zh_CN">All Files</val>
+   </key>
+   <key value="Profiling_Values_Conflict">
+      <comment> Profiling values conflict dialog title.</comment>
+      <comment>
+         <val lang="en_US">Profiling values conflict</val>
+      </comment>
+      <val lang="zh_CN">Profiling values conflict</val>
+   </key>
+   <key value="Mark_occurrences_appearance_explanation">
+      <comment>Link text from 'Mark occurrences' options pane to switch to 'Annotations' preference page.</comment>
+      <comment>
+         <val lang="en_US">The appearance can be configured on the Annotations preference page.</val>
+      </comment>
+      <val lang="zh_CN">The appearance can be configured on the Annotations preference page.</val>
+   </key>
+   <key value="Reference_highlight_color">
+      <comment>Option in 'Mark occurrences' options pane to choose a highlight color for references.</comment>
+      <comment>
+         <val lang="en_US">Reference highlight color</val>
+      </comment>
+      <val lang="zh_CN">Reference highlight color</val>
+   </key>
+   <key value="Declaration_highlight_color">
+      <comment>Option in 'Mark occurrences' options pane to choose a highlight color for declarations.</comment>
+      <comment>
+         <val lang="en_US">Declaration highlight color</val>
+      </comment>
+      <val lang="zh_CN">Declaration highlight color</val>
+   </key>
+   <key value="Enable_mark_occurrences_xslt_files">
+      <comment>Option name in 'Mark occurrences' options pane to enable feature for XSLT files</comment>
+      <comment>
+         <val lang="en_US">XSLT files (i.e. variables, named templates...)</val>
+      </comment>
+      <val lang="zh_CN">XSLT files (i.e. variables, named templates...)</val>
+   </key>
+   <key distribution="common" value="Mark_occurrences">
+      <comment>Mark occurrences options pane name.</comment>
+      <comment>
+         <val lang="en_US">Mark Occurrences</val>
+      </comment>
+      <val lang="zh_CN">Mark Occurrences</val>
+   </key>
+   <key value="Unable_to_analyze_the_schema_with_the_systemid">
+      <comment>Error message when the schema from the New XML Customize page cannot be analyzed</comment>
+      <comment>
+         <val lang="en_US">The root element names could not be determined while analyzing the schema with the system
+            ID</val>
+      </comment>
+      <val lang="zh_CN">The root element names could not be determined while analyzing the schema with the system
+            ID</val>
+   </key>
+   <key value="Current_file_not_recognized_continue">
+      <comment>The current file is not recognized as XSLT/XQuery. Do you want to continue?</comment>
+      <comment>
+         <val lang="en_US">The current file is not recognized as $type$. Do you want to continue?</val>
+      </comment>
+      <val lang="zh_CN">The current file is not recognized as $type$. Do you want to continue?</val>
+   </key>
+   <key value="Edit_Profiling_Attributes">
+      <comment>The name of the action that applies profiling attributes.</comment>
+      <comment>
+         <val lang="en_US">Edit Profiling Attributes</val>
+      </comment>
+      <val lang="zh_CN">Edit Profiling Attributes</val>
+   </key>
+   <key value="Use_content_type_header">
+      <comment>Use the 'Content-Type' header field to determine the resource type</comment>
+      <comment>
+         <val lang="en_US">Use the 'Content-Type' header field to determine the resource type</val>
+      </comment>
+      <val lang="zh_CN">Use the 'Content-Type' header field to determine the resource type</val>
+   </key>
+   <key value="Profiling_Attribute">
+      <comment>Title for edit and add profiling attribute dialog.</comment>
+      <comment>
+         <val lang="en_US">Profiling Attribute</val>
+      </comment>
+      <val lang="zh_CN">Profiling Attribute</val>
+   </key>
+   <key value="Profiling" distribution="common">
+      <comment>Profiling(conditional processing) option page name. In this page the user can customize the xml
+            attributes which are used to filter content</comment>
+      <comment>
+         <val lang="en_US">Profiling</val>
+      </comment>
+      <val lang="zh_CN">Profiling</val>
+   </key>
+   <key value="Conditional_Text">
+      <comment>Conditional Text option page name. In this page the user can customize the xml attributes which are
+            used to filter content</comment>
+      <comment>
+         <val lang="en_US">Conditional Text</val>
+      </comment>
+      <val lang="zh_CN">Conditional Text</val>
+   </key>
+   <key value="Switch_to_view">
+      <comment>Label set on the buttons used to switch between central views</comment>
+      <comment>
+         <val lang="en_US">Switch to {0}</val>
+      </comment>
+      <val lang="zh_CN">Switch to {0}</val>
+   </key>
+   <key value="Dita_map_already_opened">
+      <comment> Message showed when the open DITA Map operation is invoked on an already opened DITA Map.</comment>
+      <comment>
+         <val lang="en_US">The DITA Map is already opened in the main editor without expanded topic references.\nPlease
+            close it before invoking this operation.</val>
+      </comment>
+      <val lang="zh_CN">The DITA Map is already opened in the main editor without expanded topic references.\nPlease
+            close it before invoking this operation.</val>
+   </key>
+   <key value="Dita_map_expanded_already_opened">
+      <comment>Message showed when the open DITA Map with all topic references expanded operation is invoked on an
+            already opened DITA Map.</comment>
+      <comment>
+         <val lang="en_US">The DITA Map is already opened in the main editor with all topic references expanded.\nPlease
+            close it before invoking this operation.</val>
+      </comment>
+      <val lang="zh_CN">The DITA Map is already opened in the main editor with all topic references expanded.\nPlease
+            close it before invoking this operation.</val>
+   </key>
+   <key value="The_longest_line_contains">
+      <comment>Part of the warning message given when a document that has long lines is opened in the
+            editor.</comment>
+      <comment>
+         <val lang="en_US">The longest line contains {0} characters.</val>
+      </comment>
+      <val lang="zh_CN">The longest line contains {0} characters.</val>
+   </key>
+   <key value="Warning_displayed_long_lines">
+      <comment>Warning message given when a document that has long lines is opened in the editor.</comment>
+      <comment>
+         <val lang="en_US">This warning is displayed only for documents with lines exceeding {0} characters</val>
+      </comment>
+      <val lang="zh_CN">This warning is displayed only for documents with lines exceeding {0} characters</val>
+   </key>
+   <key value="See_open_save_page_from_preferences">
+      <comment>Part of the warning message given when a document that has long lines is opened in editor.</comment>
+      <comment>
+         <val lang="en_US">see the Editor -&gt; Open/Save page from Preferences</val>
+      </comment>
+      <val lang="zh_CN">see the Editor -&gt; Open/Save page from Preferences</val>
+   </key>
+   <key value="See_open_page_from_preferences">
+      <comment>Part of the warning message given when a document that has long lines is opened in editor.</comment>
+      <comment>
+         <val lang="en_US">see the Editor -&gt; Open page from Preferences</val>
+      </comment>
+      <val lang="zh_CN">see the Editor -&gt; Open page from Preferences</val>
+   </key>
+   <key value="Document_contains_long_lines">
+      <comment>Warning message given when a document that has long lines is opened in editor.</comment>
+      <comment>
+         <val lang="en_US">This document contains long lines which may affect performance when opened in the text
+            editor.</val>
+      </comment>
+      <val lang="zh_CN">This document contains long lines which may affect performance when opened in the text
+            editor.</val>
+   </key>
+   <key value="Do_you_want_to_format_before_open">
+      <comment>Warning message given when a document that has long lines is opened in editor.</comment>
+      <comment>
+         <val lang="en_US">Do you want to format and indent it before open?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to format and indent it before open?</val>
+   </key>
+   <key value="Show_in_explorer">
+      <comment>Project action used to open the file/folder in explorer.</comment>
+      <comment>
+         <val lang="en_US">Show in Explorer</val>
+      </comment>
+      <val lang="zh_CN">Show in Explorer</val>
+   </key>
+   <key value="Show_in_finder">
+      <comment>Project action used to open the file/folder in finder.</comment>
+      <comment>
+         <val lang="en_US">Show in Finder</val>
+      </comment>
+      <val lang="zh_CN">Show in Finder</val>
+   </key>
+   <key distribution="common" value="Sequence">
+      <comment>Term used in XSLT/Xquery debugger.</comment>
+      <comment>
+         <val lang="en_US">Sequence</val>
+      </comment>
+      <val lang="zh_CN">Sequence</val>
+   </key>
+   <key value="Recently_used">
+      <comment>Recently used editor templates</comment>
+      <comment>
+         <val lang="en_US">Recently used</val>
+      </comment>
+      <val lang="zh_CN">Recently used</val>
+   </key>
+   <key value="Framework_templates">
+      <comment>Framework templates category.</comment>
+      <comment>
+         <val lang="en_US">Framework templates</val>
+      </comment>
+      <val lang="zh_CN">Framework templates</val>
+   </key>
+   <key value="Global_templates">
+      <comment>Global templates category.</comment>
+      <comment>
+         <val lang="en_US">Global templates</val>
+      </comment>
+      <val lang="zh_CN">Global templates</val>
+   </key>
+   <key value="Create_new_document">
+      <comment>Title for the New dialog.</comment>
+      <comment>
+         <val lang="en_US">Create a new document</val>
+      </comment>
+      <val lang="zh_CN">Create a new document</val>
+   </key>
+   <key value="Reference_to_current_edited_file">
+      <comment>Action allowing to insert in the opened DITA Map a topic reference to the current edited file</comment>
+      <comment>
+         <val lang="en_US">Reference to the currently edited file</val>
+      </comment>
+      <val lang="zh_CN">Reference to the currently edited file</val>
+   </key>
+   <key value="No_matches_found">
+      <comment>Message label in Open/Find Resource dialog.</comment>
+      <comment>
+         <val lang="en_US">No matches found</val>
+      </comment>
+      <val lang="zh_CN">No matches found</val>
+   </key>
+   <key value="Reindex_project">
+      <comment>Message label in Open/Find Resource dialog.</comment>
+      <comment>
+         <val lang="en_US">You should consider re-indexing</val>
+      </comment>
+      <val lang="zh_CN">You should consider re-indexing</val>
+   </key>
+   <key value="Project_last_index">
+      <comment>Message label in Open/Find Resource dialog.</comment>
+      <comment>
+         <val lang="en_US">Last indexing was made at</val>
+      </comment>
+      <val lang="zh_CN">Last indexing was made at</val>
+   </key>
+   <key value="Processing_Role">
+      <comment>Action used to edit a reference to a topic in the DITA Maps Manager</comment>
+      <comment>
+         <val lang="en_US">Processing role</val>
+      </comment>
+      <val lang="zh_CN">Processing role</val>
+   </key>
+   <key distribution="common" value="Edit_Reference">
+      <comment>Action used to edit a reference to a topic in the DITA Maps Manager</comment>
+      <comment>
+         <val lang="en_US">Edit Reference</val>
+      </comment>
+      <val lang="zh_CN">Edit Reference</val>
+   </key>
+   <key value="Insert_Reference">
+      <comment>Action used to insert a reference to a topic in the DITA Maps Manager</comment>
+      <comment>
+         <val lang="en_US">Insert Reference</val>
+      </comment>
+      <val lang="zh_CN">Insert Reference</val>
+   </key>
+   <key value="Validate_with_schema">
+      <comment>Project tree pop-up menu action</comment>
+      <comment>
+         <val lang="en_US">Validate with Schema</val>
+      </comment>
+      <val lang="zh_CN">Validate with Schema</val>
+   </key>
+   <key value="Check_well_formed" distribution="common">
+      <comment>The name of the check well form action</comment>
+      <comment>
+         <val lang="en_US">Check Well-Formedness</val>
+      </comment>
+      <val lang="zh_CN">Check Well-Formedness</val>
+   </key>
+   <key value="Show_hidden_files">
+      <comment>Ftp option to show hidden files/folders.</comment>
+      <comment>
+         <val lang="en_US">Show hidden files</val>
+      </comment>
+      <val lang="zh_CN">Show hidden files</val>
+   </key>
+   <key value="Logical_folders_from_web">
+      <comment>The new logical folders form an Web folders action used in project panel.</comment>
+      <comment>
+         <val lang="en_US">Logical Folders from Web</val>
+      </comment>
+      <val lang="zh_CN">Logical Folders from Web</val>
+   </key>
+   <key distribution="common" value="Review">
+      <comment>Menu used to group track changes/review comment operations for the Author edit mode.</comment>
+      <comment>
+         <val lang="en_US">Review</val>
+      </comment>
+      <val lang="zh_CN">Review</val>
+   </key>
+   <key value="Logical_folder">
+      <comment>The logical folder used in project panel.</comment>
+      <comment>
+         <val lang="en_US">Logical Folder</val>
+      </comment>
+      <val lang="zh_CN">Logical Folder</val>
+   </key>
+   <key value="Configure_displayed_attributes">
+      <comment>Action in outliner configuration drop-down menu.</comment>
+      <comment>
+         <val lang="en_US">Configure displayed attributes</val>
+      </comment>
+      <val lang="zh_CN">Configure displayed attributes</val>
+   </key>
+   <key distribution="common" value="Add_Comment">
+      <comment>Action used to comment the selected text in the Author edit mode.</comment>
+      <comment>
+         <val lang="en_US">Add Comment</val>
+      </comment>
+      <val lang="zh_CN">Add Comment</val>
+   </key>
+   <key value="Filter_field_wildcard_tooltip">
+      <comment>Tooltip used for the filter field in the options and the outliner/component view</comment>
+      <comment>
+         <val lang="en_US">Use "*" and "?" as wildcards.\nUse "," to specify more patterns.</val>
+      </comment>
+      <val lang="zh_CN">Use "*" and "?" as wildcards.\nUse "," to specify more patterns.</val>
+   </key>
+   <key distribution="common" value="Transform">
+      <comment>Label for Transform category on contextual menu in Project View.</comment>
+      <comment>
+         <val lang="en_US" mnemonic="0">&amp;Transform</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="0">&amp;Transform</val>
+   </key>
+   <key value="Enable_parser_caching">
+      <comment>Option in XML Parser preference page to enable parser caching. If the XML parser caching is enabled
+            validation is faster.</comment>
+      <comment>
+         <val lang="en_US">Enable parser caching (validation and content completion)</val>
+      </comment>
+      <val lang="zh_CN">Enable parser caching (validation and content completion)</val>
+   </key>
+   <key value="Open_with_internal_editor">
+      <comment>Action in project tree used to open the current file with Internal Editor.</comment>
+      <comment>
+         <val lang="en_US">Open with Internal Editor</val>
+      </comment>
+      <val lang="zh_CN">Open with Internal Editor</val>
+   </key>
+   <key value="Open_with_mathml_editor">
+      <comment>Action in project tree used to open the current file with MathML Editor.</comment>
+      <comment>
+         <val lang="en_US">Open with MathML Editor</val>
+      </comment>
+      <val lang="zh_CN">Open with MathML Editor</val>
+   </key>
+   <key value="Open_with_archive_browser">
+      <comment>Action in project tree used to open the current file with Archive Browser.</comment>
+      <comment>
+         <val lang="en_US">Open with Archive Browser</val>
+      </comment>
+      <val lang="zh_CN">Open with Archive Browser</val>
+   </key>
+   <key value="Open_with_dita_maps_manager">
+      <comment>Action in project tree used to open the current file with DITA Maps Manager.</comment>
+      <comment>
+         <val lang="en_US">Open with DITA Maps Manager</val>
+      </comment>
+      <val lang="zh_CN">Open with DITA Maps Manager</val>
+   </key>
+   <key value="Open_with_wsdl_soap_analyser">
+      <comment>Action in project tree used to open the current file with WSDL SOAP Analyzer.</comment>
+      <comment>
+         <val lang="en_US">Open with WSDL SOAP Analyzer</val>
+      </comment>
+      <val lang="zh_CN">Open with WSDL SOAP Analyzer</val>
+   </key>
+   <key value="Open_with_schema_converter">
+      <comment>Action in project tree used to open the current file with Schema Converter.</comment>
+      <comment>
+         <val lang="en_US">Open with Schema Converter</val>
+      </comment>
+      <val lang="zh_CN">Open with Schema Converter</val>
+   </key>
+   <key value="Open_with_large_file_viewer">
+      <comment>Action in project tree used to open the current file with Large File Viewer.</comment>
+      <comment>
+         <val lang="en_US">Open with Large File Viewer</val>
+      </comment>
+      <val lang="zh_CN">Open with Large File Viewer</val>
+   </key>
+   <key value="Open_with_svg_viewer">
+      <comment>Action in project tree used to open the current file in the SVG Viewer.</comment>
+      <comment>
+         <val lang="en_US">Open with SVG Viewer</val>
+      </comment>
+      <val lang="zh_CN">Open with SVG Viewer</val>
+   </key>
+   <key value="Open_with_hex_viewer">
+      <comment>Action in project tree used to open the current file in the Hex Viewer.</comment>
+      <comment>
+         <val lang="en_US">Open with Hex Viewer</val>
+      </comment>
+      <val lang="zh_CN">Open with Hex Viewer</val>
+   </key>
+   <key distribution="common" value="Generate_wsdl_documentation">
+      <comment>Action in project tree used to generate WSDL documentation for the current file.</comment>
+      <comment>
+         <val lang="en_US" mnemonic="0">&amp;Generate WSDL Documentation</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="0">&amp;Generate WSDL Documentation</val>
+   </key>
+   <key value="Generate_xsl_stylesheet_documentation">
+      <comment>Action in project tree used to generate XSL Stylesheet documentation for the current file.</comment>
+      <comment>
+         <val lang="en_US">Generate XSL Stylesheet Documentation</val>
+      </comment>
+      <val lang="zh_CN">Generate XSL Stylesheet Documentation</val>
+   </key>
+   <key distribution="common" value="Generate_xquery_documentation">
+      <comment>Action in project tree used to generate XQuery documentation for the current file.</comment>
+      <comment>
+         <val lang="en_US" mnemonic="0">&amp;Generate XQuery Documentation</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="0">&amp;Generate XQuery Documentation</val>
+   </key>
+   <key value="Open_in_dita_maps_manager_view">
+      <comment>Open in DITA Maps Manager View action.</comment>
+      <comment>
+         <val lang="en_US">Open in DITA Maps Manager view</val>
+      </comment>
+      <val lang="zh_CN">Open in DITA Maps Manager view</val>
+   </key>
+   <key value="Automatic_validation">
+      <comment>'Document Checking' Pane option name</comment>
+      <comment>
+         <val lang="en_US">Automatic validation</val>
+      </comment>
+      <val lang="zh_CN">Automatic validation</val>
+   </key>
+   <key value="Show_full_path">
+      <comment>The arrows button in the project.</comment>
+      <comment>
+         <val lang="en_US">Show Full Path</val>
+      </comment>
+      <val lang="zh_CN">Show Full Path</val>
+   </key>
+   <key distribution="common" value="Stop_debugger">
+      <comment>Action when changing the perspective and the debugger is running.</comment>
+      <comment>
+         <val lang="en_US">Stop debugger</val>
+      </comment>
+      <val lang="zh_CN">Stop debugger</val>
+   </key>
+   <key value="View_unavailable_for_current_debugger_engine">
+      <comment>Warning message shown for debugger views that are unavailable for a debugger engine.</comment>
+      <comment>
+         <val lang="en_US">The view is unavailable for the current debugging engine.</val>
+      </comment>
+      <val lang="zh_CN">The view is unavailable for the current debugging engine.</val>
+   </key>
+   <key value="Open_find_resource_info_message">
+      <comment>Information message in the Open/Find Resources dialog.</comment>
+      <comment>
+         <val lang="en_US">The search will be performed in the current project and in the opened DITA maps.</val>
+      </comment>
+      <val lang="zh_CN">The search will be performed in the current project and in the opened DITA maps.</val>
+   </key>
+   <key value="Searching">
+      <comment>Status label in the Open/Find Resources dialog.</comment>
+      <comment>
+         <val lang="en_US">Searching</val>
+      </comment>
+      <val lang="zh_CN">Searching</val>
+   </key>
+   <key value="Reindex">
+      <comment>Button in the Open/Find Resources dialog.</comment>
+      <comment>
+         <val lang="en_US">Reindex</val>
+      </comment>
+      <val lang="zh_CN">Reindex</val>
+   </key>
+   <key value="Indexed_at">
+      <comment>Label in the Open/Find Resources dialog.</comment>
+      <comment>
+         <val lang="en_US">at</val>
+      </comment>
+      <val lang="zh_CN">at</val>
+   </key>
+   <key value="Outline_flat_mode">
+      <comment>The name of the action used to switch from hierarchical mode to flat mode.</comment>
+      <comment>
+         <val lang="en_US">Flat presentation mode of the filtered results</val>
+      </comment>
+      <val lang="zh_CN">Flat presentation mode of the filtered results</val>
+   </key>
+   <key value="From_Associated_Transformation_Scenario">
+      <comment> Option in DITA Map Completeness Check dialog to use the DITAVAL file from the associated
+            transformation scenario.</comment>
+      <comment>
+         <val lang="en_US">From the associated transformation scenario</val>
+      </comment>
+      <val lang="zh_CN">From the associated transformation scenario</val>
+   </key>
+   <key value="Dita_Map_Completeness_Check">
+      <comment>DITA Map Completeness Check dialog title.</comment>
+      <comment>
+         <val lang="en_US">DITA Map Completeness Check</val>
+      </comment>
+      <val lang="zh_CN">DITA Map Completeness Check</val>
+   </key>
+   <key value="Include_Remote_Resources">
+      <comment>Option in DITA Map Completeness Check dialog.</comment>
+      <comment>
+         <val lang="en_US">Include remote resources</val>
+      </comment>
+      <val lang="zh_CN">Include remote resources</val>
+   </key>
+   <key value="Check_Non_Dita_References">
+      <comment>Option in DITA Map Completeness Check dialog.</comment>
+      <comment>
+         <val lang="en_US">Check the existence of referenced non-DITA resources</val>
+      </comment>
+      <val lang="zh_CN">Check the existence of referenced non-DITA resources</val>
+   </key>
+   <key value="Completeness_Check_Operation">
+      <comment>Message in DITA Map Completeness Check dialog.</comment>
+      <comment>
+         <val lang="en_US">This operation will perform an XML validation and DITA completeness check on all the topics
+            and maps referenced from the current map.</val>
+      </comment>
+      <val lang="zh_CN">This operation will perform an XML validation and DITA completeness check on all the topics
+            and maps referenced from the current map.</val>
+   </key>
+   <key value="Check">
+      <comment>Button in DITA Map Completeness Check dialog.</comment>
+      <comment>
+         <val lang="en_US">Check</val>
+      </comment>
+      <val lang="zh_CN">Check</val>
+   </key>
+   <key value="Validate_and_check_for_completeness">
+      <comment>Operation which validates and checks if all references in a DITA Map are valid.</comment>
+      <comment>
+         <val lang="en_US">Validate and Check for Completeness</val>
+      </comment>
+      <val lang="zh_CN">Validate and Check for Completeness</val>
+   </key>
+   <key value="Indent_when_editing_in_preserve_space_elements">
+      <comment>Entry in Options.</comment>
+      <comment>
+         <val lang="en_US">Indent (when typing) in preserve space elements</val>
+      </comment>
+      <val lang="zh_CN">Indent (when typing) in preserve space elements</val>
+   </key>
+   <key value="Filter_elements">
+      <comment>Message used in the filter panel used in text outliner.</comment>
+      <comment>
+         <val lang="en_US">Element name filter</val>
+      </comment>
+      <val lang="zh_CN">Element name filter</val>
+   </key>
+   <key value="Outline_xml_structure">
+      <comment>The name of the action used to switch from components mode outliner to structure outliner.</comment>
+      <comment>
+         <val lang="en_US">Show XML structure</val>
+      </comment>
+      <val lang="zh_CN">Show XML structure</val>
+   </key>
+   <key value="Outline_components">
+      <comment>The name of the action used to switch from structure outliner to components mode outliner.</comment>
+      <comment>
+         <val lang="en_US">Show components</val>
+      </comment>
+      <val lang="zh_CN">Show components</val>
+   </key>
+   <key value="Multiple_find_in_files_results">
+      <comment>Label of checkbox in Find in Files dialog for showing separate results tab for each search
+            expression</comment>
+      <comment>
+         <val lang="en_US">Show separate results for each search expression</val>
+      </comment>
+      <val lang="zh_CN">Show separate results for each search expression</val>
+   </key>
+   <key value="Matching_resources">
+      <comment>Label in Open/Find resource in project for results of matching resources</comment>
+      <comment>
+         <val lang="en_US">Matching resources</val>
+      </comment>
+      <val lang="zh_CN">Matching resources</val>
+   </key>
+   <key value="Indexing">
+      <comment>Indexing label. It's visible in Open/Find resource in project when the filter process matching
+            resources.</comment>
+      <comment>
+         <val lang="en_US">Indexing</val>
+      </comment>
+      <val lang="zh_CN">Indexing</val>
+   </key>
+   <key value="Open_find_resource">
+      <comment>Open/Find resource action button from the file menu</comment>
+      <comment>
+         <val lang="en_US">Open/Find Resource</val>
+      </comment>
+      <val lang="zh_CN">Open/Find Resource</val>
+   </key>
+   <key value="Edit_schema_namespaces">
+      <comment>Action to edit XML Schema namespaces</comment>
+      <comment>
+         <val lang="en_US">Edit Schema Namespaces</val>
+      </comment>
+      <val lang="zh_CN">Edit Schema Namespaces</val>
+   </key>
+   <key value="Xpath_expression_action_info">
+      <comment>Disclaimer about the complexity of the XPath expression of an action defined in a Document
+            Type.</comment>
+      <comment>
+         <val lang="en_US">This XPath expression applies only to elements and attributes.</val>
+      </comment>
+      <val lang="zh_CN">This XPath expression applies only to elements and attributes.</val>
+   </key>
+   <key value="Current_selected_text">
+      <comment>Description of an editor variable which will be expanded to the current text selection after the code
+            template insertion.</comment>
+      <comment>
+         <val lang="en_US">Current selected text</val>
+      </comment>
+      <val lang="zh_CN">Current selected text</val>
+   </key>
+   <key value="Caret_position_after_insert">
+      <comment>Description of an editor variable which is inserted in the place where we want the caret to be after
+            the code template insertion.</comment>
+      <comment>
+         <val lang="en_US">Cursor position after insert</val>
+      </comment>
+      <val lang="zh_CN">Cursor position after insert</val>
+   </key>
+   <key value="Revision_graph_image_out_of_memory">
+      <comment>Better explanation for the out of memory error when saving a revision graph as image</comment>
+      <comment>
+         <val lang="en_US">The revision graph image is too large and there is not enough memory to buffer it.</val>
+      </comment>
+      <val lang="zh_CN">The revision graph image is too large and there is not enough memory to buffer it.</val>
+   </key>
+   <key value="Checking_for_new_version">
+      <comment>Status in Oxygen when checking for version.</comment>
+      <comment>
+         <val lang="en_US">Checking for new version</val>
+      </comment>
+      <val lang="zh_CN">Checking for new version</val>
+   </key>
+   <key value="Warning_after_deleting_learned_words">
+      <comment>Warning after deleting learned words.</comment>
+      <comment>
+         <val lang="en_US">Please note that these changes will be applied after the application is restarted.</val>
+      </comment>
+      <val lang="zh_CN">Please note that these changes will be applied after the application is restarted.</val>
+   </key>
+   <key value="Clear_history">
+      <comment>Tag in the Eclipse DPI view</comment>
+      <comment>
+         <val lang="en_US">Clear history</val>
+      </comment>
+      <val lang="zh_CN">Clear history</val>
+   </key>
+   <key value="See_help_for_details_increase_memory">
+      <comment>Link label in the insufficient memory warning dialog that lead to the help page.</comment>
+      <comment>
+         <val lang="en_US">See help for details on how to increase the memory.</val>
+      </comment>
+      <val lang="zh_CN">See help for details on how to increase the memory.</val>
+   </key>
+   <key value="Out_of_memory_warning_on_open">
+      <comment>Warning Out of Memory error.</comment>
+      <comment>
+         <val lang="en_US">Insufficient memory to open the file: ''{0}''.\nOxygen should be started with at least {1}MB
+            of memory.</val>
+      </comment>
+      <val lang="zh_CN">Insufficient memory to open the file: ''{0}''.\nOxygen should be started with at least {1}MB
+            of memory.</val>
+   </key>
+   <key value="Validate_repository_connection">
+      <comment>Option in Repository editing dialog to enable/disable repository connection testing</comment>
+      <comment>
+         <val lang="en_US">Validate repository connection</val>
+      </comment>
+      <val lang="zh_CN">Validate repository connection</val>
+   </key>
+   <key distribution="common" value="Custom_validation_engines">
+      <comment>The name of the options page that allows the user to customize external validation engines.</comment>
+      <comment>
+         <val lang="en_US">Custom Validation Engines</val>
+      </comment>
+      <val lang="zh_CN">Custom Validation Engines</val>
+   </key>
+   <key value="Remind_me_later">
+      <comment>Postpone the decision to participate in the Oxygen improvement program.</comment>
+      <comment>
+         <val lang="en_US">Remind me later</val>
+      </comment>
+      <val lang="zh_CN">Remind me later</val>
+   </key>
+   <key value="Improvement_program">
+      <comment>The title of the dialog for collecting usage statistics. Example: Oxygen XML Editor Improvement
+            Program.</comment>
+      <comment>
+         <val lang="en_US">{0} Improvement Program</val>
+      </comment>
+      <val lang="zh_CN">{0} Improvement Program</val>
+   </key>
+   <key value="Improvement_program_options">
+      <comment>Options which control the anonymous usage statistics reporter (a program used to help us improve
+            Oxygen).</comment>
+      <comment>
+         <val lang="en_US">Improvement Program Options</val>
+      </comment>
+      <val lang="zh_CN">Improvement Program Options</val>
+   </key>
+   <key value="Change_framework_directory_location">
+      <comment>Link to Change framework directory location</comment>
+      <comment>
+         <val lang="en_US">Change frameworks (Document Type Associations) directory location</val>
+      </comment>
+      <val lang="zh_CN">Change frameworks (Document Type Associations) directory location</val>
+   </key>
+   <key value="Use_custom_frameworks_directory">
+      <comment>Label for change framework directory in Global Options.</comment>
+      <comment>
+         <val lang="en_US">Use custom frameworks (Document Type Associations) directory</val>
+      </comment>
+      <val lang="zh_CN">Use custom frameworks (Document Type Associations) directory</val>
+   </key>
+   <key value="Current_date_with_pattern">
+      <comment>Editor variable explanation. Context: ${date(pattern)} - Current date using the specified pattern. </comment>
+      <comment>
+         <val lang="en_US">Current Date with simple format pattern</val>
+      </comment>
+      <val lang="zh_CN">Current Date with simple format pattern</val>
+   </key>
+   <key value="Skipping_read_only_file">
+      <comment>Warning displayed in results when a read-only file is encountered by Replace in Files.</comment>
+      <comment>
+         <val lang="en_US">Skipping read-only file.</val>
+      </comment>
+      <val lang="zh_CN">Skipping read-only file.</val>
+   </key>
+   <key value="Changing_working_copy">
+      <comment>Name of the task that saves the current working copy and loads a new one into the SVN Client</comment>
+      <comment>
+         <val lang="en_US">Changing working copy</val>
+      </comment>
+      <val lang="zh_CN">Changing working copy</val>
+   </key>
+   <key value="Author_format_and_indent_on_save">
+      <comment>Message used in Author option page.</comment>
+      <comment>
+         <val lang="en_US">Format and indent</val>
+      </comment>
+      <val lang="zh_CN">Format and indent</val>
+   </key>
+   <key value="Format_only_modified_content">
+      <comment>Option from Author option page to preserve original format for unmodified nodes.</comment>
+      <comment>
+         <val lang="en_US">Only the modified content</val>
+      </comment>
+      <val lang="zh_CN">Only the modified content</val>
+   </key>
+   <key value="Format_and_indent_entire_document">
+      <comment>Option from Author option page for format and indent the entire document when passing from author to
+            text or on save</comment>
+      <comment>
+         <val lang="en_US">The entire document</val>
+      </comment>
+      <val lang="zh_CN">The entire document</val>
+   </key>
+   <key value="Loading_working_copy">
+      <comment>Message displayed when loading a working copy state from the cache file</comment>
+      <comment>
+         <val lang="en_US">Loading working copy</val>
+      </comment>
+      <val lang="zh_CN">Loading working copy</val>
+   </key>
+   <key value="Saving_current_wc_state">
+      <comment>Message displayed when saving the state of the current working copy into a cache file</comment>
+      <comment>
+         <val lang="en_US">Saving current working copy state</val>
+      </comment>
+      <val lang="zh_CN">Saving current working copy state</val>
+   </key>
+   <key value="Are_you_sure_you_want_to_move_the_selected_resources">
+      <comment>Confirmation message in the project tree.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to move the selected resources</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to move the selected resources</val>
+   </key>
+   <key value="File_name_ignore_patterns">
+      <comment>Message used in a SVN Client option pane for application global ignores option</comment>
+      <comment>
+         <val lang="en_US">File name ignore patterns</val>
+      </comment>
+      <val lang="zh_CN">File name ignore patterns</val>
+   </key>
+   <key value="Automatically_refresh_wc_tooltip">
+      <comment>Tooltip text to better describe the behaviour of the working copy automatic refresh option</comment>
+      <comment>
+         <val lang="en_US">The working copy will be automatically refreshed when the application main window will gain
+            focus</val>
+      </comment>
+      <val lang="zh_CN">The working copy will be automatically refreshed when the application main window will gain
+            focus</val>
+   </key>
+   <key value="Automatically_refresh_working_copy">
+      <comment>Option in SVN Client to automatically refresh the working copy</comment>
+      <comment>
+         <val lang="en_US">Automatically refresh the working copy</val>
+      </comment>
+      <val lang="zh_CN">Automatically refresh the working copy</val>
+   </key>
+   <key value="Enable_wc_caching">
+      <comment>Option in SVN Client to enable/disable working copy caching</comment>
+      <comment>
+         <val lang="en_US">Enable working copy caching</val>
+      </comment>
+      <val lang="zh_CN">Enable working copy caching</val>
+   </key>
+   <key value="No_learned_words">
+      <comment>Message to inform the user that are no learned words that can be deleted.</comment>
+      <comment>
+         <val lang="en_US">There are no learned words!</val>
+      </comment>
+      <val lang="zh_CN">There are no learned words!</val>
+   </key>
+   <key value="Language_options">
+      <comment>Section in the spelling options. Indicates how the attributes indicating the language of the current
+            element are to be considered.</comment>
+      <comment>
+         <val lang="en_US">Language options</val>
+      </comment>
+      <val lang="zh_CN">Language options</val>
+   </key>
+   <key value="Delete_learned_words">
+      <comment>Spelling Dialog/Options</comment>
+      <comment>
+         <val lang="en_US">Delete learned words</val>
+      </comment>
+      <val lang="zh_CN">Delete learned words</val>
+   </key>
+   <key value="Ignore_acronyms">
+      <comment>Spelling Dialog/Options</comment>
+      <comment>
+         <val lang="en_US">Ignore acronyms</val>
+      </comment>
+      <val lang="zh_CN">Ignore acronyms</val>
+   </key>
+   <key value="Increase_number_of_cells">
+      <comment>Message regarding the increase limit the number of cells in Data Source options page.</comment>
+      <comment>
+         <val lang="en_US">You can increase that number from Data Sources options page.</val>
+      </comment>
+      <val lang="zh_CN">You can increase that number from Data Sources options page.</val>
+   </key>
+   <key value="Report_problem">
+      <comment>Name of an action located in the Help menu.</comment>
+      <comment>
+         <val lang="en_US">Report problem</val>
+      </comment>
+      <val lang="zh_CN">Report problem</val>
+   </key>
+   <key value="No_differences">
+      <comment>Message on status panel when we don't have differences between left and right panel.</comment>
+      <comment>
+         <val lang="en_US">No differences</val>
+      </comment>
+      <val lang="zh_CN">No differences</val>
+   </key>
+   <key value="I_got_the_attached_error">
+      <comment>Message displayed in the "Report a problem" dialog that is displayed after a fatal error message was
+            issued by the application.</comment>
+      <comment>
+         <val lang="en_US">I got the attached error message when...</val>
+      </comment>
+      <val lang="zh_CN">I got the attached error message when...</val>
+   </key>
+   <key value="New_DITA_Scenario">
+      <comment>Title of dialog used for creating a new DITA Scenario.</comment>
+      <comment>
+         <val lang="en_US">New DITA Scenario</val>
+      </comment>
+      <val lang="zh_CN">New DITA Scenario</val>
+   </key>
+   <key value="Custom_view">
+      <comment>The title of a view which can be customized by the user.</comment>
+      <comment>
+         <val lang="en_US">Custom view</val>
+      </comment>
+      <val lang="zh_CN">Custom view</val>
+   </key>
+   <key value="New_scenario">
+      <comment>The title of the dialog that creates a new scenario.</comment>
+      <comment>
+         <val lang="en_US">New scenario</val>
+      </comment>
+      <val lang="zh_CN">New scenario</val>
+   </key>
+   <key value="Mathflow_install_rq_restart">
+      <comment>A warning label in the MathFlow configuration option pane.</comment>
+      <comment>
+         <val lang="en_US">Changing the installation directory or license file requires restarting the application.</val>
+      </comment>
+      <val lang="zh_CN">Changing the installation directory or license file requires restarting the application.</val>
+   </key>
+   <key value="Hexa_viewer">
+      <comment>The name of the view used to open a document in hexa mode.</comment>
+      <comment>
+         <val lang="en_US">Hex Viewer</val>
+      </comment>
+      <val lang="zh_CN">Hex Viewer</val>
+   </key>
+   <key value="Trace_into_XPath_expressions">
+      <comment>Indicator if the XSLT debugging process (particularly Saxon 9) should trace into XPaths.</comment>
+      <comment>
+         <val lang="en_US">Debugger trace into XPath expressions</val>
+      </comment>
+      <val lang="zh_CN">Debugger trace into XPath expressions</val>
+   </key>
+   <key value="Find_All_Elements_Info">
+      <comment>Find all elements explanation.</comment>
+      <comment>
+         <val lang="en_US">Find all elements with specific tag name, text, attribute name or values.</val>
+      </comment>
+      <val lang="zh_CN">Find all elements with specific tag name, text, attribute name or values.</val>
+   </key>
+   <key value="Send_report">
+      <comment>Send report dialog. Title message for report dialog.</comment>
+      <comment>
+         <val lang="en_US">Send report</val>
+      </comment>
+      <val lang="zh_CN">Send report</val>
+   </key>
+   <key value="Invalid_email_address">
+      <comment>Message for invalid email address.</comment>
+      <comment>
+         <val lang="en_US">Invalid email address</val>
+      </comment>
+      <val lang="zh_CN">Invalid email address</val>
+   </key>
+   <key value="Send_anyway">
+      <comment>Message on the button to send report even if the user not filled email address.</comment>
+      <comment>
+         <val lang="en_US">Send anyway</val>
+      </comment>
+      <val lang="zh_CN">Send anyway</val>
+   </key>
+   <key value="Configure_schema_aware_editing_options">
+      <comment>Show the preferences dialog for configure schema aware editing options.</comment>
+      <comment>
+         <val lang="en_US">Configure schema-aware editing options</val>
+      </comment>
+      <val lang="zh_CN">Configure schema-aware editing options</val>
+   </key>
+   <key value="Choose_color">
+      <comment>Choose color. Title for the color chooser dialog.</comment>
+      <comment>
+         <val lang="en_US">Choose color</val>
+      </comment>
+      <val lang="zh_CN">Choose color</val>
+   </key>
+   <key value="Validation_problem">
+      <comment>Title message used in the strategy chooser dialog.</comment>
+      <comment>
+         <val lang="en_US">Validation Problem</val>
+      </comment>
+      <val lang="zh_CN">Validation Problem</val>
+   </key>
+   <key value="Inserted_content_is_not_valid">
+      <comment>Title message used in the strategy chooser dialog.</comment>
+      <comment>
+         <val lang="en_US">The inserted content is not valid at the current position</val>
+      </comment>
+      <val lang="zh_CN">The inserted content is not valid at the current position</val>
+   </key>
+   <key value="Insert_the_content">
+      <comment>Message used in the strategy chooser dialog that specifies to choose one of the fallback
+            solutions.</comment>
+      <comment>
+         <val lang="en_US">Insert the content</val>
+      </comment>
+      <val lang="zh_CN">Insert the content</val>
+   </key>
+   <key value="Check_for_network_or_proxy_settings">
+      <comment>Tells the user to check its user proxy settings.</comment>
+      <comment>
+         <val lang="en_US">Please check your network or proxy settings</val>
+      </comment>
+      <val lang="zh_CN">Please check your network or proxy settings</val>
+   </key>
+   <key value="License_type">
+      <comment>The type of the license.</comment>
+      <comment>
+         <val lang="en_US">License type</val>
+      </comment>
+      <val lang="zh_CN">License type</val>
+   </key>
+   <key value="Map_modified_warning">
+      <comment>Warning which appears when the user tries to open the current edited DITA Map from the DITA Maps
+            Manager in the main editor.</comment>
+      <comment>
+         <val lang="en_US">The map contains unsaved changes. To see those changes in the main editor the map's content
+            should be saved.</val>
+      </comment>
+      <val lang="zh_CN">The map contains unsaved changes. To see those changes in the main editor the map's content
+            should be saved.</val>
+   </key>
+   <key value="Printing">
+      <comment>Name of the task that prints the SVN revision graph</comment>
+      <comment>
+         <val lang="en_US">Printing</val>
+      </comment>
+      <val lang="zh_CN">Printing</val>
+   </key>
+   <key value="Saving_image">
+      <comment>Name of the task that saves the image of a SVN revision graph.</comment>
+      <comment>
+         <val lang="en_US">Saving image</val>
+      </comment>
+      <val lang="zh_CN">Saving image</val>
+   </key>
+   <key value="User_contact_for_further_details">
+      <comment>Explanation message for the contact details form that the user has to fill in when he wants to send
+            feedback using the "Report problem" dialog.</comment>
+      <comment>
+         <val lang="en_US">In case you want to be contacted for further details.</val>
+      </comment>
+      <val lang="zh_CN">In case you want to be contacted for further details.</val>
+   </key>
+   <key value="Request_a_TRIAL_license">
+      <comment> Button name for requesting 30 day trial in the registration dialog.</comment>
+      <comment>
+         <val lang="en_US">Request a TRIAL license</val>
+      </comment>
+      <val lang="zh_CN">Request a TRIAL license</val>
+   </key>
+   <key value="Show_bundled_stamped_xep_warning">
+      <comment>A checkbox which when checked will present an error message if the used XEP FO Processor is the one
+            bundled with Oxygen (which adds a fixed phrase in the footer for each generated PDF's page).</comment>
+      <comment>
+         <val lang="en_US">Show warning when the used XEP generates stamped PDF files.</val>
+      </comment>
+      <val lang="zh_CN">Show warning when the used XEP generates stamped PDF files.</val>
+   </key>
+   <key value="Svn_bug_traq_message_must_include_bugid">
+      <comment>Explanation message used in the dialog used to edit resources properties on SVN Client.</comment>
+      <comment>
+         <val lang="en_US">The message property must include %BUGID% for integration with bug tracking systems.</val>
+      </comment>
+      <val lang="zh_CN">The message property must include %BUGID% for integration with bug tracking systems.</val>
+   </key>
+   <key value="Design_mode">
+      <comment>Design mode tooltip.</comment>
+      <comment>
+         <val lang="en_US">Design mode</val>
+      </comment>
+      <val lang="zh_CN">Design mode</val>
+   </key>
+   <key value="Oxygen_xml_diff_web_site">
+      <comment>The Help menu.</comment>
+      <comment>
+         <val lang="en_US">Browse Oxygen XML Diff Website</val>
+      </comment>
+      <val lang="zh_CN">Browse Oxygen XML Diff Website</val>
+   </key>
+   <key value="The_following_files_are_modified">
+      <comment>Message in the Replace with HEAD action dialog that presents the files that have
+            modifications.</comment>
+      <comment>
+         <val lang="en_US">The following files are modified.</val>
+      </comment>
+      <val lang="zh_CN">The following files are modified.</val>
+   </key>
+   <key value="Allow_unversioned_obstructions">
+      <comment>Option in SVN Client to allow replacing ignored/unversioned files when updating.</comment>
+      <comment>
+         <val lang="en_US">Allow unversioned obstructions</val>
+      </comment>
+      <val lang="zh_CN">Allow unversioned obstructions</val>
+   </key>
+   <key value="Open_map_in_editor_with_resolved_topics">
+      <comment>Action used to open a DITA Map in the main editor with all topics fully expanded, looking more like
+            like the PDF output.</comment>
+      <comment>
+         <val lang="en_US">Open map in Editor with resolved topics</val>
+      </comment>
+      <val lang="zh_CN">Open map in Editor with resolved topics</val>
+   </key>
+   <key value="Replace_with_revision">
+      <comment>Replace with Revision action in SVN Client</comment>
+      <comment>
+         <val lang="en_US">Replace with Revision</val>
+      </comment>
+      <val lang="zh_CN">Replace with Revision</val>
+   </key>
+   <key value="Replace_with_base_revision">
+      <comment>Replace with BASE revision action in SVN Client</comment>
+      <comment>
+         <val lang="en_US">Replace with BASE revision</val>
+      </comment>
+      <val lang="zh_CN">Replace with BASE revision</val>
+   </key>
+   <key value="Replace_with_head_revision">
+      <comment>Replace with HEAD revision action in SVN Client</comment>
+      <comment>
+         <val lang="en_US">Replace with HEAD revision</val>
+      </comment>
+      <val lang="zh_CN">Replace with HEAD revision</val>
+   </key>
+   <key value="Indent_blocks_only_content">
+      <comment>Option used to control indenting when saving in Author. If an element contains only elements and they
+            are rendered by the CSS as blocks (in a vertical layout) then its content will be indented and line breaks
+            will be added between the children </comment>
+      <comment>
+         <val lang="en_US">Indent blocks-only content</val>
+      </comment>
+      <val lang="zh_CN">Indent blocks-only content</val>
+   </key>
+   <key value="Enable_XML_search_options">
+      <comment>Label of checkbox in the Find/Replace dialog showing the state of the xml search options.</comment>
+      <comment>
+         <val lang="en_US">Enable XML search options</val>
+      </comment>
+      <val lang="zh_CN">Enable XML search options</val>
+   </key>
+   <key value="Element_names">
+      <comment>XML filter find option in the Find/Replace dialog.</comment>
+      <comment>
+         <val lang="en_US">Element names</val>
+      </comment>
+      <val lang="zh_CN">Element names</val>
+   </key>
+   <key value="Element_contents">
+      <comment>XML filter find option in the Find/Replace dialog.</comment>
+      <comment>
+         <val lang="en_US">Element contents</val>
+      </comment>
+      <val lang="zh_CN">Element contents</val>
+   </key>
+   <key value="Attribute_names">
+      <comment>XML filter find option in the Find/Replace dialog.</comment>
+      <comment>
+         <val lang="en_US">Attribute names</val>
+      </comment>
+      <val lang="zh_CN">Attribute names</val>
+   </key>
+   <key value="PIs">
+      <comment>XML filter find option in the Find/Replace dialog. Abbreviated form of Processing
+            Instructions.</comment>
+      <comment>
+         <val lang="en_US">PIs</val>
+      </comment>
+      <val lang="zh_CN">PIs</val>
+   </key>
+   <key value="Processing_Instructions">
+      <comment>XML filter find option in the Find/Replace dialog.</comment>
+      <comment>
+         <val lang="en_US">Processing instructions</val>
+      </comment>
+      <val lang="zh_CN">Processing instructions</val>
+   </key>
+   <key value="Search_only_in">
+      <comment>Label in the Find/Replace dialog placed before enumerating the xml filter find options.</comment>
+      <comment>
+         <val lang="en_US">Search only in</val>
+      </comment>
+      <val lang="zh_CN">Search only in</val>
+   </key>
+   <key value="Show_xproc_messages">
+      <comment>Show XProc messages.</comment>
+      <comment>
+         <val lang="en_US">Show XProc messages</val>
+      </comment>
+      <val lang="zh_CN">Show XProc messages</val>
+   </key>
+   <key value="Under_name">
+      <comment>Label used in the SVN Branch/Tag dialog</comment>
+      <comment>
+         <val lang="en_US">Under the name</val>
+      </comment>
+      <val lang="zh_CN">Under the name</val>
+   </key>
+   <key value="Into_repository_directory">
+      <comment>Label used in the SVN Branch/Tag dialog</comment>
+      <comment>
+         <val lang="en_US">Into repository's directory</val>
+      </comment>
+      <val lang="zh_CN">Into repository's directory</val>
+   </key>
+   <key value="Destination">
+      <comment>Label used in the SVN Branch/Tag dialog</comment>
+      <comment>
+         <val lang="en_US">Destination</val>
+      </comment>
+      <val lang="zh_CN">Destination</val>
+   </key>
+   <key value="Create_branch_tag_using_resource_url">
+      <comment>Label used in the SVN Branch/Tag dialog</comment>
+      <comment>
+         <val lang="en_US">Create Branch/Tag using the resource with URL</val>
+      </comment>
+      <val lang="zh_CN">Create Branch/Tag using the resource with URL</val>
+   </key>
+   <key value="Synchronized_scrolling">
+      <comment>Diff files scrolling synchronization action.</comment>
+      <comment>
+         <val lang="en_US">Synchronized scrolling</val>
+      </comment>
+      <val lang="zh_CN">Synchronized scrolling</val>
+   </key>
+   <key value="Report_oxygen_problem">
+      <comment>Name of the action used from Eclipse plugin to report an Oxygen problem.</comment>
+      <comment>
+         <val lang="en_US">Report Oxygen problem</val>
+      </comment>
+      <val lang="zh_CN">Report Oxygen problem</val>
+   </key>
+   <key value="Indent_inline_elements">
+      <comment>Option in the Format-XML preferences page used to control better indenting of elements in mixed
+            content.</comment>
+      <comment>
+         <val lang="en_US">Indent inline elements</val>
+      </comment>
+      <val lang="zh_CN">Indent inline elements</val>
+   </key>
+   <key value="Schema_aware_normalization_format_indent">
+      <comment>When XML files are loaded in the Author edit mode they are normalized and white spaces trimmed. On save
+            the XML file is indented again. If this option is checked, information from the associated schema will be
+            used both when the document is loaded and when it is saved. </comment>
+      <comment>
+         <val lang="en_US">Schema-aware normalization, format and indent</val>
+      </comment>
+      <val lang="zh_CN">Schema-aware normalization, format and indent</val>
+   </key>
+   <key distribution="common" value="Schema_aware">
+      <comment>Name of the preferences page which contains options for editing in the Author edit mode taking the
+            schema into account.</comment>
+      <comment>
+         <val lang="en_US">Schema-Aware</val>
+      </comment>
+      <val lang="zh_CN">Schema-Aware</val>
+   </key>
+   <key value="Report_problem_sent">
+      <comment>Label used in the dialog which display the report problem sent to support.</comment>
+      <comment>
+         <val lang="en_US">The following report will be sent to the Technical Support team</val>
+      </comment>
+      <val lang="zh_CN">The following report will be sent to the Technical Support team</val>
+   </key>
+   <key value="See_the_report">
+      <comment>Label for a checkbox used in Report problem dialog.</comment>
+      <comment>
+         <val lang="en_US">See the report</val>
+      </comment>
+      <val lang="zh_CN">See the report</val>
+   </key>
+   <key value="Allow_only_insertion_of_valid_elements_and_attributes">
+      <comment>Option to insert only elements or attributes that are included in the content completion proposal
+            list.</comment>
+      <comment>
+         <val lang="en_US">Allow only insertion of valid elements and attributes</val>
+      </comment>
+      <val lang="zh_CN">Allow only insertion of valid elements and attributes</val>
+   </key>
+   <key value="Delete_element_tags_with_backspace_and_delete">
+      <comment>Label message used in Author 'Schema Aware Editing' option page.</comment>
+      <comment>
+         <val lang="en_US">Delete element tags with backspace and delete</val>
+      </comment>
+      <val lang="zh_CN">Delete element tags with backspace and delete</val>
+   </key>
+   <key value="Warn_on_invalid_content_when_performing_action">
+      <comment>Label message used in Author 'Schema Aware Editing' option page.</comment>
+      <comment>
+         <val lang="en_US">Warn on invalid content when performing action</val>
+      </comment>
+      <val lang="zh_CN">Warn on invalid content when performing action</val>
+   </key>
+   <key value="Typing">
+      <comment>Keyboard typing.</comment>
+      <comment>
+         <val lang="en_US">Typing</val>
+      </comment>
+      <val lang="zh_CN">Typing</val>
+   </key>
+   <key value="Paste_and_drag_and_drop">
+      <comment>Author action names.</comment>
+      <comment>
+         <val lang="en_US">Paste and Drag and Drop</val>
+      </comment>
+      <val lang="zh_CN">Paste and Drag and Drop</val>
+   </key>
+   <key value="Schema_aware_actions">
+      <comment>Author schema aware actions.</comment>
+      <comment>
+         <val lang="en_US">Schema-aware actions</val>
+      </comment>
+      <val lang="zh_CN">Schema-aware actions</val>
+   </key>
+   <key value="Reject_action_when_invalid_content_is_the_action_result">
+      <comment>Label message used in Author 'Schema Aware Editing' option page.</comment>
+      <comment>
+         <val lang="en_US">Reject action when its result is invalid</val>
+      </comment>
+      <val lang="zh_CN">Reject action when its result is invalid</val>
+   </key>
+   <key value="Save_connection_info_for_database_explorer">
+      <comment>Tooltip saying that connection info for the WebDAV/URL can be stored and used in Data Source Explorer
+            view..</comment>
+      <comment>
+         <val lang="en_US">Click here to save and use the current connection details in the Data Source Explorer
+            View.</val>
+      </comment>
+      <val lang="zh_CN">Click here to save and use the current connection details in the Data Source Explorer
+            View.</val>
+   </key>
+   <key distribution="common" value="Datasource_explorer">
+      <comment>Data source explorer (relational or native xml databases, CMSs, SFTPs, WEBDAVs, etc).</comment>
+      <comment>
+         <val lang="en_US">Data Source Explorer</val>
+      </comment>
+      <val lang="zh_CN">Data Source Explorer</val>
+   </key>
+   <key value="DB_Connection_checked_explanation">
+      <comment>Explanation label in Data Sources Option page.</comment>
+      <comment>
+         <val lang="en_US">Selected means the connection is visible in Data Source Explorer view.</val>
+      </comment>
+      <val lang="zh_CN">Selected means the connection is visible in Data Source Explorer view.</val>
+   </key>
+   <key value="Table_types_shown_in_explorer">
+      <comment>Table Filters option page label.</comment>
+      <comment>
+         <val lang="en_US">Table types shown in Data Source Explorer</val>
+      </comment>
+      <val lang="zh_CN">Table types shown in Data Source Explorer</val>
+   </key>
+   <key value="Public_known_hosts_file">
+      <comment>Message shown when the user needs to select the path to ssh/known_hosts file</comment>
+      <comment>
+         <val lang="en_US">Public known hosts file</val>
+      </comment>
+      <val lang="zh_CN">Public known hosts file</val>
+   </key>
+   <key value="Standalone">
+      <comment>Application distribution.</comment>
+      <comment>
+         <val lang="en_US">Standalone</val>
+      </comment>
+      <val lang="zh_CN">Standalone</val>
+   </key>
+   <key value="Edition">
+      <comment>Application edition (like in Professional Edition, Enterprise Edition).</comment>
+      <comment>
+         <val lang="en_US">Edition</val>
+      </comment>
+      <val lang="zh_CN">Edition</val>
+   </key>
+   <key value="Application_details">
+      <comment>Title label for the section that contains application details (name, edition, version, etc).</comment>
+      <comment>
+         <val lang="en_US">Application details</val>
+      </comment>
+      <val lang="zh_CN">Application details</val>
+   </key>
+   <key value="Contact_details">
+      <comment>Title label for the section that allows the user to provide its contact details (name, company, email,
+            etc).</comment>
+      <comment>
+         <val lang="en_US">Contact details</val>
+      </comment>
+      <val lang="zh_CN">Contact details</val>
+   </key>
+   <key value="Include_class_loader_urls">
+      <comment>Check box that gives the user the possibility to include the URLs from the application Class Loader
+            when sending feedback to the Technical Support.</comment>
+      <comment>
+         <val lang="en_US">Include Class Loader URLs</val>
+      </comment>
+      <val lang="zh_CN">Include Class Loader URLs</val>
+   </key>
+   <key value="Include_system_properties_details">
+      <comment>Check box that gives the user the possibility to include the system properties when sending feedback to
+            the Technical Support.</comment>
+      <comment>
+         <val lang="en_US">Include system properties details</val>
+      </comment>
+      <val lang="zh_CN">Include system properties details</val>
+   </key>
+   <key value="General_info">
+      <comment>General information.</comment>
+      <comment>
+         <val lang="en_US">General info</val>
+      </comment>
+      <val lang="zh_CN">General info</val>
+   </key>
+   <key value="Message_send_additional_information_to_support">
+      <comment>Message for sending application related information along with the feedback provided by user.</comment>
+      <comment>
+         <val lang="en_US">Please select the additional information that will be sent to the Technical Support
+            team.</val>
+      </comment>
+      <val lang="zh_CN">Please select the additional information that will be sent to the Technical Support
+            team.</val>
+   </key>
+   <key value="Problem_description">
+      <comment>The description of an issue provided by the user.</comment>
+      <comment>
+         <val lang="en_US">Problem description</val>
+      </comment>
+      <val lang="zh_CN">Problem description</val>
+   </key>
+   <key value="Submit">
+      <comment>The name of the button that allows user to send issues reports to the Technical Support
+            server.</comment>
+      <comment>
+         <val lang="en_US">Submit</val>
+      </comment>
+      <val lang="zh_CN">Submit</val>
+   </key>
+   <key value="Import_global_validation_scenarios">
+      <comment>Options menu.</comment>
+      <comment>
+         <val lang="en_US">Import Global Validation Scenarios</val>
+      </comment>
+      <val lang="zh_CN">Import Global Validation Scenarios</val>
+   </key>
+   <key value="Export_global_validation_scenarios">
+      <comment>Options menu.</comment>
+      <comment>
+         <val lang="en_US">Export Global Validation Scenarios</val>
+      </comment>
+      <val lang="zh_CN">Export Global Validation Scenarios</val>
+   </key>
+   <key value="Schema_aware_format_and_indent">
+      <comment>Option to take the associated schema into account when using format and indent.</comment>
+      <comment>
+         <val lang="en_US">Schema-aware format and indent</val>
+      </comment>
+      <val lang="zh_CN">Schema-aware format and indent</val>
+   </key>
+   <key value="Quick_up_down_navigation">
+      <comment>Author quick up/down cursor navigation.</comment>
+      <comment>
+         <val lang="en_US">Quick up/down navigation</val>
+      </comment>
+      <val lang="zh_CN">Quick up/down navigation</val>
+   </key>
+   <key value="Disable_calls_on_extension_functions">
+      <comment>Entry in Saxon 9 Options.</comment>
+      <comment>
+         <val lang="en_US">Disable calls on extension functions</val>
+      </comment>
+      <val lang="zh_CN">Disable calls on extension functions</val>
+   </key>
+   <key value="Initial_mode_and_template">
+      <comment>Title label for the section that allows user to specify the XSL stylesheet's initial mode and
+            template.</comment>
+      <comment>
+         <val lang="en_US">Initial mode and template</val>
+      </comment>
+      <val lang="zh_CN">Initial mode and template</val>
+   </key>
+   <key value="Recoverable_errors">
+      <comment>Entry in Saxon 9 Options.</comment>
+      <comment>
+         <val lang="en_US">Recoverable errors</val>
+      </comment>
+      <val lang="zh_CN">Recoverable errors</val>
+   </key>
+   <key value="Restrict_to_xpath">
+      <comment>Label in the Find/Replace in Files dialog which specifies that the search will be restricted to the
+            XPath from the combo box that follows.</comment>
+      <comment>
+         <val lang="en_US">Restrict to XPath</val>
+      </comment>
+      <val lang="zh_CN">Restrict to XPath</val>
+   </key>
+   <key value="Current_DITA_Map_hierarchy">
+      <comment>Radio button in the Find/Replace in Files dialog used to specify that we want to search in all files
+            referenced by a DITA Map.</comment>
+      <comment>
+         <val lang="en_US">Current DITA map hierarchy</val>
+      </comment>
+      <val lang="zh_CN">Current DITA map hierarchy</val>
+   </key>
+   <key value="Current_file_directory">
+      <comment>Option in the Find/Replace in Files dialog meaning the search will be done in the current edited file's
+            directory</comment>
+      <comment>
+         <val lang="en_US">Current file directory</val>
+      </comment>
+      <val lang="zh_CN">Current file directory</val>
+   </key>
+   <key value="Tile_editors_horizontally">
+      <comment>Tile all opened editors horizontally on the screen.</comment>
+      <comment>
+         <val lang="en_US">Tile Editors Horizontally</val>
+      </comment>
+      <val lang="zh_CN">Tile Editors Horizontally</val>
+   </key>
+   <key value="Tile_editors_vertically">
+      <comment>Tile all opened editors vertically on the screen.</comment>
+      <comment>
+         <val lang="en_US">Tile Editors Vertically</val>
+      </comment>
+      <val lang="zh_CN">Tile Editors Vertically</val>
+   </key>
+   <key value="Stack_editors">
+      <comment>Arrange all opened editors in a single stack.</comment>
+      <comment>
+         <val lang="en_US">Stack Editors</val>
+      </comment>
+      <val lang="zh_CN">Stack Editors</val>
+   </key>
+</translation>

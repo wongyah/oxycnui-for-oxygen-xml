@@ -1,0 +1,1834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="Solve_conflicts_question">
+      <comment>Message/question within Merge operations flow.</comment>
+      <comment>
+         <val lang="en_US">How do you want to solve those conflicts?</val>
+      </comment>
+      <val lang="zh_CN">How do you want to solve those conflicts?</val>
+   </key>
+   <key value="Unresolved_conflicts">
+      <comment>Message within Merge operations flow.</comment>
+      <comment>
+         <val lang="en_US">There are conflicting changes that require an action to be resolved.</val>
+      </comment>
+      <val lang="zh_CN">There are conflicting changes that require an action to be resolved.</val>
+   </key>
+   <key value="Merge_action">
+      <comment>Name of a column in the merge entry table from the Merge dialog.</comment>
+      <comment>
+         <val lang="en_US">Merge action</val>
+      </comment>
+      <val lang="zh_CN">Merge action</val>
+   </key>
+   <key value="Want_discard_your_changes_question">
+      <comment>Message/question within Merge operations flow.</comment>
+      <comment>
+         <val lang="en_US">Do you want to discard your changes?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to discard your changes?</val>
+   </key>
+   <key value="Changing_merge_action_implies_losing_current_merged_changes">
+      <comment>Message within Merge operations flow.</comment>
+      <comment>
+         <val lang="en_US">Your manual changes will be lost if you choose another merge action.</val>
+      </comment>
+      <val lang="zh_CN">Your manual changes will be lost if you choose another merge action.</val>
+   </key>
+   <key value="Document_merged_manually">
+      <comment>Message within Merge operations flow.</comment>
+      <comment>
+         <val lang="en_US">The document has been merged manually.</val>
+      </comment>
+      <val lang="zh_CN">The document has been merged manually.</val>
+   </key>
+   <key value="Close_Diff_Presenter">
+      <comment>Tool-tip of a button within Merge dialog.</comment>
+      <comment>
+         <val lang="en_US">Close Diff Presenter</val>
+      </comment>
+      <val lang="zh_CN">Close Diff Presenter</val>
+   </key>
+   <key value="Select_action">
+      <comment>Name of a merge action.</comment>
+      <comment>
+         <val lang="en_US">Select action</val>
+      </comment>
+      <val lang="zh_CN">Select action</val>
+   </key>
+   <key value="Automatically_merge">
+      <comment>Name of a merge action.</comment>
+      <comment>
+         <val lang="en_US">Automatically merge</val>
+      </comment>
+      <val lang="zh_CN">Automatically merge</val>
+   </key>
+   <key value="Keep_unchanged">
+      <comment>Name of a merge action.</comment>
+      <comment>
+         <val lang="en_US">Keep unchanged</val>
+      </comment>
+      <val lang="zh_CN">Keep unchanged</val>
+   </key>
+   <key value="Keep_deleted">
+      <comment>Name of a merge action.</comment>
+      <comment>
+         <val lang="en_US">Keep deleted</val>
+      </comment>
+      <val lang="zh_CN">Keep deleted</val>
+   </key>
+   <key value="Keep_your_changes">
+      <comment>Name of a merge action.</comment>
+      <comment>
+         <val lang="en_US">Keep your changes</val>
+      </comment>
+      <val lang="zh_CN">Keep your changes</val>
+   </key>
+   <key value="Keep_unmodified">
+      <comment>Name of a merge action.</comment>
+      <comment>
+         <val lang="en_US">Keep unmodified</val>
+      </comment>
+      <val lang="zh_CN">Keep unmodified</val>
+   </key>
+   <key value="Use_merged">
+      <comment>Name of a merge action.</comment>
+      <comment>
+         <val lang="en_US">Use merged</val>
+      </comment>
+      <val lang="zh_CN">Use merged</val>
+   </key>
+   <key value="Start_manual_merge">
+      <comment>Label of a button within the Merge dialog.</comment>
+      <comment>
+         <val lang="en_US">Start manual merge</val>
+      </comment>
+      <val lang="zh_CN">Start manual merge</val>
+   </key>
+   <key value="Auto_set_use_merged_action_when_local_changes_saved">
+      <comment> Info message shown within the Merge dialog. The {0) and {1} parameters only correspond to "<b>" and
+                "</b>" HTML tags for bold text, so they do not obstruct the translation at all. </comment>
+      <comment>
+         <val lang="en_US">The {0}Use merged{1} action will be set automatically as soon as you modify the file and save
+            the changes.</val>
+      </comment>
+      <val lang="zh_CN">The {0}Use merged{1} action will be set automatically as soon as you modify the file and save
+            the changes.</val>
+   </key>
+   <key value="Merged_file_created_when_manually_changing_local_version">
+      <comment> Info message shown within the Merge dialog. The {0) and {1} parameters only correspond to "<b>" and
+                "</b>" HTML tags for bold text, so they do not obstruct the translation at all. </comment>
+      <comment>
+         <val lang="en_US">A {0}merged{1} file is created when you manually change your local version.</val>
+      </comment>
+      <val lang="zh_CN">A {0}merged{1} file is created when you manually change your local version.</val>
+   </key>
+   <key value="Refactoring_errors">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">Refactoring errors</val>
+      </comment>
+      <val lang="zh_CN">Refactoring errors</val>
+   </key>
+   <key value="Conversion_failed">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">Conversion failed.</val>
+      </comment>
+      <val lang="zh_CN">Conversion failed.</val>
+   </key>
+   <key value="The_file_cannot_be_converted_because_it_is_read-only.">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">Cannot convert read-only file.</val>
+      </comment>
+      <val lang="zh_CN">Cannot convert read-only file.</val>
+   </key>
+   <key value="No_unreferenced_resources_found">
+      <comment>Information message.</comment>
+      <comment>
+         <val lang="en_US">No unreferenced resources found.</val>
+      </comment>
+      <val lang="zh_CN">No unreferenced resources found.</val>
+   </key>
+   <key value="Sort_attrs_for_full_tags_with_attrs">
+      <comment>Option name.</comment>
+      <comment>
+         <val lang="en_US">Sort attributes alphabetically for "Full Tags with Attributes"</val>
+      </comment>
+      <val lang="zh_CN">Sort attributes alphabetically for "Full Tags with Attributes"</val>
+   </key>
+   <key value="Debugging_in_progress">
+      <comment>Debugging in progress</comment>
+      <comment>
+         <val lang="en_US">Debugging in progress</val>
+      </comment>
+      <val lang="zh_CN">Debugging in progress</val>
+   </key>
+   <key value="Enable_streaming_mode__message">
+      <comment>The helper message that contains explanations about how to set the 'Enable streaming mode'
+            option.</comment>
+      <comment>
+         <val lang="en_US">Edit the transformation scenario and select the option "{0}" in the configuration of the Saxon
+            transformer engine.</val>
+      </comment>
+      <val lang="zh_CN">Edit the transformation scenario and select the option "{0}" in the configuration of the Saxon
+            transformer engine.</val>
+   </key>
+   <key value="This_operation_requires_saving_all_modified_files">
+      <comment>Info message after applying an operation.</comment>
+      <comment>
+         <val lang="en_US">This operation requires saving all modified files.</val>
+      </comment>
+      <val lang="zh_CN">This operation requires saving all modified files.</val>
+   </key>
+   <key value="passwords_do_not_match" distribution="webauthor">
+      <comment>The password and repeat password input values do not match.</comment>
+      <comment>
+         <val lang="en_US">The passwords do not match</val>
+      </comment>
+      <val lang="zh_CN">The passwords do not match</val>
+   </key>
+   <key value="Enable_streaming_mode">
+      <comment>Enables the streaming mode inside Saxon XSLT processor. Streaming enables the processing of very large
+            XML documents.</comment>
+      <comment>
+         <val lang="en_US">Enable streaming mode</val>
+      </comment>
+      <val lang="zh_CN">Enable streaming mode</val>
+   </key>
+   <key value="Show_save_as_in_new_dialog">
+      <comment>Show "Save As" option in New wizard dialog.</comment>
+      <comment>
+         <val lang="en_US">Show "Save as" option to save newly created documents in the "New" document wizard</val>
+      </comment>
+      <val lang="zh_CN">Show "Save as" option to save newly created documents in the "New" document wizard</val>
+   </key>
+   <key value="Error_reloading_document" distribution="webauthor">
+      <comment>Error shown if document could not be reloaded.</comment>
+      <comment>
+         <val lang="en_US">Error reloading document</val>
+      </comment>
+      <val lang="zh_CN">Error reloading document</val>
+   </key>
+   <key value="Incorrect_username_or_password" distribution="webauthor">
+      <comment>Error shown if the username or password is incorrect.</comment>
+      <comment>
+         <val lang="en_US">Incorrect username or password.</val>
+      </comment>
+      <val lang="zh_CN">Incorrect username or password.</val>
+   </key>
+   <key value="Review_connection_settings" distribution="webauthor">
+      <comment>Instructs the user to check the connection settings on the administration page.</comment>
+      <comment>
+         <val lang="en_US">Please review the connection settings on the {0}.</val>
+      </comment>
+      <val lang="zh_CN">Please review the connection settings on the {0}.</val>
+   </key>
+   <key value="Cannot_connect_to_licensing_server" distribution="webauthor">
+      <comment>Error shown if unable to connect to the license server</comment>
+      <comment>
+         <val lang="en_US">Cannot connect to the license server.</val>
+      </comment>
+      <val lang="zh_CN">Cannot connect to the license server.</val>
+   </key>
+   <key value="Trial" distribution="webauthor">
+      <comment>Name of license type, trial</comment>
+      <comment>
+         <val lang="en_US">Trial</val>
+      </comment>
+      <val lang="zh_CN">Trial</val>
+   </key>
+   <key value="Not_for_resale" distribution="webauthor">
+      <comment>Name of license type, not for resale</comment>
+      <comment>
+         <val lang="en_US">Not for resale</val>
+      </comment>
+      <val lang="zh_CN">Not for resale</val>
+   </key>
+   <key value="Evaluation" distribution="webauthor">
+      <comment>Name of license type, for evaluation</comment>
+      <comment>
+         <val lang="en_US">Evaluation</val>
+      </comment>
+      <val lang="zh_CN">Evaluation</val>
+   </key>
+   <key value="Could_not_retrieve_license_info" distribution="webauthor">
+      <comment>Error shown if licensing information could not be retrieved.</comment>
+      <comment>
+         <val lang="en_US">Could not retrieve licensing information.</val>
+      </comment>
+      <val lang="zh_CN">Could not retrieve licensing information.</val>
+   </key>
+   <key value="Running_application" distribution="webauthor">
+      <comment>Informs the user of the application currently running.</comment>
+      <comment>
+         <val lang="en_US">Running {0}</val>
+      </comment>
+      <val lang="zh_CN">Running {0}</val>
+   </key>
+   <key value="User_not_licensed" distribution="webauthor">
+      <comment>Error shown if a user is not licensed to use the app.</comment>
+      <comment>
+         <val lang="en_US">The maximum number of user sessions allowed by the current license was exceeded. Please try
+            again later. If this problem persists, contact your administrator.</val>
+      </comment>
+      <val lang="zh_CN">The maximum number of user sessions allowed by the current license was exceeded. Please try
+            again later. If this problem persists, contact your administrator.</val>
+   </key>
+   <key value="Grace_period_message" distribution="webauthor">
+      <comment>Warns the user that their subscription has expired and it will stop working if it will not be
+            reactivated.</comment>
+      <comment>
+         <val lang="en_US">Your subscription has expired on {0} and will cease to work on {1}. Please contact your system
+            administrator to reactivate your subscription.</val>
+      </comment>
+      <val lang="zh_CN">Your subscription has expired on {0} and will cease to work on {1}. Please contact your system
+            administrator to reactivate your subscription.</val>
+   </key>
+   <key value="License_expired_inactivity" distribution="webauthor">
+      <comment>Warns the user that their license expired due to inactivity.</comment>
+      <comment>
+         <val lang="en_US">The license you are using has expired due to inactivity.</val>
+      </comment>
+      <val lang="zh_CN">The license you are using has expired due to inactivity.</val>
+   </key>
+   <key value="Licensing_problem" distribution="webauthor">
+      <comment>Title for messages related to licensing.</comment>
+      <comment>
+         <val lang="en_US">Licensing problem</val>
+      </comment>
+      <val lang="zh_CN">Licensing problem</val>
+   </key>
+   <key value="License_configuration_problem_message" distribution="webauthor">
+      <comment>Message shown to the end user when there is a license configuration problem.</comment>
+      <comment>
+         <val lang="en_US">The licensing is not configured properly. Please consult the server logs.</val>
+      </comment>
+      <val lang="zh_CN">The licensing is not configured properly. Please consult the server logs.</val>
+   </key>
+   <key value="Not_connected_to_a_license_server" distribution="webauthor">
+      <comment>Error shown if the application is not connected to a license server. First variable is the application
+            name and the second is the Administration Page name</comment>
+      <comment>
+         <val lang="en_US">{0} is not connected to a license server. You can configure the connection using the
+            {1}.</val>
+      </comment>
+      <val lang="zh_CN">{0} is not connected to a license server. You can configure the connection using the
+            {1}.</val>
+   </key>
+   <key value="Only_admin_can_reset_license" distribution="webauthor">
+      <comment>Error shown if a non-administrator user tries to reset the license.</comment>
+      <comment>
+         <val lang="en_US">Only users with role 'admin' are allowed to reset the license</val>
+      </comment>
+      <val lang="zh_CN">Only users with role 'admin' are allowed to reset the license</val>
+   </key>
+   <key value="Could_not_configure_license_server" distribution="webauthor">
+      <comment>Error shown if license server configuration failed.</comment>
+      <comment>
+         <val lang="en_US">Could not configure the license server.</val>
+      </comment>
+      <val lang="zh_CN">Could not configure the license server.</val>
+   </key>
+   <key value="Saved_but_no_suitable_license" distribution="webauthor">
+      <comment>Informs the user that the license server connection configuration was saved but a suitable license
+            could not be found.</comment>
+      <comment>
+         <val lang="en_US">License server connection configuration was saved, but could not obtain a suitable
+            license.</val>
+      </comment>
+      <val lang="zh_CN">License server connection configuration was saved, but could not obtain a suitable
+            license.</val>
+   </key>
+   <key value="Enable_assertions">
+      <comment>Enable the assertions in XSLT</comment>
+      <comment>
+         <val lang="en_US">Enable assertions</val>
+      </comment>
+      <val lang="zh_CN">Enable assertions</val>
+   </key>
+   <key value="Open_each_document_next_to_current">
+      <comment>Name of an option in Open page from Preferences.</comment>
+      <comment>
+         <val lang="en_US">Open each document in a tab next to the current one</val>
+      </comment>
+      <val lang="zh_CN">Open each document in a tab next to the current one</val>
+   </key>
+   <key value="Not_authenticated" distribution="webauthor">
+      <comment>Error shown if user is not authenticated.</comment>
+      <comment>
+         <val lang="en_US">Not authenticated.</val>
+      </comment>
+      <val lang="zh_CN">Not authenticated.</val>
+   </key>
+   <key distribution="webauthor" value="options_file">
+      <comment>The file that stores the application options.</comment>
+      <comment>
+         <val lang="en_US">Options file:</val>
+      </comment>
+      <val lang="zh_CN">Options file:</val>
+   </key>
+   <key value="Readonly_mode" distribution="webauthor">
+      <comment>Label for checkbox option for displaying sample documents.</comment>
+      <comment>
+         <val lang="en_US">Read-only mode</val>
+      </comment>
+      <val lang="zh_CN">Read-only mode</val>
+   </key>
+   <key value="Display_samples" distribution="webauthor">
+      <comment>Label for checkbox option for displaying sample documents.</comment>
+      <comment>
+         <val lang="en_US">Display samples</val>
+      </comment>
+      <val lang="zh_CN">Display samples</val>
+   </key>
+   <key value="Anonymous" distribution="webauthor">
+      <comment>Default author name for comments</comment>
+      <comment>
+         <val lang="en_US">Anonymous</val>
+      </comment>
+      <val lang="zh_CN">Anonymous</val>
+   </key>
+   <key value="Authentication_required" distribution="webauthor">
+      <comment>Title of login dialog.</comment>
+      <comment>
+         <val lang="en_US">Authentication required</val>
+      </comment>
+      <val lang="zh_CN">Authentication required</val>
+   </key>
+   <key value="Enforced_server_note" distribution="webauthor">
+      <comment>Warning for the 'Enforce server' setting.</comment>
+      <comment>
+         <val lang="en_US">Note: Once a server is enforced, the user will only be able to browse this enforced server.
+            However, it is possible for other plugins to add more enforced servers for the user to choose from.</val>
+      </comment>
+      <val lang="zh_CN">Note: Once a server is enforced, the user will only be able to browse this enforced server.
+            However, it is possible for other plugins to add more enforced servers for the user to choose from.</val>
+   </key>
+   <key value="Enforced_server" distribution="webauthor">
+      <comment>Label for input setting the enforced server URL.</comment>
+      <comment>
+         <val lang="en_US">Enforced server</val>
+      </comment>
+      <val lang="zh_CN">Enforced server</val>
+   </key>
+   <key value="Autosave_interval" distribution="webauthor">
+      <comment>Label for input for adjusting autosave interval.</comment>
+      <comment>
+         <val lang="en_US">Autosave interval</val>
+      </comment>
+      <val lang="zh_CN">Autosave interval</val>
+   </key>
+   <key value="Lock_resources_on_open" distribution="webauthor">
+      <comment>Label for checkbox option, whether to lock resources when a user opens them.</comment>
+      <comment>
+         <val lang="en_US">Lock resources on open</val>
+      </comment>
+      <val lang="zh_CN">Lock resources on open</val>
+   </key>
+   <key value="Upload_problems">
+      <comment>Notify user that a particular set of problems were encountered during upload.</comment>
+      <comment>
+         <val lang="en_US">Problems encountered during upload:</val>
+      </comment>
+      <val lang="zh_CN">Problems encountered during upload:</val>
+   </key>
+   <key value="Compile_xsl_stylesheet_saxon">
+      <comment>Compile XSL stylesheet for Saxon.</comment>
+      <comment>
+         <val lang="en_US">Compile XSL stylesheet for Saxon</val>
+      </comment>
+      <val lang="zh_CN">Compile XSL stylesheet for Saxon</val>
+   </key>
+   <key value="Upload_modified_resources_question">
+      <comment>Ask the end user if they want to upload the modified resources back to its original location.</comment>
+      <comment>
+         <val lang="en_US">Do you want to upload the modified resources?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to upload the modified resources?</val>
+   </key>
+   <key value="Several_resources_locally_modified">
+      <comment>Information message asking the end user to upload a set of listed resources which have been locally
+            modified.</comment>
+      <comment>
+         <val lang="en_US">Several local resources have been modified locally:</val>
+      </comment>
+      <val lang="zh_CN">Several local resources have been modified locally:</val>
+   </key>
+   <key value="License_was_unlocked">
+      <comment>License was unlocked</comment>
+      <comment>
+         <val lang="en_US">License was unlocked</val>
+      </comment>
+      <val lang="zh_CN">License was unlocked</val>
+   </key>
+   <key value="License_was_locked">
+      <comment>License was locked</comment>
+      <comment>
+         <val lang="en_US">License was locked</val>
+      </comment>
+      <val lang="zh_CN">License was locked</val>
+   </key>
+   <key value="Could_not_unlock_license">
+      <comment>Could not unlock license</comment>
+      <comment>
+         <val lang="en_US">Could not unlock license</val>
+      </comment>
+      <val lang="zh_CN">Could not unlock license</val>
+   </key>
+   <key value="Could_not_lock_license">
+      <comment>Could not lock license</comment>
+      <comment>
+         <val lang="en_US">Could not lock license</val>
+      </comment>
+      <val lang="zh_CN">Could not lock license</val>
+   </key>
+   <key value="Regular_content">
+      <comment>The type of an XML content.</comment>
+      <comment>
+         <val lang="en_US">Regular content</val>
+      </comment>
+      <val lang="zh_CN">Regular content</val>
+   </key>
+   <key value="Filtered_content">
+      <comment>The type of an XML content.</comment>
+      <comment>
+         <val lang="en_US">Filtered content</val>
+      </comment>
+      <val lang="zh_CN">Filtered content</val>
+   </key>
+   <key value="characters_no_spaces">
+      <comment>Characters without spaces. Followed by semicolon and the actual number.</comment>
+      <comment>
+         <val lang="en_US">Characters (no spaces)</val>
+      </comment>
+      <val lang="zh_CN">Characters (no spaces)</val>
+   </key>
+   <key value="Recommend_include_email_address">
+      <comment>Message to advise the user to complete email address.</comment>
+      <comment>
+         <val lang="en_US">It is recommended that you include an email address so that our support team can contact you
+            to help resolve your problem.</val>
+      </comment>
+      <val lang="zh_CN">It is recommended that you include an email address so that our support team can contact you
+            to help resolve your problem.</val>
+   </key>
+   <key value="Text_external_object_insertion_handler">
+      <comment>Text page external object insertion handler. An API interface class name which can be implemented to do
+            special processing when various resources are dropped in the Text editing mode.</comment>
+      <comment>
+         <val lang="en_US">Text page external object insertion handler</val>
+      </comment>
+      <val lang="zh_CN">Text page external object insertion handler</val>
+   </key>
+   <key distribution="webauthor" value="License_servlet_invalid_credentials">
+      <comment>The credentials provided for the license server are invalid.</comment>
+      <comment>
+         <val lang="en_US">Cannot connect to the licensing server. Invalid username or password.</val>
+      </comment>
+      <val lang="zh_CN">Cannot connect to the licensing server. Invalid username or password.</val>
+   </key>
+   <key value="Choose_condition_set">
+      <comment>Name of the action available in Profiling/Conditional Text drop-down button.</comment>
+      <comment>
+         <val lang="en_US">Choose Condition Set</val>
+      </comment>
+      <val lang="zh_CN">Choose Condition Set</val>
+   </key>
+   <key value="Open_verb">
+      <comment>The "open" verb.</comment>
+      <comment>
+         <val lang="en_US">open</val>
+      </comment>
+      <val lang="zh_CN">open</val>
+   </key>
+   <key value="Edit_verb">
+      <comment>The "edit" verb.</comment>
+      <comment>
+         <val lang="en_US">edit</val>
+      </comment>
+      <val lang="zh_CN">edit</val>
+   </key>
+   <key value="The_floating_license_was_revoked">
+      <comment>Message for the user.</comment>
+      <comment>
+         <val lang="en_US">The floating license granted to you was revoked by the license server.</val>
+      </comment>
+      <val lang="zh_CN">The floating license granted to you was revoked by the license server.</val>
+   </key>
+   <key value="You_can_continue_to_work">
+      <comment>Message for the user. The {0} argument is one of "open" or "edit" verbs</comment>
+      <comment>
+         <val lang="en_US">You can continue to work with the currently opened files, but you cannot {0} new files.</val>
+      </comment>
+      <val lang="zh_CN">You can continue to work with the currently opened files, but you cannot {0} new files.</val>
+   </key>
+   <key value="The_application_has_been_idle">
+      <comment>The application has been idle for too long thus the floating license was released.</comment>
+      <comment>
+         <val lang="en_US">The application has been idle for too long thus the floating license was released.</val>
+      </comment>
+      <val lang="zh_CN">The application has been idle for too long thus the floating license was released.</val>
+   </key>
+   <key value="You_can_continue_to_work_sa">
+      <comment>Message on the warning dialog that rises when the floating licensed is lost due to inactivity for a
+            long time. For the Stand Alone version.</comment>
+      <comment>
+         <val lang="en_US">You can continue to work with currently opened files, but you cannot open new ones until you
+            re-register. To re-register, use the Help/Register menu action.</val>
+      </comment>
+      <val lang="zh_CN">You can continue to work with currently opened files, but you cannot open new ones until you
+            re-register. To re-register, use the Help/Register menu action.</val>
+   </key>
+   <key value="You_can_continue_to_work_ec">
+      <comment>Message on the warning dialog that rises when the floating licensed is lost due to inactivity for a
+            long time. For the Eclipse version.</comment>
+      <comment>
+         <val lang="en_US">You can continue to work with currently opened files, but you cannot edit new ones until you
+            re-register. To re-register, go to Window/Preferences/{0} and use the Register action.</val>
+      </comment>
+      <val lang="zh_CN">You can continue to work with currently opened files, but you cannot edit new ones until you
+            re-register. To re-register, go to Window/Preferences/{0} and use the Register action.</val>
+   </key>
+   <key value="Dita_reusable_components" distribution="common">
+      <comment>Name of a view used only for DITA documents.</comment>
+      <comment>
+         <val lang="en_US">DITA Reusable Components</val>
+      </comment>
+      <val lang="zh_CN">DITA Reusable Components</val>
+   </key>
+   <key value="Insert_as_variable">
+      <comment>Name of an action from the contextual menu of the "Keys" view.</comment>
+      <comment>
+         <val lang="en_US">Insert as Variable</val>
+      </comment>
+      <val lang="zh_CN">Insert as Variable</val>
+   </key>
+   <key value="Insert_as_keyref">
+      <comment>Name of an action from the contextual menu of the "Keys" view.</comment>
+      <comment>
+         <val lang="en_US">Insert as Keyref</val>
+      </comment>
+      <val lang="zh_CN">Insert as Keyref</val>
+   </key>
+   <key value="Insert_as_link">
+      <comment>Name of an action from the contextual menu of the "Keys" view.</comment>
+      <comment>
+         <val lang="en_US">Insert as Link</val>
+      </comment>
+      <val lang="zh_CN">Insert as Link</val>
+   </key>
+   <key value="Report_external_map_refs">
+      <comment>Checkbox in the DITA Map "Validate and check for completeness" dialog</comment>
+      <comment>
+         <val lang="en_US">Report references to resources outside of the DITA map folder</val>
+      </comment>
+      <val lang="zh_CN">Report references to resources outside of the DITA map folder</val>
+   </key>
+   <key distribution="common" value="Convert_xsl_choose_into_xsl_if">
+      <comment>Action tag. Convert an "xsl:choose" into an "xsl:if" construction.</comment>
+      <comment>
+         <val lang="en_US">Convert xsl:choose into xsl:if</val>
+      </comment>
+      <val lang="zh_CN">Convert xsl:choose into xsl:if</val>
+   </key>
+   <key value="Floating_license">
+      <comment>Floating license</comment>
+      <comment>
+         <val lang="en_US">Floating license</val>
+      </comment>
+      <val lang="zh_CN">Floating license</val>
+   </key>
+   <key value="Could_not_find_key_for_resource">
+      <comment>Message shown when no key is found.</comment>
+      <comment>
+         <val lang="en_US">Could not find mapped key for dropped resource.</val>
+      </comment>
+      <val lang="zh_CN">Could not find mapped key for dropped resource.</val>
+   </key>
+   <key value="Border">
+      <comment>Border.</comment>
+      <comment>
+         <val lang="en_US">Border</val>
+      </comment>
+      <val lang="zh_CN">Border</val>
+   </key>
+   <key distribution="webauthor" value="Connection_Settings">
+      <comment>Header/title for the Connection Settings page</comment>
+      <comment>
+         <val lang="en_US">Connection Settings</val>
+      </comment>
+      <val lang="zh_CN">Connection Settings</val>
+   </key>
+   <key distribution="webauthor" value="Accept_HTTPS_certificates">
+      <comment>Tooltip when hovering the option to accept https certificates automatically</comment>
+      <comment>
+         <val lang="en_US">Accept HTTPS security certificates from unknown sources automatically.</val>
+      </comment>
+      <val lang="zh_CN">Accept HTTPS security certificates from unknown sources automatically.</val>
+   </key>
+   <key distribution="webauthor" value="Could_not_create_destination_folder">
+      <comment>Error message when adding plugin fails</comment>
+      <comment>
+         <val lang="en_US">Could not create the destination folder when extracting the archive.</val>
+      </comment>
+      <val lang="zh_CN">Could not create the destination folder when extracting the archive.</val>
+   </key>
+   <key distribution="webauthor" value="Archive_without_descriptor">
+      <comment>Error shown if the archive does not contain a descriptor file</comment>
+      <comment>
+         <val lang="en_US">The uploaded archive does not contain a ${0} descriptor file.</val>
+      </comment>
+      <val lang="zh_CN">The uploaded archive does not contain a ${0} descriptor file.</val>
+   </key>
+   <key distribution="webauthor" value="Archive_exactly_one_folder">
+      <comment>Error shown if archive content is not exactly one folder</comment>
+      <comment>
+         <val lang="en_US">ERROR: Upload rejected because there should be exactly one folder inside the archive.</val>
+      </comment>
+      <val lang="zh_CN">ERROR: Upload rejected because there should be exactly one folder inside the archive.</val>
+   </key>
+   <key distribution="webauthor" value="Extension_not_found">
+      <comment>Error shown if extension could not be uploaded because it could not be found</comment>
+      <comment>
+         <val lang="en_US">Uploaded extension not found:</val>
+      </comment>
+      <val lang="zh_CN">Uploaded extension not found:</val>
+   </key>
+   <key distribution="webauthor" value="Error_scheduling_for_deletion">
+      <comment>Error shown if scheduling for deletion fails.</comment>
+      <comment>
+         <val lang="en_US">Error scheduling plugins for deletion:</val>
+      </comment>
+      <val lang="zh_CN">Error scheduling plugins for deletion:</val>
+   </key>
+   <key distribution="webauthor" value="Error_restoring_plugins">
+      <comment>Error shown if failed to restore builtin plugins.</comment>
+      <comment>
+         <val lang="en_US">Error restoring builtin plugins.</val>
+      </comment>
+      <val lang="zh_CN">Error restoring builtin plugins.</val>
+   </key>
+   <key distribution="webauthor" value="General_Settings">
+      <comment>Header for the General Settings page</comment>
+      <comment>
+         <val lang="en_US">General Settings</val>
+      </comment>
+      <val lang="zh_CN">General Settings</val>
+   </key>
+   <key distribution="webauthor" value="Change_tracking_initial">
+      <comment>Label for dropdown that selects the initial change tracking state.</comment>
+      <comment>
+         <val lang="en_US">Change tracking initial state:</val>
+      </comment>
+      <val lang="zh_CN">Change tracking initial state:</val>
+   </key>
+   <key value="Logging">
+      <comment>Header for the Logging section in general settings.</comment>
+      <comment>
+         <val lang="en_US">Logging</val>
+      </comment>
+      <val lang="zh_CN">Logging</val>
+   </key>
+   <key distribution="webauthor" value="Log_file">
+      <comment>Label for the path to the log file.</comment>
+      <comment>
+         <val lang="en_US">Log file:</val>
+      </comment>
+      <val lang="zh_CN">Log file:</val>
+   </key>
+   <key distribution="webauthor" value="Config_file_shorter">
+      <comment>Label for the path to the config file.</comment>
+      <comment>
+         <val lang="en_US">Config file:</val>
+      </comment>
+      <val lang="zh_CN">Config file:</val>
+   </key>
+   <key distribution="webauthor" value="Framework_not_well_formed">
+      <comment>Error shown when adding a framework that is not well-formed</comment>
+      <comment>
+         <val lang="en_US">The uploaded framework is not well-formed:</val>
+      </comment>
+      <val lang="zh_CN">The uploaded framework is not well-formed:</val>
+   </key>
+   <key distribution="webauthor"
+        value="Could_not_decrypt_license_server_password">
+      <comment>Error shown if license server password could not be decrypted</comment>
+      <comment>
+         <val lang="en_US">Could not decrypt the license server password.</val>
+      </comment>
+      <val lang="zh_CN">Could not decrypt the license server password.</val>
+   </key>
+   <key distribution="webauthor"
+        value="Could not delete the existing license properties file.">
+      <comment>Error shown when unable to delete the license properties file.</comment>
+      <comment>
+         <val lang="en_US">Could not delete the existing license properties file.</val>
+      </comment>
+      <val lang="zh_CN">Could not delete the existing license properties file.</val>
+   </key>
+   <key distribution="webauthor" value="Error_persisting_options">
+      <comment>Error shown when failed to save options</comment>
+      <comment>
+         <val lang="en_US">Error persisting options:</val>
+      </comment>
+      <val lang="zh_CN">Error persisting options:</val>
+   </key>
+   <key distribution="webauthor" value="Plugin_not_well_formed">
+      <comment>Error shown when adding a plugin that is not well-formed</comment>
+      <comment>
+         <val lang="en_US">The uploaded plugin is not well-formed:</val>
+      </comment>
+      <val lang="zh_CN">The uploaded plugin is not well-formed:</val>
+   </key>
+   <key distribution="webauthor" value="Bad_request">
+      <comment>Bad request error</comment>
+      <comment>
+         <val lang="en_US">Bad request</val>
+      </comment>
+      <val lang="zh_CN">Bad request</val>
+   </key>
+   <key distribution="webauthor" value="Internal_server_error">
+      <comment>Server error</comment>
+      <comment>
+         <val lang="en_US">Internal Server Error</val>
+      </comment>
+      <val lang="zh_CN">Internal Server Error</val>
+   </key>
+   <key distribution="webauthor" value="File_uploaded_successfully">
+      <comment>Message shown on file upload success</comment>
+      <comment>
+         <val lang="en_US">File uploaded successfully</val>
+      </comment>
+      <val lang="zh_CN">File uploaded successfully</val>
+   </key>
+   <key distribution="webauthor" value="Cannot_disable_plugin">
+      <comment>Message shown if failed to disable plugin</comment>
+      <comment>
+         <val lang="en_US">Cannot disable plugin.</val>
+      </comment>
+      <val lang="zh_CN">Cannot disable plugin.</val>
+   </key>
+   <key distribution="webauthor" value="Use_server_settings">
+      <comment>The 'Use server settings' option for Proxy configuration</comment>
+      <comment>
+         <val lang="en_US">Use server settings</val>
+      </comment>
+      <val lang="zh_CN">Use server settings</val>
+   </key>
+   <key distribution="webauthor" value="Filename_already_exists">
+      <comment>Error shown if filename already exists</comment>
+      <comment>
+         <val lang="en_US">Filename already exists!</val>
+      </comment>
+      <val lang="zh_CN">Filename already exists!</val>
+   </key>
+   <key distribution="webauthor" value="Could_not_create_file">
+      <comment>Error shown if file could not be created</comment>
+      <comment>
+         <val lang="en_US">File ${0} could not be created.</val>
+      </comment>
+      <val lang="zh_CN">File ${0} could not be created.</val>
+   </key>
+   <key distribution="webauthor" value="Insert_text_failed">
+      <comment>Error shown if insert text fails.</comment>
+      <comment>
+         <val lang="en_US">Insert text failed</val>
+      </comment>
+      <val lang="zh_CN">Insert text failed</val>
+   </key>
+   <key distribution="webauthor" value="Remove_text_failed">
+      <comment>Error shown if remove text fails.</comment>
+      <comment>
+         <val lang="en_US">Remove text failed</val>
+      </comment>
+      <val lang="zh_CN">Remove text failed</val>
+   </key>
+   <key distribution="webauthor" value="Session_expired">
+      <comment>Error shown when the user's session has expired</comment>
+      <comment>
+         <val lang="en_US">Your session has expired.</val>
+      </comment>
+      <val lang="zh_CN">Your session has expired.</val>
+   </key>
+   <key distribution="webauthor" value="Permission_denied">
+      <comment>Generic permission denied error message</comment>
+      <comment>
+         <val lang="en_US">Permission denied</val>
+      </comment>
+      <val lang="zh_CN">Permission denied</val>
+   </key>
+   <key distribution="webauthor" value="Error_reading_reference_target">
+      <comment>Error reading the reference target</comment>
+      <comment>
+         <val lang="en_US">Error reading the reference target:</val>
+      </comment>
+      <val lang="zh_CN">Error reading the reference target:</val>
+   </key>
+   <key distribution="webauthor" value="Document_could_not_be_saved">
+      <comment>Error shown if document could not be saved</comment>
+      <comment>
+         <val lang="en_US">Document could not be saved</val>
+      </comment>
+      <val lang="zh_CN">Document could not be saved</val>
+   </key>
+   <key distribution="webauthor" value="File_saved">
+      <comment>Message shown if file was successfully saved</comment>
+      <comment>
+         <val lang="en_US">File saved</val>
+      </comment>
+      <val lang="zh_CN">File saved</val>
+   </key>
+   <key distribution="webauthor" value="File_browsing_failed">
+      <comment>Error shown when file browsing fails.</comment>
+      <comment>
+         <val lang="en_US">File browsing failed</val>
+      </comment>
+      <val lang="zh_CN">File browsing failed</val>
+   </key>
+   <key distribution="webauthor" value="File_browsing_not_supported">
+      <comment>Error shown when file browsing fails.</comment>
+      <comment>
+         <val lang="en_US">File browsing is not supported by the current protocol</val>
+      </comment>
+      <val lang="zh_CN">File browsing is not supported by the current protocol</val>
+   </key>
+   <key distribution="webauthor" value="Unable_to_format_date_with_format">
+      <comment>Error shown when failed to format date with a certain format</comment>
+      <comment>
+         <val lang="en_US">Unable to format date: ${0} with format ${1}</val>
+      </comment>
+      <val lang="zh_CN">Unable to format date: ${0} with format ${1}</val>
+   </key>
+   <key distribution="webauthor" value="Unable_to_parse_date">
+      <comment>Error shown if unable to parse a certain date</comment>
+      <comment>
+         <val lang="en_US">Unable to parse date: ${0}</val>
+      </comment>
+      <val lang="zh_CN">Unable to parse date: ${0}</val>
+   </key>
+   <key distribution="webauthor" value="Administration_Page">
+      <comment>Header of administration page</comment>
+      <comment>
+         <val lang="en_US">Administration Page</val>
+      </comment>
+      <val lang="zh_CN">Administration Page</val>
+   </key>
+   <key distribution="webauthor" value="The_document_is_valid">
+      <comment>The document is valid in the xml sense.</comment>
+      <comment>
+         <val lang="en_US">The document is valid</val>
+      </comment>
+      <val lang="zh_CN">The document is valid</val>
+   </key>
+   <key value="Column_width_no_measuring_units_value_incorrect">
+      <comment>Error reported when the CALS table column widths are not numbers (maybe they are floating
+            point).</comment>
+      <comment>
+         <val lang="en_US">The column width ({0}) must not contain measuring units.</val>
+      </comment>
+      <val lang="zh_CN">The column width ({0}) must not contain measuring units.</val>
+   </key>
+   <key value="Please_choose_a_file_template">
+      <comment>Error message presented when the Create button is pressed in the dialog that creates topics but no
+            template was selected.</comment>
+      <comment>
+         <val lang="en_US">Please choose a file template.</val>
+      </comment>
+      <val lang="zh_CN">Please choose a file template.</val>
+   </key>
+   <key value="Lock_floating_license">
+      <comment>Lock floating license</comment>
+      <comment>
+         <val lang="en_US">Lock floating license</val>
+      </comment>
+      <val lang="zh_CN">Lock floating license</val>
+   </key>
+   <key value="Unlock_floating_license">
+      <comment>Unlock floating license</comment>
+      <comment>
+         <val lang="en_US">Unlock floating license</val>
+      </comment>
+      <val lang="zh_CN">Unlock floating license</val>
+   </key>
+   <key value="The_line_contains_the_following_string">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">The line contains the following string: "{0}".</val>
+      </comment>
+      <val lang="zh_CN">The line contains the following string: "{0}".</val>
+   </key>
+   <key value="Definition_location">
+      <comment>Label used for the key references table, which contains the location where the key is
+            defined.</comment>
+      <comment>
+         <val lang="en_US">Definition location</val>
+      </comment>
+      <val lang="zh_CN">Definition location</val>
+   </key>
+   <key value="Wrong_indentation_occured_for_the_line_number">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">Wrong indentation occurred for the line number: {0}.</val>
+      </comment>
+      <val lang="zh_CN">Wrong indentation occurred for the line number: {0}.</val>
+   </key>
+   <key value="Vendor">
+      <comment>Plugin's vendor.</comment>
+      <comment>
+         <val lang="en_US">Vendor</val>
+      </comment>
+      <val lang="zh_CN">Vendor</val>
+   </key>
+   <key value="Topic_type">
+      <comment>Label in the "Fast Create Topics" dialog.</comment>
+      <comment>
+         <val lang="en_US">Topic type:</val>
+      </comment>
+      <val lang="zh_CN">Topic type:</val>
+   </key>
+   <key value="Add_created_topic_relative_to_selected_topic">
+      <comment>Option to add a new hierarchy of topics as child or sibling to the selected topic.</comment>
+      <comment>
+         <val lang="en_US">Add created topic hierarchy relative to the selection as:</val>
+      </comment>
+      <val lang="zh_CN">Add created topic hierarchy relative to the selection as:</val>
+   </key>
+   <key value="Titles_are_used_to_generate_file_names.">
+      <comment>Message presented to the user inside Fast Create Topics.</comment>
+      <comment>
+         <val lang="en_US">Titles are used to generate file names.</val>
+      </comment>
+      <val lang="zh_CN">Titles are used to generate file names.</val>
+   </key>
+   <key value="Fast_create_topics_first_helper">
+      <comment>The first helper label from the "Fast Create Topics" dialog.</comment>
+      <comment>
+         <val lang="en_US">You can create multiple topics at once. Enter the topic titles, one per line, and use indents
+            (Tab or Space characters) to organize the topics hierarchically.</val>
+      </comment>
+      <val lang="zh_CN">You can create multiple topics at once. Enter the topic titles, one per line, and use indents
+            (Tab or Space characters) to organize the topics hierarchically.</val>
+   </key>
+   <key value="Fast_create_topics_second_helper">
+      <comment>The second helper label from the "Fast Create Topics" dialog.</comment>
+      <comment>
+         <val lang="en_US">The topic references can be organized at a later time by using the "Promote/Demote" and "Move
+            Up/Down" contextual menu actions from the DITA Maps Manager, or through drag-and-drop.</val>
+      </comment>
+      <val lang="zh_CN">The topic references can be organized at a later time by using the "Promote/Demote" and "Move
+            Up/Down" contextual menu actions from the DITA Maps Manager, or through drag-and-drop.</val>
+   </key>
+   <key value="Fast_create_topics_third_helper">
+      <comment>The third helper label from the "Fast Create Topics" dialog.</comment>
+      <comment>
+         <val lang="en_US">Each topic can be converted at a later time to another type by using the
+            "Refactoring/Convert..." contextual menu actions from the DITA Maps Manager.</val>
+      </comment>
+      <val lang="zh_CN">Each topic can be converted at a later time to another type by using the
+            "Refactoring/Convert..." contextual menu actions from the DITA Maps Manager.</val>
+   </key>
+   <key value="Fast_create_topics">
+      <comment>The name of the dialog "Fast Create Topics" from DMM.</comment>
+      <comment>
+         <val lang="en_US">Fast Create Topics</val>
+      </comment>
+      <val lang="zh_CN">Fast Create Topics</val>
+   </key>
+   <key value="Save_results_as_html">
+      <comment>Saves the results from the current result tab as HTML.</comment>
+      <comment>
+         <val lang="en_US">Save Results as HTML</val>
+      </comment>
+      <val lang="zh_CN">Save Results as HTML</val>
+   </key>
+   <key value="Cannot_open_as_image_url">
+      <comment>The message displayed when the Preview view cannot render a file as an image (unknown or invalid image
+            file). The variable {0} will be replaced with the address (URL) of the image (like
+            "file:///path/to/file.ext") and must be on a separate text line.</comment>
+      <comment>
+         <val lang="en_US">Cannot open as an image:\n{0}</val>
+      </comment>
+      <val lang="zh_CN">Cannot open as an image:\n{0}</val>
+   </key>
+   <key value="Not_valid_image_file_or_unsupported_format">
+      <comment>The 2nd part of the message displayed when the Preview View cannot read a resource as an image
+            file.</comment>
+      <comment>
+         <val lang="en_US">This is not a valid image file or its format is not currently supported.</val>
+      </comment>
+      <val lang="zh_CN">This is not a valid image file or its format is not currently supported.</val>
+   </key>
+   <key value="Could_not_load_project_options">
+      <comment>Message shown when the project options could not be loaded.</comment>
+      <comment>
+         <val lang="en_US">Could not load the project options.</val>
+      </comment>
+      <val lang="zh_CN">Could not load the project options.</val>
+   </key>
+   <key value="Confirm_file_name">
+      <comment>Title of the dialog presented to user if file name wasn't modified.</comment>
+      <comment>
+         <val lang="en_US">Confirm new file name</val>
+      </comment>
+      <val lang="zh_CN">Confirm new file name</val>
+   </key>
+   <key value="Confirm_file_name_message">
+      <comment>Message presented to user if file name wasn't modified.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to save the newly created file as "{0}"?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to save the newly created file as "{0}"?</val>
+   </key>
+   <key value="Convert_resource">
+      <comment>The name of a submenu from DMM contextual menu.</comment>
+      <comment>
+         <val lang="en_US">Convert resource</val>
+      </comment>
+      <val lang="zh_CN">Convert resource</val>
+   </key>
+   <key value="Column_width_value_incorrect">
+      <comment>Error reported when the CALS table column widths are not numbers (maybe they are floating
+            point).</comment>
+      <comment>
+         <val lang="en_US">The column width ({0}) must be a mixture of proportional and measuring unit floating point
+            numbers.</val>
+      </comment>
+      <val lang="zh_CN">The column width ({0}) must be a mixture of proportional and measuring unit floating point
+            numbers.</val>
+   </key>
+   <key value="Reject_change_and_move_to_next" distribution="common">
+      <comment>Name of an action available in 'Reject changes' drop-down button.</comment>
+      <comment>
+         <val lang="en_US">Reject Change(s) and Move to Next</val>
+      </comment>
+      <val lang="zh_CN">Reject Change(s) and Move to Next</val>
+   </key>
+   <key value="Accept_change_and_move_to_next" distribution="common">
+      <comment>Name of an action available in 'Accept changes' drop-down button.</comment>
+      <comment>
+         <val lang="en_US">Accept Change(s) and Move to Next</val>
+      </comment>
+      <val lang="zh_CN">Accept Change(s) and Move to Next</val>
+   </key>
+   <key value="Validation_successful">
+      <comment>Validation status.</comment>
+      <comment>
+         <val lang="en_US">Validation successful</val>
+      </comment>
+      <val lang="zh_CN">Validation successful</val>
+   </key>
+   <key value="Edit_attribute_value">
+      <comment>Tooltip message.</comment>
+      <comment>
+         <val lang="en_US">Edit attribute value</val>
+      </comment>
+      <val lang="zh_CN">Edit attribute value</val>
+   </key>
+   <key value="Validation_failed">
+      <comment>Validation status.</comment>
+      <comment>
+         <val lang="en_US">Validation failed</val>
+      </comment>
+      <val lang="zh_CN">Validation failed</val>
+   </key>
+   <key value="Validation_in_progress">
+      <comment>Validation status.</comment>
+      <comment>
+         <val lang="en_US">Validation in progress</val>
+      </comment>
+      <val lang="zh_CN">Validation in progress</val>
+   </key>
+   <key value="Review_author_name">
+      <comment>Description for an editor variable.</comment>
+      <comment>
+         <val lang="en_US">The author name from the "Review" preferences page.</val>
+      </comment>
+      <val lang="zh_CN">The author name from the "Review" preferences page.</val>
+   </key>
+   <key value="Filter_hint_text_or_shortcut">
+      <comment>Menu shortcut keys filter hint.</comment>
+      <comment>
+         <val lang="en_US">Filter by typing some text or by pressing a shortcut key combination</val>
+      </comment>
+      <val lang="zh_CN">Filter by typing some text or by pressing a shortcut key combination</val>
+   </key>
+   <key value="Randomize_XML_text_content_warning">
+      <comment>Warning for when randomizing the text content of an XML document.</comment>
+      <comment>
+         <val lang="en_US">It is strongly recommended that you create copies of the XML files to be processed and run
+            this operation on them rather than the originals. Otherwise, the original content will be lost.</val>
+      </comment>
+      <val lang="zh_CN">It is strongly recommended that you create copies of the XML files to be processed and run
+            this operation on them rather than the originals. Otherwise, the original content will be lost.</val>
+   </key>
+   <key value="Preserve_space_elements_explanation">
+      <comment>Explanation for preserve space elements in the /Editor/Format/XML option page.</comment>
+      <comment>
+         <val lang="en_US">Element names or simple XPath expressions (name and attribute tests) for which the contained
+            white spaces are preserved</val>
+      </comment>
+      <val lang="zh_CN">Element names or simple XPath expressions (name and attribute tests) for which the contained
+            white spaces are preserved</val>
+   </key>
+   <key value="Default_space_elements_explanation">
+      <comment>Explanation for default space elements in the /Editor/Format/XML option page.</comment>
+      <comment>
+         <val lang="en_US">Element names or simple XPath expressions (name and attribute tests) for which the contained
+            white spaces are normalized</val>
+      </comment>
+      <val lang="zh_CN">Element names or simple XPath expressions (name and attribute tests) for which the contained
+            white spaces are normalized</val>
+   </key>
+   <key value="Mixed_content_elements_explanation">
+      <comment>Explanation for mixed content elements in the /Editor/Format/XML option page.</comment>
+      <comment>
+         <val lang="en_US">Element names or simple XPath expressions (name and attribute tests) for which line breaks are
+            not inserted between adjacent child elements</val>
+      </comment>
+      <val lang="zh_CN">Element names or simple XPath expressions (name and attribute tests) for which line breaks are
+            not inserted between adjacent child elements</val>
+   </key>
+   <key value="line_break_elements_explanation">
+      <comment>Explanation for line break elemnts in the /Editor/Format/XML option page.</comment>
+      <comment>
+         <val lang="en_US">Element names or simple XPath expressions (name and attribute tests) for which line breaks are
+            inserted before or/and after them</val>
+      </comment>
+      <val lang="zh_CN">Element names or simple XPath expressions (name and attribute tests) for which line breaks are
+            inserted before or/and after them</val>
+   </key>
+   <key value="Xquery_empty_sequence_returned">
+      <comment>Xquery transformation exception message</comment>
+      <comment>
+         <val lang="en_US">Your query returned an empty sequence.</val>
+      </comment>
+      <val lang="zh_CN">Your query returned an empty sequence.</val>
+   </key>
+   <key value="Suggestions">
+      <comment>Spell checker suggestions</comment>
+      <comment>
+         <val lang="en_US">Suggestions</val>
+      </comment>
+      <val lang="zh_CN">Suggestions</val>
+   </key>
+   <key value="Restore_cursor_position">
+      <comment>Option name.</comment>
+      <comment>
+         <val lang="en_US">Restore cursor position</val>
+      </comment>
+      <val lang="zh_CN">Restore cursor position</val>
+   </key>
+   <key value="Misspelled_word">
+      <comment>Spelling highlight</comment>
+      <comment>
+         <val lang="en_US">Misspelled word</val>
+      </comment>
+      <val lang="zh_CN">Misspelled word</val>
+   </key>
+   <key value="Change_scenario_or_add_file_reference_in_hierarchy">
+      <comment> Partial warning message to be shown when the current edited file is not part of the main files
+            hierarchy. NOTE: The parameter can be one of the following: - 'Schematron', 'WSDL', 'ANT' which should not
+            be translated - 'XML Schema', 'XSL Stylesheet' which are already internationalized. </comment>
+      <comment>
+         <val lang="en_US">Please change your validation scenario or add a reference to the current {0} file in the main
+            file hierarchy.</val>
+      </comment>
+      <val lang="zh_CN">Please change your validation scenario or add a reference to the current {0} file in the main
+            file hierarchy.</val>
+   </key>
+   <key value="Main_files_defined_in_validation_scenario">
+      <comment> Partial warning message to be shown when the current edited file is not part of the main files
+            hierarchy. NOTE: The parameter can be one of the following: - 'Schematron', 'WSDL', 'ANT' which should not
+            be translated - 'XML Schema', 'XSL Stylesheet' which are already internationalized. </comment>
+      <comment>
+         <val lang="en_US">The main {0} files are defined in the associated validation scenario.</val>
+      </comment>
+      <val lang="zh_CN">The main {0} files are defined in the associated validation scenario.</val>
+   </key>
+   <key value="Current_file_not_part_of_main_files_dependencies_graph">
+      <comment> Partial warning message to be shown when the current edited file is not part of the main files
+            hierarchy. NOTE: The parameter can be one of the following: - 'Schematron', 'WSDL', 'ANT' which should not
+            be translated - 'XML Schema', 'XSL Stylesheet' which are already internationalized. </comment>
+      <comment>
+         <val lang="en_US">The current {0} file is not part of the dependencies graph computed for the main {0}
+            files.</val>
+      </comment>
+      <val lang="zh_CN">The current {0} file is not part of the dependencies graph computed for the main {0}
+            files.</val>
+   </key>
+   <key value="XSLT_Stylesheet">
+      <comment>XSLT Stylesheet.</comment>
+      <comment>
+         <val lang="en_US">XSLT Stylesheet</val>
+      </comment>
+      <val lang="zh_CN">XSLT Stylesheet</val>
+   </key>
+   <key value="Changes_made_by_others">
+      <comment>Message in the "Compare Directories (3-way)" dialog</comment>
+      <comment>
+         <val lang="en_US">Changes made by others</val>
+      </comment>
+      <val lang="zh_CN">Changes made by others</val>
+   </key>
+   <key value="Ancestor">
+      <comment>Entry in File menu and label for the combo box that allows user to specify the ancestor URL for
+            three-way comparison in Diff Files tool.</comment>
+      <comment>
+         <val lang="en_US">Base</val>
+      </comment>
+      <val lang="zh_CN">Base</val>
+   </key>
+   <key value="Your_changes">
+      <comment>Message in the "Compare Directories (3-way)" dialog</comment>
+      <comment>
+         <val lang="en_US">Your changes</val>
+      </comment>
+      <val lang="zh_CN">Your changes</val>
+   </key>
+   <key value="Right_side_directory">
+      <comment>Label for personal modifications directory (used in "Compare Directories (3-way)" dialog)</comment>
+      <comment>
+         <val lang="en_US">Directory with changes made by others</val>
+      </comment>
+      <val lang="zh_CN">Directory with changes made by others</val>
+   </key>
+   <key value="Merge_base_dir_not_directory">
+      <comment> Exception message in the Merge dialog. </comment>
+      <comment>
+         <val lang="en_US">The specified base file is not a directory.</val>
+      </comment>
+      <val lang="zh_CN">The specified base file is not a directory.</val>
+   </key>
+   <key value="Merge_left_dir_not_directory">
+      <comment> Exception message in the Merge dialog. </comment>
+      <comment>
+         <val lang="en_US">The specified directory containing your changes is a file.</val>
+      </comment>
+      <val lang="zh_CN">The specified directory containing your changes is a file.</val>
+   </key>
+   <key value="Merge_right_dir_not_directory">
+      <comment> Exception message in the Merge dialog. </comment>
+      <comment>
+         <val lang="en_US">The specified directory containing changes made by others is a file.</val>
+      </comment>
+      <val lang="zh_CN">The specified directory containing changes made by others is a file.</val>
+   </key>
+   <key value="Merge_three_way_description">
+      <comment>Explanation message in the Merge dialog.</comment>
+      <comment>
+         <val lang="en_US">Specify the original base file set (ancestor of the modifications) and the directories that
+            contain the altered file sets.</val>
+      </comment>
+      <val lang="zh_CN">Specify the original base file set (ancestor of the modifications) and the directories that
+            contain the altered file sets.</val>
+   </key>
+   <key value="Merge_base_directory_description">
+      <comment>Explanation message in the Merge dialog.</comment>
+      <comment>
+         <val lang="en_US">original file set</val>
+      </comment>
+      <val lang="zh_CN">original file set</val>
+   </key>
+   <key value="Merge_left_side_directory_description">
+      <comment>Explanation message in the Merge dialog.</comment>
+      <comment>
+         <val lang="en_US">will be shown in the left panel</val>
+      </comment>
+      <val lang="zh_CN">will be shown in the left panel</val>
+   </key>
+   <key value="Merge_right_side_directory_description">
+      <comment>Explanation message in the Merge dialog.</comment>
+      <comment>
+         <val lang="en_US">will be shown in the right panel</val>
+      </comment>
+      <val lang="zh_CN">will be shown in the right panel</val>
+   </key>
+   <key value="Merge_specify_base_dir">
+      <comment>Exception message in the Merge dialog. </comment>
+      <comment>
+         <val lang="en_US">You must specify a base directory</val>
+      </comment>
+      <val lang="zh_CN">You must specify a base directory</val>
+   </key>
+   <key value="Merge_specify_left_dir">
+      <comment>Exception message in the Merge dialog. </comment>
+      <comment>
+         <val lang="en_US">You must specify the directory containing your changes</val>
+      </comment>
+      <val lang="zh_CN">You must specify the directory containing your changes</val>
+   </key>
+   <key value="Merge_specify_right_dir">
+      <comment>Exception message in the Merge dialog. </comment>
+      <comment>
+         <val lang="en_US">You must specify the directory containing changes made by others</val>
+      </comment>
+      <val lang="zh_CN">You must specify the directory containing changes made by others</val>
+   </key>
+   <key value="Merge_base_dir_not_exists">
+      <comment>Exception message in the Merge dialog. </comment>
+      <comment>
+         <val lang="en_US">The specified base directory does not exist</val>
+      </comment>
+      <val lang="zh_CN">The specified base directory does not exist</val>
+   </key>
+   <key value="Merge_left_dir_not_exists">
+      <comment>Exception message in the Merge dialog. </comment>
+      <comment>
+         <val lang="en_US">The specified directory containing your changes does not exist</val>
+      </comment>
+      <val lang="zh_CN">The specified directory containing your changes does not exist</val>
+   </key>
+   <key value="Merge_right_dir_not_exists">
+      <comment>Exception message in the Merge dialog. </comment>
+      <comment>
+         <val lang="en_US">The specified directory containing changes made by others does not exist</val>
+      </comment>
+      <val lang="zh_CN">The specified directory containing changes made by others does not exist</val>
+   </key>
+   <key value="Left_side_directory">
+      <comment>Label for personal modifications directory (used in "Compare Directories (3-way)" dialog)</comment>
+      <comment>
+         <val lang="en_US">Directory with your changes</val>
+      </comment>
+      <val lang="zh_CN">Directory with your changes</val>
+   </key>
+   <key value="Named_directory_does_not_exist">
+      <comment>Exception message in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">The directory {0} does not exist.</val>
+      </comment>
+      <val lang="zh_CN">The directory {0} does not exist.</val>
+   </key>
+   <key value="Merged_directories_not_null">
+      <comment>Exception message in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">The merged directories must not be null.</val>
+      </comment>
+      <val lang="zh_CN">The merged directories must not be null.</val>
+   </key>
+   <key value="Compare_directories_three_way">
+      <comment>Title for dialog that compares directories 3-way</comment>
+      <comment>
+         <val lang="en_US">Compare Directories Against a Base (3-way) </val>
+      </comment>
+      <val lang="zh_CN">Compare Directories Against a Base (3-way) </val>
+   </key>
+   <key value="Confirm_close_dialog">
+      <comment>Message asking the user to confirm the closing of a dialog</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to close the dialog?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to close the dialog?</val>
+   </key>
+   <key value="Merge_changes">
+      <comment>Name of a dialog</comment>
+      <comment>
+         <val lang="en_US">Merge changes</val>
+      </comment>
+      <val lang="zh_CN">Merge changes</val>
+   </key>
+   <key value="Overwrite_your_changes">
+      <comment>Name of a contextual action in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Overwrite your changes</val>
+      </comment>
+      <val lang="zh_CN">Overwrite your changes</val>
+   </key>
+   <key value="Show_only_files_modified_by_others">
+      <comment>Text for a toggle button in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Show only files modified by others</val>
+      </comment>
+      <val lang="zh_CN">Show only files modified by others</val>
+   </key>
+   <key value="Show_only_files_modified_by_you_and_others">
+      <comment>Text for a toggle button in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Show only files modified by you and others</val>
+      </comment>
+      <val lang="zh_CN">Show only files modified by you and others</val>
+   </key>
+   <key value="Show_only_files_modified_by_you">
+      <comment>Text for a toggle button in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Show only files modified by you</val>
+      </comment>
+      <val lang="zh_CN">Show only files modified by you</val>
+   </key>
+   <key value="Show_all_files">
+      <comment>Text for a toggle button in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Show all files</val>
+      </comment>
+      <val lang="zh_CN">Show all files</val>
+   </key>
+   <key value="not_modified/integrated">
+      <comment>Status description for merge table entries in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Unmodified</val>
+      </comment>
+      <val lang="zh_CN">Unmodified</val>
+   </key>
+   <key value="added_by_you">
+      <comment>Status description for merge table entries in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Added by you</val>
+      </comment>
+      <val lang="zh_CN">Added by you</val>
+   </key>
+   <key value="added_by_others">
+      <comment>Status description for merge table entries in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Added by others</val>
+      </comment>
+      <val lang="zh_CN">Added by others</val>
+   </key>
+   <key value="deleted_by_you">
+      <comment>Status description for merge table entries in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Deleted by you</val>
+      </comment>
+      <val lang="zh_CN">Deleted by you</val>
+   </key>
+   <key value="deleted_by_others">
+      <comment>Status description for merge table entries in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Deleted by others</val>
+      </comment>
+      <val lang="zh_CN">Deleted by others</val>
+   </key>
+   <key value="deleted_by_you_and_by_others">
+      <comment>Status description for merge table entries in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Deleted by you and by others</val>
+      </comment>
+      <val lang="zh_CN">Deleted by you and by others</val>
+   </key>
+   <key value="deleted_by_you_and_modified_by_others">
+      <comment>Status description for merge table entries in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Deleted by you and modified by others</val>
+      </comment>
+      <val lang="zh_CN">Deleted by you and modified by others</val>
+   </key>
+   <key value="modified_by_you">
+      <comment>Status description for merge table entries in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Modified by you</val>
+      </comment>
+      <val lang="zh_CN">Modified by you</val>
+   </key>
+   <key value="Compare_directories">
+      <comment>Title for dialog that compares directories</comment>
+      <comment>
+         <val lang="en_US">Compare Directories</val>
+      </comment>
+      <val lang="zh_CN">Compare Directories</val>
+   </key>
+   <key value="modified_by_others">
+      <comment>Status description for merge table entries in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Modified by others</val>
+      </comment>
+      <val lang="zh_CN">Modified by others</val>
+   </key>
+   <key value="modified_by_you_and_by_others">
+      <comment>Status description for merge table entries in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Modified by you and by others</val>
+      </comment>
+      <val lang="zh_CN">Modified by you and by others</val>
+   </key>
+   <key value="modified_by_you_and_deleted_by_others">
+      <comment>Status description for merge table entries in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Modified by you and deleted by others</val>
+      </comment>
+      <val lang="zh_CN">Modified by you and deleted by others</val>
+   </key>
+   <key value="added_by_you_and_by_others">
+      <comment>Status description for merge table entries in the Merge dialog</comment>
+      <comment>
+         <val lang="en_US">Added by you and by others</val>
+      </comment>
+      <val lang="zh_CN">Added by you and by others</val>
+   </key>
+   <key value="Randomize_text_content" distribution="common">
+      <comment>The name of an action</comment>
+      <comment>
+         <val lang="en_US">Randomize XML text content</val>
+      </comment>
+      <val lang="zh_CN">Randomize XML text content</val>
+   </key>
+   <key value="Cannot_convert_md_to_dita">
+      <comment>Message shown when "Convert Markup to DITA" action fails.</comment>
+      <comment>
+         <val lang="en_US">Cannot convert the Markdown document to DITA</val>
+      </comment>
+      <val lang="zh_CN">Cannot convert the Markdown document to DITA</val>
+   </key>
+   <key value="Convert_resource_from_to">
+      <comment>Message shown in the ""Convert Markup to DITA" preview changes dialog.</comment>
+      <comment>
+         <val lang="en_US">Convert "{0}" to "{1}".</val>
+      </comment>
+      <val lang="zh_CN">Convert "{0}" to "{1}".</val>
+   </key>
+   <key value="Delete_markdown_file">
+      <comment>"Delete Markdown file" checkbox text.</comment>
+      <comment>
+         <val lang="en_US">Delete Markdown file</val>
+      </comment>
+      <val lang="zh_CN">Delete Markdown file</val>
+   </key>
+   <key value="Convert_md_to_dita">
+      <comment>"Convert Markdown to DITA topic" action name.</comment>
+      <comment>
+         <val lang="en_US">Convert Markdown to DITA topic</val>
+      </comment>
+      <val lang="zh_CN">Convert Markdown to DITA topic</val>
+   </key>
+   <key value="Hide_preview" distribution="common">
+      <comment>Hide preview</comment>
+      <comment>
+         <val lang="en_US">Hide preview</val>
+      </comment>
+      <val lang="zh_CN">Hide preview</val>
+   </key>
+   <key value="Show_preview" distribution="common">
+      <comment>Show preview</comment>
+      <comment>
+         <val lang="en_US">Show preview</val>
+      </comment>
+      <val lang="zh_CN">Show preview</val>
+   </key>
+   <key value="play_media_desc">
+      <comment>Play media resource action description.</comment>
+      <comment>
+         <val lang="en_US">Play the media resource in the associated system application.</val>
+      </comment>
+      <val lang="zh_CN">Play the media resource in the associated system application.</val>
+   </key>
+   <key distribution="eclipse" value="automatic.info.name">
+      <comment>Automatic Info</comment>
+      <comment>
+         <val lang="en_US">Automatic Info</val>
+      </comment>
+      <val lang="zh_CN">Automatic Info</val>
+   </key>
+   <key value="Infos">
+      <comment>Plural for "Info".</comment>
+      <comment>
+         <val lang="en_US">Info</val>
+      </comment>
+      <val lang="zh_CN">Info</val>
+   </key>
+   <key value="Validation_info_highlight_color">
+      <comment>Validation info highlight color option.</comment>
+      <comment>
+         <val lang="en_US">Validation info highlight color</val>
+      </comment>
+      <val lang="zh_CN">Validation info highlight color</val>
+   </key>
+   <key value="Report_multiple_refs_to_same_topic">
+      <comment>Checkbox in a dialog used to validate DITA Maps. If a map refers more than once to a topic, enabling
+            this checkbox this will report a validation warning.</comment>
+      <comment>
+         <val lang="en_US">Report multiple references to the same topic</val>
+      </comment>
+      <val lang="zh_CN">Report multiple references to the same topic</val>
+   </key>
+   <key value="Days_left_for_evaluation">
+      <comment>The number of days left until the evaluation period expires.</comment>
+      <comment>
+         <val lang="en_US">Days left for evaluation: {0}</val>
+      </comment>
+      <val lang="zh_CN">Days left for evaluation: {0}</val>
+   </key>
+   <key value="md.content-type"
+        skipTranslation="true"
+        distribution="eclipse">
+      <comment>Markdown Content type</comment>
+      <comment>
+         <val lang="en_US">Oxygen Markdown</val>
+      </comment>
+      <val lang="zh_CN">Oxygen Markdown</val>
+   </key>
+   <key value="Markdown_Editor" distribution="eclipse">
+      <comment>Markdown File</comment>
+      <comment>
+         <val lang="en_US">Oxygen Markdown Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen Markdown Editor</val>
+   </key>
+   <key value="Output_class_description_iframe">
+      <comment>Output class description for YouTube iframe.</comment>
+      <comment>
+         <val lang="en_US">embed remote HTML frame, such as a YouTube video</val>
+      </comment>
+      <val lang="zh_CN">embed remote HTML frame, such as a YouTube video</val>
+   </key>
+   <key value="Insert_media">
+      <comment>Title for the "Insert Media" dialog.</comment>
+      <comment>
+         <val lang="en_US">Insert Media</val>
+      </comment>
+      <val lang="zh_CN">Insert Media</val>
+   </key>
+   <key value="License_terms_must_be_accepted">
+      <comment>Message that informs the user he must accept all license terms before continuing.</comment>
+      <comment>
+         <val lang="en_US">All terms of the End User License Agreement must be accepted before continuing.</val>
+      </comment>
+      <val lang="zh_CN">All terms of the End User License Agreement must be accepted before continuing.</val>
+   </key>
+   <key value="taskList_description" distribution="common">
+      <comment>Insert Task List action description.</comment>
+      <comment>
+         <val lang="en_US">Insert a task list</val>
+      </comment>
+      <val lang="zh_CN">Insert a task list</val>
+   </key>
+   <key value="Content_language">
+      <comment>An option in the Open/Find Resource settings. The language of the indexed content.</comment>
+      <comment>
+         <val lang="en_US">Content language</val>
+      </comment>
+      <val lang="zh_CN">Content language</val>
+   </key>
+   <key value="Current_ui_language">
+      <comment>A value in a combo box. It represents the current language that is used for the application UI. </comment>
+      <comment>
+         <val lang="en_US">Current UI language</val>
+      </comment>
+      <val lang="zh_CN">Current UI language</val>
+   </key>
+   <key value="Generic_language_no_stemming">
+      <comment>A value in a language selection combo box. By selecting this, no word stemming is performed when
+            creating the index.</comment>
+      <comment>
+         <val lang="en_US">Generic language (no stemming)</val>
+      </comment>
+      <val lang="zh_CN">Generic language (no stemming)</val>
+   </key>
+   <key value="Report_invalid_attr_vals_found_in_doc">
+      <comment>Label for an option in the Profiling and Conditional text options page.</comment>
+      <comment>
+         <val lang="en_US">Report invalid profiling attribute values</val>
+      </comment>
+      <val lang="zh_CN">Report invalid profiling attribute values</val>
+   </key>
+   <key value="Allow_contributing_extra_attr_vals_found_in_doc">
+      <comment>Label for an option in the Profiling and Conditional text options page.</comment>
+      <comment>
+         <val lang="en_US">Allow contributing extra profiling attribute values</val>
+      </comment>
+      <val lang="zh_CN">Allow contributing extra profiling attribute values</val>
+   </key>
+   <key value="Xslt_editor_content_completion_options">
+      <comment>Text associated with a link label to the Editor/Content Completion/XSLT option page</comment>
+      <comment>
+         <val lang="en_US">XSLT editor content completion options</val>
+      </comment>
+      <val lang="zh_CN">XSLT editor content completion options</val>
+   </key>
+   <key value="Export_dita_topic" distribution="common">
+      <comment>Markdown preview page, action name</comment>
+      <comment>
+         <val lang="en_US">Export as DITA Topic</val>
+      </comment>
+      <val lang="zh_CN">Export as DITA Topic</val>
+   </key>
+   <key value="Export_xdita_topic" distribution="common">
+      <comment>Markdown preview page, action name</comment>
+      <comment>
+         <val lang="en_US">Export as XDITA Topic</val>
+      </comment>
+      <val lang="zh_CN">Export as XDITA Topic</val>
+   </key>
+   <key value="Export_html_source" distribution="common">
+      <comment>Markdown preview page, action name</comment>
+      <comment>
+         <val lang="en_US">Export as HTML</val>
+      </comment>
+      <val lang="zh_CN">Export as HTML</val>
+   </key>
+   <key value="Activation_xpath" distribution="common">
+      <comment>Action mode panel message.</comment>
+      <comment>
+         <val lang="en_US">Activation XPath</val>
+      </comment>
+      <val lang="zh_CN">Activation XPath</val>
+   </key>
+   <key value="Remove_current_attribute" distribution="common">
+      <comment>Tooltip text.</comment>
+      <comment>
+         <val lang="en_US">Remove the current attribute.</val>
+      </comment>
+      <val lang="zh_CN">Remove the current attribute.</val>
+   </key>
+   <key value="Move_element_up" distribution="common">
+      <comment>Move Element Up</comment>
+      <comment>
+         <val lang="en_US">Move Element Up</val>
+      </comment>
+      <val lang="zh_CN">Move Element Up</val>
+   </key>
+   <key value="Move_element_down" distribution="common">
+      <comment>Move Element Down</comment>
+      <comment>
+         <val lang="en_US">Move Element Down</val>
+      </comment>
+      <val lang="zh_CN">Move Element Down</val>
+   </key>
+   <key value="Move_element_up_description" distribution="common">
+      <comment>Move the element at caret position, one row up.</comment>
+      <comment>
+         <val lang="en_US">Move the element at the caret position one row up.</val>
+      </comment>
+      <val lang="zh_CN">Move the element at the caret position one row up.</val>
+   </key>
+   <key value="Move_element_down_description" distribution="common">
+      <comment>Move the element at caret position, one row down.</comment>
+      <comment>
+         <val lang="en_US">Move the element at the caret position one row down.</val>
+      </comment>
+      <val lang="zh_CN">Move the element at the caret position one row down.</val>
+   </key>
+   <key value="Press_enter_to_show_available_cc_items">
+      <comment>Option in Schema Aware preferences page that controls if available content completion items are
+            displayed on enter.</comment>
+      <comment>
+         <val lang="en_US">Press Enter to show available content completion proposals</val>
+      </comment>
+      <val lang="zh_CN">Press Enter to show available content completion proposals</val>
+   </key>
+   <key value="Configure_tags_display_mode">
+      <comment>Entry in Tags Mode drop-down menu.</comment>
+      <comment>
+         <val lang="en_US">Configure Tags Display Mode</val>
+      </comment>
+      <val lang="zh_CN">Configure Tags Display Mode</val>
+   </key>
+   <key value="No_network_connection">
+      <comment>Dynamic help no network connection.</comment>
+      <comment>
+         <val lang="en_US">It is possible that you are experiencing issues with your Internet connection. If you are
+            using a proxy server, please check your proxy settings or contact your network administrator.</val>
+      </comment>
+      <val lang="zh_CN">It is possible that you are experiencing issues with your Internet connection. If you are
+            using a proxy server, please check your proxy settings or contact your network administrator.</val>
+   </key>
+   <key value="Unable_to_connect_to_link">
+      <comment>Dynamic help is unable to connect to an address.</comment>
+      <comment>
+         <val lang="en_US">Unable to connect to \n {0}</val>
+      </comment>
+      <val lang="zh_CN">Unable to connect to \n {0}</val>
+   </key>
+</translation>

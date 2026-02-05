@@ -1,0 +1,1761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="Debugger_status">
+      <comment>Debugger status toolbar.</comment>
+      <comment>
+         <val lang="en_US">Debugger Status</val>
+      </comment>
+      <val lang="zh_CN">Debugger Status</val>
+   </key>
+   <key value="Previous_message">
+      <comment>Tooltip for message dialog previous button</comment>
+      <comment>
+         <val lang="en_US">Previous message</val>
+      </comment>
+      <val lang="zh_CN">Previous message</val>
+   </key>
+   <key value="Next_message">
+      <comment>Tooltip for message dialog next button</comment>
+      <comment>
+         <val lang="en_US">Next message</val>
+      </comment>
+      <val lang="zh_CN">Next message</val>
+   </key>
+   <key value="The_following_folders_are_inaccessible">
+      <comment>Error message in directory chooser</comment>
+      <comment>
+         <val lang="en_US">The following folders are inaccessible</val>
+      </comment>
+      <val lang="zh_CN">The following folders are inaccessible</val>
+   </key>
+   <key value="SOAP" skipTranslation="true">
+      <comment>SOAP toolbar for WSDL files. Do not translate.</comment>
+      <comment>
+         <val lang="en_US">SOAP</val>
+      </comment>
+      <val lang="zh_CN">SOAP</val>
+   </key>
+   <key value="String_not_found">
+      <comment>Displayed when the search didn't find anything.</comment>
+      <comment>
+         <val lang="en_US">String not found</val>
+      </comment>
+      <val lang="zh_CN">String not found</val>
+   </key>
+   <key distribution="common" value="Toggle_fold">
+      <comment>Name for the Open fold action.</comment>
+      <comment>
+         <val lang="en_US">Toggle Fold</val>
+      </comment>
+      <val lang="zh_CN">Toggle Fold</val>
+   </key>
+   <key distribution="common" value="Collapse_other_folds">
+      <comment>Collapses other document folds that are siblings to the current one.</comment>
+      <comment>
+         <val lang="en_US">Collapse Other Folds</val>
+      </comment>
+      <val lang="zh_CN">Collapse Other Folds</val>
+   </key>
+   <key distribution="common" value="Collapse_child_folds">
+      <comment>Collapse children folds action.</comment>
+      <comment>
+         <val lang="en_US">Collapse Child Folds</val>
+      </comment>
+      <val lang="zh_CN">Collapse Child Folds</val>
+   </key>
+   <key distribution="common" value="Expand_child_folds">
+      <comment>Expand child folds action.</comment>
+      <comment>
+         <val lang="en_US">Expand Child Folds</val>
+      </comment>
+      <val lang="zh_CN">Expand Child Folds</val>
+   </key>
+   <key value="Lines_to_fold">
+      <comment>Lines to fold tooltip.</comment>
+      <comment>
+         <val lang="en_US">Lines to fold</val>
+      </comment>
+      <val lang="zh_CN">Lines to fold</val>
+   </key>
+   <key value="Styles">
+      <comment>'Styles' look and feel options.</comment>
+      <comment>
+         <val lang="en_US">Styles</val>
+      </comment>
+      <val lang="zh_CN">Styles</val>
+   </key>
+   <key value="Show_view">
+      <comment>'Show View' menu.</comment>
+      <comment>
+         <val lang="en_US">Show View</val>
+      </comment>
+      <val lang="zh_CN">Show View</val>
+   </key>
+   <key value="Enabled">
+      <comment>Generic Enabled string.</comment>
+      <comment>
+         <val lang="en_US">Enabled</val>
+      </comment>
+      <val lang="zh_CN">Enabled</val>
+   </key>
+   <key value="Incremental">
+      <comment>Checkbox in find dialog.</comment>
+      <comment>
+         <val lang="en_US">Incremental</val>
+      </comment>
+      <val lang="zh_CN">Incremental</val>
+   </key>
+   <key value="Condition">
+      <comment>Generic condition string.</comment>
+      <comment>
+         <val lang="en_US">Condition</val>
+      </comment>
+      <val lang="zh_CN">Condition</val>
+   </key>
+   <key value="Break_conditions">
+      <comment>Break conditions for debugger.</comment>
+      <comment>
+         <val lang="en_US">Break conditions</val>
+      </comment>
+      <val lang="zh_CN">Break conditions</val>
+   </key>
+   <key value="Right_click_for_options">
+      <comment>Tooltip on the toolbars.</comment>
+      <comment>
+         <val lang="en_US">Right-click for options</val>
+      </comment>
+      <val lang="zh_CN">Right-click for options</val>
+   </key>
+   <key value="Navigation">
+      <comment>Navigation toolbar.</comment>
+      <comment>
+         <val lang="en_US">Navigation</val>
+      </comment>
+      <val lang="zh_CN">Navigation</val>
+   </key>
+   <key value="Reset_layout">
+      <comment>Reset layout action added in Perspective menu.</comment>
+      <comment>
+         <val lang="en_US">Reset Layout</val>
+      </comment>
+      <val lang="zh_CN">Reset Layout</val>
+   </key>
+   <key value="Menu_bar">
+      <comment>Menu component of the editor.</comment>
+      <comment>
+         <val lang="en_US">Menu</val>
+      </comment>
+      <val lang="zh_CN">Menu</val>
+   </key>
+   <key distribution="common" value="XWatch" skipTranslation="true">
+      <comment>XWatch - Debugger view.</comment>
+      <comment>
+         <val lang="en_US">XWatch</val>
+      </comment>
+      <val lang="zh_CN">XWatch</val>
+   </key>
+   <key value="Debugger_control">
+      <comment>Debugger control.</comment>
+      <comment>
+         <val lang="en_US">Debugger control</val>
+      </comment>
+      <val lang="zh_CN">Debugger control</val>
+   </key>
+   <key value="Total_time">
+      <comment>Total time.</comment>
+      <comment>
+         <val lang="en_US">Total time</val>
+      </comment>
+      <val lang="zh_CN">Total time</val>
+   </key>
+   <key value="XPath_version">
+      <comment>Option for choosing XPath version used in Schematron asserts.</comment>
+      <comment>
+         <val lang="en_US">XPath version</val>
+      </comment>
+      <val lang="zh_CN">XPath version</val>
+   </key>
+   <key value="Edit_additional_XSLT_stylesheets_list">
+      <comment>Title for dialog of additional XSLT stylesheets. </comment>
+      <comment>
+         <val lang="en_US">Edit additional XSLT stylesheets list</val>
+      </comment>
+      <val lang="zh_CN">Edit additional XSLT stylesheets list</val>
+   </key>
+   <key value="Additional_XSLT_stylesheets">
+      <comment>Button for additional XSLT stylesheets in scenario dialog. </comment>
+      <comment>
+         <val lang="en_US">Additional XSLT stylesheets</val>
+      </comment>
+      <val lang="zh_CN">Additional XSLT stylesheets</val>
+   </key>
+   <key value="Do_you_want_to_move_the_element_in_the_namespace">
+      <comment>Question when changing the namespace for elements.</comment>
+      <comment>
+         <val lang="en_US">Do you want to move the element in the namespace</val>
+      </comment>
+      <val lang="zh_CN">Do you want to move the element in the namespace</val>
+   </key>
+   <key value="Prefix_is_already_bound_for_element">
+      <comment>Question when changing the namespace for elements.</comment>
+      <comment>
+         <val lang="en_US">is already bound for the element</val>
+      </comment>
+      <val lang="zh_CN">is already bound for the element</val>
+   </key>
+   <key value="Analysing_parameters">
+      <comment>Analysing parameters for transformations or debugging.</comment>
+      <comment>
+         <val lang="en_US">Analysing parameters</val>
+      </comment>
+      <val lang="zh_CN">Analysing parameters</val>
+   </key>
+   <key value="Rename_current_prefix_in_all_document">
+      <comment>Name for radio in the dialog for renaming the prefix of elements.</comment>
+      <comment>
+         <val lang="en_US">Rename current prefix in all document</val>
+      </comment>
+      <val lang="zh_CN">Rename current prefix in all document</val>
+   </key>
+   <key value="Rename_current_element_prefix">
+      <comment>Name for radio in the dialog for renaming the prefix of elements.</comment>
+      <comment>
+         <val lang="en_US">Rename current element prefix</val>
+      </comment>
+      <val lang="zh_CN">Rename current element prefix</val>
+   </key>
+   <key value="New_prefix_name">
+      <comment>Name for text field in the dialog for renaming the prefix of elements.</comment>
+      <comment>
+         <val lang="en_US">New prefix name</val>
+      </comment>
+      <val lang="zh_CN">New prefix name</val>
+   </key>
+   <key distribution="common" value="Rename_prefix">
+      <comment>Name for action rename prefix</comment>
+      <comment>
+         <val lang="en_US">Rename Prefix</val>
+      </comment>
+      <val lang="zh_CN">Rename Prefix</val>
+   </key>
+   <key value="Open_as">
+      <comment>When trying to create a breakpoint on an invalid line. 'Open as' action in project tree</comment>
+      <comment>
+         <val lang="en_US">Open as</val>
+      </comment>
+      <val lang="zh_CN">Open as</val>
+   </key>
+   <key value="Collapse_children">
+      <comment>On schema diagram, collapse children action</comment>
+      <comment>
+         <val lang="en_US">Collapse Children</val>
+      </comment>
+      <val lang="zh_CN">Collapse Children</val>
+   </key>
+   <key value="Expand_children">
+      <comment>On schema diagram, expand children action</comment>
+      <comment>
+         <val lang="en_US">Expand Children</val>
+      </comment>
+      <val lang="zh_CN">Expand Children</val>
+   </key>
+   <key value="XML_Spell_checking_in">
+      <comment>Spell check options section caption</comment>
+      <comment>
+         <val lang="en_US">XML spell checking in</val>
+      </comment>
+      <val lang="zh_CN">XML spell checking in</val>
+   </key>
+   <key value="Attribute_values">
+      <comment>Spell check options checkbox caption</comment>
+      <comment>
+         <val lang="en_US">Attribute values</val>
+      </comment>
+      <val lang="zh_CN">Attribute values</val>
+   </key>
+   <key value="Invalid_breakpoint">
+      <comment>An invalid breakpoint</comment>
+      <comment>
+         <val lang="en_US">Invalid breakpoint</val>
+      </comment>
+      <val lang="zh_CN">Invalid breakpoint</val>
+   </key>
+   <key value="Multiple_XPath_results">
+      <comment>Name of checkbox in XPath option pane</comment>
+      <comment>
+         <val lang="en_US">Multiple XPath results</val>
+      </comment>
+      <val lang="zh_CN">Multiple XPath results</val>
+   </key>
+   <key distribution="common" value="Learn_word">
+      <comment>Learn word action</comment>
+      <comment>
+         <val lang="en_US">Learn Word</val>
+      </comment>
+      <val lang="zh_CN">Learn Word</val>
+   </key>
+   <key value="Unescape_XPath_expression">
+      <comment>Name of checkbox in XPath option pane</comment>
+      <comment>
+         <val lang="en_US">Unescape XPath expression</val>
+      </comment>
+      <val lang="zh_CN">Unescape XPath expression</val>
+   </key>
+   <key value="Set">
+      <comment>Set label used in debugger view</comment>
+      <comment>
+         <val lang="en_US">Set</val>
+      </comment>
+      <val lang="zh_CN">Set</val>
+   </key>
+   <key value="Do_you_want_to_save">
+      <comment>When saving current file.</comment>
+      <comment>
+         <val lang="en_US">Do you want to save?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to save?</val>
+   </key>
+   <key value="Close_the_last_opened_tag">
+      <comment>Automatic closing of the last opened tag</comment>
+      <comment>
+         <val lang="en_US">Auto close the last opened tag</val>
+      </comment>
+      <val lang="zh_CN">Auto close the last opened tag</val>
+   </key>
+   <key value="Automatic_Spell_Check">
+      <comment>Automatic Spell Check check-box caption</comment>
+      <comment>
+         <val lang="en_US">Automatic spell check</val>
+      </comment>
+      <val lang="zh_CN">Automatic spell check</val>
+   </key>
+   <key distribution="common" value="Spell_Check">
+      <comment>Spell check option caption</comment>
+      <comment>
+         <val lang="en_US" mnemonic="6">Spell &amp;Check</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="6">Spell &amp;Check</val>
+   </key>
+   <key distribution="eclipse" value="Spell_Check_Page">
+      <comment>Spell check option caption</comment>
+      <comment>
+         <val lang="en_US">Spell Check</val>
+      </comment>
+      <val lang="zh_CN">Spell Check</val>
+   </key>
+   <key value="Redirect_Saxon_output">
+      <comment>Redirect Saxon output</comment>
+      <comment>
+         <val lang="en_US">Show "xsl:result-document" output</val>
+      </comment>
+      <val lang="zh_CN">Show "xsl:result-document" output</val>
+   </key>
+   <key value="Error_renaming_file">
+      <comment>Error renaming file</comment>
+      <comment>
+         <val lang="en_US">Unable to rename the file</val>
+      </comment>
+      <val lang="zh_CN">Unable to rename the file</val>
+   </key>
+   <key value="Keywords">
+      <comment>Keywords label caption</comment>
+      <comment>
+         <val lang="en_US">Keywords</val>
+      </comment>
+      <val lang="zh_CN">Keywords</val>
+   </key>
+   <key value="Search">
+      <comment>Search</comment>
+      <comment>
+         <val lang="en_US">Search</val>
+      </comment>
+      <val lang="zh_CN">Search</val>
+   </key>
+   <key value="Operation_successful">
+      <comment>Operation successful</comment>
+      <comment>
+         <val lang="en_US">Operation successful</val>
+      </comment>
+      <val lang="zh_CN">Operation successful</val>
+   </key>
+   <key value="Disable">
+      <comment>Disable anything...</comment>
+      <comment>
+         <val lang="en_US">Disable</val>
+      </comment>
+      <val lang="zh_CN">Disable</val>
+   </key>
+   <key value="Disabled">
+      <comment>Generic Disabled string.</comment>
+      <comment>
+         <val lang="en_US">Disabled</val>
+      </comment>
+      <val lang="zh_CN">Disabled</val>
+   </key>
+   <key value="Turn_on_profiler">
+      <comment>Turn on profiling activity.</comment>
+      <comment>
+         <val lang="en_US">Turn on profiling</val>
+      </comment>
+      <val lang="zh_CN">Turn on profiling</val>
+   </key>
+   <key value="Turn_off_profiler">
+      <comment>Turn off profiling activity.</comment>
+      <comment>
+         <val lang="en_US">Turn off profiling</val>
+      </comment>
+      <val lang="zh_CN">Turn off profiling</val>
+   </key>
+   <key value="Others">
+      <comment>Others nodes cumulated on Profiler invocation tree.</comment>
+      <comment>
+         <val lang="en_US">Others</val>
+      </comment>
+      <val lang="zh_CN">Others</val>
+   </key>
+   <key value="Time">
+      <comment>Time used to show the elapsed time in profiler view</comment>
+      <comment>
+         <val lang="en_US">Time</val>
+      </comment>
+      <val lang="zh_CN">Time</val>
+   </key>
+   <key value="Instruction">
+      <comment>XSL instruction in profiler view</comment>
+      <comment>
+         <val lang="en_US">Instruction</val>
+      </comment>
+      <val lang="zh_CN">Instruction</val>
+   </key>
+   <key value="Hotspots">
+      <comment>Hotspots in profiler view</comment>
+      <comment>
+         <val lang="en_US">Hotspots</val>
+      </comment>
+      <val lang="zh_CN">Hotspots</val>
+   </key>
+   <key distribution="common" value="Invocation_tree">
+      <comment>Invocation tree in profiler view</comment>
+      <comment>
+         <val lang="en_US">Invocation tree</val>
+      </comment>
+      <val lang="zh_CN">Invocation tree</val>
+   </key>
+   <key value="View_settings">
+      <comment>View settings in profiler view</comment>
+      <comment>
+         <val lang="en_US">View settings</val>
+      </comment>
+      <val lang="zh_CN">View settings</val>
+   </key>
+   <key value="Export_to_XML">
+      <comment>Export to XML on profiler view</comment>
+      <comment>
+         <val lang="en_US">Export to XML</val>
+      </comment>
+      <val lang="zh_CN">Export to XML</val>
+   </key>
+   <key value="Export_to_HTML">
+      <comment>Export to HTML on profiler view</comment>
+      <comment>
+         <val lang="en_US">Export to HTML</val>
+      </comment>
+      <val lang="zh_CN">Export to HTML</val>
+   </key>
+   <key value="Ignored_invocations">
+      <comment>Ignored invocations on profiler view</comment>
+      <comment>
+         <val lang="en_US">Ignored invocations</val>
+      </comment>
+      <val lang="zh_CN">Ignored invocations</val>
+   </key>
+   <key value="Hotspot_threshold">
+      <comment>Hotspot threshold on profiler view</comment>
+      <comment>
+         <val lang="en_US">Hotspot threshold</val>
+      </comment>
+      <val lang="zh_CN">Hotspot threshold</val>
+   </key>
+   <key value="Ignore_invocation_less_than">
+      <comment>Ignore invocation less than on profiler view</comment>
+      <comment>
+         <val lang="en_US">Ignore invocation less than</val>
+      </comment>
+      <val lang="zh_CN">Ignore invocation less than</val>
+   </key>
+   <key value="Percentage_calculation">
+      <comment>Percentage calculation on profiler view</comment>
+      <comment>
+         <val lang="en_US">Percentage calculation</val>
+      </comment>
+      <val lang="zh_CN">Percentage calculation</val>
+   </key>
+   <key value="Time_scale">
+      <comment>Time scale on profiler view</comment>
+      <comment>
+         <val lang="en_US">Time scale</val>
+      </comment>
+      <val lang="zh_CN">Time scale</val>
+   </key>
+   <key value="Relative">
+      <comment>Time scale is relative on profiler view</comment>
+      <comment>
+         <val lang="en_US">Relative</val>
+      </comment>
+      <val lang="zh_CN">Relative</val>
+   </key>
+   <key value="Absolute">
+      <comment>Time scale is absolute on profiler view</comment>
+      <comment>
+         <val lang="en_US">Absolute</val>
+      </comment>
+      <val lang="zh_CN">Absolute</val>
+   </key>
+   <key value="Microseconds">
+      <comment>Time scale is microseconds on profiler view</comment>
+      <comment>
+         <val lang="en_US">Microseconds</val>
+      </comment>
+      <val lang="zh_CN">Microseconds</val>
+   </key>
+   <key value="Miliseconds">
+      <comment>Time scale is milliseconds on profiler view</comment>
+      <comment>
+         <val lang="en_US">Miliseconds</val>
+      </comment>
+      <val lang="zh_CN">Miliseconds</val>
+   </key>
+   <key value="Show_invocation_count">
+      <comment>Show invocation count on profiler view</comment>
+      <comment>
+         <val lang="en_US">Show invocation count</val>
+      </comment>
+      <val lang="zh_CN">Show invocation count</val>
+   </key>
+   <key value="Show_inherent_time">
+      <comment>Show inherent time on profiler view</comment>
+      <comment>
+         <val lang="en_US">Show inherent time</val>
+      </comment>
+      <val lang="zh_CN">Show inherent time</val>
+   </key>
+   <key value="Show_time">
+      <comment>Show time on profiler view</comment>
+      <comment>
+         <val lang="en_US">Show time</val>
+      </comment>
+      <val lang="zh_CN">Show time</val>
+   </key>
+   <key value="Case_sensitive_search">
+      <comment>Label in tag insight preferences page.</comment>
+      <comment>
+         <val lang="en_US">Case sensitive search</val>
+      </comment>
+      <val lang="zh_CN">Case sensitive search</val>
+   </key>
+   <key distribution="common" value="XPath" skipTranslation="true">
+      <comment>XPath Option Pane name</comment>
+      <comment>
+         <val lang="en_US">XPath</val>
+      </comment>
+      <val lang="zh_CN">XPath</val>
+   </key>
+   <key value="Wrap_result">
+      <comment>Entry in Saxon 9 XQuery Options.</comment>
+      <comment>
+         <val lang="en_US">Create structure indicating the type nodes</val>
+      </comment>
+      <val lang="zh_CN">Create structure indicating the type nodes</val>
+   </key>
+   <key value="Validation_warnings_in_result">
+      <comment>Entry in Saxon 9 Options.</comment>
+      <comment>
+         <val lang="en_US">Validation errors in the result tree treated as warnings</val>
+      </comment>
+      <val lang="zh_CN">Validation errors in the result tree treated as warnings</val>
+   </key>
+   <key value="Recover_silently">
+      <comment>Entry in Saxon 9 Options.</comment>
+      <comment>
+         <val lang="en_US">Recover silently</val>
+      </comment>
+      <val lang="zh_CN">Recover silently</val>
+   </key>
+   <key value="Recover_with_warnings">
+      <comment>Entry in Saxon 9 Options.</comment>
+      <comment>
+         <val lang="en_US">Recover with warnings</val>
+      </comment>
+      <val lang="zh_CN">Recover with warnings</val>
+   </key>
+   <key value="Do_not_recover">
+      <comment>Entry in Saxon 9 Options.</comment>
+      <comment>
+         <val lang="en_US">Signal the error and do not attempt recovery</val>
+      </comment>
+      <val lang="zh_CN">Signal the error and do not attempt recovery</val>
+   </key>
+   <key value="Invalid_regular_expression_pattern">
+      <comment>Error message for regular expression pattern builder.</comment>
+      <comment>
+         <val lang="en_US">Invalid regular expression pattern</val>
+      </comment>
+      <val lang="zh_CN">Invalid regular expression pattern</val>
+   </key>
+   <key value="XPath_Options">
+      <comment>Tooltip for XPath options button</comment>
+      <comment>
+         <val lang="en_US">XPath Options</val>
+      </comment>
+      <val lang="zh_CN">XPath Options</val>
+   </key>
+   <key value="Output_folder">
+      <comment>Related to XS3P Schema Documentation.</comment>
+      <comment>
+         <val lang="en_US">Output folder</val>
+      </comment>
+      <val lang="zh_CN">Output folder</val>
+   </key>
+   <key value="Project_filters">
+      <comment>Title of project filters dialog</comment>
+      <comment>
+         <val lang="en_US">Project filters</val>
+      </comment>
+      <val lang="zh_CN">Project filters</val>
+   </key>
+   <key value="Pattern_file_filter_tooltip">
+      <comment>Tooltip for all file filters which can filter based on patterns</comment>
+      <comment>
+         <val lang="en_US">The patterns are comma separated where * = any string, ? = any character</val>
+      </comment>
+      <val lang="zh_CN">The patterns are comma separated where * = any string, ? = any character</val>
+   </key>
+   <key value="Directory_filter_patterns">
+      <comment>Project filters dialog label</comment>
+      <comment>
+         <val lang="en_US">Directory filter patterns (matching linked directories will be hidden)</val>
+      </comment>
+      <val lang="zh_CN">Directory filter patterns (matching linked directories will be hidden)</val>
+   </key>
+   <key value="Filters">
+      <comment>Project filters tooltip</comment>
+      <comment>
+         <val lang="en_US">Filters</val>
+      </comment>
+      <val lang="zh_CN">Filters</val>
+   </key>
+   <key value="Indent_on_paste_sections_with_number_of_lines_less_than">
+      <comment>Indent on paste.</comment>
+      <comment>
+         <val lang="en_US">Indent on paste - sections with number of lines less than</val>
+      </comment>
+      <val lang="zh_CN">Indent on paste - sections with number of lines less than</val>
+   </key>
+   <key distribution="common" value="Go_to_definition">
+      <comment>In an XSD Editor menu item to go to an element's definition.</comment>
+      <comment>
+         <val lang="en_US">Go to definition</val>
+      </comment>
+      <val lang="zh_CN">Go to definition</val>
+   </key>
+   <key value="Mark_end_tags_as_different_for_modified_elements">
+      <comment>Checkbox name in Import Database option page.</comment>
+      <comment>
+         <val lang="en_US">Mark end tags as different for modified elements</val>
+      </comment>
+      <val lang="zh_CN">Mark end tags as different for modified elements</val>
+   </key>
+   <key value="Export">
+      <comment>Export.</comment>
+      <comment>
+         <val lang="en_US">Export</val>
+      </comment>
+      <val lang="zh_CN">Export</val>
+   </key>
+   <key value="Ignore_expansion_state_for_empty_elements">
+      <comment>Ignore expansion state of XML tags</comment>
+      <comment>
+         <val lang="en_US">Ignore expansion state for empty elements</val>
+      </comment>
+      <val lang="zh_CN">Ignore expansion state for empty elements</val>
+   </key>
+   <key value="Save_as_Image">
+      <comment>Save as Image action</comment>
+      <comment>
+         <val lang="en_US">Save as Image</val>
+      </comment>
+      <val lang="zh_CN">Save as Image</val>
+   </key>
+   <key value="Create_empty_elements_for_null_values">
+      <comment>Checkbox name in Import Database option page.</comment>
+      <comment>
+         <val lang="en_US">Create empty elements for null values</val>
+      </comment>
+      <val lang="zh_CN">Create empty elements for null values</val>
+   </key>
+   <key value="Create_empty_elements_for_empty_values">
+      <comment>Checkbox name in Import Database option page.</comment>
+      <comment>
+         <val lang="en_US">Create empty elements for empty values</val>
+      </comment>
+      <val lang="zh_CN">Create empty elements for empty values</val>
+   </key>
+   <key value="File_changed">
+      <comment>Message Box, when you modify the file outside the editor.</comment>
+      <comment>
+         <val lang="en_US">File changed</val>
+      </comment>
+      <val lang="zh_CN">File changed</val>
+   </key>
+   <key value="Selected_Files_Diff_Algorithm">
+      <comment>Tooltip for Algorithm Diff combo</comment>
+      <comment>
+         <val lang="en_US">Selected Files Diff Algorithm</val>
+      </comment>
+      <val lang="zh_CN">Selected Files Diff Algorithm</val>
+   </key>
+   <key value="Converting_original_document">
+      <comment>Error message when could not save before convert.</comment>
+      <comment>
+         <val lang="en_US">Converting original document</val>
+      </comment>
+      <val lang="zh_CN">Converting original document</val>
+   </key>
+   <key value="Comparing_original_document">
+      <comment>Error message when could not save before diff.</comment>
+      <comment>
+         <val lang="en_US">Comparing original document</val>
+      </comment>
+      <val lang="zh_CN">Comparing original document</val>
+   </key>
+   <key value="Show_RELAX_NG_diagram">
+      <comment>Show RNG Schema diagram.</comment>
+      <comment>
+         <val lang="en_US">Show RELAX NG diagram</val>
+      </comment>
+      <val lang="zh_CN">Show RELAX NG diagram</val>
+   </key>
+   <key value="Remove_from_project">
+      <comment>Remove files from project action tag</comment>
+      <comment>
+         <val lang="en_US">Remove from Project</val>
+      </comment>
+      <val lang="zh_CN">Remove from Project</val>
+   </key>
+   <key value="Perform_directories_differencing">
+      <comment>Tooltip in diff</comment>
+      <comment>
+         <val lang="en_US">Perform Directories Differencing</val>
+      </comment>
+      <val lang="zh_CN">Perform Directories Differencing</val>
+   </key>
+   <key value="First_row_contains_field_names">
+      <comment>Checkbox name in criteria panel.</comment>
+      <comment>
+         <val lang="en_US">First row contains field names</val>
+      </comment>
+      <val lang="zh_CN">First row contains field names</val>
+   </key>
+   <key value="Algorithm">
+      <comment>Algorithm label</comment>
+      <comment>
+         <val lang="en_US">Algorithm</val>
+      </comment>
+      <val lang="zh_CN">Algorithm</val>
+   </key>
+   <key value="Diff_Options">
+      <comment>Tooltip for diff options button.</comment>
+      <comment>
+         <val lang="en_US">Diff Options</val>
+      </comment>
+      <val lang="zh_CN">Diff Options</val>
+   </key>
+   <key value="Order">
+      <comment>Options label. Order as in: node order, attributes order.</comment>
+      <comment>
+         <val lang="en_US">Order</val>
+      </comment>
+      <val lang="zh_CN">Order</val>
+   </key>
+   <key value="Type">
+      <comment>Options label.</comment>
+      <comment>
+         <val lang="en_US">Type</val>
+      </comment>
+      <val lang="zh_CN">Type</val>
+   </key>
+   <key value="Merge_adjacent_differences">
+      <comment>Options label.</comment>
+      <comment>
+         <val lang="en_US">Merge adjacent differences</val>
+      </comment>
+      <val lang="zh_CN">Merge adjacent differences</val>
+   </key>
+   <key value="Space">
+      <comment>Space</comment>
+      <comment>
+         <val lang="en_US">Space</val>
+      </comment>
+      <val lang="zh_CN">Space</val>
+   </key>
+   <key value="Tab">
+      <comment>Tab</comment>
+      <comment>
+         <val lang="en_US">Tab</val>
+      </comment>
+      <val lang="zh_CN">Tab</val>
+   </key>
+   <key value="Comma">
+      <comment>Comma</comment>
+      <comment>
+         <val lang="en_US">Comma</val>
+      </comment>
+      <val lang="zh_CN">Comma</val>
+   </key>
+   <key value="Semicolon">
+      <comment>Semicolon</comment>
+      <comment>
+         <val lang="en_US">Semicolon</val>
+      </comment>
+      <val lang="zh_CN">Semicolon</val>
+   </key>
+   <key value="Show_hide_annotations">
+      <comment>Show/Hide Annotations tooltip</comment>
+      <comment>
+         <val lang="en_US">Show/Hide Annotations</val>
+      </comment>
+      <val lang="zh_CN">Show/Hide Annotations</val>
+   </key>
+   <key distribution="common" value="HTML_file">
+      <comment>Import from HTML file menu caption.</comment>
+      <comment>
+         <val lang="en_US">HTML File</val>
+      </comment>
+      <val lang="zh_CN">HTML File</val>
+   </key>
+   <key distribution="eclipse" value="XHTML_file">
+      <comment>Import from XHTML file menu caption.</comment>
+      <comment>
+         <val lang="en_US">XHTML File</val>
+      </comment>
+      <val lang="zh_CN">XHTML File</val>
+   </key>
+   <key value="cant_handle_the_specified_file">
+      <comment>Cannot_handle_the_specified_file on Import from Excel dialog</comment>
+      <comment>
+         <val lang="en_US">Cannot handle the specified file</val>
+      </comment>
+      <val lang="zh_CN">Cannot handle the specified file</val>
+   </key>
+   <key value="Binary_compare">
+      <comment>Binary compare button.</comment>
+      <comment>
+         <val lang="en_US">Binary Compare</val>
+      </comment>
+      <val lang="zh_CN">Binary Compare</val>
+   </key>
+   <key value="Compare">
+      <comment>"Compare" menu item from project tree.</comment>
+      <comment>
+         <val lang="en_US">Compare</val>
+      </comment>
+      <val lang="zh_CN">Compare</val>
+   </key>
+   <key value="Words">
+      <comment>Algorithm name for differencing</comment>
+      <comment>
+         <val lang="en_US">Words</val>
+      </comment>
+      <val lang="zh_CN">Words</val>
+   </key>
+   <key value="Diff" distribution="common">
+      <comment>Diff option pane title</comment>
+      <comment>
+         <val lang="en_US">Diff</val>
+      </comment>
+      <val lang="zh_CN">Diff</val>
+   </key>
+   <key value="Timestamp_last_modified_date_time">
+      <comment>Diff option pane labels</comment>
+      <comment>
+         <val lang="en_US">Timestamp (last modified date/time)</val>
+      </comment>
+      <val lang="zh_CN">Timestamp (last modified date/time)</val>
+   </key>
+   <key value="Compare_files_by">
+      <comment>Diff option pane labels</comment>
+      <comment>
+         <val lang="en_US">Compare files by</val>
+      </comment>
+      <val lang="zh_CN">Compare files by</val>
+   </key>
+   <key value="Directories_Comparison">
+      <comment>Diff option pane labels</comment>
+      <comment>
+         <val lang="en_US">Directories Comparison</val>
+      </comment>
+      <val lang="zh_CN">Directories Comparison</val>
+   </key>
+   <key value="XML_Diff_Options">
+      <comment>Diff option pane label</comment>
+      <comment>
+         <val lang="en_US">XML Diff</val>
+      </comment>
+      <val lang="zh_CN">XML Diff</val>
+   </key>
+   <key value="Default_algorithm">
+      <comment>Diff option pane labels</comment>
+      <comment>
+         <val lang="en_US">Default algorithm</val>
+      </comment>
+      <val lang="zh_CN">Default algorithm</val>
+   </key>
+   <key value="Namespaces">
+      <comment>Diff option pane labels</comment>
+      <comment>
+         <val lang="en_US">Namespaces</val>
+      </comment>
+      <val lang="zh_CN">Namespaces</val>
+   </key>
+   <key value="Prefixes">
+      <comment>Diff option pane labels</comment>
+      <comment>
+         <val lang="en_US">Prefixes</val>
+      </comment>
+      <val lang="zh_CN">Prefixes</val>
+   </key>
+   <key value="Attribute_order">
+      <comment>Diff option pane labels</comment>
+      <comment>
+         <val lang="en_US">Attribute order</val>
+      </comment>
+      <val lang="zh_CN">Attribute order</val>
+   </key>
+   <key value="Ignore_whitespaces">
+      <comment>Diff option pane labels</comment>
+      <comment>
+         <val lang="en_US">Ignore Whitespaces</val>
+      </comment>
+      <val lang="zh_CN">Ignore Whitespaces</val>
+   </key>
+   <key value="Comments">
+      <comment>Diff option pane labels</comment>
+      <comment>
+         <val lang="en_US">Comments</val>
+      </comment>
+      <val lang="zh_CN">Comments</val>
+   </key>
+   <key value="Auto">
+      <comment>Algorithm type for Diff(combo)</comment>
+      <comment>
+         <val lang="en_US">Auto</val>
+      </comment>
+      <val lang="zh_CN">Auto</val>
+   </key>
+   <key value="Characters">
+      <comment>Algorithm type for Diff(combo)</comment>
+      <comment>
+         <val lang="en_US">Characters</val>
+      </comment>
+      <val lang="zh_CN">Characters</val>
+   </key>
+   <key value="Lines">
+      <comment>Algorithm type for Diff(combo)</comment>
+      <comment>
+         <val lang="en_US">Lines</val>
+      </comment>
+      <val lang="zh_CN">Lines</val>
+   </key>
+   <key value="Syntax_aware">
+      <comment>Algorithm type for Diff(combo)</comment>
+      <comment>
+         <val lang="en_US">Syntax aware</val>
+      </comment>
+      <val lang="zh_CN">Syntax aware</val>
+   </key>
+   <key value="XML_Fast">
+      <comment>Algorithm type for Diff(combo)</comment>
+      <comment>
+         <val lang="en_US">XML Fast</val>
+      </comment>
+      <val lang="zh_CN">XML Fast</val>
+   </key>
+   <key value="XML_Accurate">
+      <comment>Algorithm type for Diff(combo)</comment>
+      <comment>
+         <val lang="en_US">XML Accurate</val>
+      </comment>
+      <val lang="zh_CN">XML Accurate</val>
+   </key>
+   <key value="Select_text_file_URL">
+      <comment>Select text file on import resource dialog</comment>
+      <comment>
+         <val lang="en_US">Select text file</val>
+      </comment>
+      <val lang="zh_CN">Select text file</val>
+   </key>
+   <key value="Field_delimiter">
+      <comment>Field delimiter on import from text dialog</comment>
+      <comment>
+         <val lang="en_US">Field delimiter</val>
+      </comment>
+      <val lang="zh_CN">Field delimiter</val>
+   </key>
+   <key value="Available_Sheets">
+      <comment>Sheets tree name</comment>
+      <comment>
+         <val lang="en_US">Available Sheets</val>
+      </comment>
+      <val lang="zh_CN">Available Sheets</val>
+   </key>
+   <key value="Select_Excel_sheet">
+      <comment>Title of Sheet Selection dialog</comment>
+      <comment>
+         <val lang="en_US">Select Excel Sheet</val>
+      </comment>
+      <val lang="zh_CN">Select Excel Sheet</val>
+   </key>
+   <key value="Import_HTML">
+      <comment>File menu</comment>
+      <comment>
+         <val lang="en_US">Import HTML</val>
+      </comment>
+      <val lang="zh_CN">Import HTML</val>
+   </key>
+   <key value="HTML" skipTranslation="true">
+      <comment>File menu</comment>
+      <comment>
+         <val lang="en_US">HTML</val>
+      </comment>
+      <val lang="zh_CN">HTML</val>
+   </key>
+   <key value="Select_all">
+      <comment>'Select all' button</comment>
+      <comment>
+         <val lang="en_US">Select all</val>
+      </comment>
+      <val lang="zh_CN">Select all</val>
+   </key>
+   <key value="Deselect_all">
+      <comment>'Deselect all' button</comment>
+      <comment>
+         <val lang="en_US">Deselect all</val>
+      </comment>
+      <val lang="zh_CN">Deselect all</val>
+   </key>
+   <key value="Select_the_files_to_save">
+      <comment>'Select the files to save' label in 'Modified files' dialog</comment>
+      <comment>
+         <val lang="en_US">Select the files to save</val>
+      </comment>
+      <val lang="zh_CN">Select the files to save</val>
+   </key>
+   <key value="Modified_files">
+      <comment> 'Modified files' dialog title</comment>
+      <comment>
+         <val lang="en_US">Modified files</val>
+      </comment>
+      <val lang="zh_CN">Modified files</val>
+   </key>
+   <key value="Criterium">
+      <comment>Column name in table in presentation names dialog</comment>
+      <comment>
+         <val lang="en_US">Criterion</val>
+      </comment>
+      <val lang="zh_CN">Criterion</val>
+   </key>
+   <key value="XML_Name">
+      <comment>Column name in table in presentation names dialog</comment>
+      <comment>
+         <val lang="en_US">XML Name</val>
+      </comment>
+      <val lang="zh_CN">XML Name</val>
+   </key>
+   <key value="Real_Name">
+      <comment>Column name in table in presentation names dialog</comment>
+      <comment>
+         <val lang="en_US">Real Name</val>
+      </comment>
+      <val lang="zh_CN">Real Name</val>
+   </key>
+   <key value="Root_Element">
+      <comment>Name of the root element label in presentation names dialog.</comment>
+      <comment>
+         <val lang="en_US">Root Element</val>
+      </comment>
+      <val lang="zh_CN">Root Element</val>
+   </key>
+   <key value="Row_Element">
+      <comment>Name of the row element label in presentation names dialog.</comment>
+      <comment>
+         <val lang="en_US">Row Element</val>
+      </comment>
+      <val lang="zh_CN">Row Element</val>
+   </key>
+   <key value="Presentation_Names">
+      <comment>Presentation names dialog caption.</comment>
+      <comment>
+         <val lang="en_US">Presentation Names</val>
+      </comment>
+      <val lang="zh_CN">Presentation Names</val>
+   </key>
+   <key value="XML_Import_Preview">
+      <comment>XML preview area name in import criteria dialog.</comment>
+      <comment>
+         <val lang="en_US">XML Import Preview</val>
+      </comment>
+      <val lang="zh_CN">XML Import Preview</val>
+   </key>
+   <key value="Save_in_file">
+      <comment>Checkbox in import criteria dialog.</comment>
+      <comment>
+         <val lang="en_US">Save in file</val>
+      </comment>
+      <val lang="zh_CN">Save in file</val>
+   </key>
+   <key value="SQL_Query">
+      <comment>SQL query area name.</comment>
+      <comment>
+         <val lang="en_US">SQL Query</val>
+      </comment>
+      <val lang="zh_CN">SQL Query</val>
+   </key>
+   <key value="SQL_Preview">
+      <comment>SQL preview button caption.</comment>
+      <comment>
+         <val lang="en_US">SQL Preview</val>
+      </comment>
+      <val lang="zh_CN">SQL Preview</val>
+   </key>
+   <key value="Import_settings">
+      <comment>Import settings area title.</comment>
+      <comment>
+         <val lang="en_US">Import settings</val>
+      </comment>
+      <val lang="zh_CN">Import settings</val>
+   </key>
+   <key value="Import_criteria">
+      <comment>Title of the import criteria dialog.</comment>
+      <comment>
+         <val lang="en_US">Import criteria</val>
+      </comment>
+      <val lang="zh_CN">Import criteria</val>
+   </key>
+   <key value="Select_database_table">
+      <comment>Select database table from Import Database.</comment>
+      <comment>
+         <val lang="en_US">Select database table</val>
+      </comment>
+      <val lang="zh_CN">Select database table</val>
+   </key>
+   <key value="Diagram">
+      <comment>Schema diagram label.</comment>
+      <comment>
+         <val lang="en_US">Diagram</val>
+      </comment>
+      <val lang="zh_CN">Diagram</val>
+   </key>
+   <key value="Replace_to_end">
+      <comment>Label of button "Replace to end" in the find/replace dialog.</comment>
+      <comment>
+         <val lang="en_US">Replace to End</val>
+      </comment>
+      <val lang="zh_CN">Replace to End</val>
+   </key>
+   <key value="Replace_all">
+      <comment>Label of button "Replace all" in the find/replace in files dialog and title of results panel. Only
+            Chinese needed. </comment>
+      <comment>
+         <val lang="en_US">Replace All</val>
+      </comment>
+      <val lang="zh_CN">Replace All</val>
+   </key>
+   <key value="Patterns">
+      <comment>Patterns as in RELAX NG patterns.</comment>
+      <comment>
+         <val lang="en_US">Patterns</val>
+      </comment>
+      <val lang="zh_CN">Patterns</val>
+   </key>
+   <key value="Connect">
+      <comment>Connect to database.</comment>
+      <comment>
+         <val lang="en_US">Connect</val>
+      </comment>
+      <val lang="zh_CN">Connect</val>
+   </key>
+   <key value="Drivers_found">
+      <comment>Drivers found in library.</comment>
+      <comment>
+         <val lang="en_US">Drivers found</val>
+      </comment>
+      <val lang="zh_CN">Drivers found</val>
+   </key>
+   <key value="Differences">
+      <comment>Status panel label.</comment>
+      <comment>
+         <val lang="en_US">Differences</val>
+      </comment>
+      <val lang="zh_CN">Differences</val>
+   </key>
+   <key value="Processing">
+      <comment>Status window label.</comment>
+      <comment>
+         <val lang="en_US">Processing</val>
+      </comment>
+      <val lang="zh_CN">Processing</val>
+   </key>
+   <key value="Find_previous">
+      <comment>Find menu.</comment>
+      <comment>
+         <val lang="en_US">Find Previous</val>
+      </comment>
+      <val lang="zh_CN">Find Previous</val>
+   </key>
+   <key value="Compare_files">
+      <comment>Title for dialog that compares files</comment>
+      <comment>
+         <val lang="en_US">Compare Files</val>
+      </comment>
+      <val lang="zh_CN">Compare Files</val>
+   </key>
+   <key value="Word_details">
+      <comment>Title for dialog that shows details at word level</comment>
+      <comment>
+         <val lang="en_US">Word details</val>
+      </comment>
+      <val lang="zh_CN">Word details</val>
+   </key>
+   <key value="Character_details">
+      <comment>Title for dialog that shows details at character level</comment>
+      <comment>
+         <val lang="en_US">Character details</val>
+      </comment>
+      <val lang="zh_CN">Character details</val>
+   </key>
+   <key value="Diff_failed">
+      <comment>Error message in Diff</comment>
+      <comment>
+         <val lang="en_US">Diff failed</val>
+      </comment>
+      <val lang="zh_CN">Diff failed</val>
+   </key>
+   <key value="Diff_source">
+      <comment>Diff shortcut category</comment>
+      <comment>
+         <val lang="en_US">Diff source</val>
+      </comment>
+      <val lang="zh_CN">Diff source</val>
+   </key>
+   <key value="Diff_target">
+      <comment>Diff shortcut category</comment>
+      <comment>
+         <val lang="en_US">Diff target</val>
+      </comment>
+      <val lang="zh_CN">Diff target</val>
+   </key>
+   <key value="Target">
+      <comment>Diff menu item</comment>
+      <comment>
+         <val lang="en_US">Target</val>
+      </comment>
+      <val lang="zh_CN">Target</val>
+   </key>
+   <key value="Directories_Diff">
+      <comment>Diff category name</comment>
+      <comment>
+         <val lang="en_US">Directories Diff</val>
+      </comment>
+      <val lang="zh_CN">Directories Diff</val>
+   </key>
+   <key value="Files_Diff">
+      <comment>Diff category name</comment>
+      <comment>
+         <val lang="en_US">Files Diff</val>
+      </comment>
+      <val lang="zh_CN">Files Diff</val>
+   </key>
+   <key value="Copy_change_from_right_to_left">
+      <comment>Tooltip in diff</comment>
+      <comment>
+         <val lang="en_US">Copy Change from Right to Left</val>
+      </comment>
+      <val lang="zh_CN">Copy Change from Right to Left</val>
+   </key>
+   <key value="Copy_change_from_left_to_right">
+      <comment>Tooltip in diff</comment>
+      <comment>
+         <val lang="en_US">Copy Change from Left to Right</val>
+      </comment>
+      <val lang="zh_CN">Copy Change from Left to Right</val>
+   </key>
+   <key value="Copy_all_nonconflicting_changes_from_right_to_left">
+      <comment>Tooltip in diff</comment>
+      <comment>
+         <val lang="en_US">Copy All Non-Conflicting Changes from Right to Left</val>
+      </comment>
+      <val lang="zh_CN">Copy All Non-Conflicting Changes from Right to Left</val>
+   </key>
+   <key value="Copy_all_nonconflicting_changes_from_left_to_right">
+      <comment>Tooltip in diff</comment>
+      <comment>
+         <val lang="en_US">Copy All Non-Conflicting Changes from Left to Right</val>
+      </comment>
+      <val lang="zh_CN">Copy All Non-Conflicting Changes from Left to Right</val>
+   </key>
+   <key value="Perform_files_differencing">
+      <comment>Tooltip in diff</comment>
+      <comment>
+         <val lang="en_US">Perform Files Differencing</val>
+      </comment>
+      <val lang="zh_CN">Perform Files Differencing</val>
+   </key>
+   <key value="Database">
+      <comment>Database</comment>
+      <comment>
+         <val lang="en_US">Database</val>
+      </comment>
+      <val lang="zh_CN">Database</val>
+   </key>
+   <key value="Detect_JDBC_driver_candidates">
+      <comment>Detect JDBC drivers in JDBC drivers configuration dialog.</comment>
+      <comment>
+         <val lang="en_US">Detect JDBC driver candidates</val>
+      </comment>
+      <val lang="zh_CN">Detect JDBC driver candidates</val>
+   </key>
+   <key value="Detect">
+      <comment>Detect various stuff.</comment>
+      <comment>
+         <val lang="en_US">Detect</val>
+      </comment>
+      <val lang="zh_CN">Detect</val>
+   </key>
+   <key value="Add_JDBC_driver_library">
+      <comment>Add a JDBC driver library in JDBC driver options dialog</comment>
+      <comment>
+         <val lang="en_US">Add JDBC driver library</val>
+      </comment>
+      <val lang="zh_CN">Add JDBC driver library</val>
+   </key>
+   <key value="Break_long_attributes">
+      <comment>When formatting the XML content, it might be an option to break (split) very long attributes values on
+            multiple lines.</comment>
+      <comment>
+         <val lang="en_US">Break long attributes</val>
+      </comment>
+      <val lang="zh_CN">Break long attributes</val>
+   </key>
+   <key value="Shift_right">
+      <comment>Indent block to right.</comment>
+      <comment>
+         <val lang="en_US">Shift Right</val>
+      </comment>
+      <val lang="zh_CN">Shift Right</val>
+   </key>
+   <key value="Shift_left">
+      <comment>Indent block to left.</comment>
+      <comment>
+         <val lang="en_US">Shift Left</val>
+      </comment>
+      <val lang="zh_CN">Shift Left</val>
+   </key>
+   <key value="Break_line_brefore_attribute">
+      <comment>When formatting the XML content, it might be an option to break the lines before the attribute name.
+            The result will be more readable.</comment>
+      <comment>
+         <val lang="en_US">Break line before an attribute name</val>
+      </comment>
+      <val lang="zh_CN">Break line before an attribute name</val>
+   </key>
+   <key value="Document_contains_errors">
+      <comment>Error message</comment>
+      <comment>
+         <val lang="en_US">Document contains errors</val>
+      </comment>
+      <val lang="zh_CN">Document contains errors</val>
+   </key>
+   <key value="Continue_anyway">
+      <comment>Error message</comment>
+      <comment>
+         <val lang="en_US">Continue anyway</val>
+      </comment>
+      <val lang="zh_CN">Continue anyway</val>
+   </key>
+   <key value="Errors_check">
+      <comment>Status message</comment>
+      <comment>
+         <val lang="en_US">Errors check</val>
+      </comment>
+      <val lang="zh_CN">Errors check</val>
+   </key>
+   <key value="In_the_Eclipse_workspace">
+      <comment>Part of message : "Cannot find the specified file: $file in the Eclipse's workspace".</comment>
+      <comment>
+         <val lang="en_US">in the Eclipse's workspace</val>
+      </comment>
+      <val lang="zh_CN">in the Eclipse's workspace</val>
+   </key>
+   <key value="Beep_on_operation_finished">
+      <comment>Option group name in find/replace dialog.</comment>
+      <comment>
+         <val lang="en_US">Beep on operation finished</val>
+      </comment>
+      <val lang="zh_CN">Beep on operation finished</val>
+   </key>
+   <key value="Direction">
+      <comment>Option group name in find/replace dialog.</comment>
+      <comment>
+         <val lang="en_US">Direction</val>
+      </comment>
+      <val lang="zh_CN">Direction</val>
+   </key>
+   <key value="Scope">
+      <comment>Option group name in find/replace dialog.</comment>
+      <comment>
+         <val lang="en_US">Scope</val>
+      </comment>
+      <val lang="zh_CN">Scope</val>
+   </key>
+   <key value="All">
+      <comment>Option name in find/replace dialog.</comment>
+      <comment>
+         <val lang="en_US">All</val>
+      </comment>
+      <val lang="zh_CN">All</val>
+   </key>
+   <key value="Backward">
+      <comment>Option name in find/replace dialog.</comment>
+      <comment>
+         <val lang="en_US">Backward</val>
+      </comment>
+      <val lang="zh_CN">Backward</val>
+   </key>
+   <key value="Down">
+      <comment>Button in default schema option pane</comment>
+      <comment>
+         <val lang="en_US">Down</val>
+      </comment>
+      <val lang="zh_CN">Down</val>
+   </key>
+   <key value="Up">
+      <comment>Button in default schema option pane</comment>
+      <comment>
+         <val lang="en_US">Up</val>
+      </comment>
+      <val lang="zh_CN">Up</val>
+   </key>
+   <key value="Root_local_name">
+      <comment>Label in default schema option pane</comment>
+      <comment>
+         <val lang="en_US">Root local name</val>
+      </comment>
+      <val lang="zh_CN">Root local name</val>
+   </key>
+   <key value="File_name">
+      <comment>Label in default schema option pane</comment>
+      <comment>
+         <val lang="en_US">File name</val>
+      </comment>
+      <val lang="zh_CN">File name</val>
+   </key>
+   <key value="Schema_type">
+      <comment>Label in default schema option pane</comment>
+      <comment>
+         <val lang="en_US">Schema type</val>
+      </comment>
+      <val lang="zh_CN">Schema type</val>
+   </key>
+   <key value="Schema_uri">
+      <comment>Label in default schema option pane</comment>
+      <comment>
+         <val lang="en_US">Schema URI</val>
+      </comment>
+      <val lang="zh_CN">Schema URI</val>
+   </key>
+   <key value="Namespace">
+      <comment>Label in default schema option pane</comment>
+      <comment>
+         <val lang="en_US">Namespace</val>
+      </comment>
+      <val lang="zh_CN">Namespace</val>
+   </key>
+   <key value="Only_selected_lines">
+      <comment>This is a find option. The search is done only on selected lines. </comment>
+      <comment>
+         <val lang="en_US">Only selected lines</val>
+      </comment>
+      <val lang="zh_CN">Only selected lines</val>
+   </key>
+   <key value="Signer">
+      <comment>The Signer of the certificate</comment>
+      <comment>
+         <val lang="en_US">Signer</val>
+      </comment>
+      <val lang="zh_CN">Signer</val>
+   </key>
+   <key value="Issuer">
+      <comment>The Issuer of the certificate</comment>
+      <comment>
+         <val lang="en_US">Issuer</val>
+      </comment>
+      <val lang="zh_CN">Issuer</val>
+   </key>
+   <key value="Could_not_obtain_keystore">
+      <comment>Validation message from the certificates option pane</comment>
+      <comment>
+         <val lang="en_US">Could not obtain the keystore</val>
+      </comment>
+      <val lang="zh_CN">Could not obtain the keystore</val>
+   </key>
+   <key value="The_certificate_options_are_valid">
+      <comment>Validation message from the certificates option pane</comment>
+      <comment>
+         <val lang="en_US">The certificate options are valid</val>
+      </comment>
+      <val lang="zh_CN">The certificate options are valid</val>
+   </key>
+   <key value="Could_not_obtain_private_key">
+      <comment>Validation message from the certificates option pane</comment>
+      <comment>
+         <val lang="en_US">Could not obtain the private key</val>
+      </comment>
+      <val lang="zh_CN">Could not obtain the private key</val>
+   </key>
+   <key distribution="eclipse" value="Validate_command">
+      <comment>Button in the certificates option pane</comment>
+      <comment>
+         <val lang="en_US">Validate</val>
+      </comment>
+      <val lang="zh_CN">Validate</val>
+   </key>
+   <key distribution="common" value="Validate">
+      <comment>Button in the certificates option pane</comment>
+      <comment>
+         <val lang="en_US" mnemonic="0">&amp;Validate</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="0">&amp;Validate</val>
+   </key>
+   <key value="Detached_only_local">
+      <comment>Error message for the signature dialog</comment>
+      <comment>
+         <val lang="en_US">Detached signing can only be applied on local files.</val>
+      </comment>
+      <val lang="zh_CN">Detached signing can only be applied on local files.</val>
+   </key>
+   <key value="Valid_signature">
+      <comment>Message for the valid signature action</comment>
+      <comment>
+         <val lang="en_US">Valid signature</val>
+      </comment>
+      <val lang="zh_CN">Valid signature</val>
+   </key>
+   <key value="Invalid_signature">
+      <comment>Message for the valid signature action</comment>
+      <comment>
+         <val lang="en_US">Invalid signature</val>
+      </comment>
+      <val lang="zh_CN">Invalid signature</val>
+   </key>
+   <key value="Keystore_Type">
+      <comment>Label for the certificates option pane</comment>
+      <comment>
+         <val lang="en_US">Keystore type</val>
+      </comment>
+      <val lang="zh_CN">Keystore type</val>
+   </key>
+   <key value="Keystore_File">
+      <comment>Label for the certificates option pane</comment>
+      <comment>
+         <val lang="en_US">Keystore file</val>
+      </comment>
+      <val lang="zh_CN">Keystore file</val>
+   </key>
+   <key value="Keystore_Password">
+      <comment>Label for the certificates option pane</comment>
+      <comment>
+         <val lang="en_US">Keystore password</val>
+      </comment>
+      <val lang="zh_CN">Keystore password</val>
+   </key>
+   <key value="Private_Key_Password">
+      <comment>Label for the certificates option pane</comment>
+      <comment>
+         <val lang="en_US">Private key password</val>
+      </comment>
+      <val lang="zh_CN">Private key password</val>
+   </key>
+   <key value="Certificate_Alias">
+      <comment>Label for the certificates option pane</comment>
+      <comment>
+         <val lang="en_US">Certificate alias</val>
+      </comment>
+      <val lang="zh_CN">Certificate alias</val>
+   </key>
+   <key value="You_can_configure_a_certificate">
+      <comment>Configure certificate warning message</comment>
+      <comment>
+         <val lang="en_US">You can configure a certificate using\n the Preferences/Certificates page in the Oxygen
+            options</val>
+      </comment>
+      <val lang="zh_CN">You can configure a certificate using\n the Preferences/Certificates page in the Oxygen
+            options</val>
+   </key>
+   <key distribution="common" value="Verify_signature">
+      <comment>Verify signature action</comment>
+      <comment>
+         <val lang="en_US">Verify Signature</val>
+      </comment>
+      <val lang="zh_CN">Verify Signature</val>
+   </key>
+   <key value="Could_not_save_because">
+      <comment>Warning message for saving</comment>
+      <comment>
+         <val lang="en_US">Could not save because</val>
+      </comment>
+      <val lang="zh_CN">Could not save because</val>
+   </key>
+   <key value="This_operation_requires_saving">
+      <comment>Warning message for saving</comment>
+      <comment>
+         <val lang="en_US">This operation requires saving</val>
+      </comment>
+      <val lang="zh_CN">This operation requires saving</val>
+   </key>
+   <key value="Detached">
+      <comment>Label for the type of signing method</comment>
+      <comment>
+         <val lang="en_US">Detached</val>
+      </comment>
+      <val lang="zh_CN">Detached</val>
+   </key>
+   <key value="Envelope">
+      <comment>Label for the type of signing method</comment>
+      <comment>
+         <val lang="en_US">Envelope</val>
+      </comment>
+      <val lang="zh_CN">Envelope</val>
+   </key>
+   <key value="Transformation_options">
+      <comment>Label in signature dialog</comment>
+      <comment>
+         <val lang="en_US">Transformation Options</val>
+      </comment>
+      <val lang="zh_CN">Transformation Options</val>
+   </key>
+   <key distribution="common" value="Sign">
+      <comment>Sign action</comment>
+      <comment>
+         <val lang="en_US">Sign</val>
+      </comment>
+      <val lang="zh_CN">Sign</val>
+   </key>
+   <key value="Full_model_view">
+      <comment>Schema diagram tab title</comment>
+      <comment>
+         <val lang="en_US">Full Model View</val>
+      </comment>
+      <val lang="zh_CN">Full Model View</val>
+   </key>
+   <key value="Logical_model_view">
+      <comment>Schema diagram tab title</comment>
+      <comment>
+         <val lang="en_US">Logical Model View</val>
+      </comment>
+      <val lang="zh_CN">Logical Model View</val>
+   </key>
+   <key value="with_comments">
+      <comment>Canonicalize dialog option</comment>
+      <comment>
+         <val lang="en_US">with comments</val>
+      </comment>
+      <val lang="zh_CN">with comments</val>
+   </key>
+   <key value="Inclusive">
+      <comment>Canonicalize dialog inclusive option</comment>
+      <comment>
+         <val lang="en_US">Inclusive</val>
+      </comment>
+      <val lang="zh_CN">Inclusive</val>
+   </key>
+   <key value="Exclusive">
+      <comment>Canonicalize dialog exclusive option</comment>
+      <comment>
+         <val lang="en_US">Exclusive</val>
+      </comment>
+      <val lang="zh_CN">Exclusive</val>
+   </key>
+   <key value="Canonicalize_options">
+      <comment>Canonicalize dialog options</comment>
+      <comment>
+         <val lang="en_US">Canonicalize options</val>
+      </comment>
+      <val lang="zh_CN">Canonicalize options</val>
+   </key>
+   <key distribution="common" value="Canonicalize">
+      <comment>Canonicalize action</comment>
+      <comment>
+         <val lang="en_US">Canonicalize</val>
+      </comment>
+      <val lang="zh_CN">Canonicalize</val>
+   </key>
+   <key value="Forward">
+      <comment>Name for the Go Forward Action</comment>
+      <comment>
+         <val lang="en_US">Forward</val>
+      </comment>
+      <val lang="zh_CN">Forward</val>
+   </key>
+   <key value="Attribute_Groups">
+      <comment>Node name in schema elements tree panel</comment>
+      <comment>
+         <val lang="en_US">Attribute Groups</val>
+      </comment>
+      <val lang="zh_CN">Attribute Groups</val>
+   </key>
+   <key value="Simple_Types">
+      <comment>Node name in schema elements tree panel</comment>
+      <comment>
+         <val lang="en_US">Simple Types</val>
+      </comment>
+      <val lang="zh_CN">Simple Types</val>
+   </key>
+   <key value="Complex_Types">
+      <comment>Node name in schema elements tree panel</comment>
+      <comment>
+         <val lang="en_US">Complex Types</val>
+      </comment>
+      <val lang="zh_CN">Complex Types</val>
+   </key>
+   <key value="Groups">
+      <comment>Node name in schema elements tree panel</comment>
+      <comment>
+         <val lang="en_US">Groups</val>
+      </comment>
+      <val lang="zh_CN">Groups</val>
+   </key>
+   <key distribution="common" value="Elements">
+      <comment>Node name in schema elements tree panel</comment>
+      <comment>
+         <val lang="en_US">Elements</val>
+      </comment>
+      <val lang="zh_CN">Elements</val>
+   </key>
+   <key value="Enable_id_idref_check">
+      <comment>Checkbox in XML Parser Options pane</comment>
+      <comment>
+         <val lang="en_US">Check ID/IDREF</val>
+      </comment>
+      <val lang="zh_CN">Check ID/IDREF</val>
+   </key>
+   <key value="Enable_feasibly_valid_check">
+      <comment>Checkbox in XML Parser Options pane</comment>
+      <comment>
+         <val lang="en_US">Check feasibly valid</val>
+      </comment>
+      <val lang="zh_CN">Check feasibly valid</val>
+   </key>
+</translation>

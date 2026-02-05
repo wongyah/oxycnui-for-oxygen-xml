@@ -1,0 +1,1871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="You_can_perform_this_operation_on_NVDL">
+      <comment>Information message for nvdl rename actions</comment>
+      <comment>
+         <val lang="en_US">You can perform this operation on: named modes</val>
+      </comment>
+      <val lang="zh_CN">You can perform this operation on: named modes</val>
+   </key>
+   <key value="Show_dynamic_help_view">
+      <comment>Name of Help menu action</comment>
+      <comment>
+         <val lang="en_US">Show Dynamic Help view</val>
+      </comment>
+      <val lang="zh_CN">Show Dynamic Help view</val>
+   </key>
+   <key value="Invalid_license_format">
+      <comment>Message Box displayed when the license format is invalid.</comment>
+      <comment>
+         <val lang="en_US">Invalid license format</val>
+      </comment>
+      <val lang="zh_CN">Invalid license format</val>
+   </key>
+   <key value="This_will_lose_changes_in_editor">
+      <comment>Message box.</comment>
+      <comment>
+         <val lang="en_US">This will lose the changes performed in editor.</val>
+      </comment>
+      <val lang="zh_CN">This will lose the changes performed in editor.</val>
+   </key>
+   <key value="SVN_Client_web_site">
+      <comment>Action name from Help menu.</comment>
+      <comment>
+         <val lang="en_US">Browse Syncro SVN Client Website</val>
+      </comment>
+      <val lang="zh_CN">Browse Syncro SVN Client Website</val>
+   </key>
+   <key value="Thank_you_for_buying">
+      <comment/>
+      <comment>
+         <val lang="en_US">Thank you for buying</val>
+      </comment>
+      <val lang="zh_CN">Thank you for buying</val>
+   </key>
+   <key value="Thanks_for_evaluating">
+      <comment/>
+      <comment>
+         <val lang="en_US">Thank you for evaluating</val>
+      </comment>
+      <val lang="zh_CN">Thank you for evaluating</val>
+   </key>
+   <key value="Enable_nvdl_diagram_views">
+      <comment>Schema diagram option.</comment>
+      <comment>
+         <val lang="en_US">Enable NVDL diagram and related views</val>
+      </comment>
+      <val lang="zh_CN">Enable NVDL diagram and related views</val>
+   </key>
+   <key value="Show_NVDL_diagram">
+      <comment>Show NVDL Script diagram.</comment>
+      <comment>
+         <val lang="en_US">Show NVDL diagram</val>
+      </comment>
+      <val lang="zh_CN">Show NVDL diagram</val>
+   </key>
+   <key value="Edit_scenario_explain_label">
+      <comment>Label displayed in scenario edit dialog that links to the user manual section about editor
+            variables.</comment>
+      <comment>
+         <val lang="en_US">More about ${currentFileURL} ...</val>
+      </comment>
+      <val lang="zh_CN">More about ${currentFileURL} ...</val>
+   </key>
+   <key value="URI_resolver_class_name">
+      <comment>Label in the Saxon 9 Advanced option pane.</comment>
+      <comment>
+         <val lang="en_US">URI Resolver class name</val>
+      </comment>
+      <val lang="zh_CN">URI Resolver class name</val>
+   </key>
+   <key value="Collection_URI_resolver_class_name">
+      <comment>Label in the Saxon 9 Advanced option pane.</comment>
+      <comment>
+         <val lang="en_US">Collection URI Resolver class name</val>
+      </comment>
+      <val lang="zh_CN">Collection URI Resolver class name</val>
+   </key>
+   <key value="URI_resolver_class_in_scenario_extensions">
+      <comment>Label in the Saxon 9 Advanced option pane.</comment>
+      <comment>
+         <val lang="en_US">The resolver classes must be present in the scenario extensions.</val>
+      </comment>
+      <val lang="zh_CN">The resolver classes must be present in the scenario extensions.</val>
+   </key>
+   <key distribution="common" value="Advanced">
+      <comment>The name of the Saxon 9 Advanced option pane.</comment>
+      <comment>
+         <val lang="en_US">Advanced</val>
+      </comment>
+      <val lang="zh_CN">Advanced</val>
+   </key>
+   <key value="Edit_scenario_explain_tooltip">
+      <comment>Additional tooltip for XML URL and XSL URL in scenario edit dialog about the ${currentFileURL}
+            variable.</comment>
+      <comment>
+         <val lang="en_US">Editor variables like ${currentFileURL} are expanded when the transformation is applied.</val>
+      </comment>
+      <val lang="zh_CN">Editor variables like ${currentFileURL} are expanded when the transformation is applied.</val>
+   </key>
+   <key value="Rules">
+      <comment>Rules as in NVDL rules. NVDL stands for Namespace-based Validation and Dispatching Language and
+            contains a set of rules that specify how the document is partitioned to sections and how the sections are
+            dispatched to different validation engines.</comment>
+      <comment>
+         <val lang="en_US">Rules</val>
+      </comment>
+      <val lang="zh_CN">Rules</val>
+   </key>
+   <key value="Syntax">
+      <comment>Index edit dialog label.</comment>
+      <comment>
+         <val lang="en_US">Syntax</val>
+      </comment>
+      <val lang="zh_CN">Syntax</val>
+   </key>
+   <key value="Key_type">
+      <comment>Index edit dialog label.</comment>
+      <comment>
+         <val lang="en_US">Key type</val>
+      </comment>
+      <val lang="zh_CN">Key type</val>
+   </key>
+   <key value="Add_default">
+      <comment>Indices dialog button.</comment>
+      <comment>
+         <val lang="en_US">Add default</val>
+      </comment>
+      <val lang="zh_CN">Add default</val>
+   </key>
+   <key value="Ignore_URL">
+      <comment>Option in spell check option page</comment>
+      <comment>
+         <val lang="en_US">Ignore URL</val>
+      </comment>
+      <val lang="zh_CN">Ignore URL</val>
+   </key>
+   <key value="Ignore_duplicates">
+      <comment>Option in spell checker option page</comment>
+      <comment>
+         <val lang="en_US">Ignore duplicates</val>
+      </comment>
+      <val lang="zh_CN">Ignore duplicates</val>
+   </key>
+   <key value="decimal">
+      <comment>Character insert type in Character map</comment>
+      <comment>
+         <val lang="en_US">decimal</val>
+      </comment>
+      <val lang="zh_CN">decimal</val>
+   </key>
+   <key value="hexa">
+      <comment>Character insert type in Character map</comment>
+      <comment>
+         <val lang="en_US">hexadecimal</val>
+      </comment>
+      <val lang="zh_CN">hexadecimal</val>
+   </key>
+   <key value="No_XSLT_XQuery_editor_is_currently_selected">
+      <comment>Warning message shown by XSLT / xquery input view when selected editor is an XSLT or XQuery
+            editor</comment>
+      <comment>
+         <val lang="en_US">No XSLT/XQuery editor is currently selected.</val>
+      </comment>
+      <val lang="zh_CN">No XSLT/XQuery editor is currently selected.</val>
+   </key>
+   <key value="Custom_validator">
+      <comment>The title of the dialog used for editing the custom validator parameters</comment>
+      <comment>
+         <val lang="en_US">Custom validator</val>
+      </comment>
+      <val lang="zh_CN">Custom validator</val>
+   </key>
+   <key value="Catalog_changes_require_reopen_1">
+      <comment>The first line in the message explaining to reopen files after changing a catalog setting.</comment>
+      <comment>
+         <val lang="en_US">Changes in the catalogs list or the files referred</val>
+      </comment>
+      <val lang="zh_CN">Changes in the catalogs list or the files referred</val>
+   </key>
+   <key value="Catalog_changes_require_reopen_2">
+      <comment>The second line in the message explaining to reopen files after changing a catalog setting.</comment>
+      <comment>
+         <val lang="en_US">may require reopening the files which use them</val>
+      </comment>
+      <val lang="zh_CN">may require reopening the files which use them</val>
+   </key>
+   <key value="Number_of_imported_templates">
+      <comment>Success message when importing code templates</comment>
+      <comment>
+         <val lang="en_US">Number of imported templates</val>
+      </comment>
+      <val lang="zh_CN">Number of imported templates</val>
+   </key>
+   <key value="Image_preview">
+      <comment>View name from SVN Client</comment>
+      <comment>
+         <val lang="en_US">Image Preview</val>
+      </comment>
+      <val lang="zh_CN">Image Preview</val>
+   </key>
+   <key value="Unformatted">
+      <comment>Unformatted</comment>
+      <comment>
+         <val lang="en_US">Unformatted</val>
+      </comment>
+      <val lang="zh_CN">Unformatted</val>
+   </key>
+   <key value="XML_schema_date_format">
+      <comment>XML Schema date format</comment>
+      <comment>
+         <val lang="en_US">XML Schema date format</val>
+      </comment>
+      <val lang="zh_CN">XML Schema date format</val>
+   </key>
+   <key value="Custom_format">
+      <comment>Custom date format</comment>
+      <comment>
+         <val lang="en_US">Custom format</val>
+      </comment>
+      <val lang="zh_CN">Custom format</val>
+   </key>
+   <key value="Predefined_formats">
+      <comment>Label in the option pane for the date format</comment>
+      <comment>
+         <val lang="en_US">Predefined formats</val>
+      </comment>
+      <val lang="zh_CN">Predefined formats</val>
+   </key>
+   <key value="Commit_row">
+      <comment>Name of the 'Table Explorer' action</comment>
+      <comment>
+         <val lang="en_US">Commit Row</val>
+      </comment>
+      <val lang="zh_CN">Commit Row</val>
+   </key>
+   <key value="Pragma">
+      <comment>Pragma</comment>
+      <comment>
+         <val lang="en_US">Pragma</val>
+      </comment>
+      <val lang="zh_CN">Pragma</val>
+   </key>
+   <key value="Working_copy_administrative_directory">
+      <comment>Option name in SVN preferences page</comment>
+      <comment>
+         <val lang="en_US">Working copy administrative directory</val>
+      </comment>
+      <val lang="zh_CN">Working copy administrative directory</val>
+   </key>
+   <key value="Copy_cell">
+      <comment>Database table copy/paste actions</comment>
+      <comment>
+         <val lang="en_US">Copy cell</val>
+      </comment>
+      <val lang="zh_CN">Copy cell</val>
+   </key>
+   <key value="Paste_in_cell">
+      <comment>Database table copy/paste actions</comment>
+      <comment>
+         <val lang="en_US">Paste in cell</val>
+      </comment>
+      <val lang="zh_CN">Paste in cell</val>
+   </key>
+   <key value="No_printer_selected">
+      <comment>Error message used when no printer selected</comment>
+      <comment>
+         <val lang="en_US">No printer selected</val>
+      </comment>
+      <val lang="zh_CN">No printer selected</val>
+   </key>
+   <key value="Resource_already_exists">
+      <comment>Error message when adding an already existing resource.</comment>
+      <comment>
+         <val lang="en_US">Resource already exists</val>
+      </comment>
+      <val lang="zh_CN">Resource already exists</val>
+   </key>
+   <key value="Collection_already_exists">
+      <comment>Error message when adding an already existing collection.</comment>
+      <comment>
+         <val lang="en_US">Collection already exists</val>
+      </comment>
+      <val lang="zh_CN">Collection already exists</val>
+   </key>
+   <key value="Show_hidden_files_and_directories">
+      <comment>Project filters option</comment>
+      <comment>
+         <val lang="en_US">Show hidden files and directories</val>
+      </comment>
+      <val lang="zh_CN">Show hidden files and directories</val>
+   </key>
+   <key value="No_plugin_detected">
+      <comment>Description when no Oxygen plugin could be loaded from the plugins directory</comment>
+      <comment>
+         <val lang="en_US">No plugins detected in the plugins directory of the Oxygen installation directory </val>
+      </comment>
+      <val lang="zh_CN">No plugins detected in the plugins directory of the Oxygen installation directory </val>
+   </key>
+   <key value="Cannot_modify_a_built_in_datasource">
+      <comment>Warning when modifying a built-in data source</comment>
+      <comment>
+         <val lang="en_US">Cannot modify a built-in data source.</val>
+      </comment>
+      <val lang="zh_CN">Cannot modify a built-in data source.</val>
+   </key>
+   <key value="Clear_content">
+      <comment>Grid clear content action.</comment>
+      <comment>
+         <val lang="en_US">Clear content</val>
+      </comment>
+      <val lang="zh_CN">Clear content</val>
+   </key>
+   <key value="Enable_HTTP_100_continue_support">
+      <comment>Use of the 'Expect: 100-continue' handshake</comment>
+      <comment>
+         <val lang="en_US">Enable HTTP 'Expect: 100-continue' handshake (for HTTP/1.1 protocol)</val>
+      </comment>
+      <val lang="zh_CN">Enable HTTP 'Expect: 100-continue' handshake (for HTTP/1.1 protocol)</val>
+   </key>
+   <key value="Expand_collapse">
+      <comment>Grid editor popup menu expand category</comment>
+      <comment>
+         <val lang="en_US">Expand/Collapse</val>
+      </comment>
+      <val lang="zh_CN">Expand/Collapse</val>
+   </key>
+   <key value="Apply_XML_SQL_input_required">
+      <comment>It was attempted an SQL transformation without properly defining the input.</comment>
+      <comment>
+         <val lang="en_US">You need a valid SQL URL as input</val>
+      </comment>
+      <val lang="zh_CN">You need a valid SQL URL as input</val>
+   </key>
+   <key value="Apply_XML_XQUERY_input_required">
+      <comment>It was attempted an XQuery transformation without properly defining the input.</comment>
+      <comment>
+         <val lang="en_US">You need a valid XQuery URL as input</val>
+      </comment>
+      <val lang="zh_CN">You need a valid XQuery URL as input</val>
+   </key>
+   <key value="Show">
+      <comment>Filter option in DB connections panel</comment>
+      <comment>
+         <val lang="en_US">Show</val>
+      </comment>
+      <val lang="zh_CN">Show</val>
+   </key>
+   <key value="Default_component_explanation">
+      <comment>Pluggable Error Scanner Default explain.</comment>
+      <comment>
+         <val lang="en_US">Command line arguments used to validate the current edited file in case if no associated
+            schema is detected. The arguments should include the editor variable ${cf}.</val>
+      </comment>
+      <val lang="zh_CN">Command line arguments used to validate the current edited file in case if no associated
+            schema is detected. The arguments should include the editor variable ${cf}.</val>
+   </key>
+   <key value="Default_others_component_explanation">
+      <comment>Pluggable Error Scanner Default others arguments explain.</comment>
+      <comment>
+         <val lang="en_US">Command line arguments used to validate the current edited file. The arguments can include the
+            available editor variables.</val>
+      </comment>
+      <val lang="zh_CN">Command line arguments used to validate the current edited file. The arguments can include the
+            available editor variables.</val>
+   </key>
+   <key value="Sch_component_explanation">
+      <comment>Pluggable Error Scanner Schematron arguments explain.</comment>
+      <comment>
+         <val lang="en_US">Command line arguments used to validate the current edited file against a Schematron Schema.
+            The arguments can include any custom switch (like -sch) and two editor variables ${cf} representing the
+            place where the current file path will be inserted and ${ds} where Schematron Schema file path will be
+            inserted. For example ${cf} --sch ${ds} will validate the current edited file against the given schema. The
+            editor variables are replaced at runtime with the detected references.</val>
+      </comment>
+      <val lang="zh_CN">Command line arguments used to validate the current edited file against a Schematron Schema.
+            The arguments can include any custom switch (like -sch) and two editor variables ${cf} representing the
+            place where the current file path will be inserted and ${ds} where Schematron Schema file path will be
+            inserted. For example ${cf} --sch ${ds} will validate the current edited file against the given schema. The
+            editor variables are replaced at runtime with the detected references.</val>
+   </key>
+   <key value="Nvdl_component_explanation">
+      <comment>Pluggable Error Scanner NVDL arguments explain.</comment>
+      <comment>
+         <val lang="en_US">Command line arguments used to validate the current edited file against a NVDL Schema. The
+            arguments can include any custom switch (like -nvdl) and two editor variables ${cf} representing the place
+            where the current file path will be inserted and ${ds} where NVDL Schema file path will be inserted. For
+            example ${cf} --nvdl ${ds} will validate the current edited file against the given schema. The editor
+            variables are replaced at runtime with the detected references.</val>
+      </comment>
+      <val lang="zh_CN">Command line arguments used to validate the current edited file against a NVDL Schema. The
+            arguments can include any custom switch (like -nvdl) and two editor variables ${cf} representing the place
+            where the current file path will be inserted and ${ds} where NVDL Schema file path will be inserted. For
+            example ${cf} --nvdl ${ds} will validate the current edited file against the given schema. The editor
+            variables are replaced at runtime with the detected references.</val>
+   </key>
+   <key value="Rnc_component_explanation">
+      <comment>Pluggable Error Scanner RNC arguments explain.</comment>
+      <comment>
+         <val lang="en_US">Command line arguments used to validate the current edited file against a RELAX NG Schema
+            (compact format). The arguments can include any custom switch (like -rnc) and two editor variables ${cf}
+            representing the place where the path of current file will be inserted and ${ds} where the path of RELAX NG
+            Schema file will be inserted. For example ${cf} --rnc ${ds} will validate the current edited file against
+            the given schema. The editor variables are replaced at runtime with the detected references.</val>
+      </comment>
+      <val lang="zh_CN">Command line arguments used to validate the current edited file against a RELAX NG Schema
+            (compact format). The arguments can include any custom switch (like -rnc) and two editor variables ${cf}
+            representing the place where the path of current file will be inserted and ${ds} where the path of RELAX NG
+            Schema file will be inserted. For example ${cf} --rnc ${ds} will validate the current edited file against
+            the given schema. The editor variables are replaced at runtime with the detected references.</val>
+   </key>
+   <key value="Rng_component_explanation">
+      <comment>Pluggable Error Scanner RNG arguments explain.</comment>
+      <comment>
+         <val lang="en_US">Command line arguments used to validate the current edited file against a RELAX NG Schema (XML
+            format). The arguments can include any custom switch (like -rng) and two editor variables ${cf} representing
+            the place where the path of current file will be inserted and ${ds} where the path of RELAX NG Schema file
+            will be inserted. For example ${cf} --rng ${ds} will validate the current edited file against the given
+            schema. The editor variables are replaced at runtime with the detected references.</val>
+      </comment>
+      <val lang="zh_CN">Command line arguments used to validate the current edited file against a RELAX NG Schema (XML
+            format). The arguments can include any custom switch (like -rng) and two editor variables ${cf} representing
+            the place where the path of current file will be inserted and ${ds} where the path of RELAX NG Schema file
+            will be inserted. For example ${cf} --rng ${ds} will validate the current edited file against the given
+            schema. The editor variables are replaced at runtime with the detected references.</val>
+   </key>
+   <key value="Xsd_component_explanation">
+      <comment>Pluggable Error Scanner XSD arguments explain.</comment>
+      <comment>
+         <val lang="en_US">Command line arguments used to validate the current edited file against a W3C Schema. The
+            arguments can include any custom switch (like -w3cschema) and two editor variables ${cf} representing the
+            place where path of the current file will be inserted and ${ds} where the path of W3C Schema file reference
+            will be inserted. For example ${cf} --w3cschema ${ds} will validate the current edited file against the
+            given schema. The editor variables are replaced at runtime with the detected references.</val>
+      </comment>
+      <val lang="zh_CN">Command line arguments used to validate the current edited file against a W3C Schema. The
+            arguments can include any custom switch (like -w3cschema) and two editor variables ${cf} representing the
+            place where path of the current file will be inserted and ${ds} where the path of W3C Schema file reference
+            will be inserted. For example ${cf} --w3cschema ${ds} will validate the current edited file against the
+            given schema. The editor variables are replaced at runtime with the detected references.</val>
+   </key>
+   <key value="Dtd_component_explanation">
+      <comment>Pluggable Error Scanner DTD arguments explain.</comment>
+      <comment>
+         <val lang="en_US">Command line arguments used to validate the current edited file against a DTD. The arguments
+            can include any custom switch (like -dtd) and two editor variables ${cf} representing the place where path
+            of current file will be inserted and ${ds} where the path of dtd file will be inserted. For example ${cf}
+            --dtd ${ds} will validate the current edited file against the given dtd. The editor variables are replaced
+            at runtime with the detected references.</val>
+      </comment>
+      <val lang="zh_CN">Command line arguments used to validate the current edited file against a DTD. The arguments
+            can include any custom switch (like -dtd) and two editor variables ${cf} representing the place where path
+            of current file will be inserted and ${ds} where the path of dtd file will be inserted. For example ${cf}
+            --dtd ${ds} will validate the current edited file against the given dtd. The editor variables are replaced
+            at runtime with the detected references.</val>
+   </key>
+   <key value="Generates_the_other_options_as_comment_explanation">
+      <comment>XML generator </comment>
+      <comment>
+         <val lang="en_US">Option to generate the other possible choices or substitutions (for xs:choice and
+            substitutionGroup). These alternatives will be generated inside comments groups so you can uncomment them
+            and use later. Use this option with care (for example on a restricted namespace and element) as it may
+            generate large result files.</val>
+      </comment>
+      <val lang="zh_CN">Option to generate the other possible choices or substitutions (for xs:choice and
+            substitutionGroup). These alternatives will be generated inside comments groups so you can uncomment them
+            and use later. Use this option with care (for example on a restricted namespace and element) as it may
+            generate large result files.</val>
+   </key>
+   <key value="Choice_strategy_explanation">
+      <comment>XML generator </comment>
+      <comment>
+         <val lang="en_US">Option to be used in case of xs:choice or substitutionGroup. The possible strategies are:\n
+            First - the first branch of xs:choice or the head element of substitutionGroup will be always used.\n Random
+            - a random branch of xs:choice or a substitute element or the head element of a substitutionGroup will be
+            used.\n</val>
+      </comment>
+      <val lang="zh_CN">Option to be used in case of xs:choice or substitutionGroup. The possible strategies are:\n
+            First - the first branch of xs:choice or the head element of substitutionGroup will be always used.\n Random
+            - a random branch of xs:choice or a substitute element or the head element of a substitutionGroup will be
+            used.\n</val>
+   </key>
+   <key value="Maximum_recursivity_level_explanation">
+      <comment>XML generator </comment>
+      <comment>
+         <val lang="en_US">Option to set the maximum allowed depth of the same element in case of recursivity.</val>
+      </comment>
+      <val lang="zh_CN">Option to set the maximum allowed depth of the same element in case of recursivity.</val>
+   </key>
+   <key value="Preferred_repeatable_number_explanation">
+      <comment>XML generator </comment>
+      <comment>
+         <val lang="en_US">Option to set the preferred number of repeating elements related with minOccurs and maxOccurs
+            defined in XML Schema.\n If the value set here is between minOccurs and maxOccurs, that value will be
+            used.\n If the value set here is less than minOccurs, the minOccurs value will be used.\n If the value set
+            here is greater than maxOccurs, that value will be used.</val>
+      </comment>
+      <val lang="zh_CN">Option to set the preferred number of repeating elements related with minOccurs and maxOccurs
+            defined in XML Schema.\n If the value set here is between minOccurs and maxOccurs, that value will be
+            used.\n If the value set here is less than minOccurs, the minOccurs value will be used.\n If the value set
+            here is greater than maxOccurs, that value will be used.</val>
+   </key>
+   <key value="Fill_elements_and_attr_explanation">
+      <comment>XML generator </comment>
+      <comment>
+         <val lang="en_US">Option to control the content of generated attributes and elements. Several choices are
+            available:\n None - No content is inserted.\n Default - Inserts a default value depending on data type
+            descriptor of the respective element/attribute. The default value can be either the data type name or an
+            incremental name of the attribute or element (according to the global option from the XML instance generator
+            preferences page)\n Random - Inserts a random value depending on data type descriptor of the respective
+            element/attribute.\n</val>
+      </comment>
+      <val lang="zh_CN">Option to control the content of generated attributes and elements. Several choices are
+            available:\n None - No content is inserted.\n Default - Inserts a default value depending on data type
+            descriptor of the respective element/attribute. The default value can be either the data type name or an
+            incremental name of the attribute or element (according to the global option from the XML instance generator
+            preferences page)\n Random - Inserts a random value depending on data type descriptor of the respective
+            element/attribute.\n</val>
+   </key>
+   <key value="Duplicate_xml_schema_drop_and_register">
+      <comment>Message for XML Schema if duplicate is found and the user is asked to drop and register the new
+            one.</comment>
+      <comment>
+         <val lang="en_US">An XML schema with the same name already exists on the server. Do you wish to drop the current
+            registered schema and register the new one?</val>
+      </comment>
+      <val lang="zh_CN">An XML schema with the same name already exists on the server. Do you wish to drop the current
+            registered schema and register the new one?</val>
+   </key>
+   <key value="Limit_number_of_cells">
+      <comment>Limit the number of cells to be loaded in the database explorer table (option).</comment>
+      <comment>
+         <val lang="en_US">Limit the number of cells</val>
+      </comment>
+      <val lang="zh_CN">Limit the number of cells</val>
+   </key>
+   <key value="There_are_no_incoming_changes">
+      <comment>SVN information message if there are no incoming items after update</comment>
+      <comment>
+         <val lang="en_US">There are no incoming changes</val>
+      </comment>
+      <val lang="zh_CN">There are no incoming changes</val>
+   </key>
+   <key value="Duplicate_row">
+      <comment>Action name in database 'Table Explorer' view</comment>
+      <comment>
+         <val lang="en_US">Duplicate Row</val>
+      </comment>
+      <val lang="zh_CN">Duplicate Row</val>
+   </key>
+   <key value="Can_use_the_editor_variables">
+      <comment>Hint label for transformation editor variables.</comment>
+      <comment>
+         <val lang="en_US">You can use the following editor variables</val>
+      </comment>
+      <val lang="zh_CN">You can use the following editor variables</val>
+   </key>
+   <key value="Insert_editor_variables">
+      <comment>Insert Editor Variables Dialog title.</comment>
+      <comment>
+         <val lang="en_US">Insert Editor Variables</val>
+      </comment>
+      <val lang="zh_CN">Insert Editor Variables</val>
+   </key>
+   <key value="Catalog_URL">
+      <comment>Label in 'Choose Catalog' dialog</comment>
+      <comment>
+         <val lang="en_US">Catalog URL</val>
+      </comment>
+      <val lang="zh_CN">Catalog URL</val>
+   </key>
+   <key value="Choose_catalog">
+      <comment>Title for 'Choose Catalog' dialog</comment>
+      <comment>
+         <val lang="en_US">Choose Catalog</val>
+      </comment>
+      <val lang="zh_CN">Choose Catalog</val>
+   </key>
+   <key value="Are_you_sure_you_want_to_delete">
+      <comment>When trying to delete an Native XML Database resource or Native XML Database container</comment>
+      <comment>
+         <val lang="en_US">Confirm delete?</val>
+      </comment>
+      <val lang="zh_CN">Confirm delete?</val>
+   </key>
+   <key distribution="common" value="Table_filters">
+      <comment>Table Filters option page title.</comment>
+      <comment>
+         <val lang="en_US">Table Filters</val>
+      </comment>
+      <val lang="zh_CN">Table Filters</val>
+   </key>
+   <key distribution="common" value="Optional">
+      <comment>Optional</comment>
+      <comment>
+         <val lang="en_US">Optional</val>
+      </comment>
+      <val lang="zh_CN">Optional</val>
+   </key>
+   <key value="Please_choose_another_transformer">
+      <comment>One of the configured transformers does not longer exist</comment>
+      <comment>
+         <val lang="en_US">Please choose another transformer. The specified transformer no longer exists</val>
+      </comment>
+      <val lang="zh_CN">Please choose another transformer. The specified transformer no longer exists</val>
+   </key>
+   <key value="Global_project_options_explanation">
+      <comment>Explanation message for project/global options level</comment>
+      <comment>
+         <val lang="en_US"> The global options are stored on your computer, in a folder that is not accessible to other
+            users.\n\nThe project options are stored in the Oxygen project file and can be shared with other users. For
+            instance, if your Oxygen project file and other files and folders are saved on a versioning system (SVN,
+            CVS, Source Safe, etc.) or a shared folder, your team can use the same options/scenarios you have chosen to
+            store in the project file. </val>
+      </comment>
+      <val lang="zh_CN"> The global options are stored on your computer, in a folder that is not accessible to other
+            users.\n\nThe project options are stored in the Oxygen project file and can be shared with other users. For
+            instance, if your Oxygen project file and other files and folders are saved on a versioning system (SVN,
+            CVS, Source Safe, etc.) or a shared folder, your team can use the same options/scenarios you have chosen to
+            store in the project file. </val>
+   </key>
+   <key value="Parameter_name_is_for_display_purpose">
+      <comment>Explain test for the parameter name of SQL parameters</comment>
+      <comment>
+         <val lang="en_US">The parameter name is used only for display purpose but it should be unique. Only the values
+            and the order in which they appear counts.</val>
+      </comment>
+      <val lang="zh_CN">The parameter name is used only for display purpose but it should be unique. Only the values
+            and the order in which they appear counts.</val>
+   </key>
+   <key value="Restore_defaults">
+      <comment>Restore default options button</comment>
+      <comment>
+         <val lang="en_US">Restore Defaults</val>
+      </comment>
+      <val lang="zh_CN">Restore Defaults</val>
+   </key>
+   <key value="Click_cell_to_open_in_editor">
+      <comment>Tooltip in database tables on XML Cells</comment>
+      <comment>
+         <val lang="en_US">Click the cell to open its content in the editor</val>
+      </comment>
+      <val lang="zh_CN">Click the cell to open its content in the editor</val>
+   </key>
+   <key value="Connection_details">
+      <comment>The page for configuring the database connections.</comment>
+      <comment>
+         <val lang="en_US">Connection Details</val>
+      </comment>
+      <val lang="zh_CN">Connection Details</val>
+   </key>
+   <key value="Drivers">
+      <comment>Drivers as in Database drivers</comment>
+      <comment>
+         <val lang="en_US">Drivers</val>
+      </comment>
+      <val lang="zh_CN">Drivers</val>
+   </key>
+   <key value="Driver_files">
+      <comment>The files of a driver</comment>
+      <comment>
+         <val lang="en_US">Driver files</val>
+      </comment>
+      <val lang="zh_CN">Driver files</val>
+   </key>
+   <key value="Driver_class">
+      <comment>The Java main class of a driver</comment>
+      <comment>
+         <val lang="en_US">Driver class</val>
+      </comment>
+      <val lang="zh_CN">Driver class</val>
+   </key>
+   <key value="The_following_connections_are_using_this_driver">
+      <comment>Information message displayed when the user wants to delete or modify a database driver.</comment>
+      <comment>
+         <val lang="en_US">The following connections are using this driver</val>
+      </comment>
+      <val lang="zh_CN">The following connections are using this driver</val>
+   </key>
+   <key value="Delete_them_first">
+      <comment>Information message displayed when the user wants to delete or modify a database driver. The
+            connections must be deleted.</comment>
+      <comment>
+         <val lang="en_US">Delete them first.</val>
+      </comment>
+      <val lang="zh_CN">Delete them first.</val>
+   </key>
+   <key value="is_in_use_by">
+      <comment>Part of a message, something like: "The connection is in use by x".</comment>
+      <comment>
+         <val lang="en_US">is in use by</val>
+      </comment>
+      <val lang="zh_CN">is in use by</val>
+   </key>
+   <key value="No_table_opened">
+      <comment>Message on the database table browser. This is displayed when the browser is empty.,.</comment>
+      <comment>
+         <val lang="en_US">No opened table.</val>
+      </comment>
+      <val lang="zh_CN">No opened table.</val>
+   </key>
+   <key value="Export_global_transformation_scenarios">
+      <comment>Options menu.</comment>
+      <comment>
+         <val lang="en_US">Export Global Transformation Scenarios</val>
+      </comment>
+      <val lang="zh_CN">Export Global Transformation Scenarios</val>
+   </key>
+   <key value="Import_global_transformation_scenarios">
+      <comment>Options menu.</comment>
+      <comment>
+         <val lang="en_US">Import Global Transformation Scenarios</val>
+      </comment>
+      <val lang="zh_CN">Import Global Transformation Scenarios</val>
+   </key>
+   <key value="Reset_global_options">
+      <comment>Reset all global options to the default values.</comment>
+      <comment>
+         <val lang="en_US">Reset Global Options</val>
+      </comment>
+      <val lang="zh_CN">Reset Global Options</val>
+   </key>
+   <key value="Import_global_options">
+      <comment>Menu entry in Options.</comment>
+      <comment>
+         <val lang="en_US">Import Global Options</val>
+      </comment>
+      <val lang="zh_CN">Import Global Options</val>
+   </key>
+   <key value="Export_global_options">
+      <comment>Menu entry in Options.</comment>
+      <comment>
+         <val lang="en_US">Export Global Options</val>
+      </comment>
+      <val lang="zh_CN">Export Global Options</val>
+   </key>
+   <key value="Local">
+      <comment>Label in the 'Register dialog'(Oracle) from the database perspective. Specifies scope.</comment>
+      <comment>
+         <val lang="en_US">Local</val>
+      </comment>
+      <val lang="zh_CN">Local</val>
+   </key>
+   <key value="The_connection">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">The connection</val>
+      </comment>
+      <val lang="zh_CN">The connection</val>
+   </key>
+   <key value="does_no_longer_exist">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">does no longer exist.</val>
+      </comment>
+      <val lang="zh_CN">does no longer exist.</val>
+   </key>
+   <key value="Please_choose_another_connection">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">Please choose another connection.</val>
+      </comment>
+      <val lang="zh_CN">Please choose another connection.</val>
+   </key>
+   <key value="Operation_available_in_enterprise_only">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">This operation is available only in Oxygen enterprise edition.</val>
+      </comment>
+      <val lang="zh_CN">This operation is available only in Oxygen enterprise edition.</val>
+   </key>
+   <key value="Another_session_with_the_same_name_already_exist">
+      <comment>Another database session with the same name already exist.</comment>
+      <comment>
+         <val lang="en_US">Another database session with the same name already exist.</val>
+      </comment>
+      <val lang="zh_CN">Another database session with the same name already exist.</val>
+   </key>
+   <key value="Sessions_with_empty_name_are_not_accepted">
+      <comment>Sessions with empty name are not accepted.</comment>
+      <comment>
+         <val lang="en_US">Sessions with empty name are not accepted.</val>
+      </comment>
+      <val lang="zh_CN">Sessions with empty name are not accepted.</val>
+   </key>
+   <key value="Invalid_session_name">
+      <comment>Invalid session name.</comment>
+      <comment>
+         <val lang="en_US">Invalid session name</val>
+      </comment>
+      <val lang="zh_CN">Invalid session name</val>
+   </key>
+   <key value="Decomposition">
+      <comment>Decomposition flag on DB2 schema registration</comment>
+      <comment>
+         <val lang="en_US">Decomposition</val>
+      </comment>
+      <val lang="zh_CN">Decomposition</val>
+   </key>
+   <key value="Enter_collection_name">
+      <comment>Enter collection name</comment>
+      <comment>
+         <val lang="en_US">Enter Collection Name</val>
+      </comment>
+      <val lang="zh_CN">Enter Collection Name</val>
+   </key>
+   <key value="Unregister">
+      <comment>Unregister an XSD schema from a database repository</comment>
+      <comment>
+         <val lang="en_US">Unregister</val>
+      </comment>
+      <val lang="zh_CN">Unregister</val>
+   </key>
+   <key value="Validating_cell_content">
+      <comment>validating the content of an XML cell, status message</comment>
+      <comment>
+         <val lang="en_US">Validating cell content</val>
+      </comment>
+      <val lang="zh_CN">Validating cell content</val>
+   </key>
+   <key value="Select_destination">
+      <comment>Select move operation destination</comment>
+      <comment>
+         <val lang="en_US">Select Destination</val>
+      </comment>
+      <val lang="zh_CN">Select Destination</val>
+   </key>
+   <key value="Enter_resource_name">
+      <comment>Enter resource name</comment>
+      <comment>
+         <val lang="en_US">Enter Resource Name</val>
+      </comment>
+      <val lang="zh_CN">Enter Resource Name</val>
+   </key>
+   <key value="Enter_container_name">
+      <comment>Enter container name</comment>
+      <comment>
+         <val lang="en_US">Enter Container Name</val>
+      </comment>
+      <val lang="zh_CN">Enter Container Name</val>
+   </key>
+   <key value="Could_not_open_the_resource">
+      <comment>Could not open a database resource.</comment>
+      <comment>
+         <val lang="en_US">Could not open a database resource</val>
+      </comment>
+      <val lang="zh_CN">Could not open a database resource</val>
+   </key>
+   <key value="Add_resource">
+      <comment>Add a database resource</comment>
+      <comment>
+         <val lang="en_US">Add Resource</val>
+      </comment>
+      <val lang="zh_CN">Add Resource</val>
+   </key>
+   <key value="Specify_namespace_URI">
+      <comment>Specify a namespace URI</comment>
+      <comment>
+         <val lang="en_US">Specify a namespace URI</val>
+      </comment>
+      <val lang="zh_CN">Specify a namespace URI</val>
+   </key>
+   <key value="Element_has_no_namespace">
+      <comment>Element has no namespace</comment>
+      <comment>
+         <val lang="en_US">Element has no namespace</val>
+      </comment>
+      <val lang="zh_CN">Element has no namespace</val>
+   </key>
+   <key value="Element_name">
+      <comment>Element name</comment>
+      <comment>
+         <val lang="en_US">Element name</val>
+      </comment>
+      <val lang="zh_CN">Element name</val>
+   </key>
+   <key value="Namespace_of_root_element">
+      <comment>Namespace of root element</comment>
+      <comment>
+         <val lang="en_US">Namespace of root element</val>
+      </comment>
+      <val lang="zh_CN">Namespace of root element</val>
+   </key>
+   <key value="Use_implicit_XML_schema">
+      <comment>Use implicit XML schema</comment>
+      <comment>
+         <val lang="en_US">Use implicit XML schema</val>
+      </comment>
+      <val lang="zh_CN">Use implicit XML schema</val>
+   </key>
+   <key value="Specify_an_registered_XML_schema">
+      <comment>Specify a registered XML schema</comment>
+      <comment>
+         <val lang="en_US">Specify a registered XML schema</val>
+      </comment>
+      <val lang="zh_CN">Specify a registered XML schema</val>
+   </key>
+   <key value="Specify_an_XML_element">
+      <comment>Specify an XML element</comment>
+      <comment>
+         <val lang="en_US">Specify an XML element</val>
+      </comment>
+      <val lang="zh_CN">Specify an XML element</val>
+   </key>
+   <key value="Collection_information">
+      <comment>Schema collection details</comment>
+      <comment>
+         <val lang="en_US">Collection Information</val>
+      </comment>
+      <val lang="zh_CN">Collection Information</val>
+   </key>
+   <key value="Collection_name">
+      <comment>Name of the schema collection</comment>
+      <comment>
+         <val lang="en_US">Collection Name</val>
+      </comment>
+      <val lang="zh_CN">Collection Name</val>
+   </key>
+   <key value="Dependencies">
+      <comment>Dependencies of schema from another</comment>
+      <comment>
+         <val lang="en_US">Dependencies</val>
+      </comment>
+      <val lang="zh_CN">Dependencies</val>
+   </key>
+   <key value="File_location">
+      <comment>Location of the file</comment>
+      <comment>
+         <val lang="en_US">File Location</val>
+      </comment>
+      <val lang="zh_CN">File Location</val>
+   </key>
+   <key value="Schema_location">
+      <comment>Location of the XSD schema</comment>
+      <comment>
+         <val lang="en_US">Schema Location</val>
+      </comment>
+      <val lang="zh_CN">Schema Location</val>
+   </key>
+   <key value="Cell_content_is_valid">
+      <comment>The content of an XML cell is schema valid</comment>
+      <comment>
+         <val lang="en_US">XML cell content is valid.</val>
+      </comment>
+      <val lang="zh_CN">XML cell content is valid.</val>
+   </key>
+   <key value="Insert_XML_file">
+      <comment>Insert an XML file to an XML cell</comment>
+      <comment>
+         <val lang="en_US">Insert XML file</val>
+      </comment>
+      <val lang="zh_CN">Insert XML file</val>
+   </key>
+   <key value="Set_NULL">
+      <comment>Set a NULL value to an XML cell</comment>
+      <comment>
+         <val lang="en_US">Set NULL</val>
+      </comment>
+      <val lang="zh_CN">Set NULL</val>
+   </key>
+   <key value="Close_all_active_XML_cell_editors">
+      <comment>Close all active XML cell editors before this operation</comment>
+      <comment>
+         <val lang="en_US">This operation requires closing all active XML cell editors.</val>
+      </comment>
+      <val lang="zh_CN">This operation requires closing all active XML cell editors.</val>
+   </key>
+   <key value="Delete_row">
+      <comment>Delete a row from a grid or table</comment>
+      <comment>
+         <val lang="en_US">Delete row</val>
+      </comment>
+      <val lang="zh_CN">Delete row</val>
+   </key>
+   <key value="Presented_cells_number_is_limited">
+      <comment>SQL results have their number of presented cells limited..</comment>
+      <comment>
+         <val lang="en_US">The number of presented cells is limited to</val>
+      </comment>
+      <val lang="zh_CN">The number of presented cells is limited to</val>
+   </key>
+   <key value="Uncommited_row_do_yo_want_to_commit">
+      <comment>A row from a database table was not committed yet.</comment>
+      <comment>
+         <val lang="en_US">There is an uncommitted row. Do you want to commit the row?</val>
+      </comment>
+      <val lang="zh_CN">There is an uncommitted row. Do you want to commit the row?</val>
+   </key>
+   <key value="Cannot_identify_database_cell">
+      <comment>A XML cell can be opened from a database table. If the table is closed the cell cannot be located
+            anymore .</comment>
+      <comment>
+         <val lang="en_US">Cannot locate the database cell in the volatile resources.</val>
+      </comment>
+      <val lang="zh_CN">Cannot locate the database cell in the volatile resources.</val>
+   </key>
+   <key value="Specified">
+      <comment>Name of option on page for perspectives layout .</comment>
+      <comment>
+         <val lang="en_US">Specified</val>
+      </comment>
+      <val lang="zh_CN">Specified</val>
+   </key>
+   <key value="Database_xml_schema_is_read_only">
+      <comment>An XSD schema from a database repository cannot be edited.</comment>
+      <comment>
+         <val lang="en_US">An XSD schema from a database repository cannot be edited.</val>
+      </comment>
+      <val lang="zh_CN">An XSD schema from a database repository cannot be edited.</val>
+   </key>
+   <key value="Result_set_is_not_editable">
+      <comment>An SQL result set could is not editable.</comment>
+      <comment>
+         <val lang="en_US">SQL result set is not editable.</val>
+      </comment>
+      <val lang="zh_CN">SQL result set is not editable.</val>
+   </key>
+   <key value="Database_driver_available_only_in_enterprise">
+      <comment>Error message when the user tries to configure a database driver that is not allowed in the current
+            editor edition. For instance using the Oracle driver is not allowed in Professional, only in the Enterprise
+            edition.</comment>
+      <comment>
+         <val lang="en_US">This database driver is available only \nin Oxygen enterprise edition</val>
+      </comment>
+      <val lang="zh_CN">This database driver is available only \nin Oxygen enterprise edition</val>
+   </key>
+   <key value="Enable_XHTML_output">
+      <comment>Tooltip for the button enabling/disabling the XHTML output in the debugger.</comment>
+      <comment>
+         <val lang="en_US">Enable XHTML Output</val>
+      </comment>
+      <val lang="zh_CN">Enable XHTML Output</val>
+   </key>
+   <key value="Disable_XHTML_output">
+      <comment>Tooltip for the button enabling/disabling the XHTML output in the debugger.</comment>
+      <comment>
+         <val lang="en_US">Disable XHTML Output</val>
+      </comment>
+      <val lang="zh_CN">Disable XHTML Output</val>
+   </key>
+   <key value="Operation_not_supported_for_custom_protocol">
+      <comment>Current operation is not supported if URL is a custom one (for example oxygen:// used to open database
+            cells).</comment>
+      <comment>
+         <val lang="en_US">Operation not supported for custom protocol</val>
+      </comment>
+      <val lang="zh_CN">Operation not supported for custom protocol</val>
+   </key>
+   <key value="Cannot_create_directory">
+      <comment>Error message displayed by connector download manager.</comment>
+      <comment>
+         <val lang="en_US">Cannot create directory</val>
+      </comment>
+      <val lang="zh_CN">Cannot create directory</val>
+   </key>
+   <key value="Append_child">
+      <comment>Name of the append child action from the schema editor.</comment>
+      <comment>
+         <val lang="en_US">Append child</val>
+      </comment>
+      <val lang="zh_CN">Append child</val>
+   </key>
+   <key value="Project_options">
+      <comment>Checkbox which specifies if the options are loaded from the project.</comment>
+      <comment>
+         <val lang="en_US">Project Options</val>
+      </comment>
+      <val lang="zh_CN">Project Options</val>
+   </key>
+   <key value="Global_options">
+      <comment>Checkbox which specifies if the options are loaded from global settings.</comment>
+      <comment>
+         <val lang="en_US">Global Options</val>
+      </comment>
+      <val lang="zh_CN">Global Options</val>
+   </key>
+   <key value="Files">
+      <comment>Files.</comment>
+      <comment>
+         <val lang="en_US">Files</val>
+      </comment>
+      <val lang="zh_CN">Files</val>
+   </key>
+   <key value="Datasource">
+      <comment>Datasource - a preconfigured database source</comment>
+      <comment>
+         <val lang="en_US">Data Source</val>
+      </comment>
+      <val lang="zh_CN">Data Source</val>
+   </key>
+   <key value="Always_show_validation_status">
+      <comment>Option in Document checking page</comment>
+      <comment>
+         <val lang="en_US">Always show validation status</val>
+      </comment>
+      <val lang="zh_CN">Always show validation status</val>
+   </key>
+   <key value="Saved_SOAP_Request">
+      <comment>WSDL SOAP Analyzer Dialog Tab</comment>
+      <comment>
+         <val lang="en_US">Saved SOAP Request</val>
+      </comment>
+      <val lang="zh_CN">Saved SOAP Request</val>
+   </key>
+   <key distribution="common" value="WDSL_File">
+      <comment>WSDL SOAP Analyzer Dialog Tab</comment>
+      <comment>
+         <val lang="en_US">WSDL File</val>
+      </comment>
+      <val lang="zh_CN">WSDL File</val>
+   </key>
+   <key value="Conflict_color">
+      <comment>Conflict color in diff panel</comment>
+      <comment>
+         <val lang="en_US">Conflict color</val>
+      </comment>
+      <val lang="zh_CN">Conflict color</val>
+   </key>
+   <key value="Outgoing_color">
+      <comment>Outgoing color in diff panel</comment>
+      <comment>
+         <val lang="en_US">Outgoing color</val>
+      </comment>
+      <val lang="zh_CN">Outgoing color</val>
+   </key>
+   <key value="Incoming_color">
+      <comment>Incoming color in diff panel</comment>
+      <comment>
+         <val lang="en_US">Incoming color</val>
+      </comment>
+      <val lang="zh_CN">Incoming color</val>
+   </key>
+   <key value="Grid_append_child">
+      <comment>Grid actions category.</comment>
+      <comment>
+         <val lang="en_US">Grid Append Child</val>
+      </comment>
+      <val lang="zh_CN">Grid Append Child</val>
+   </key>
+   <key value="Collapse_others">
+      <comment>Grid editor action for collapsing all views but the selected ones.</comment>
+      <comment>
+         <val lang="en_US">Collapse Others</val>
+      </comment>
+      <val lang="zh_CN">Collapse Others</val>
+   </key>
+   <key value="Grid_expand_collapse">
+      <comment>Grid editor expand category</comment>
+      <comment>
+         <val lang="en_US">Grid Expand/Collapse</val>
+      </comment>
+      <val lang="zh_CN">Grid Expand/Collapse</val>
+   </key>
+   <key value="Row_header_colors">
+      <comment>Section from grid option page for the grid row colors</comment>
+      <comment>
+         <val lang="en_US">Row header colors</val>
+      </comment>
+      <val lang="zh_CN">Row header colors</val>
+   </key>
+   <key value="Column_header_colors">
+      <comment>Section from grid option page for the grid column colors</comment>
+      <comment>
+         <val lang="en_US">Column header colors</val>
+      </comment>
+      <val lang="zh_CN">Column header colors</val>
+   </key>
+   <key value="Enable_diagram_view_warning">
+      <comment>Warning used in Editor-&gt;Diagram option pane.</comment>
+      <comment>
+         <val lang="en_US">You must reopen the editors when enabling or disabling the diagram views so that the changes
+            become visible.</val>
+      </comment>
+      <val lang="zh_CN">You must reopen the editors when enabling or disabling the diagram views so that the changes
+            become visible.</val>
+   </key>
+   <key value="Background_color">
+      <comment>Option from grid option page for the grid background color</comment>
+      <comment>
+         <val lang="en_US">Background color</val>
+      </comment>
+      <val lang="zh_CN">Background color</val>
+   </key>
+   <key value="Foreground_color">
+      <comment>Option from grid option page for the grid foreground color</comment>
+      <comment>
+         <val lang="en_US">Foreground color</val>
+      </comment>
+      <val lang="zh_CN">Foreground color</val>
+   </key>
+   <key value="Format_and_indent_when_passing_grid_text_or_save">
+      <comment>Option from grid option page for format and indent when passing from grid to text or on save</comment>
+      <comment>
+         <val lang="en_US">Format and indent when passing from grid to text or on save</val>
+      </comment>
+      <val lang="zh_CN">Format and indent when passing from grid to text or on save</val>
+   </key>
+   <key value="Text_mode">
+      <comment>The tooltip for the text view mode of the editor.</comment>
+      <comment>
+         <val lang="en_US">Text mode</val>
+      </comment>
+      <val lang="zh_CN">Text mode</val>
+   </key>
+   <key value="Selection_color">
+      <comment>Grid views selection color option</comment>
+      <comment>
+         <val lang="en_US">Selection color</val>
+      </comment>
+      <val lang="zh_CN">Selection color</val>
+   </key>
+   <key value="Border_color">
+      <comment>Grid views border color option</comment>
+      <comment>
+         <val lang="en_US">Border color</val>
+      </comment>
+      <val lang="zh_CN">Border color</val>
+   </key>
+   <key value="Detect_line_separator">
+      <comment>Checkbox in the global option pane. It indicates that the line separator used when the edited file is
+            saved should be the one detected at the time of open.</comment>
+      <comment>
+         <val lang="en_US">Detect the line separator on file open</val>
+      </comment>
+      <val lang="zh_CN">Detect the line separator on file open</val>
+   </key>
+   <key value="Please_wait">
+      <comment>Message displayed when long operations are started.</comment>
+      <comment>
+         <val lang="en_US">Please wait a moment...</val>
+      </comment>
+      <val lang="zh_CN">Please wait a moment...</val>
+   </key>
+   <key value="Doctype_subset">
+      <comment>Grid component to insert.</comment>
+      <comment>
+         <val lang="en_US">Doctype subset</val>
+      </comment>
+      <val lang="zh_CN">Doctype subset</val>
+   </key>
+   <key value="Doctype_identifier">
+      <comment>Grid component to insert.</comment>
+      <comment>
+         <val lang="en_US">Doctype identifier</val>
+      </comment>
+      <val lang="zh_CN">Doctype identifier</val>
+   </key>
+   <key value="Grid_edit">
+      <comment>Grid actions category.</comment>
+      <comment>
+         <val lang="en_US">Grid Edit</val>
+      </comment>
+      <val lang="zh_CN">Grid Edit</val>
+   </key>
+   <key value="Grid_table">
+      <comment>Grid actions category.</comment>
+      <comment>
+         <val lang="en_US">Grid Table</val>
+      </comment>
+      <val lang="zh_CN">Grid Table</val>
+   </key>
+   <key value="Grid_insert_after">
+      <comment>Grid actions category.</comment>
+      <comment>
+         <val lang="en_US">Grid Insert After</val>
+      </comment>
+      <val lang="zh_CN">Grid Insert After</val>
+   </key>
+   <key value="Grid_insert_before">
+      <comment>Grid actions category.</comment>
+      <comment>
+         <val lang="en_US">Grid Insert Before</val>
+      </comment>
+      <val lang="zh_CN">Grid Insert Before</val>
+   </key>
+   <key value="Grid_layout">
+      <comment>Grid actions category.</comment>
+      <comment>
+         <val lang="en_US">Grid Layout</val>
+      </comment>
+      <val lang="zh_CN">Grid Layout</val>
+   </key>
+   <key value="Filter_hint">
+      <comment>Preferences filter hint to use the filter.</comment>
+      <comment>
+         <val lang="en_US">Type filter text</val>
+      </comment>
+      <val lang="zh_CN">Type filter text</val>
+   </key>
+   <key value="Close_results">
+      <comment>Close results menu group from file control.</comment>
+      <comment>
+         <val lang="en_US">Close results</val>
+      </comment>
+      <val lang="zh_CN">Close results</val>
+   </key>
+   <key value="Filtered">
+      <comment>Message that informs that the visible panes from preferences are filtered.</comment>
+      <comment>
+         <val lang="en_US">Filtered</val>
+      </comment>
+      <val lang="zh_CN">Filtered</val>
+   </key>
+   <key value="Cannot_insert_clipboard_contents">
+      <comment>Grid action paste warning message.</comment>
+      <comment>
+         <val lang="en_US">Cannot insert the clipboard contents at the selected location.</val>
+      </comment>
+      <val lang="zh_CN">Cannot insert the clipboard contents at the selected location.</val>
+   </key>
+   <key value="Insert_column">
+      <comment>Grid insert column action.</comment>
+      <comment>
+         <val lang="en_US">Insert column</val>
+      </comment>
+      <val lang="zh_CN">Insert column</val>
+   </key>
+   <key value="Refresh_selected">
+      <comment>Grid refresh selected view.</comment>
+      <comment>
+         <val lang="en_US">Refresh selected</val>
+      </comment>
+      <val lang="zh_CN">Refresh selected</val>
+   </key>
+   <key value="Enable_relax_ng_diagram_views">
+      <comment>Schema diagram option.</comment>
+      <comment>
+         <val lang="en_US">Enable RELAX NG diagram and related views</val>
+      </comment>
+      <val lang="zh_CN">Enable RELAX NG diagram and related views</val>
+   </key>
+   <key value="Transformation_temp_files_in_temp_directory">
+      <comment>Option in XSLT/FO/XQuery options panel for creating transformation temp files in temp directory or in
+            the same directory as the XML source of the transformation.</comment>
+      <comment>
+         <val lang="en_US">Create transformation temporary files in system temporary directory</val>
+      </comment>
+      <val lang="zh_CN">Create transformation temporary files in system temporary directory</val>
+   </key>
+   <key value="Table">
+      <comment>Menu name in grid</comment>
+      <comment>
+         <val lang="en_US">Table</val>
+      </comment>
+      <val lang="zh_CN">Table</val>
+   </key>
+   <key value="Paste_as_child">
+      <comment>Paste as child action in grid</comment>
+      <comment>
+         <val lang="en_US">Paste as Child</val>
+      </comment>
+      <val lang="zh_CN">Paste as Child</val>
+   </key>
+   <key value="Insert_row">
+      <comment>Grid insert row in table action</comment>
+      <comment>
+         <val lang="en_US">Insert row</val>
+      </comment>
+      <val lang="zh_CN">Insert row</val>
+   </key>
+   <key value="Sort">
+      <comment>Grid sort actions category</comment>
+      <comment>
+         <val lang="en_US">Sort</val>
+      </comment>
+      <val lang="zh_CN">Sort</val>
+   </key>
+   <key value="XML_Export_Preview">
+      <comment>XML preview area name in export criteria dialog.</comment>
+      <comment>
+         <val lang="en_US">XML Export Preview</val>
+      </comment>
+      <val lang="zh_CN">XML Export Preview</val>
+   </key>
+   <key value="Export_settings">
+      <comment>Export settings area title.</comment>
+      <comment>
+         <val lang="en_US">Export settings</val>
+      </comment>
+      <val lang="zh_CN">Export settings</val>
+   </key>
+   <key value="Export_criteria">
+      <comment>Title of the export criteria dialog.</comment>
+      <comment>
+         <val lang="en_US">Export criteria</val>
+      </comment>
+      <val lang="zh_CN">Export criteria</val>
+   </key>
+   <key value="Configure_DB_sources">
+      <comment>Database sources configuration button tooltip.</comment>
+      <comment>
+         <val lang="en_US">Configure Database Sources</val>
+      </comment>
+      <val lang="zh_CN">Configure Database Sources</val>
+   </key>
+   <key value="SFTP_connection_settings">
+      <comment>SFTP options section label</comment>
+      <comment>
+         <val lang="en_US">SFTP Connection Settings</val>
+      </comment>
+      <val lang="zh_CN">SFTP Connection Settings</val>
+   </key>
+   <key value="Choose_sort_type">
+      <comment>Choose sort type label</comment>
+      <comment>
+         <val lang="en_US">Choose sort type:</val>
+      </comment>
+      <val lang="zh_CN">Choose sort type:</val>
+   </key>
+   <key value="Sort_as">
+      <comment>Title of sort options dialog</comment>
+      <comment>
+         <val lang="en_US">Sort as</val>
+      </comment>
+      <val lang="zh_CN">Sort as</val>
+   </key>
+   <key value="Numerically">
+      <comment>Grid sort option: numerically</comment>
+      <comment>
+         <val lang="en_US">Numerically</val>
+      </comment>
+      <val lang="zh_CN">Numerically</val>
+   </key>
+   <key value="Alphabetically">
+      <comment>Grid sort option: alphabetically</comment>
+      <comment>
+         <val lang="en_US">Alphabetically</val>
+      </comment>
+      <val lang="zh_CN">Alphabetically</val>
+   </key>
+   <key value="Default_column_width">
+      <comment>Grid editor option</comment>
+      <comment>
+         <val lang="en_US">Default column width (characters)</val>
+      </comment>
+      <val lang="zh_CN">Default column width (characters)</val>
+   </key>
+   <key value="Compact_representation">
+      <comment>Grid editor option</comment>
+      <comment>
+         <val lang="en_US">Compact representation</val>
+      </comment>
+      <val lang="zh_CN">Compact representation</val>
+   </key>
+   <key value="Associate_xslt_css_stylesheet">
+      <comment>Name of action in XML Document menu and toolbar.</comment>
+      <comment>
+         <val lang="en_US">Associate XSLT/CSS Stylesheet</val>
+      </comment>
+      <val lang="zh_CN">Associate XSLT/CSS Stylesheet</val>
+   </key>
+   <key value="Insert_before">
+      <comment>Grid view editor. Menu item name</comment>
+      <comment>
+         <val lang="en_US">Insert Before</val>
+      </comment>
+      <val lang="zh_CN">Insert Before</val>
+   </key>
+   <key value="Insert_after">
+      <comment>Grid view editor. Menu item name</comment>
+      <comment>
+         <val lang="en_US">Insert After</val>
+      </comment>
+      <val lang="zh_CN">Insert After</val>
+   </key>
+   <key value="Sort_descending">
+      <comment>Action name from grid view for sorting rows descending in a table</comment>
+      <comment>
+         <val lang="en_US">Sort descending</val>
+      </comment>
+      <val lang="zh_CN">Sort descending</val>
+   </key>
+   <key value="Sort_ascending">
+      <comment>Action name from grid view for sorting rows ascending in a table</comment>
+      <comment>
+         <val lang="en_US">Sort ascending</val>
+      </comment>
+      <val lang="zh_CN">Sort ascending</val>
+   </key>
+   <key value="Escape_quote_characters_in_command_line">
+      <comment>Content of info dialog displayed by info button of the command line text area of the Cmd Line
+            dialog.</comment>
+      <comment>
+         <val lang="en_US">A parameter containing blank spaces must be enclosed in quote characters.\n\n The quote
+            character used in a parameter must be escaped by the ^ character: ^".\n\n The ^ character used in a
+            parameter must be doubled: ^^.</val>
+      </comment>
+      <val lang="zh_CN">A parameter containing blank spaces must be enclosed in quote characters.\n\n The quote
+            character used in a parameter must be escaped by the ^ character: ^".\n\n The ^ character used in a
+            parameter must be doubled: ^^.</val>
+   </key>
+   <key distribution="common" value="Table_explorer">
+      <comment>Database table explorer view name</comment>
+      <comment>
+         <val lang="en_US">Table Explorer</val>
+      </comment>
+      <val lang="zh_CN">Table Explorer</val>
+   </key>
+   <key value="Language_change">
+      <comment>Title for info dialog when other language is selected in Options.</comment>
+      <comment>
+         <val lang="en_US">Language change</val>
+      </comment>
+      <val lang="zh_CN">Language change</val>
+   </key>
+   <key value="Other_language">
+      <comment>Checkbox for using other language in global options.</comment>
+      <comment>
+         <val lang="en_US">Other language</val>
+      </comment>
+      <val lang="zh_CN">Other language</val>
+   </key>
+   <key value="Show_function_signatures">
+      <comment>Option in the options dialog for showing or not the signature (arguments and return type) of the
+            XSLT/XPath functions.</comment>
+      <comment>
+         <val lang="en_US">Show signatures of XSLT/XPath functions</val>
+      </comment>
+      <val lang="zh_CN">Show signatures of XSLT/XPath functions</val>
+   </key>
+   <key value="Function_signature_window_background">
+      <comment>Color for the window showing the signature (arguments and return) of the XPath/XSLT
+            functions.</comment>
+      <comment>
+         <val lang="en_US">Function signature window background</val>
+      </comment>
+      <val lang="zh_CN">Function signature window background</val>
+   </key>
+   <key value="Function_signature_window_foreground">
+      <comment>Color for the window showing the signature (arguments and return) of the XPath/XSLT
+            functions.</comment>
+      <comment>
+         <val lang="en_US">Function signature window foreground</val>
+      </comment>
+      <val lang="zh_CN">Function signature window foreground</val>
+   </key>
+   <key value="Not_a_valid_templates_file">
+      <comment>Error message when importing an invalid code templates file.</comment>
+      <comment>
+         <val lang="en_US">Not a valid templates file.\nPlease use a file containing exported templates.</val>
+      </comment>
+      <val lang="zh_CN">Not a valid templates file.\nPlease use a file containing exported templates.</val>
+   </key>
+   <key value="Default_encoding">
+      <comment>Default encoding</comment>
+      <comment>
+         <val lang="en_US">Default encoding</val>
+      </comment>
+      <val lang="zh_CN">Default encoding</val>
+   </key>
+   <key value="On">
+      <comment>On / Off</comment>
+      <comment>
+         <val lang="en_US">On</val>
+      </comment>
+      <val lang="zh_CN">On</val>
+   </key>
+   <key value="Off">
+      <comment>On / Off</comment>
+      <comment>
+         <val lang="en_US">Off</val>
+      </comment>
+      <val lang="zh_CN">Off</val>
+   </key>
+   <key value="EE_REPORT">
+      <comment>Encoding errors handling - report.</comment>
+      <comment>
+         <val lang="en_US">REPORT</val>
+      </comment>
+      <val lang="zh_CN">REPORT</val>
+   </key>
+   <key value="EE_REPLACE">
+      <comment>Encoding errors handling - replace.</comment>
+      <comment>
+         <val lang="en_US">REPLACE</val>
+      </comment>
+      <val lang="zh_CN">REPLACE</val>
+   </key>
+   <key value="EE_IGNORE">
+      <comment>Encoding errors handling - ignore.</comment>
+      <comment>
+         <val lang="en_US">IGNORE</val>
+      </comment>
+      <val lang="zh_CN">IGNORE</val>
+   </key>
+   <key value="Most_important">
+      <comment>Warning level for the CSS validator.</comment>
+      <comment>
+         <val lang="en_US">Most Important</val>
+      </comment>
+      <val lang="zh_CN">Most Important</val>
+   </key>
+   <key value="No_warnings">
+      <comment>Warning level for the CSS validator.</comment>
+      <comment>
+         <val lang="en_US">No Warnings</val>
+      </comment>
+      <val lang="zh_CN">No Warnings</val>
+   </key>
+   <key value="North">
+      <comment>The placement of the Schema diagram.</comment>
+      <comment>
+         <val lang="en_US">North</val>
+      </comment>
+      <val lang="zh_CN">North</val>
+   </key>
+   <key value="South">
+      <comment>The placement of the Schema diagram.</comment>
+      <comment>
+         <val lang="en_US">South</val>
+      </comment>
+      <val lang="zh_CN">South</val>
+   </key>
+   <key value="East">
+      <comment>The placement of the Schema diagram.</comment>
+      <comment>
+         <val lang="en_US">East</val>
+      </comment>
+      <val lang="zh_CN">East</val>
+   </key>
+   <key value="West">
+      <comment>The placement of the Schema diagram.</comment>
+      <comment>
+         <val lang="en_US">West</val>
+      </comment>
+      <val lang="zh_CN">West</val>
+   </key>
+   <key value="Connection">
+      <comment>Connection - can be relational database sources or native XML ones.</comment>
+      <comment>
+         <val lang="en_US">Connection</val>
+      </comment>
+      <val lang="zh_CN">Connection</val>
+   </key>
+   <key value="Connections">
+      <comment>Connections - can be relational database sources or native XML ones.</comment>
+      <comment>
+         <val lang="en_US">Connections</val>
+      </comment>
+      <val lang="zh_CN">Connections</val>
+   </key>
+   <key distribution="common" value="Datasources">
+      <comment>Data sources - can be relational database sources or native XML ones.</comment>
+      <comment>
+         <val lang="en_US">Data Sources</val>
+      </comment>
+      <val lang="zh_CN">Data Sources</val>
+   </key>
+   <key value="Cant_create_new_editor">
+      <comment>Error message when a new editor cannot be created for displaying the transformation result.</comment>
+      <comment>
+         <val lang="en_US">Cannot create new editor</val>
+      </comment>
+      <val lang="zh_CN">Cannot create new editor</val>
+   </key>
+   <key value="Check_open_in_editor_tooltip">
+      <comment>Tooltip for "Configure Transformation" dialog, Output Tab, the checkbox "Open in editor".</comment>
+      <comment>
+         <val lang="en_US">Select this if you want to open the transformation result in a new or existing editor</val>
+      </comment>
+      <val lang="zh_CN">Select this if you want to open the transformation result in a new or existing editor</val>
+   </key>
+   <key value="Duplicate_property_question">
+      <comment>Add new svn property question shown when user try to add a property that is already defined.</comment>
+      <comment>
+         <val lang="en_US">The property is already defined. Do you want to overwrite it's value?</val>
+      </comment>
+      <val lang="zh_CN">The property is already defined. Do you want to overwrite it's value?</val>
+   </key>
+   <key value="Incoming_items_count_tooltip">
+      <comment>Tooltip in SVN status bar.</comment>
+      <comment>
+         <val lang="en_US">The number of 'incoming' changes.</val>
+      </comment>
+      <val lang="zh_CN">The number of 'incoming' changes.</val>
+   </key>
+   <key value="Conflicting_items_count_tooltip">
+      <comment>Tooltip in SVN status bar.</comment>
+      <comment>
+         <val lang="en_US">The number of 'conflicting' changes.</val>
+      </comment>
+      <val lang="zh_CN">The number of 'conflicting' changes.</val>
+   </key>
+   <key value="Outgoing_items_count_tooltip">
+      <comment>Tooltip in SVN status bar.</comment>
+      <comment>
+         <val lang="en_US">The number of 'outgoing' changes.</val>
+      </comment>
+      <val lang="zh_CN">The number of 'outgoing' changes.</val>
+   </key>
+   <key value="Edit_mode">
+      <comment>The menu name for the edit mode of the editor.</comment>
+      <comment>
+         <val lang="en_US">Edit Mode</val>
+      </comment>
+      <val lang="zh_CN">Edit Mode</val>
+   </key>
+   <key value="Tree_mode">
+      <comment>The tooltip for the tree view mode of the editor.</comment>
+      <comment>
+         <val lang="en_US">Tree mode</val>
+      </comment>
+      <val lang="zh_CN">Tree mode</val>
+   </key>
+   <key value="Grid_mode">
+      <comment>The tooltip for the grid view mode of the editor.</comment>
+      <comment>
+         <val lang="en_US">Grid mode</val>
+      </comment>
+      <val lang="zh_CN">Grid mode</val>
+   </key>
+   <key distribution="common" value="Grid">
+      <comment>The grid view mode for the editor.</comment>
+      <comment>
+         <val lang="en_US">Grid</val>
+      </comment>
+      <val lang="zh_CN">Grid</val>
+   </key>
+   <key value="New_file">
+      <comment>Creates a new local file in the working copy (SVN).</comment>
+      <comment>
+         <val lang="en_US">New File</val>
+      </comment>
+      <val lang="zh_CN">New File</val>
+   </key>
+   <key value="Compare_images">
+      <comment>Compare images dockable view title.</comment>
+      <comment>
+         <val lang="en_US">Compare images</val>
+      </comment>
+      <val lang="zh_CN">Compare images</val>
+   </key>
+   <key value="Last_visited_directory">
+      <comment>General options radio button for file chooser opened directory</comment>
+      <comment>
+         <val lang="en_US">Last visited directory</val>
+      </comment>
+      <val lang="zh_CN">Last visited directory</val>
+   </key>
+   <key value="Authentication">
+      <comment>SVN: Label in SVN+SSH authentication dialog</comment>
+      <comment>
+         <val lang="en_US">Authentication</val>
+      </comment>
+      <val lang="zh_CN">Authentication</val>
+   </key>
+   <key value="Create_patch">
+      <comment>SVN: create a patch from the working copy to the HEAD copy</comment>
+      <comment>
+         <val lang="en_US">Create patch</val>
+      </comment>
+      <val lang="zh_CN">Create patch</val>
+   </key>
+   <key value="Operation_failed">
+      <comment>SVN error message label when an operation fails</comment>
+      <comment>
+         <val lang="en_US">Operation failed</val>
+      </comment>
+      <val lang="zh_CN">Operation failed</val>
+   </key>
+   <key value="Ignore_resource_history">
+      <comment>Option used when performing a copy/move operation on the working copy view in the SVN client</comment>
+      <comment>
+         <val lang="en_US">Ignore resource history</val>
+      </comment>
+      <val lang="zh_CN">Ignore resource history</val>
+   </key>
+   <key value="Svn_wc_not_versioned_warning">
+      <comment>Warning message when the Working Copy is no longer under version control</comment>
+      <comment>
+         <val lang="en_US">The working copy is no longer under version control: "{0}".</val>
+      </comment>
+      <val lang="zh_CN">The working copy is no longer under version control: "{0}".</val>
+   </key>
+   <key value="Last_change_date">
+      <comment>SVN Status information</comment>
+      <comment>
+         <val lang="en_US">Last change date</val>
+      </comment>
+      <val lang="zh_CN">Last change date</val>
+   </key>
+   <key value="Lock_owner">
+      <comment>SVN Lock Owner property</comment>
+      <comment>
+         <val lang="en_US">Lock owner</val>
+      </comment>
+      <val lang="zh_CN">Lock owner</val>
+   </key>
+   <key value="Lock_creation_date">
+      <comment>SVN Lock creation date property</comment>
+      <comment>
+         <val lang="en_US">Lock creation date</val>
+      </comment>
+      <val lang="zh_CN">Lock creation date</val>
+   </key>
+   <key value="Lock_comment">
+      <comment>SVN Comment with which the resource was locked</comment>
+      <comment>
+         <val lang="en_US">Lock comment</val>
+      </comment>
+      <val lang="zh_CN">Lock comment</val>
+   </key>
+   <key value="Path">
+      <comment>Local file Path</comment>
+      <comment>
+         <val lang="en_US">Path</val>
+      </comment>
+      <val lang="zh_CN">Path</val>
+   </key>
+   <key value="Node_kind">
+      <comment>SVN Resource type</comment>
+      <comment>
+         <val lang="en_US">Node kind</val>
+      </comment>
+      <val lang="zh_CN">Node kind</val>
+   </key>
+   <key value="Schedule">
+      <comment>SVN status for a resource like added, deleted</comment>
+      <comment>
+         <val lang="en_US">Schedule</val>
+      </comment>
+      <val lang="zh_CN">Schedule</val>
+   </key>
+   <key value="Copied_from_url">
+      <comment>Label in SVN information dialog</comment>
+      <comment>
+         <val lang="en_US">Copied from URL</val>
+      </comment>
+      <val lang="zh_CN">Copied from URL</val>
+   </key>
+   <key value="Copied_from_revision">
+      <comment>Label in SVN information dialog</comment>
+      <comment>
+         <val lang="en_US">Copied from revision</val>
+      </comment>
+      <val lang="zh_CN">Copied from revision</val>
+   </key>
+   <key value="Last_change_author">
+      <comment>SVN resource property</comment>
+      <comment>
+         <val lang="en_US">Last change author</val>
+      </comment>
+      <val lang="zh_CN">Last change author</val>
+   </key>
+   <key value="Text_last_updated">
+      <comment>SVN resource property</comment>
+      <comment>
+         <val lang="en_US">Text last updated</val>
+      </comment>
+      <val lang="zh_CN">Text last updated</val>
+   </key>
+   <key value="Properties_last_updated">
+      <comment>SVN resource property</comment>
+      <comment>
+         <val lang="en_US">Properties last updated</val>
+      </comment>
+      <val lang="zh_CN">Properties last updated</val>
+   </key>
+</translation>

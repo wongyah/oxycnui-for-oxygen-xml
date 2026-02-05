@@ -1,0 +1,1871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="Project_level_options_only">
+      <comment>Tooltip of a toggle button in Preferences dialog.</comment>
+      <comment>
+         <val lang="en_US">Project-level options only</val>
+      </comment>
+      <val lang="zh_CN">Project-level options only</val>
+   </key>
+   <key value="Allow_only_insertion_of_valid_attribute_values">
+      <comment>Option to insert only valid attribute values, values which are described as valid by the associated
+            schema.</comment>
+      <comment>
+         <val lang="en_US">Allow only insertion of valid attribute values</val>
+      </comment>
+      <val lang="zh_CN">Allow only insertion of valid attribute values</val>
+   </key>
+   <key value="Upper_case_first_letter">
+      <comment>Option label.</comment>
+      <comment>
+         <val lang="en_US">Upper case first letter</val>
+      </comment>
+      <val lang="zh_CN">Upper case first letter</val>
+   </key>
+   <key value="Lower_case_only">
+      <comment>Option label.</comment>
+      <comment>
+         <val lang="en_US">Lower case only</val>
+      </comment>
+      <val lang="zh_CN">Lower case only</val>
+   </key>
+   <key value="Use_camel_case">
+      <comment>Option label. DO NOT TRANSLATE 'camel case'.</comment>
+      <comment>
+         <val lang="en_US">Use 'camel case'</val>
+      </comment>
+      <val lang="zh_CN">Use 'camel case'</val>
+   </key>
+   <key value="File_name_generation_rules">
+      <comment>Label for the link in the New Topic dialog. The link takes the user to the DITA preferences
+            page.</comment>
+      <comment>
+         <val lang="en_US">File name generation rules</val>
+      </comment>
+      <val lang="zh_CN">File name generation rules</val>
+   </key>
+   <key value="Invalid_content_unexpected_element">
+      <comment>Quick fix group description for XML error.</comment>
+      <comment>
+         <val lang="en_US">Invalid content: unexpected element</val>
+      </comment>
+      <val lang="zh_CN">Invalid content: unexpected element</val>
+   </key>
+   <key value="Convert_pasted_urls_to_links">
+      <comment>Checkbox in Schema Aware option page that controls if an xref should be insert when an url is pasted in
+            author page.</comment>
+      <comment>
+         <val lang="en_US">Convert pasted URLs to links</val>
+      </comment>
+      <val lang="zh_CN">Convert pasted URLs to links</val>
+   </key>
+   <key value="orderedList_description" distribution="common">
+      <comment>Insert Ordered List action description.</comment>
+      <comment>
+         <val lang="en_US">Insert an ordered list</val>
+      </comment>
+      <val lang="zh_CN">Insert an ordered list</val>
+   </key>
+   <key value="unorderedList_description" distribution="common">
+      <comment>Insert Unordered List action description.</comment>
+      <comment>
+         <val lang="en_US">Insert an unordered list</val>
+      </comment>
+      <val lang="zh_CN">Insert an unordered list</val>
+   </key>
+   <key value="insert.table_description" distribution="common">
+      <comment>Insert Table action description.</comment>
+      <comment>
+         <val lang="en_US">Insert a table</val>
+      </comment>
+      <val lang="zh_CN">Insert a table</val>
+   </key>
+   <key value="Markdown" skipTranslation="true" distribution="common">
+      <comment>Markdown. DO NOT TRANSLATE! - It's the name of a markup language used for text editing.</comment>
+      <comment>
+         <val lang="en_US">Markdown</val>
+      </comment>
+      <val lang="zh_CN">Markdown</val>
+   </key>
+   <key value="Heading1" distribution="common">
+      <comment>Heading 1, like H1 in HTML</comment>
+      <comment>
+         <val lang="en_US">H1 Heading</val>
+      </comment>
+      <val lang="zh_CN">H1 Heading</val>
+   </key>
+   <key value="Heading2" distribution="common">
+      <comment>Heading 2, like H2 in HTML</comment>
+      <comment>
+         <val lang="en_US">H2 Heading</val>
+      </comment>
+      <val lang="zh_CN">H2 Heading</val>
+   </key>
+   <key value="Heading3" distribution="common">
+      <comment>Heading 3, like H3 in HTML</comment>
+      <comment>
+         <val lang="en_US">H3 Heading</val>
+      </comment>
+      <val lang="zh_CN">H3 Heading</val>
+   </key>
+   <key value="Heading4">
+      <comment>Heading 4, like H4 in HTML</comment>
+      <comment>
+         <val lang="en_US">H4 Heading</val>
+      </comment>
+      <val lang="zh_CN">H4 Heading</val>
+   </key>
+   <key value="Heading5">
+      <comment>Heading 5, like H5 in HTML</comment>
+      <comment>
+         <val lang="en_US">H5 Heading</val>
+      </comment>
+      <val lang="zh_CN">H5 Heading</val>
+   </key>
+   <key value="Heading6">
+      <comment>Heading 6, like H6 in HTML</comment>
+      <comment>
+         <val lang="en_US">H6 Heading</val>
+      </comment>
+      <val lang="zh_CN">H6 Heading</val>
+   </key>
+   <key value="Horizontal_rule" distribution="common">
+      <comment>Markdown: Horizontal rule</comment>
+      <comment>
+         <val lang="en_US">Horizontal rule</val>
+      </comment>
+      <val lang="zh_CN">Horizontal rule</val>
+   </key>
+   <key value="List">
+      <comment>Markdown list token.</comment>
+      <comment>
+         <val lang="en_US">List</val>
+      </comment>
+      <val lang="zh_CN">List</val>
+   </key>
+   <key value="Quote" distribution="common">
+      <comment>Markdown block quote token.</comment>
+      <comment>
+         <val lang="en_US">Blockquote</val>
+      </comment>
+      <val lang="zh_CN">Blockquote</val>
+   </key>
+   <key value="Code_span">
+      <comment>Markdown Code Span token.</comment>
+      <comment>
+         <val lang="en_US">Code span</val>
+      </comment>
+      <val lang="zh_CN">Code span</val>
+   </key>
+   <key value="Code_block" distribution="common">
+      <comment>Markdown Code Block token.</comment>
+      <comment>
+         <val lang="en_US">Code block</val>
+      </comment>
+      <val lang="zh_CN">Code block</val>
+   </key>
+   <key value="Code_block_js">
+      <comment>Markdown JS Code Block token.</comment>
+      <comment>
+         <val lang="en_US">Code block - JavaScript</val>
+      </comment>
+      <val lang="zh_CN">Code block - JavaScript</val>
+   </key>
+   <key value="Code_block_json">
+      <comment>Markdown JSON Code Block token.</comment>
+      <comment>
+         <val lang="en_US">Code block - JSON</val>
+      </comment>
+      <val lang="zh_CN">Code block - JSON</val>
+   </key>
+   <key value="Code_block_java">
+      <comment>Markdown Java Code Block token.</comment>
+      <comment>
+         <val lang="en_US">Code block - Java</val>
+      </comment>
+      <val lang="zh_CN">Code block - Java</val>
+   </key>
+   <key value="Code_block_css">
+      <comment>Markdown CSS Code Block token.</comment>
+      <comment>
+         <val lang="en_US">Code block - CSS</val>
+      </comment>
+      <val lang="zh_CN">Code block - CSS</val>
+   </key>
+   <key value="Code_block_py">
+      <comment>Markdown Python Code Block token.</comment>
+      <comment>
+         <val lang="en_US">Code block - Python</val>
+      </comment>
+      <val lang="zh_CN">Code block - Python</val>
+   </key>
+   <key value="Code_block_dtd">
+      <comment>Markdown DTD Code Block token.</comment>
+      <comment>
+         <val lang="en_US">Code block - DTD</val>
+      </comment>
+      <val lang="zh_CN">Code block - DTD</val>
+   </key>
+   <key value="Code_block_md">
+      <comment>Markdown in Markdown Code Block token.</comment>
+      <comment>
+         <val lang="en_US">Code block - Markdown</val>
+      </comment>
+      <val lang="zh_CN">Code block - Markdown</val>
+   </key>
+   <key value="Link">
+      <comment>Markdown Link token.</comment>
+      <comment>
+         <val lang="en_US">Link</val>
+      </comment>
+      <val lang="zh_CN">Link</val>
+   </key>
+   <key value="Link_URL">
+      <comment>Markdown Link URL token.</comment>
+      <comment>
+         <val lang="en_US">Link URL</val>
+      </comment>
+      <val lang="zh_CN">Link URL</val>
+   </key>
+   <key value="Bold_italic">
+      <comment>Markdown Bold/Italic token.</comment>
+      <comment>
+         <val lang="en_US">Bold/Italic</val>
+      </comment>
+      <val lang="zh_CN">Bold/Italic</val>
+   </key>
+   <key value="Bold_strike">
+      <comment>Markdown Bold/Strikethrough token.</comment>
+      <comment>
+         <val lang="en_US">Bold/Strikethrough</val>
+      </comment>
+      <val lang="zh_CN">Bold/Strikethrough</val>
+   </key>
+   <key value="Bold_italic_strike">
+      <comment>Markdown Bold/Italic/Strikethrough token.</comment>
+      <comment>
+         <val lang="en_US">Bold/Italic/Strikethrough</val>
+      </comment>
+      <val lang="zh_CN">Bold/Italic/Strikethrough</val>
+   </key>
+   <key value="Italic_strike">
+      <comment>Markdown Italic/Strikethrough token.</comment>
+      <comment>
+         <val lang="en_US">Italic/Strikethrough</val>
+      </comment>
+      <val lang="zh_CN">Italic/Strikethrough</val>
+   </key>
+   <key value="Strike" distribution="common">
+      <comment>Markdown Strikethrough token.</comment>
+      <comment>
+         <val lang="en_US">Strikethrough</val>
+      </comment>
+      <val lang="zh_CN">Strikethrough</val>
+   </key>
+   <key value="Emoticons">
+      <comment>Markdown Emoji token.</comment>
+      <comment>
+         <val lang="en_US">Emoji</val>
+      </comment>
+      <val lang="zh_CN">Emoji</val>
+   </key>
+   <key value="Large_editor_disk_operation_problem">
+      <comment>Error message received when the local disk cache cannot be used anymore in order to edit large XML
+            documents.</comment>
+      <comment>
+         <val lang="en_US">Could not use local disk cache to preserve changes to the current document opened with large
+            file editing support.\n Please free up some space on the partition where your temporary files directory is
+            located: {0}.</val>
+      </comment>
+      <val lang="zh_CN">Could not use local disk cache to preserve changes to the current document opened with large
+            file editing support.\n Please free up some space on the partition where your temporary files directory is
+            located: {0}.</val>
+   </key>
+   <key value="Process_still_running">
+      <comment>Message for when a process is still running.</comment>
+      <comment>
+         <val lang="en_US">Process ''{0}'' is still running.</val>
+      </comment>
+      <val lang="zh_CN">Process ''{0}'' is still running.</val>
+   </key>
+   <key value="Process_namespaces_through_uri_mappings_for_xml_schema">
+      <comment>XML catalog option to process XML Schema namespaces found in the schemaLocation attribute through
+            catalog URI mappings. English version was updated to include 'schemaLocation' to clarify that the processed
+            namespace is the one that appears in the schemaLocation attribute, which is used to identify the schema to
+            be used for a document</comment>
+      <comment>
+         <val lang="en_US">Process "schemaLocation" namespaces through URI mappings for XML Schema</val>
+      </comment>
+      <val lang="zh_CN">Process "schemaLocation" namespaces through URI mappings for XML Schema</val>
+   </key>
+   <key value="Backmapping_will_no_longer_function_when_invoking_format_and_indent">
+      <comment>Warning message when pretty printing the output in Debugger perspective</comment>
+      <comment>
+         <val lang="en_US">The Backmapping feature will no longer function if you proceed with the 'Format and Indent'
+            operation.</val>
+      </comment>
+      <val lang="zh_CN">The Backmapping feature will no longer function if you proceed with the 'Format and Indent'
+            operation.</val>
+   </key>
+   <key value="Do_you_want_to_convert_the_output_to_XHTML">
+      <comment>Question message when pretty printing the HTML output in Debugger perspective fails</comment>
+      <comment>
+         <val lang="en_US">Do you want to convert the output to XHTML?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to convert the output to XHTML?</val>
+   </key>
+   <key value="Make_backup_copy_on_save">
+      <comment>Options/preferences/Editor/Save. Whether to make or not a backup copy when saving. It will be followed
+            by a text field for the extension's value.</comment>
+      <comment>
+         <val lang="en_US">On save, make backup copy with extension</val>
+      </comment>
+      <val lang="zh_CN">On save, make backup copy with extension</val>
+   </key>
+   <key value="Enable_autosave">
+      <comment>"Preferences" dialog/Editor/Save option. This label will be followed by a combo specifying the period
+            of time (e.g. Automatically save the document every [10 minutes]).</comment>
+      <comment>
+         <val lang="en_US">Automatically save the document every</val>
+      </comment>
+      <val lang="zh_CN">Automatically save the document every</val>
+   </key>
+   <key value="Confirm_cancel">
+      <comment> Confirmation message when pressing cancel button.</comment>
+      <comment>
+         <val lang="en_US">Confirm cancel</val>
+      </comment>
+      <val lang="zh_CN">Confirm cancel</val>
+   </key>
+   <key value="Configured_dita_ot_dir_description">
+      <comment>Description for the "dita.dir" editor variable.</comment>
+      <comment>
+         <val lang="en_US">The DITA-OT directory configured in preferences.</val>
+      </comment>
+      <val lang="zh_CN">The DITA-OT directory configured in preferences.</val>
+   </key>
+   <key value="The_new_polygon_will_be_discarded">
+      <comment>Message displayed when in 'Free drawing' and don't want to save the polygon under
+            construction.</comment>
+      <comment>
+         <val lang="en_US">The new polygon will be discarded.</val>
+      </comment>
+      <val lang="zh_CN">The new polygon will be discarded.</val>
+   </key>
+   <key value="Enable_mouse_wheel_zooming">
+      <comment>Option name for enabling zoom in editors using CTRL + mouse wheel.</comment>
+      <comment>
+         <val lang="en_US">Enable mouse-wheel zooming</val>
+      </comment>
+      <val lang="zh_CN">Enable mouse-wheel zooming</val>
+   </key>
+   <key value="Free_drawing">
+      <comment>Free drawing</comment>
+      <comment>
+         <val lang="en_US">Free drawing</val>
+      </comment>
+      <val lang="zh_CN">Free drawing</val>
+   </key>
+   <key value="Switch_from_XPath_toolbar_to_XPath_Builder_view">
+      <comment>Tooltip displayed when hovering the button from XPath toolbar that allows switching to XPath Builder
+            view.</comment>
+      <comment>
+         <val lang="en_US">Switch to XPath Builder view</val>
+      </comment>
+      <val lang="zh_CN">Switch to XPath Builder view</val>
+   </key>
+   <key value="Circle">
+      <comment>Circle</comment>
+      <comment>
+         <val lang="en_US">Circle</val>
+      </comment>
+      <val lang="zh_CN">Circle</val>
+   </key>
+   <key value="Rectangle">
+      <comment>Rectangle</comment>
+      <comment>
+         <val lang="en_US">Rectangle</val>
+      </comment>
+      <val lang="zh_CN">Rectangle</val>
+   </key>
+   <key value="Polygon">
+      <comment>Polygon</comment>
+      <comment>
+         <val lang="en_US">Polygon</val>
+      </comment>
+      <val lang="zh_CN">Polygon</val>
+   </key>
+   <key value="Enabled_icons">
+      <comment>Label in the dialog that allows user to configure icons saturation and brightness.</comment>
+      <comment>
+         <val lang="en_US">Enabled icons</val>
+      </comment>
+      <val lang="zh_CN">Enabled icons</val>
+   </key>
+   <key value="Disabled_icons">
+      <comment>Label in the dialog that allows user to configure icons saturation and brightness.</comment>
+      <comment>
+         <val lang="en_US">Disabled icons</val>
+      </comment>
+      <val lang="zh_CN">Disabled icons</val>
+   </key>
+   <key value="Second_element_not_allowed">
+      <comment>Message given when an element is not allowed.</comment>
+      <comment>
+         <val lang="en_US">A second ''{0}'' element is not allowed after the current one.</val>
+      </comment>
+      <val lang="zh_CN">A second ''{0}'' element is not allowed after the current one.</val>
+   </key>
+   <key value="Warning_displayed_large_documents">
+      <comment>Warning message given when a large document that exceeds a certain size in megabytes(MB) is opened in
+            the editor.</comment>
+      <comment>
+         <val lang="en_US">This warning is displayed for documents exceeding {0} MB. The size of the document you are
+            trying to open is {1} MB. The size limit can be modified from the following option page: {2}</val>
+      </comment>
+      <val lang="zh_CN">This warning is displayed for documents exceeding {0} MB. The size of the document you are
+            trying to open is {1} MB. The size limit can be modified from the following option page: {2}</val>
+   </key>
+   <key value="Add_point">
+      <comment>Action in the Image Map dialog. Add a point to the exiting polygon.</comment>
+      <comment>
+         <val lang="en_US">Add point</val>
+      </comment>
+      <val lang="zh_CN">Add point</val>
+   </key>
+   <key value="Remove_point">
+      <comment>Action in the Image Map dialog. Remove a point from the exiting polygon.</comment>
+      <comment>
+         <val lang="en_US">Remove point</val>
+      </comment>
+      <val lang="zh_CN">Remove point</val>
+   </key>
+   <key value="Saturation">
+      <comment>Label in the dialog that allows user to change the icons saturation and brightness.</comment>
+      <comment>
+         <val lang="en_US">Saturation</val>
+      </comment>
+      <val lang="zh_CN">Saturation</val>
+   </key>
+   <key value="Brightness">
+      <comment>Label in the dialog that allows user to change the icons saturation and brightness.</comment>
+      <comment>
+         <val lang="en_US">Brightness</val>
+      </comment>
+      <val lang="zh_CN">Brightness</val>
+   </key>
+   <key value="Configure_icons_saturation_brightness">
+      <comment>Link in the "Appearance" options page that opens the dialog box that allows the user to configure the
+            saturation and the brightness of the application icons.</comment>
+      <comment>
+         <val lang="en_US">Configure icon saturation and brightness</val>
+      </comment>
+      <val lang="zh_CN">Configure icon saturation and brightness</val>
+   </key>
+   <key value="Move_editor_tab_to_right">
+      <comment>Option in the contextual menu of the editor's tabs.</comment>
+      <comment>
+         <val lang="en_US">Move editor tab to the right</val>
+      </comment>
+      <val lang="zh_CN">Move editor tab to the right</val>
+   </key>
+   <key value="Move_editor_tab_to_left">
+      <comment>Option in the contextual menu of the editor's tabs.</comment>
+      <comment>
+         <val lang="en_US">Move editor tab to the left</val>
+      </comment>
+      <val lang="zh_CN">Move editor tab to the left</val>
+   </key>
+   <key value="Show_topic_titles_toolbar">
+      <comment>Option for presenting/hiding the topic titles for the dita files, in the DITA Maps Manager
+            tree.</comment>
+      <comment>
+         <val lang="en_US">Show topic titles</val>
+      </comment>
+      <val lang="zh_CN">Show topic titles</val>
+   </key>
+   <key value="Cannot_delete_the_root_element.">
+      <comment>Message stating that the root element cannot be deleted.</comment>
+      <comment>
+         <val lang="en_US">Cannot delete the root element.</val>
+      </comment>
+      <val lang="zh_CN">Cannot delete the root element.</val>
+   </key>
+   <key value="Annotation_name">
+      <comment>Annotation name (color options page)</comment>
+      <comment>
+         <val lang="en_US">Annotation name</val>
+      </comment>
+      <val lang="zh_CN">Annotation name</val>
+   </key>
+   <key value="Annotation_string">
+      <comment>Annotation string (color options page)</comment>
+      <comment>
+         <val lang="en_US">Annotation string</val>
+      </comment>
+      <val lang="zh_CN">Annotation string</val>
+   </key>
+   <key value="Annotation_sq_string">
+      <comment>Annotation single quoted string (color options page)</comment>
+      <comment>
+         <val lang="en_US">Annotation single quoted string</val>
+      </comment>
+      <val lang="zh_CN">Annotation single quoted string</val>
+   </key>
+   <key value="No_predefined_templates_found">
+      <comment>Message displayed when the application cannot find any WebHelp templates.</comment>
+      <comment>
+         <val lang="en_US">No predefined templates could be found.</val>
+      </comment>
+      <val lang="zh_CN">No predefined templates could be found.</val>
+   </key>
+   <key value="Debug_unsupported_engine">
+      <comment>Error message when the user has started an XSLT or XQuery debugging session but the engine specified
+            inside the transformation scenario is not supported for debugging.</comment>
+      <comment>
+         <val lang="en_US">The transformer {0} is not supported in debugging mode.\nUsing {1} instead.</val>
+      </comment>
+      <val lang="zh_CN">The transformer {0} is not supported in debugging mode.\nUsing {1} instead.</val>
+   </key>
+   <key value="Cannot_apply_xpath_document_with_entities">
+      <comment>Error message displayed when an XPath expression is used to filter nodes from XML comparison and at
+            least one document contains entities.</comment>
+      <comment>
+         <val lang="en_US">Cannot apply XPath expression "{0}".\n The "Ignore nodes by XPath" feature does not work on
+            documents that contain entities.\n\n Please remove the XPath expression and perform the comparison
+            again.</val>
+      </comment>
+      <val lang="zh_CN">Cannot apply XPath expression "{0}".\n The "Ignore nodes by XPath" feature does not work on
+            documents that contain entities.\n\n Please remove the XPath expression and perform the comparison
+            again.</val>
+   </key>
+   <key value="Cannot_apply_xpath_invalid_expression">
+      <comment>Error message displayed when an XPath expression is used to filter nodes from XML comparison and the
+            XPath expression is not valid.</comment>
+      <comment>
+         <val lang="en_US">Cannot apply XPath expression ''{0}''.\n{1}\n\n Please correct the XPath expression and
+            perform the comparison again.</val>
+      </comment>
+      <val lang="zh_CN">Cannot apply XPath expression ''{0}''.\n{1}\n\n Please correct the XPath expression and
+            perform the comparison again.</val>
+   </key>
+   <key value="Ignore_nodes_by_xpath">
+      <comment>Option that allows the user to exclude nodes(using XPath) from XML comparison.</comment>
+      <comment>
+         <val lang="en_US">Ignore nodes by XPath</val>
+      </comment>
+      <val lang="zh_CN">Ignore nodes by XPath</val>
+   </key>
+   <key value="Ignore_nodes_by_xpath_explanation">
+      <comment>Explanation tooltip for the combo that allows the user to exclude nodes(using XPath) from XML
+            comparison.</comment>
+      <comment>
+         <val lang="en_US">XPath expression that specifies the nodes to be ignored at XML comparison.</val>
+      </comment>
+      <val lang="zh_CN">XPath expression that specifies the nodes to be ignored at XML comparison.</val>
+   </key>
+   <key value="Quick_navigation_in_tables" distribution="common">
+      <comment>Option to navigate only in table cells in Author.</comment>
+      <comment>
+         <val lang="en_US">Quick navigation in tables</val>
+      </comment>
+      <val lang="zh_CN">Quick navigation in tables</val>
+   </key>
+   <key value="Two_way_diff_options">
+      <comment>Section title in Files Comparison preferences page.</comment>
+      <comment>
+         <val lang="en_US">Two-Way Diff</val>
+      </comment>
+      <val lang="zh_CN">Two-Way Diff</val>
+   </key>
+   <key value="Three_way_diff_options">
+      <comment>Section title in Files Comparison preferences page.</comment>
+      <comment>
+         <val lang="en_US">Three-Way Diff</val>
+      </comment>
+      <val lang="zh_CN">Three-Way Diff</val>
+   </key>
+   <key value="External_diff">
+      <comment>Section title in Files Comparison preferences page.</comment>
+      <comment>
+         <val lang="en_US">External Diff</val>
+      </comment>
+      <val lang="zh_CN">External Diff</val>
+   </key>
+   <key value="Internal_compare_tool_options">
+      <comment>Link to the diff option preferences page.</comment>
+      <comment>
+         <val lang="en_US">Internal compare tool options</val>
+      </comment>
+      <val lang="zh_CN">Internal compare tool options</val>
+   </key>
+   <key value="Diff_ancestor">
+      <comment>Diff shortcut category for ancestor open actions</comment>
+      <comment>
+         <val lang="en_US">Diff ancestor</val>
+      </comment>
+      <val lang="zh_CN">Diff ancestor</val>
+   </key>
+   <key value="Hide_function_signatures">
+      <comment>Title of the dialog displayed when user press the Close button in function signatures window.</comment>
+      <comment>
+         <val lang="en_US">Hide signatures of XSLT/XPath functions</val>
+      </comment>
+      <val lang="zh_CN">Hide signatures of XSLT/XPath functions</val>
+   </key>
+   <key value="Hide_function_signatures_confirmation_message">
+      <comment>Message of the dialog displayed when user press the Close button in function signatures
+            window.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to hide signatures of XSLT/XPath functions?\n\n Note that you can
+            reactivate this option from Editor / Content Completion / XPath preferences page.</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to hide signatures of XSLT/XPath functions?\n\n Note that you can
+            reactivate this option from Editor / Content Completion / XPath preferences page.</val>
+   </key>
+   <key value="Hide_signatures">
+      <comment>Button in the dialog displayed when user press the Close button in function signatures
+            window.</comment>
+      <comment>
+         <val lang="en_US">Hide signatures</val>
+      </comment>
+      <val lang="zh_CN">Hide signatures</val>
+   </key>
+   <key value="Choose_custom_skin">
+      <comment>The name of the dialog/action used to select a custom skin for the WebHelp Responsive output.</comment>
+      <comment>
+         <val lang="en_US">Choose custom skin</val>
+      </comment>
+      <val lang="zh_CN">Choose custom skin</val>
+   </key>
+   <key value="License_already_activated_message">
+      <comment>Message used when the license was already activated on a server.</comment>
+      <comment>
+         <val lang="en_US">This license key was activated for a license server.\n You must specify the license server
+            connection details instead of using this key directly.</val>
+      </comment>
+      <val lang="zh_CN">This license key was activated for a license server.\n You must specify the license server
+            connection details instead of using this key directly.</val>
+   </key>
+   <key value="Minute">
+      <comment>Minute.</comment>
+      <comment>
+         <val lang="en_US">minute</val>
+      </comment>
+      <val lang="zh_CN">minute</val>
+   </key>
+   <key value="Minutes">
+      <comment>Minutes.</comment>
+      <comment>
+         <val lang="en_US">minutes</val>
+      </comment>
+      <val lang="zh_CN">minutes</val>
+   </key>
+   <key value="Choose_preview_or_finish">
+      <comment>Message displayed for an XML Refactoring operation without parameters.</comment>
+      <comment>
+         <val lang="en_US">Press "Preview" to see the changes before applying them or "Finish" to complete the
+            process.</val>
+      </comment>
+      <val lang="zh_CN">Press "Preview" to see the changes before applying them or "Finish" to complete the
+            process.</val>
+   </key>
+   <key value="Two_way_comparison">
+      <comment>Tooltip for comparison mode button from Diff Files tool. The button is used to switch between two-way
+            comparison and three-way comparison.</comment>
+      <comment>
+         <val lang="en_US">Two-Way Comparison</val>
+      </comment>
+      <val lang="zh_CN">Two-Way Comparison</val>
+   </key>
+   <key value="Three_way_comparison">
+      <comment>Tooltip for comparison mode button from Diff Files tool. The button is used to switch between two-way
+            comparison and three-way comparison. This is also the name for an action in Compare menu.</comment>
+      <comment>
+         <val lang="en_US">Three-Way Comparison</val>
+      </comment>
+      <val lang="zh_CN">Three-Way Comparison</val>
+   </key>
+   <key value="Schematron_validation_souldnt_write_to_disk">
+      <comment>Error message for when Schematron tries to write to disk.</comment>
+      <comment>
+         <val lang="en_US">Schematron validation should not write on disk.</val>
+      </comment>
+      <val lang="zh_CN">Schematron validation should not write on disk.</val>
+   </key>
+   <key value="Author_image_decorator">
+      <comment>Extension point name.</comment>
+      <comment>
+         <val lang="en_US">Author image decorator</val>
+      </comment>
+      <val lang="zh_CN">Author image decorator</val>
+   </key>
+   <key value="Callouts_rendering_options">
+      <comment>Section in "Callouts" option page that contains all callouts rendering options.</comment>
+      <comment>
+         <val lang="en_US">Rendering</val>
+      </comment>
+      <val lang="zh_CN">Rendering</val>
+   </key>
+   <key value="Dita_description_tooltip">
+      <comment>The description of the target reference.</comment>
+      <comment>
+         <val lang="en_US">The description of the target reference.</val>
+      </comment>
+      <val lang="zh_CN">The description of the target reference.</val>
+   </key>
+   <key value="Dita_target_tooltip">
+      <comment>DITA target tooltip.</comment>
+      <comment>
+         <val lang="en_US">The target cross reference.\n Use the cross-reference (&lt;xref&gt;) element to link to a
+            different location within the current topic, or a different topic within the same help system, or to
+            external sources, such as Web pages, or to a location in another topic.\nThe target of the cross-reference
+            is specified using the @href or @keyref attributes.</val>
+      </comment>
+      <val lang="zh_CN">The target cross reference.\n Use the cross-reference (&lt;xref&gt;) element to link to a
+            different location within the current topic, or a different topic within the same help system, or to
+            external sources, such as Web pages, or to a location in another topic.\nThe target of the cross-reference
+            is specified using the @href or @keyref attributes.</val>
+   </key>
+   <key value="Tei_id_tooltip">
+      <comment>The ID for the 'zone' element.</comment>
+      <comment>
+         <val lang="en_US">The ID for the 'zone' element.</val>
+      </comment>
+      <val lang="zh_CN">The ID for the 'zone' element.</val>
+   </key>
+   <key value="Xhtml_href_tooltip">
+      <comment>XHTML - HREF tooltip.</comment>
+      <comment>
+         <val lang="en_US">Specifies the hyperlink target for the 'area' element.\n Possible values:\n \n - An absolute
+            URL - points to another web site (like href="http://www.example.com/sun.htm")\n - A relative URL - points to
+            a file within a web site (like href="sun.htm")\n - Link to an element with a specified id within the page
+            (like href="#top")\n - Other protocols (like https://, ftp://, mailto:, file:, etc..)\n - A script (like
+            href="javascript:alert('Hello');")</val>
+      </comment>
+      <val lang="zh_CN">Specifies the hyperlink target for the 'area' element.\n Possible values:\n \n - An absolute
+            URL - points to another web site (like href="http://www.example.com/sun.htm")\n - A relative URL - points to
+            a file within a web site (like href="sun.htm")\n - Link to an element with a specified id within the page
+            (like href="#top")\n - Other protocols (like https://, ftp://, mailto:, file:, etc..)\n - A script (like
+            href="javascript:alert('Hello');")</val>
+   </key>
+   <key value="Xhtml_alternate_tooltip">
+      <comment>XHTML - Alternate tooltip.</comment>
+      <comment>
+         <val lang="en_US">The description of the 'area' element.\n This is a required attribute to present a text
+            alternative for browsers that do not display images.</val>
+      </comment>
+      <val lang="zh_CN">The description of the 'area' element.\n This is a required attribute to present a text
+            alternative for browsers that do not display images.</val>
+   </key>
+   <key value="Xhtml_target_tooltip">
+      <comment>XHTML - Target tooltip.</comment>
+      <comment>
+         <val lang="en_US">Specifies where to open the linked document.\n The allowed values are: _blank | _self |
+            _parent | _top | framename.\n\n _blank - Opens the linked document in a new window or tab\n _self - Opens
+            the linked document in the same frame as it was clicked\n _parent - Opens the linked document in the parent
+            frame\n _top - Opens the linked document in the full body of the window\n framename - Opens the linked
+            document in a named frame</val>
+      </comment>
+      <val lang="zh_CN">Specifies where to open the linked document.\n The allowed values are: _blank | _self |
+            _parent | _top | framename.\n\n _blank - Opens the linked document in a new window or tab\n _self - Opens
+            the linked document in the same frame as it was clicked\n _parent - Opens the linked document in the parent
+            frame\n _top - Opens the linked document in the full body of the window\n framename - Opens the linked
+            document in a named frame</val>
+   </key>
+   <key value="Bad_image">
+      <comment>This image has an unsupported format or is corrupt.</comment>
+      <comment>
+         <val lang="en_US">This image has an unsupported format or is corrupt.</val>
+      </comment>
+      <val lang="zh_CN">This image has an unsupported format or is corrupt.</val>
+   </key>
+   <key value="Image_map_editor">
+      <comment>Image Map Editor</comment>
+      <comment>
+         <val lang="en_US">Image Map Editor</val>
+      </comment>
+      <val lang="zh_CN">Image Map Editor</val>
+   </key>
+   <key value="Show_layers">
+      <comment>Show/hide numbers</comment>
+      <comment>
+         <val lang="en_US">Show/hide numbers</val>
+      </comment>
+      <val lang="zh_CN">Show/hide numbers</val>
+   </key>
+   <key value="Please_specify_the_polygon_edges">
+      <comment>Please specify the number of points that form the polygon:</comment>
+      <comment>
+         <val lang="en_US">Specify the number of points that form the polygon:</val>
+      </comment>
+      <val lang="zh_CN">Specify the number of points that form the polygon:</val>
+   </key>
+   <key value="Must_be_3_points">
+      <comment>The number of points must be at least 3.</comment>
+      <comment>
+         <val lang="en_US">The number of points must be at least 3.</val>
+      </comment>
+      <val lang="zh_CN">The number of points must be at least 3.</val>
+   </key>
+   <key value="Must_be_20_points">
+      <comment>The number of points must be at most 20.</comment>
+      <comment>
+         <val lang="en_US">The number of points must be at most 20.</val>
+      </comment>
+      <val lang="zh_CN">The number of points must be at most 20.</val>
+   </key>
+   <key value="The_area_shape_cannot_be_computed">
+      <comment>Error message when the areas specified in an image map cannot be computed.</comment>
+      <comment>
+         <val lang="en_US">The area shape cannot be computed.</val>
+      </comment>
+      <val lang="zh_CN">The area shape cannot be computed.</val>
+   </key>
+   <key value="Wrong_coordinates_for_circle">
+      <comment>Error message when the number of coordinates for the circle is not 3.</comment>
+      <comment>
+         <val lang="en_US">Wrong number of coordinates for circle: ${0} instead of 3.</val>
+      </comment>
+      <val lang="zh_CN">Wrong number of coordinates for circle: ${0} instead of 3.</val>
+   </key>
+   <key value="Wrong_coordinates_for_rectangle">
+      <comment>Error message when the number of coordinates for the rectangle is not 4.</comment>
+      <comment>
+         <val lang="en_US">Wrong number of coordinates for rectangle: ${0} instead of 4.</val>
+      </comment>
+      <val lang="zh_CN">Wrong number of coordinates for rectangle: ${0} instead of 4.</val>
+   </key>
+   <key value="Wrong_coordinates_for_polygon">
+      <comment>Error message when the number of coordinates for the polygon is less than 6.</comment>
+      <comment>
+         <val lang="en_US">Wrong number of coordinates for polygon: ${0}, minimum 6 required.</val>
+      </comment>
+      <val lang="zh_CN">Wrong number of coordinates for polygon: ${0}, minimum 6 required.</val>
+   </key>
+   <key value="Coordinates_not_specified">
+      <comment>Error message in the Image Map Editor. No coordinates are specified for an area.</comment>
+      <comment>
+         <val lang="en_US">Coordinates not specified.</val>
+      </comment>
+      <val lang="zh_CN">Coordinates not specified.</val>
+   </key>
+   <key value="Shape_not_specified">
+      <comment>Error message in the Image Map Editor. No shape is specified for an area.</comment>
+      <comment>
+         <val lang="en_US">Shape not specified.</val>
+      </comment>
+      <val lang="zh_CN">Shape not specified.</val>
+   </key>
+   <key value="Could_not_compute_area_shape">
+      <comment>Error message in the Image Map Editor. The area shape cannot be computed.</comment>
+      <comment>
+         <val lang="en_US">Could not compute area shape.</val>
+      </comment>
+      <val lang="zh_CN">Could not compute area shape.</val>
+   </key>
+   <key value="New_circle">
+      <comment>New circle</comment>
+      <comment>
+         <val lang="en_US">New circle</val>
+      </comment>
+      <val lang="zh_CN">New circle</val>
+   </key>
+   <key value="New_rectangle">
+      <comment>New rectangle</comment>
+      <comment>
+         <val lang="en_US">New rectangle</val>
+      </comment>
+      <val lang="zh_CN">New rectangle</val>
+   </key>
+   <key value="New_polygon">
+      <comment>New Polygon</comment>
+      <comment>
+         <val lang="en_US">New polygon</val>
+      </comment>
+      <val lang="zh_CN">New polygon</val>
+   </key>
+   <key distribution="common" value="Black">
+      <comment>Label used for predefined highlight color.</comment>
+      <comment>
+         <val lang="en_US">Black</val>
+      </comment>
+      <val lang="zh_CN">Black</val>
+   </key>
+   <key value="White">
+      <comment>Label used for predefined highlight color.</comment>
+      <comment>
+         <val lang="en_US">White</val>
+      </comment>
+      <val lang="zh_CN">White</val>
+   </key>
+   <key value="Xpath_execution_tried_to_connect_to">
+      <comment>Message warning that an XPath execution tried to connect to something.</comment>
+      <comment>
+         <val lang="en_US">XPath execution tried to connect to {0}.</val>
+      </comment>
+      <val lang="zh_CN">XPath execution tried to connect to {0}.</val>
+   </key>
+   <key value="Allow_writing_to">
+      <comment>Message asking for permission to write.</comment>
+      <comment>
+         <val lang="en_US">Allow writing to {0}?</val>
+      </comment>
+      <val lang="zh_CN">Allow writing to {0}?</val>
+   </key>
+   <key value="Allow_connection_to">
+      <comment>Message asking for permission to connect.</comment>
+      <comment>
+         <val lang="en_US">Allow connection to {0}?</val>
+      </comment>
+      <val lang="zh_CN">Allow connection to {0}?</val>
+   </key>
+   <key value="Ant_new_thread_modification">
+      <comment>Error message for when ANT tries to create or modify a new thread.</comment>
+      <comment>
+         <val lang="en_US">Ant validation tried to create or modify a new thread in the thread group: {0}.</val>
+      </comment>
+      <val lang="zh_CN">Ant validation tried to create or modify a new thread in the thread group: {0}.</val>
+   </key>
+   <key value="It_tried_to_write_to">
+      <comment>Error message for when ANT tries to write to disk.</comment>
+      <comment>
+         <val lang="en_US">It tried to write to: {0}.</val>
+      </comment>
+      <val lang="zh_CN">It tried to write to: {0}.</val>
+   </key>
+   <key value="Ant_validation_souldnt_write_to_disk">
+      <comment>Error message for when ANT tries to write to disk.</comment>
+      <comment>
+         <val lang="en_US">Ant validation should not write on disk.</val>
+      </comment>
+      <val lang="zh_CN">Ant validation should not write on disk.</val>
+   </key>
+   <key value="Validator_tried_to_connect_to">
+      <comment>Error message for when a validator tries to connect to something without permissions.</comment>
+      <comment>
+         <val lang="en_US">The {0} validator tried to connect to: {1}.</val>
+      </comment>
+      <val lang="zh_CN">The {0} validator tried to connect to: {1}.</val>
+   </key>
+   <key value="Not_allowed_for_security_reasons">
+      <comment>Message for when something is not allowed for security reasons.</comment>
+      <comment>
+         <val lang="en_US">This is not allowed for security reasons.</val>
+      </comment>
+      <val lang="zh_CN">This is not allowed for security reasons.</val>
+   </key>
+   <key value="Replace_element_solution">
+      <comment>A strategy description telling the user that the pasted content will replace the element at caret
+            position.</comment>
+      <comment>
+         <val lang="en_US">in place of the existing ''{0}'' element</val>
+      </comment>
+      <val lang="zh_CN">in place of the existing ''{0}'' element</val>
+   </key>
+   <key value="Use_same_topic_fragment_identifier">
+      <comment>Checkbox used to enable composing a link using a shorthand feature present in DITA 1.3.</comment>
+      <comment>
+         <val lang="en_US">Use '.' instead of the ID of the parent topic (DITA 1.3)</val>
+      </comment>
+      <val lang="zh_CN">Use '.' instead of the ID of the parent topic (DITA 1.3)</val>
+   </key>
+   <key value="Modified_by_author">
+      <comment>An attribute modification with change tracking was made by a certain author. Like: Modified by
+            John</comment>
+      <comment>
+         <val lang="en_US">Modified by {0}</val>
+      </comment>
+      <val lang="zh_CN">Modified by {0}</val>
+   </key>
+   <key value="Support_tools" distribution="common">
+      <comment>The name of a menu in the application. Here are grouped actions that can help the interaction between
+            the end-user and the support team.</comment>
+      <comment>
+         <val lang="en_US">Support Tools</val>
+      </comment>
+      <val lang="zh_CN">Support Tools</val>
+   </key>
+   <key value="Clipboard_inspector">
+      <comment>An action that let the user see the contents of the clipboard (for example after copying a text from a
+            document).</comment>
+      <comment>
+         <val lang="en_US">Clipboard Inspector</val>
+      </comment>
+      <val lang="zh_CN">Clipboard Inspector</val>
+   </key>
+   <key value="Print_selected_text_or_document">
+      <comment>File/Print question when there is a selection in the document and the user has to choose between
+            printing just the selection or the entire document.</comment>
+      <comment>
+         <val lang="en_US">Do you want to print only the selection or the entire document?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to print only the selection or the entire document?</val>
+   </key>
+   <key value="Print_selected_text">
+      <comment>This is a button. The user wants to print the selected text from the document.</comment>
+      <comment>
+         <val lang="en_US">Selection only</val>
+      </comment>
+      <val lang="zh_CN">Selection only</val>
+   </key>
+   <key value="Print_entire_document">
+      <comment>Answer to the File/Print question when there is a selection in the document and the user has to choose
+            between printing just the selection or the entire document.</comment>
+      <comment>
+         <val lang="en_US">Entire document</val>
+      </comment>
+      <val lang="zh_CN">Entire document</val>
+   </key>
+   <key value="Target_explanation1">
+      <comment>Part 1 of the Docbook's target explanation.</comment>
+      <comment>
+         <val lang="en_US">Identifies a link target with a URI</val>
+      </comment>
+      <val lang="zh_CN">Identifies a link target with a URI</val>
+   </key>
+   <key value="Target_explanation2">
+      <comment>Part 2 of the Docbook's target explanation.</comment>
+      <comment>
+         <val lang="en_US">Points to the callout that refers to this area</val>
+      </comment>
+      <val lang="zh_CN">Points to the callout that refers to this area</val>
+   </key>
+   <key value="Target_explanation3">
+      <comment>Part 3 of the Docbook's target explanation.</comment>
+      <comment>
+         <val lang="en_US">This provides bidirectional linking that may be useful in online presentations</val>
+      </comment>
+      <val lang="zh_CN">This provides bidirectional linking that may be useful in online presentations</val>
+   </key>
+   <key value="The_ID_of_the_area_element">
+      <comment>The ID of the area element</comment>
+      <comment>
+         <val lang="en_US">The ID of the area element</val>
+      </comment>
+      <val lang="zh_CN">The ID of the area element</val>
+   </key>
+   <key value="The_description_of_the_area_element">
+      <comment>The description of the area element</comment>
+      <comment>
+         <val lang="en_US">The description of the area element</val>
+      </comment>
+      <val lang="zh_CN">The description of the area element</val>
+   </key>
+   <key value="OR">
+      <comment>Or</comment>
+      <comment>
+         <val lang="en_US">Or</val>
+      </comment>
+      <val lang="zh_CN">Or</val>
+   </key>
+   <key value="Appinfo_include_elements_declared_in_the_schema">
+      <comment>Label in Editor / Content Completion / XSD option page.</comment>
+      <comment>
+         <val lang="en_US">When in "xs:appinfo" context, also include elements declared in the schema</val>
+      </comment>
+      <val lang="zh_CN">When in "xs:appinfo" context, also include elements declared in the schema</val>
+   </key>
+   <key value="Search_for_topicref_with_href_or_keys">
+      <comment>Info message shown when trying to find referencs to a topicref which does not have href or
+            keys.</comment>
+      <comment>
+         <val lang="en_US">You can only search for topic references with an href or keys attribute defined.</val>
+      </comment>
+      <val lang="zh_CN">You can only search for topic references with an href or keys attribute defined.</val>
+   </key>
+   <key value="Search_for_refs_to_element_with_id">
+      <comment>Info message shown when trying to find references to an element which does not have an ID.</comment>
+      <comment>
+         <val lang="en_US">You can search for references to an element which has an ID declared.</val>
+      </comment>
+      <val lang="zh_CN">You can search for references to an element which has an ID declared.</val>
+   </key>
+   <key value="No_reference_found_to">
+      <comment>No reference found to a specific DITA resource.</comment>
+      <comment>
+         <val lang="en_US">No references to "{0}" were found.</val>
+      </comment>
+      <val lang="zh_CN">No references to "{0}" were found.</val>
+   </key>
+   <key distribution="common" value="No_refs_to_ancestors_found">
+      <comment>Message shown when no references to the ancestors of an element were found.</comment>
+      <comment>
+         <val lang="en_US">No references to the ancestors were found.</val>
+      </comment>
+      <val lang="zh_CN">No references to the ancestors were found.</val>
+   </key>
+   <key distribution="common" value="References_to_ancestors">
+      <comment>Name for the results panel showing the references to the selected element's ancestors.</comment>
+      <comment>
+         <val lang="en_US">References to ancestors</val>
+      </comment>
+      <val lang="zh_CN">References to ancestors</val>
+   </key>
+   <key distribution="common" value="Search_refs_to_ancestors">
+      <comment>Ask the user if he/she wants to search for references to an element's acenstors.</comment>
+      <comment>
+         <val lang="en_US">Search for references to its ancestors?</val>
+      </comment>
+      <val lang="zh_CN">Search for references to its ancestors?</val>
+   </key>
+   <key distribution="common" value="Callouts_boxes_initial_width">
+      <comment>Option name for initial width for callout boxes.</comment>
+      <comment>
+         <val lang="en_US">Initial width</val>
+      </comment>
+      <val lang="zh_CN">Initial width</val>
+   </key>
+   <key distribution="common" value="Enable_saxon_optimizations">
+      <comment>Option in Debugger preferences page.</comment>
+      <comment>
+         <val lang="en_US">Enable Saxon optimizations</val>
+      </comment>
+      <val lang="zh_CN">Enable Saxon optimizations</val>
+   </key>
+   <key value="Column_mode_edit">
+      <comment>Name used instead 'Modify All From Document' when the action is invoked on rectangular
+            selections.</comment>
+      <comment>
+         <val lang="en_US">Column Mode Edit</val>
+      </comment>
+      <val lang="zh_CN">Column Mode Edit</val>
+   </key>
+   <key value="Prompt_for_phase">
+      <comment>Entry for asking the phase.</comment>
+      <comment>
+         <val lang="en_US">Prompt for phase</val>
+      </comment>
+      <val lang="zh_CN">Prompt for phase</val>
+   </key>
+   <key distribution="common" value="Locations">
+      <comment>Frameworks location option page name.</comment>
+      <comment>
+         <val lang="en_US">Locations</val>
+      </comment>
+      <val lang="zh_CN">Locations</val>
+   </key>
+   <key value="Topicref_no_key">
+      <comment>Message for when trying to paste as link with keyref a topicref which is not mapped to a key.</comment>
+      <comment>
+         <val lang="en_US">Cannot perform operation because the copied topicref is not mapped to a key.</val>
+      </comment>
+      <val lang="zh_CN">Cannot perform operation because the copied topicref is not mapped to a key.</val>
+   </key>
+   <key value="Topicref_no_href">
+      <comment>Message for when trying to paste as link a topicref without href.</comment>
+      <comment>
+         <val lang="en_US">Cannot perform operation because the copied topicref does not point to a resource (the "href"
+            attribute is missing or is empty).</val>
+      </comment>
+      <val lang="zh_CN">Cannot perform operation because the copied topicref does not point to a resource (the "href"
+            attribute is missing or is empty).</val>
+   </key>
+   <key value="Add_reply">
+      <comment>Text of a button in "Edit comment" dialog (callouts) </comment>
+      <comment>
+         <val lang="en_US">Add reply</val>
+      </comment>
+      <val lang="zh_CN">Add reply</val>
+   </key>
+   <key value="Track_changes_view_changes_by_mode">
+      <comment>Presenting the document with all filtered changes accepted (final document) except selected author
+            changes.</comment>
+      <comment>
+         <val lang="en_US">View Changes/Comments by</val>
+      </comment>
+      <val lang="zh_CN">View Changes/Comments by</val>
+   </key>
+   <key value="Track_changes_filtered_by_tooltip">
+      <comment>Description used for the "View Only Changes/Comments by" action, used in tooltip.</comment>
+      <comment>
+         <val lang="en_US">Shows all discussion threads (comments, insertions and deletions) that include comments made
+            by ''{0}''</val>
+      </comment>
+      <val lang="zh_CN">Shows all discussion threads (comments, insertions and deletions) that include comments made
+            by ''{0}''</val>
+   </key>
+   <key value="Track_changes_filtered_tooltip">
+      <comment>Description used for the "View Only Changes/Comments by" action, used in tooltip.</comment>
+      <comment>
+         <val lang="en_US">All changes (comments, insertions and deletions) initiated by a specific author are
+            highlighted in the document</val>
+      </comment>
+      <val lang="zh_CN">All changes (comments, insertions and deletions) initiated by a specific author are
+            highlighted in the document</val>
+   </key>
+   <key value="Author_action_event_handler" type="action">
+      <comment>Label in the Document Type editing dialog/ Extensions tab.</comment>
+      <comment>
+         <val lang="en_US">Author action event handler</val>
+      </comment>
+      <val lang="zh_CN">Author action event handler</val>
+   </key>
+   <key value="The_server_has_no_license_configured">
+      <comment>Message that apears when there is no license served by the license servlet.</comment>
+      <comment>
+         <val lang="en_US">The server has no license configured.</val>
+      </comment>
+      <val lang="zh_CN">The server has no license configured.</val>
+   </key>
+   <key value="There_are_shapes_entirely_covered_by_bigger_shapes"
+        type="action">
+      <comment>Message that apear in the image map dialog.</comment>
+      <comment>
+         <val lang="en_US">There are shapes entirely covered by bigger shapes.</val>
+      </comment>
+      <val lang="zh_CN">There are shapes entirely covered by bigger shapes.</val>
+   </key>
+   <key value="Mark_as_done" type="action">
+      <comment>Callout action name (marks the callout as "done")</comment>
+      <comment>
+         <val lang="en_US">Mark as Done</val>
+      </comment>
+      <val lang="zh_CN">Mark as Done</val>
+   </key>
+   <key value="Callouts_text_limit" type="action">
+      <comment>Label for the option that controls the maximum number of comments and content lines.</comment>
+      <comment>
+         <val lang="en_US">Text lines count limit</val>
+      </comment>
+      <val lang="zh_CN">Text lines count limit</val>
+   </key>
+   <key value="Hotspots_error_message">
+      <comment>Error message displayed when hotspots cannot be computed.</comment>
+      <comment>
+         <val lang="en_US">The hotspots cannot be computed. See the debugger errors.</val>
+      </comment>
+      <val lang="zh_CN">The hotspots cannot be computed. See the debugger errors.</val>
+   </key>
+   <key value="Invocation_tree_error_message">
+      <comment>Error message displayed when invocation tree cannot be computed.</comment>
+      <comment>
+         <val lang="en_US">The invocation tree cannot be computed. See the debugger errors.</val>
+      </comment>
+      <val lang="zh_CN">The invocation tree cannot be computed. See the debugger errors.</val>
+   </key>
+   <key value="Bring_shape_forward">
+      <comment>Action name in "Image Map" dialog.</comment>
+      <comment>
+         <val lang="en_US">Bring shape forward</val>
+      </comment>
+      <val lang="zh_CN">Bring shape forward</val>
+   </key>
+   <key value="Bring_shape_to_front">
+      <comment>Action name in "Image Map" dialog.</comment>
+      <comment>
+         <val lang="en_US">Bring shape to front</val>
+      </comment>
+      <val lang="zh_CN">Bring shape to front</val>
+   </key>
+   <key value="Send_shape_backward">
+      <comment>Action name in "Image Map" dialog.</comment>
+      <comment>
+         <val lang="en_US">Send shape backward</val>
+      </comment>
+      <val lang="zh_CN">Send shape backward</val>
+   </key>
+   <key value="Send_shape_to_back">
+      <comment>Action name in "Image Map" dialog.</comment>
+      <comment>
+         <val lang="en_US">Send shape to back</val>
+      </comment>
+      <val lang="zh_CN">Send shape to back</val>
+   </key>
+   <key value="Cannot_edit_comment">
+      <comment>Label used in "Edit Comment" dialog.</comment>
+      <comment>
+         <val lang="en_US">You cannot edit this comment because it has replies.</val>
+      </comment>
+      <val lang="zh_CN">You cannot edit this comment because it has replies.</val>
+   </key>
+   <key value="Show_callouts_for_comments">
+      <comment>Option in "Callouts" option page to show callouts </comment>
+      <comment>
+         <val lang="en_US">Comments (including those attached to tracked change deletions and insertions)</val>
+      </comment>
+      <val lang="zh_CN">Comments (including those attached to tracked change deletions and insertions)</val>
+   </key>
+   <key value="Reply_comment_here">
+      <comment>Label used in "Reply to Comment" dialog.</comment>
+      <comment>
+         <val lang="en_US">Add your reply here</val>
+      </comment>
+      <val lang="zh_CN">Add your reply here</val>
+   </key>
+   <key value="Reply_to_comment">
+      <comment>Reply to comment action name</comment>
+      <comment>
+         <val lang="en_US">Reply</val>
+      </comment>
+      <val lang="zh_CN">Reply</val>
+   </key>
+   <key value="Convert_even_in_space_preserve">
+      <comment>This is a checkbox which is subbordinate to a checkbox called "Convert external content on paste". If
+            enabled, the main setting will apply also when pasting content in elements in which any whitespace is
+            significant.</comment>
+      <comment>
+         <val lang="en_US">Convert even when pasting inside space-preserve elements</val>
+      </comment>
+      <val lang="zh_CN">Convert even when pasting inside space-preserve elements</val>
+   </key>
+   <key value="Make_relative_editor_variable">
+      <comment>An editor variable function which receives two parameters and tries to make the second parameter
+            relative to the first one (base).</comment>
+      <comment>
+         <val lang="en_US">Make an URL-like path relative to a base URL.</val>
+      </comment>
+      <val lang="zh_CN">Make an URL-like path relative to a base URL.</val>
+   </key>
+   <key value="insert.cross.reference">
+      <comment>Cross Reference action name.</comment>
+      <comment>
+         <val lang="en_US">Cross Reference...</val>
+      </comment>
+      <val lang="zh_CN">Cross Reference...</val>
+   </key>
+   <key value="insert.file.reference">
+      <comment>File Reference action name.</comment>
+      <comment>
+         <val lang="en_US">File Reference...</val>
+      </comment>
+      <val lang="zh_CN">File Reference...</val>
+   </key>
+   <key value="insert.url.reference">
+      <comment>Web Link action name.</comment>
+      <comment>
+         <val lang="en_US">Web Link...</val>
+      </comment>
+      <val lang="zh_CN">Web Link...</val>
+   </key>
+   <key value="Target_id">
+      <comment>The ID of a reference's target.</comment>
+      <comment>
+         <val lang="en_US">Target ID</val>
+      </comment>
+      <val lang="zh_CN">Target ID</val>
+   </key>
+   <key value="Menu_promote_actions_in_table_context">
+      <comment>Option in the contextual menu settings of a framework, to be set on a submenu of the contextual menu
+            when its items should be promoted in a table context.</comment>
+      <comment>
+         <val lang="en_US">Promote items when in a table context</val>
+      </comment>
+      <val lang="zh_CN">Promote items when in a table context</val>
+   </key>
+   <key value="Function_name">
+      <comment>Function name</comment>
+      <comment>
+         <val lang="en_US">Function name</val>
+      </comment>
+      <val lang="zh_CN">Function name</val>
+   </key>
+   <key value="Enter_a_function_name">
+      <comment>Enter a function name</comment>
+      <comment>
+         <val lang="en_US">Enter a function name</val>
+      </comment>
+      <val lang="zh_CN">Enter a function name</val>
+   </key>
+   <key value="Enter_a_variable_name">
+      <comment>XSL refactory action name</comment>
+      <comment>
+         <val lang="en_US">Enter a variable name</val>
+      </comment>
+      <val lang="zh_CN">Enter a variable name</val>
+   </key>
+   <key value="XSL_create_local_variable" distribution="common">
+      <comment>XSL refactory action name</comment>
+      <comment>
+         <val lang="en_US">Create local variable</val>
+      </comment>
+      <val lang="zh_CN">Create local variable</val>
+   </key>
+   <key value="XSL_create_local_variable_description" distribution="common">
+      <comment>XSL refactory action description</comment>
+      <comment>
+         <val lang="en_US">Create a local variable from the selected text, inside the current element.</val>
+      </comment>
+      <val lang="zh_CN">Create a local variable from the selected text, inside the current element.</val>
+   </key>
+   <key value="Extract_function" distribution="common">
+      <comment>XSL refactory action name</comment>
+      <comment>
+         <val lang="en_US">Extract function</val>
+      </comment>
+      <val lang="zh_CN">Extract function</val>
+   </key>
+   <key value="Extract_function_description" distribution="common">
+      <comment>XSL refactory action description</comment>
+      <comment>
+         <val lang="en_US">Extract a function from the selected text.</val>
+      </comment>
+      <val lang="zh_CN">Extract a function from the selected text.</val>
+   </key>
+   <key value="Association_rule_already_exists">
+      <comment>Message when a framework association rule already exists.</comment>
+      <comment>
+         <val lang="en_US">Association rule already exists.</val>
+      </comment>
+      <val lang="zh_CN">Association rule already exists.</val>
+   </key>
+   <key value="Subject_already_exists">
+      <comment>Message when something already exists.</comment>
+      <comment>
+         <val lang="en_US">"{0}" already exists.</val>
+      </comment>
+      <val lang="zh_CN">"{0}" already exists.</val>
+   </key>
+   <key value="Project_already_exists">
+      <comment>Message when a project already exists.</comment>
+      <comment>
+         <val lang="en_US">Project "{0}" already exists.</val>
+      </comment>
+      <val lang="zh_CN">Project "{0}" already exists.</val>
+   </key>
+   <key value="Namespace_prefix_already_exists">
+      <comment>Message when a namespace prefix already exists.</comment>
+      <comment>
+         <val lang="en_US">Namespace prefix "{0}" already exists.</val>
+      </comment>
+      <val lang="zh_CN">Namespace prefix "{0}" already exists.</val>
+   </key>
+   <key value="Element_already_exists">
+      <comment>Message when an element already exists.</comment>
+      <comment>
+         <val lang="en_US">Element "{0}" from namespace "{1}" already exists.</val>
+      </comment>
+      <val lang="zh_CN">Element "{0}" from namespace "{1}" already exists.</val>
+   </key>
+   <key value="Attribute_name_already_exists">
+      <comment>Message when an attribute name already exists.</comment>
+      <comment>
+         <val lang="en_US">Attribute name "{0}" from namespace "{1}" already exists.</val>
+      </comment>
+      <val lang="zh_CN">Attribute name "{0}" from namespace "{1}" already exists.</val>
+   </key>
+   <key value="Overwrite_it_question">
+      <comment>Question asked by Oxygen about overwriting a resource.</comment>
+      <comment>
+         <val lang="en_US">Do you want to overwrite it?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to overwrite it?</val>
+   </key>
+   <key distribution="common" value="Run_to_breakpoint">
+      <comment> Run to Breakpoint debugger action. </comment>
+      <comment>
+         <val lang="en_US" mnemonic="7">Run to &amp;Breakpoint</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="7">Run to &amp;Breakpoint</val>
+   </key>
+   <key value="Author_edit_properties_handler">
+      <comment>Label in the Document Type editing dialog/ Extensions tab.</comment>
+      <comment>
+         <val lang="en_US">Author edit properties handler</val>
+      </comment>
+      <val lang="zh_CN">Author edit properties handler</val>
+   </key>
+   <key value="Other_actions">
+      <comment>Label for submenu.</comment>
+      <comment>
+         <val lang="en_US">Other actions</val>
+      </comment>
+      <val lang="zh_CN">Other actions</val>
+   </key>
+   <key value="File_Close_To_The_Right">
+      <comment>Option in the contextual menu of the editor's tabs</comment>
+      <comment>
+         <val lang="en_US">Close Files to the Right</val>
+      </comment>
+      <val lang="zh_CN">Close Files to the Right</val>
+   </key>
+   <key value="Auto_apply_best_smart_paste_strategy_solution">
+      <comment>Label for the check box that controls whether Oxygen will automatically choose the first smart paste
+            strategy solution (which should be the best), or it will leave the decision on the user's side.</comment>
+      <comment>
+         <val lang="en_US">Automatically apply the best schema-aware insertion operation</val>
+      </comment>
+      <val lang="zh_CN">Automatically apply the best schema-aware insertion operation</val>
+   </key>
+   <key value="Row_cell_count_overflow_general">
+      <comment>Table layout problem description</comment>
+      <comment>
+         <val lang="en_US"> The number of cells in the row is greater than the number of columns detected from the table
+            structure.</val>
+      </comment>
+      <val lang="zh_CN"> The number of cells in the row is greater than the number of columns detected from the table
+            structure.</val>
+   </key>
+   <key value="Row_cell_count_underflow_general">
+      <comment>Table layout problem description</comment>
+      <comment>
+         <val lang="en_US">The number of cells in the row ({0}) is less than the number of columns detected from the
+            table structure ({1}).</val>
+      </comment>
+      <val lang="zh_CN">The number of cells in the row ({0}) is less than the number of columns detected from the
+            table structure ({1}).</val>
+   </key>
+   <key value="Column_name_incorrect">
+      <comment>Table layout problem description</comment>
+      <comment>
+         <val lang="en_US">The column name ({0}) from the "{1}" attribute value is not found in column
+            specifications.</val>
+      </comment>
+      <val lang="zh_CN">The column name ({0}) from the "{1}" attribute value is not found in column
+            specifications.</val>
+   </key>
+   <key value="Row_cell_count_underflow">
+      <comment>Table layout problem description</comment>
+      <comment>
+         <val lang="en_US">The number of cells in the row ({0}) is less than the value of the table attribute "{2}"
+            ({1}).</val>
+      </comment>
+      <val lang="zh_CN">The number of cells in the row ({0}) is less than the value of the table attribute "{2}"
+            ({1}).</val>
+   </key>
+   <key value="Row_cell_count_overflow">
+      <comment>Table layout problem description</comment>
+      <comment>
+         <val lang="en_US">The number of cells in the row ({0}) is greater than the value of the table attribute "{2}"
+            ({1}).</val>
+      </comment>
+      <val lang="zh_CN">The number of cells in the row ({0}) is greater than the value of the table attribute "{2}"
+            ({1}).</val>
+   </key>
+   <key value="Cols_different_than_columns">
+      <comment>Table layout problem description</comment>
+      <comment>
+         <val lang="en_US">The number of table columns determined from the table structure ({0}) is different than the
+            value of the "{1}" attribute ({2}).</val>
+      </comment>
+      <val lang="zh_CN">The number of table columns determined from the table structure ({0}) is different than the
+            value of the "{1}" attribute ({2}).</val>
+   </key>
+   <key value="Colspecs_different_than_columns">
+      <comment>Table layout problem description</comment>
+      <comment>
+         <val lang="en_US">The number of table columns determined from the table structure ({0}) is different than the
+            number of colspecs ({1}).</val>
+      </comment>
+      <val lang="zh_CN">The number of table columns determined from the table structure ({0}) is different than the
+            number of colspecs ({1}).</val>
+   </key>
+   <key value="Namest_less_than_nameend">
+      <comment>Table layout problem description</comment>
+      <comment>
+         <val lang="en_US">The column index determined from "namest" attribute value ({0}) is greater than the column
+            index determined from "nameend" attribute value ({1}).</val>
+      </comment>
+      <val lang="zh_CN">The column index determined from "namest" attribute value ({0}) is greater than the column
+            index determined from "nameend" attribute value ({1}).</val>
+   </key>
+   <key value="Cell_overlapping">
+      <comment>Table layout problem description</comment>
+      <comment>
+         <val lang="en_US">The cell [{0}][{1}] is already occupied.</val>
+      </comment>
+      <val lang="zh_CN">The cell [{0}][{1}] is already occupied.</val>
+   </key>
+   <key value="Attribute_value_not_integer">
+      <comment>Table layout problem description</comment>
+      <comment>
+         <val lang="en_US">The {0} attribute must have a numeric value. The current value is: {1}.</val>
+      </comment>
+      <val lang="zh_CN">The {0} attribute must have a numeric value. The current value is: {1}.</val>
+   </key>
+   <key value="Cell_spanning_overflow">
+      <comment>Table layout problem description</comment>
+      <comment>
+         <val lang="en_US">A cell is spanning on more rows than available in its parent element.</val>
+      </comment>
+      <val lang="zh_CN">A cell is spanning on more rows than available in its parent element.</val>
+   </key>
+   <key value="duplicate_errors_removed">
+      <comment>Message used when formatting the automatic validation report.</comment>
+      <comment>
+         <val lang="en_US">{0} duplicate error(s) removed</val>
+      </comment>
+      <val lang="zh_CN">{0} duplicate error(s) removed</val>
+   </key>
+   <key value="problems_highlighted">
+      <comment>Message used when formatting the automatic validation report.</comment>
+      <comment>
+         <val lang="en_US">{0} problem(s) highlighted</val>
+      </comment>
+      <val lang="zh_CN">{0} problem(s) highlighted</val>
+   </key>
+   <key value="No_problems_found">
+      <comment>Message used when formatting the automatic validation report.</comment>
+      <comment>
+         <val lang="en_US">No problems found</val>
+      </comment>
+      <val lang="zh_CN">No problems found</val>
+   </key>
+   <key value="problems_found">
+      <comment>Message used when formatting the automatic validation report.</comment>
+      <comment>
+         <val lang="en_US">{0} problem(s) found</val>
+      </comment>
+      <val lang="zh_CN">{0} problem(s) found</val>
+   </key>
+   <key value="Analysis_completed">
+      <comment>Message used when formatting the automatic validation report.</comment>
+      <comment>
+         <val lang="en_US">Analysis completed</val>
+      </comment>
+      <val lang="zh_CN">Analysis completed</val>
+   </key>
+   <key value="Check_for_tables_layout_errors">
+      <comment>Option in DITA Map Completeness Check dialog.</comment>
+      <comment>
+         <val lang="en_US">Report table layout problems</val>
+      </comment>
+      <val lang="zh_CN">Report table layout problems</val>
+   </key>
+   <key value="Menus_and_toolbars_background">
+      <comment>Menus, toolbars and frame background color.</comment>
+      <comment>
+         <val lang="en_US">Menus, toolbars and frame background</val>
+      </comment>
+      <val lang="zh_CN">Menus, toolbars and frame background</val>
+   </key>
+   <key value="Forbidden_word">
+      <comment>Message shown in the spell check dialog when a word found in the document is a forbidden one. (there is
+            a list of forbidden words in the spell check configuration)</comment>
+      <comment>
+         <val lang="en_US">Forbidden word</val>
+      </comment>
+      <val lang="zh_CN">Forbidden word</val>
+   </key>
+   <key value="Windows_classic_theme_detected">
+      <comment>Title of the dialog displayed when the oxygen theme is not compatible with the Windows Classic
+            theme.</comment>
+      <comment>
+         <val lang="en_US">Windows Classic theme detected</val>
+      </comment>
+      <val lang="zh_CN">Windows Classic theme detected</val>
+   </key>
+   <key value="Incompatible_theme_warn">
+      <comment>Warning message displayed when the oxygen theme is not compatible with the Windows Classic
+            theme.</comment>
+      <comment>
+         <val lang="en_US">It is recommended to set the Oxygen color theme to "Classic". The current Oxygen theme ({0})
+            is not compatible with the current Windows theme.</val>
+      </comment>
+      <val lang="zh_CN">It is recommended to set the Oxygen color theme to "Classic". The current Oxygen theme ({0})
+            is not compatible with the current Windows theme.</val>
+   </key>
+   <key value="Use_classic_theme">
+      <comment>Name of the button use to set the color theme to Classic.</comment>
+      <comment>
+         <val lang="en_US">Use Classic theme</val>
+      </comment>
+      <val lang="zh_CN">Use Classic theme</val>
+   </key>
+   <key value="Caret_between_tags">
+      <comment>Options/Preferences/Tag Insight/Features Force the caret position between tags when this is
+            checked.</comment>
+      <comment>
+         <val lang="en_US">Position cursor between tags</val>
+      </comment>
+      <val lang="zh_CN">Position cursor between tags</val>
+   </key>
+   <key value="Edit_content_reference">
+      <comment>Edit Content Reference title.</comment>
+      <comment>
+         <val lang="en_US">Edit Content Reference</val>
+      </comment>
+      <val lang="zh_CN">Edit Content Reference</val>
+   </key>
+   <key value="Choose_encoding">
+      <comment>Name of the dialog that allows the user to choose the encoding for Base64, Base32, Hex
+            conversions</comment>
+      <comment>
+         <val lang="en_US">Choose encoding</val>
+      </comment>
+      <val lang="zh_CN">Choose encoding</val>
+   </key>
+   <key value="Select_encoding_when_converting_the_result">
+      <comment>Explanatory message inside the dialog that allows the user to choose the encoding for Base64, Base32,
+            Hex conversions, when a decoding action invoked for a selected text.</comment>
+      <comment>
+         <val lang="en_US">Select the encoding to be used when converting the result</val>
+      </comment>
+      <val lang="zh_CN">Select the encoding to be used when converting the result</val>
+   </key>
+   <key value="Select_encoding_of_selected_text">
+      <comment>Explanatory message inside the dialog that allows the user to choose the encoding for Base64, Base32,
+            Hex conversions, when an encoding action invoked for a selected text.</comment>
+      <comment>
+         <val lang="en_US">Select the encoding of the selected text</val>
+      </comment>
+      <val lang="zh_CN">Select the encoding of the selected text</val>
+   </key>
+   <key value="Show_dialog_choosing_encoding_base64_base32_hex_conversions">
+      <comment>Name of a boolean property from Preferences/Messages that enables/disables displaying a dialog that
+            allows the user to choose the encoding type when invoking Base64, Base32, Hex conversion
+            operations.</comment>
+      <comment>
+         <val lang="en_US">Show the dialog box for choosing the encoding for Base64, Base32, Hex conversions</val>
+      </comment>
+      <val lang="zh_CN">Show the dialog box for choosing the encoding for Base64, Base32, Hex conversions</val>
+   </key>
+   <key value="Encoding_for_base64_base32_hex_conversions">
+      <comment>Name of an option from Preferences/Encoding dialog that allows the user to choose the encoding type
+            when invoking Base64, Base32, Hex conversion operations</comment>
+      <comment>
+         <val lang="en_US">Encoding for Base64, Base32, Hex conversions</val>
+      </comment>
+      <val lang="zh_CN">Encoding for Base64, Base32, Hex conversions</val>
+   </key>
+   <key value="Theme_preview">
+      <comment>Section title in the Appearance preferences page.</comment>
+      <comment>
+         <val lang="en_US">Theme preview</val>
+      </comment>
+      <val lang="zh_CN">Theme preview</val>
+   </key>
+   <key value="Highest" distribution="common">
+      <comment>Priority level.</comment>
+      <comment>
+         <val lang="en_US">Highest</val>
+      </comment>
+      <val lang="zh_CN">Highest</val>
+   </key>
+   <key value="Lowest" distribution="common">
+      <comment>Priority level.</comment>
+      <comment>
+         <val lang="en_US">Lowest</val>
+      </comment>
+      <val lang="zh_CN">Lowest</val>
+   </key>
+   <key value="Message_language" distribution="common">
+      <comment>Option in the Schematron option page</comment>
+      <comment>
+         <val lang="en_US">Message language</val>
+      </comment>
+      <val lang="zh_CN">Message language</val>
+   </key>
+   <key value="Change_application_language" distribution="common">
+      <comment>Link in the Schematron option page</comment>
+      <comment>
+         <val lang="en_US">Change application language</val>
+      </comment>
+      <val lang="zh_CN">Change application language</val>
+   </key>
+   <key value="Schematron_language_note" distribution="common">
+      <comment>Note in the Schematron option page</comment>
+      <comment>
+         <val lang="en_US">If the selected language is not available, all the messages will be displayed.</val>
+      </comment>
+      <val lang="zh_CN">If the selected language is not available, all the messages will be displayed.</val>
+   </key>
+   <key value="Use_application_language" distribution="common">
+      <comment>Message in the Schematron option page</comment>
+      <comment>
+         <val lang="en_US">Use the language defined in the application</val>
+      </comment>
+      <val lang="zh_CN">Use the language defined in the application</val>
+   </key>
+   <key value="Use_schematron_language" distribution="common">
+      <comment>Option in the Schematron option page</comment>
+      <comment>
+         <val lang="en_US">Use the "xml:lang" attribute set on the Schematron root</val>
+      </comment>
+      <val lang="zh_CN">Use the "xml:lang" attribute set on the Schematron root</val>
+   </key>
+   <key value="Ignore_all_languages" distribution="common">
+      <comment>Option in the Schematron option page</comment>
+      <comment>
+         <val lang="en_US">Ignore the language and show all messages</val>
+      </comment>
+      <val lang="zh_CN">Ignore the language and show all messages</val>
+   </key>
+   <key value="Base64_encode_decode" distribution="common">
+      <comment>Name of a menu option for Base64 encoding/decoding</comment>
+      <comment>
+         <val lang="en_US">Base64 Encode/Decode</val>
+      </comment>
+      <val lang="zh_CN">Base64 Encode/Decode</val>
+   </key>
+   <key value="Base32_encode_decode" distribution="common">
+      <comment>Name of a menu option for Base32 encoding/decoding</comment>
+      <comment>
+         <val lang="en_US">Base32 Encode/Decode</val>
+      </comment>
+      <val lang="zh_CN">Base32 Encode/Decode</val>
+   </key>
+   <key value="Hex_encode_decode" distribution="common">
+      <comment>Name of a menu option for encoding/decoding in hexadecimal</comment>
+      <comment>
+         <val lang="en_US">Hex Encode/Decode</val>
+      </comment>
+      <val lang="zh_CN">Hex Encode/Decode</val>
+   </key>
+   <key value="Encode_selection_base64" distribution="common">
+      <comment>Name of the action for encoding a selection using a Base64 scheme</comment>
+      <comment>
+         <val lang="en_US">Encode Selection (Base64)</val>
+      </comment>
+      <val lang="zh_CN">Encode Selection (Base64)</val>
+   </key>
+   <key value="Encode_selection_base32" distribution="common">
+      <comment>Name of the action for encoding a selection using a Base32 scheme</comment>
+      <comment>
+         <val lang="en_US">Encode Selection (Base32)</val>
+      </comment>
+      <val lang="zh_CN">Encode Selection (Base32)</val>
+   </key>
+   <key value="Decode_selection_base64" distribution="common">
+      <comment>Name of the action for decoding a selection using a Base64 scheme</comment>
+      <comment>
+         <val lang="en_US">Decode Selection (Base64)</val>
+      </comment>
+      <val lang="zh_CN">Decode Selection (Base64)</val>
+   </key>
+   <key value="Decode_selection_base32" distribution="common">
+      <comment>Name of the action for decoding a selection using a Base32 scheme</comment>
+      <comment>
+         <val lang="en_US">Decode Selection (Base32)</val>
+      </comment>
+      <val lang="zh_CN">Decode Selection (Base32)</val>
+   </key>
+   <key value="Encode_selection_hex" distribution="common">
+      <comment>Name of the action for encoding a selection in hexadecimal</comment>
+      <comment>
+         <val lang="en_US">Encode Selection (Hex)</val>
+      </comment>
+      <val lang="zh_CN">Encode Selection (Hex)</val>
+   </key>
+   <key value="Decode_selection_hex" distribution="common">
+      <comment>Name of the action for decoding a selection from hexadecimal</comment>
+      <comment>
+         <val lang="en_US">Decode Selection (Hex)</val>
+      </comment>
+      <val lang="zh_CN">Decode Selection (Hex)</val>
+   </key>
+   <key value="Insert_encoded_file_base64" distribution="common">
+      <comment>Name of the action for encoding a file Base64 and inserting</comment>
+      <comment>
+         <val lang="en_US">Import File to Encode and Insert (Base64)</val>
+      </comment>
+      <val lang="zh_CN">Import File to Encode and Insert (Base64)</val>
+   </key>
+   <key value="Insert_encoded_file_base32" distribution="common">
+      <comment>Name of the action for encoding a file Base32 and inserting</comment>
+      <comment>
+         <val lang="en_US">Import File to Encode and Insert (Base32)</val>
+      </comment>
+      <val lang="zh_CN">Import File to Encode and Insert (Base32)</val>
+   </key>
+   <key value="Decode_selection_to_file_base64" distribution="common">
+      <comment>Name of the action for decoding a selection Base64 and exporting to file</comment>
+      <comment>
+         <val lang="en_US">Decode Selection and Export to File (Base64)</val>
+      </comment>
+      <val lang="zh_CN">Decode Selection and Export to File (Base64)</val>
+   </key>
+</translation>

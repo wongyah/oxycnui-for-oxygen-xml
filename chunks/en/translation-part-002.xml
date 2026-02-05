@@ -1,0 +1,1817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="Required_addons_description">
+      <comment>A description of the required add-ons.</comment>
+      <comment>
+         <val lang="en_US">The installation of these add-ons will be triggered automatically.</val>
+      </comment>
+      <val lang="zh_CN">The installation of these add-ons will be triggered automatically.</val>
+   </key>
+   <key value="Required_addons_separator_hint">
+      <comment>A hint under the text area in which the user must specify the ids of required add-ons.</comment>
+      <comment>
+         <val lang="en_US">Multiple add-on IDs can be separated by either a space or a new line.</val>
+      </comment>
+      <val lang="zh_CN">Multiple add-on IDs can be separated by either a space or a new line.</val>
+   </key>
+   <key value="Required_addons_cc_hint">
+      <comment>A hint under the text area in which the user must specify the ids of required add-ons.</comment>
+      <comment>
+         <val lang="en_US">Use {0} to see the add-ons detected from the update sites listed above.</val>
+      </comment>
+      <val lang="zh_CN">Use {0} to see the add-ons detected from the update sites listed above.</val>
+   </key>
+   <key value="Create_placeholder_for_editor">
+      <comment>Keep last edited files open as placeholders without re-loading</comment>
+      <comment>
+         <val lang="en_US">Load file content only when switching to its corresponding editor tab</val>
+      </comment>
+      <val lang="zh_CN">Load file content only when switching to its corresponding editor tab</val>
+   </key>
+   <key value="Create_placeholder_for_editor_tooltip">
+      <comment>Keeps the files from your previous session open in placeholder tabs without re-loading them until you open each tab individually.</comment>
+      <comment>
+         <val lang="en_US">Files that were left open in the previous session remain as placeholders but file content is loaded only when switching to the corresponding editor tab. This helps to speed up application startup.</val>
+      </comment>
+      <val lang="zh_CN">Files that were left open in the previous session remain as placeholders but file content is loaded only when switching to the corresponding editor tab. This helps to speed up application startup.</val>
+   </key>
+   <key value="Required_addons_install_question">
+      <comment>Message present inside the dialog that recommends installing required add-ons.</comment>
+      <comment>
+         <val lang="en_US">Do you want to install the add-ons?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to install the add-ons?</val>
+   </key>
+   <key value="Generate_additional_file_comparison_reports">
+      <comment>Check-box label in 'Generate HTML Report for Directory Comparison' dialog.</comment>
+      <comment>
+         <val lang="en_US">Generate additional file comparison reports</val>
+      </comment>
+      <val lang="zh_CN">Generate additional file comparison reports</val>
+   </key>
+   <key value="Generate_Html_Report_For_Dir_Comparison_Info_Msg_Part_2">
+      <comment>Information message within the 'Generate HTML Report for Directory Comparison' dialog. {0} it's just a convenient termination for a directory name (e.g. "-OXY-FC-REPORTS").</comment>
+      <comment>
+         <val lang="en_US">These file comparison reports will be saved to a directory that will have the same parent directory and the same name as the output file provided, suffixed by "{0}".</val>
+      </comment>
+      <val lang="zh_CN">These file comparison reports will be saved to a directory that will have the same parent directory and the same name as the output file provided, suffixed by "{0}".</val>
+   </key>
+   <key value="Generate_Html_Report_For_Dir_Comparison_Info_Msg_Part_1">
+      <comment>Information message within the 'Generate HTML Report for Directory Comparison' dialog.</comment>
+      <comment>
+         <val lang="en_US">By checking this option, file comparison reports for all non-binary modified file pairs will be generated and links to all of them will be provided in the main report (in the middle cells of the results table).</val>
+      </comment>
+      <val lang="zh_CN">By checking this option, file comparison reports for all non-binary modified file pairs will be generated and links to all of them will be provided in the main report (in the middle cells of the results table).</val>
+   </key>
+   <key value="Parent_directory_of_output_file_does_not_exist">
+      <comment>Error message presented when an output file to be provided has its parent directory path wrongly specified.</comment>
+      <comment>
+         <val lang="en_US">The parent directory of the output file does not exist.</val>
+      </comment>
+      <val lang="zh_CN">The parent directory of the output file does not exist.</val>
+   </key>
+   <key value="First_directory_label">
+      <comment>Label for 'first directory', useful in directory comparison dialog boxes.</comment>
+      <comment>
+         <val lang="en_US">First directory</val>
+      </comment>
+      <val lang="zh_CN">First directory</val>
+   </key>
+   <key value="Second_directory_label">
+      <comment>Label for 'second directory', useful in directory comparison dialog boxes.</comment>
+      <comment>
+         <val lang="en_US">Second directory</val>
+      </comment>
+      <val lang="zh_CN">Second directory</val>
+   </key>
+   <key value="Required">
+      <comment>'Required' label or hint message.</comment>
+      <comment>
+         <val lang="en_US">required</val>
+      </comment>
+      <val lang="zh_CN">required</val>
+   </key>
+   <key value="Generate_report">
+      <comment>'Generate report' label.</comment>
+      <comment>
+         <val lang="en_US">Generate report</val>
+      </comment>
+      <val lang="zh_CN">Generate report</val>
+   </key>
+   <key value="Generate_HTML_report_for_directory_comparison">
+      <comment>Name of an action from Tools menu.</comment>
+      <comment>
+         <val lang="en_US">Generate HTML Report for Directory Comparison</val>
+      </comment>
+      <val lang="zh_CN">Generate HTML Report for Directory Comparison</val>
+   </key>
+   <key value="HTML_report_directory_comparison_base_directory_tooltip">
+      <comment>Tooltip message for 'base directory' field in 'Generate HTML report for directory comparison' dialog box.</comment>
+      <comment>
+         <val lang="en_US">Leave empty for a 2-way comparison.</val>
+      </comment>
+      <val lang="zh_CN">Leave empty for a 2-way comparison.</val>
+   </key>
+   <key value="HTML_report_directory_comparison_diff_options_got_from_prefs">
+      <comment>Label about the Diff options set in 'Generate HTML report for directory comparison' dialog box.</comment>
+      <comment>
+         <val lang="en_US">Use the current settings from Preferences</val>
+      </comment>
+      <val lang="zh_CN">Use the current settings from Preferences</val>
+   </key>
+   <key value="HTML_report_directory_comparison_diff_options_set_to_defaults">
+      <comment>Label about the Diff options set in 'Generate HTML report for directory comparison' dialog box.</comment>
+      <comment>
+         <val lang="en_US">Use the default settings</val>
+      </comment>
+      <val lang="zh_CN">Use the default settings</val>
+   </key>
+   <key value="HTML_report_directory_comparison_base_dir_does_not_exist">
+      <comment>Exception message about the base directory in 'Generate HTML report for directory comparison' dialog box.</comment>
+      <comment>
+         <val lang="en_US">The specified base directory does not exist.</val>
+      </comment>
+      <val lang="zh_CN">The specified base directory does not exist.</val>
+   </key>
+   <key value="HTML_report_directory_comparison_base_dir_file_specified_instead_of_dir">
+      <comment>Exception message about the base directory in 'Generate HTML report for directory comparison' dialog box.</comment>
+      <comment>
+         <val lang="en_US">You specified a file as base directory.</val>
+      </comment>
+      <val lang="zh_CN">You specified a file as base directory.</val>
+   </key>
+   <key value="HTML_report_directory_comparison_first_dir_not_specified">
+      <comment>Exception message about the 1st directory in 'Generate HTML report for directory comparison' dialog box.</comment>
+      <comment>
+         <val lang="en_US">You must specify the first directory.</val>
+      </comment>
+      <val lang="zh_CN">You must specify the first directory.</val>
+   </key>
+   <key value="HTML_report_directory_comparison_first_dir_does_not_exist">
+      <comment>Exception message about the 1st directory in 'Generate HTML report for directory comparison' dialog box.</comment>
+      <comment>
+         <val lang="en_US">The specified first directory does not exist.</val>
+      </comment>
+      <val lang="zh_CN">The specified first directory does not exist.</val>
+   </key>
+   <key value="HTML_report_directory_comparison_first_dir_file_specified_instead_of_dir">
+      <comment>Exception message about the 1st directory in 'Generate HTML report for directory comparison' dialog box.</comment>
+      <comment>
+         <val lang="en_US">You specified a file as first directory.</val>
+      </comment>
+      <val lang="zh_CN">You specified a file as first directory.</val>
+   </key>
+   <key value="HTML_report_directory_comparison_second_dir_not_specified">
+      <comment>Exception message about the 2nd directory in 'Generate HTML report for directory comparison' dialog box.</comment>
+      <comment>
+         <val lang="en_US">You must specify the second directory.</val>
+      </comment>
+      <val lang="zh_CN">You must specify the second directory.</val>
+   </key>
+   <key value="HTML_report_directory_comparison_second_dir_does_not_exist">
+      <comment>Exception message about the 2nd directory in 'Generate HTML report for directory comparison' dialog box.</comment>
+      <comment>
+         <val lang="en_US">The specified second directory does not exist.</val>
+      </comment>
+      <val lang="zh_CN">The specified second directory does not exist.</val>
+   </key>
+   <key value="HTML_report_directory_comparison_second_dir_file_specified_instead_of_dir">
+      <comment>Exception message about the 2nd directory in 'Generate HTML report for directory comparison' dialog box.</comment>
+      <comment>
+         <val lang="en_US">You specified a file as second directory.</val>
+      </comment>
+      <val lang="zh_CN">You specified a file as second directory.</val>
+   </key>
+   <key value="HTML_report_directory_comparison_output_file_not_specified">
+      <comment>Exception message about the output file in 'Generate HTML report for directory comparison' dialog box.</comment>
+      <comment>
+         <val lang="en_US">You must specify an output file to save the report.</val>
+      </comment>
+      <val lang="zh_CN">You must specify an output file to save the report.</val>
+   </key>
+   <key value="HTML_report_directory_comparison_getting_comparison_results_status">
+      <comment>Status message in the progress tracker associated with 'Generate HTML report for directory comparison' action.</comment>
+      <comment>
+         <val lang="en_US">Getting the comparison results</val>
+      </comment>
+      <val lang="zh_CN">Getting the comparison results</val>
+   </key>
+   <key value="HTML_report_directory_comparison_generating_HTML_report_status">
+      <comment>Status message in the progress tracker associated with 'Generate HTML report for directory comparison' action.</comment>
+      <comment>
+         <val lang="en_US">Generating HTML report</val>
+      </comment>
+      <val lang="zh_CN">Generating HTML report</val>
+   </key>
+   <key value="Edit_preferences">
+      <comment>Option in a dialog to edit related preferences.</comment>
+      <comment>
+         <val lang="en_US">Edit preferences</val>
+      </comment>
+      <val lang="zh_CN">Edit preferences</val>
+   </key>
+   <key value="Validation_canceled">
+      <comment>Validation status.</comment>
+      <comment>
+         <val lang="en_US">Validation canceled</val>
+      </comment>
+      <val lang="zh_CN">Validation canceled</val>
+   </key>
+   <key value="Compiled_script_edit_message">
+      <comment>Message presented when the user wants to edit a document type 
+            generated by the compilation of a framework update script.</comment>
+      <comment>
+         <val lang="en_US">The selected document type was generated from an extension script. 
+            It is recommended to make changes only inside the script. Otherwise, changes will be lost the next time the framework is regenerated.</val>
+      </comment>
+      <val lang="zh_CN">The selected document type was generated from an extension script. 
+            It is recommended to make changes only inside the script. Otherwise, changes will be lost the next time the framework is regenerated.</val>
+   </key>
+   <key value="Edit_anyway">
+      <comment>Action in a question dialog when the user wants to perform an action even though it is not recommended.</comment>
+      <comment>
+         <val lang="en_US">Edit anyway</val>
+      </comment>
+      <val lang="zh_CN">Edit anyway</val>
+   </key>
+   <key value="Configure_validation_engine">
+      <comment>Tooltip for a setting button that allows validation engine configuration.</comment>
+      <comment>
+         <val lang="en_US">Configure validation engine</val>
+      </comment>
+      <val lang="zh_CN">Configure validation engine</val>
+   </key>
+   <key value="Open_script_in_editor">
+      <comment>Action in a dialog that presents a question related with framework scripts.</comment>
+      <comment>
+         <val lang="en_US">Open script in editor</val>
+      </comment>
+      <val lang="zh_CN">Open script in editor</val>
+   </key>
+   <key value="Account">
+      <comment>Tooltip of the drop down button in when user is not connected.</comment>
+      <comment>
+         <val lang="en_US">Account</val>
+      </comment>
+      <val lang="zh_CN">Account</val>
+   </key>
+   <key value="Cancel_current_connection">
+      <comment>Tooltip message for Cancel button when user waits to connect to SharePoint online</comment>
+      <comment>
+         <val lang="en_US">Cancel current connection request</val>
+      </comment>
+      <val lang="zh_CN">Cancel current connection request</val>
+   </key>
+   <key value="Related_contexts">
+      <comment>Separator between contexts</comment>
+      <comment>
+         <val lang="en_US">Related contexts</val>
+      </comment>
+      <val lang="zh_CN">Related contexts</val>
+   </key>
+   <key value="Contexts">
+      <comment>Separator between maps and contexts</comment>
+      <comment>
+         <val lang="en_US">Contexts</val>
+      </comment>
+      <val lang="zh_CN">Contexts</val>
+   </key>
+   <key value="Show_ignored_problems">
+      <comment/>
+      <comment>
+         <val lang="en_US">Show ignored problems</val>
+      </comment>
+      <val lang="zh_CN">Show ignored problems</val>
+   </key>
+   <key value="XSL_Package">
+      <comment/>
+      <comment>
+         <val lang="en_US">XSL Package</val>
+      </comment>
+      <val lang="zh_CN">XSL Package</val>
+   </key>
+   <key value="Create_an_XSL_package">
+      <comment>Eclipse new document dialog title</comment>
+      <comment>
+         <val lang="en_US">Create an XSL package</val>
+      </comment>
+      <val lang="zh_CN">Create an XSL package</val>
+   </key>
+   <key distribution="eclipse" value="wizard.name.xslpackage">
+      <comment>XSL wizard name</comment>
+      <comment>
+         <val lang="en_US">XSL Package File</val>
+      </comment>
+      <val lang="zh_CN">XSL Package File</val>
+   </key>
+   <key distribution="eclipse" value="wizard.description.xslpackage">
+      <comment>wizard.description.xsl</comment>
+      <comment>
+         <val lang="en_US">A wizard that creates sample XSL Package file</val>
+      </comment>
+      <val lang="zh_CN">A wizard that creates sample XSL Package file</val>
+   </key>
+   <key value="Remove_from_ignored_problems_list">
+      <comment>Unignore problems action name</comment>
+      <comment>
+         <val lang="en_US">Remove from ignored problems list</val>
+      </comment>
+      <val lang="zh_CN">Remove from ignored problems list</val>
+   </key>
+   <key value="Server_type">
+      <comment>Server type label in Open URL dialog</comment>
+      <comment>
+         <val lang="en_US">Server type</val>
+      </comment>
+      <val lang="zh_CN">Server type</val>
+   </key>
+   <key value="External_script">
+      <comment>A script file.</comment>
+      <comment>
+         <val lang="en_US">External script</val>
+      </comment>
+      <val lang="zh_CN">External script</val>
+   </key>
+   <key value="Remove_addons_message">
+      <comment>Information message presented in the dialog that presents old add-ons that the user can remove from disk.</comment>
+      <comment>
+         <val lang="en_US">Add-ons installed with previous versions of Oxygen are still present in 
+            the application's settings directory. To free up disk space, it is recommended to remove 
+            the add-ons installed by previous versions of Oxygen that you no longer use.</val>
+      </comment>
+      <val lang="zh_CN">Add-ons installed with previous versions of Oxygen are still present in 
+            the application's settings directory. To free up disk space, it is recommended to remove 
+            the add-ons installed by previous versions of Oxygen that you no longer use.</val>
+   </key>
+   <key value="Remove_addons">
+      <comment>Title of the dialog that presents old add-ons and recommends their removal.</comment>
+      <comment>
+         <val lang="en_US">Remove add-ons</val>
+      </comment>
+      <val lang="zh_CN">Remove add-ons</val>
+   </key>
+   <key value="Remove_selected_addons">
+      <comment>Button name in the dialog that presents old add-ons and recommends their removal.</comment>
+      <comment>
+         <val lang="en_US">Remove selected add-ons</val>
+      </comment>
+      <val lang="zh_CN">Remove selected add-ons</val>
+   </key>
+   <key value="Ignore_selected_problems">
+      <comment>Ignore problems action name</comment>
+      <comment>
+         <val lang="en_US">Ignore selected problems</val>
+      </comment>
+      <val lang="zh_CN">Ignore selected problems</val>
+   </key>
+   <key value="Ignore_selected_problem_types_in_this_document">
+      <comment>Ignore problems action name</comment>
+      <comment>
+         <val lang="en_US">Ignore selected problem types in this document</val>
+      </comment>
+      <val lang="zh_CN">Ignore selected problem types in this document</val>
+   </key>
+   <key value="Ignore_selected_problem_types_in_all_documents">
+      <comment>Ignore problems action name</comment>
+      <comment>
+         <val lang="en_US">Ignore selected problem types in all documents</val>
+      </comment>
+      <val lang="zh_CN">Ignore selected problem types in all documents</val>
+   </key>
+   <key value="Select_collection">
+      <comment>Description message in Exist DB configuration dialog.</comment>
+      <comment>
+         <val lang="en_US">Select collection</val>
+      </comment>
+      <val lang="zh_CN">Select collection</val>
+   </key>
+   <key value="Other_contexts">
+      <comment>Label separator in a drowp-down with contexts.</comment>
+      <comment>
+         <val lang="en_US">Other contexts</val>
+      </comment>
+      <val lang="zh_CN">Other contexts</val>
+   </key>
+   <key value="Download_failed">
+      <comment>Error message displayed when welcome images cannot be downloaded.</comment>
+      <comment>
+         <val lang="en_US">Download failed</val>
+      </comment>
+      <val lang="zh_CN">Download failed</val>
+   </key>
+   <key value="When_validating_any_document_this_type_of_problem_will_be_ignored_based_on_the_error_code">
+      <comment>Ignore problem quickfix description</comment>
+      <comment>
+         <val lang="en_US">When validating any document, this type of problem will be ignored based on the error code.</val>
+      </comment>
+      <val lang="zh_CN">When validating any document, this type of problem will be ignored based on the error code.</val>
+   </key>
+   <key value="Ignore_this_type_of_problem_in_all_documents">
+      <comment>Ignore problem quickfix name</comment>
+      <comment>
+         <val lang="en_US">Ignore this type of problem in all documents</val>
+      </comment>
+      <val lang="zh_CN">Ignore this type of problem in all documents</val>
+   </key>
+   <key value="When_validating_this_document_this_type_of_problem_will_be_ignored_based_on_the_error_code_and_file_location">
+      <comment>Ignore problem quickfix description</comment>
+      <comment>
+         <val lang="en_US">When validating this document, this type of problem will be ignored based on the error code and file location.</val>
+      </comment>
+      <val lang="zh_CN">When validating this document, this type of problem will be ignored based on the error code and file location.</val>
+   </key>
+   <key value="Ignore_this_type_of_problem_in_this_document">
+      <comment>Ignore problem quickFix name</comment>
+      <comment>
+         <val lang="en_US">Ignore this type of problem in this document</val>
+      </comment>
+      <val lang="zh_CN">Ignore this type of problem in this document</val>
+   </key>
+   <key value="When_validating_this_document_this_problem_will_be_ignored_based_on_the_message_error_code_and_file_location">
+      <comment>Ignore problem quickfix description</comment>
+      <comment>
+         <val lang="en_US">When validating this document, this problem will be ignored based on the message, error code, and file location.</val>
+      </comment>
+      <val lang="zh_CN">When validating this document, this problem will be ignored based on the message, error code, and file location.</val>
+   </key>
+   <key value="Ignore_this_problem_in_this_document">
+      <comment>Ignore problem quickfix name</comment>
+      <comment>
+         <val lang="en_US">Ignore this problem in this document</val>
+      </comment>
+      <val lang="zh_CN">Ignore this problem in this document</val>
+   </key>
+   <key value="The_feature_to_ignore_validation_problems_can_be_controlled_from_Options&gt;Preferences&gt;_Editor_/_Document_Validation_/_Ignored_Validation_Problems">
+      <comment>Ignore problem quickfix options hint</comment>
+      <comment>
+         <val lang="en_US">The feature to ignore validation problems can be controlled from Options &gt; Preferences &gt; Editor / Document Validation / Ignored Validation Problems.</val>
+      </comment>
+      <val lang="zh_CN">The feature to ignore validation problems can be controlled from Options &gt; Preferences &gt; Editor / Document Validation / Ignored Validation Problems.</val>
+   </key>
+   <key value="Ignored">
+      <comment>Status presented in the bottom of the editor for the ignored validation problems.</comment>
+      <comment>
+         <val lang="en_US">Ignored</val>
+      </comment>
+      <val lang="zh_CN">Ignored</val>
+   </key>
+   <key value="Restore_default_grouping">
+      <comment>Name of an option in the Settings menu button for the Results table (Results view).</comment>
+      <comment>
+         <val lang="en_US">Restore default grouping</val>
+      </comment>
+      <val lang="zh_CN">Restore default grouping</val>
+   </key>
+   <key value="Switch_editor_tab_info_message">
+      <comment>Information associated with an information button within the 'Switch editor tab' dialog. {0}
+            corresponds to 'Match_all_terms', while {1} corresponds to 'Include_file_paths', both keys defined
+            below.</comment>
+      <comment>
+         <val lang="en_US">If the "{0}" option is selected, only the files that match all of the search terms are
+            displayed. Otherwise, all files that match at least one of the search terms are displayed.\nIf wildcards are
+            used (*, ?), the option is automatically disabled.\n\nIf the "{1}" option is selected, the search is expanded
+             to include the paths.</val>
+      </comment>
+      <val lang="zh_CN">If the "{0}" option is selected, only the files that match all of the search terms are
+            displayed. Otherwise, all files that match at least one of the search terms are displayed.\nIf wildcards are
+            used (*, ?), the option is automatically disabled.\n\nIf the "{1}" option is selected, the search is expanded
+             to include the paths.</val>
+   </key>
+   <key value="Authenticating_in_browser">
+      <comment>Label to be presented in a progress dialog while application waits for user to authenticates to Microsoft in browser.</comment>
+      <comment>
+         <val lang="en_US">Authenticating in browser</val>
+      </comment>
+      <val lang="zh_CN">Authenticating in browser</val>
+   </key>
+   <key value="Disable_schematron_security_checks">
+      <comment>Checkbox in Schematron option page</comment>
+      <comment>
+         <val lang="en_US">Disable Schematron security checks</val>
+      </comment>
+      <val lang="zh_CN">Disable Schematron security checks</val>
+   </key>
+   <key value="Enable_support_for_ignoring_validation_problems">
+      <comment>Enable/Disable check box text for Ignore Problems Support</comment>
+      <comment>
+         <val lang="en_US">Enable support for ignoring validation problems</val>
+      </comment>
+      <val lang="zh_CN">Enable support for ignoring validation problems</val>
+   </key>
+   <key value="Clear_validation_markers_on_close">
+      <comment>Eclipse option name in Preferences</comment>
+      <comment>
+         <val lang="en_US">Clear validation markers on close</val>
+      </comment>
+      <val lang="zh_CN">Clear validation markers on close</val>
+   </key>
+   <key value="Include_problem_ID_in_description">
+      <comment>Name of a context action in Results view.</comment>
+      <comment>
+         <val lang="en_US">Include problem ID in description</val>
+      </comment>
+      <val lang="zh_CN">Include problem ID in description</val>
+   </key>
+   <key value="Batch_converter">
+      <comment>Action name.</comment>
+      <comment>
+         <val lang="en_US">Batch Documents Converter</val>
+      </comment>
+      <val lang="zh_CN">Batch Documents Converter</val>
+   </key>
+   <key value="Recently_closed">
+      <comment>A state of a document</comment>
+      <comment>
+         <val lang="en_US">Recently closed</val>
+      </comment>
+      <val lang="zh_CN">Recently closed</val>
+   </key>
+   <key distribution="common" value="Import_convert">
+      <comment>Name menu item action</comment>
+      <comment>
+         <val lang="en_US">Import/Convert</val>
+      </comment>
+      <val lang="zh_CN">Import/Convert</val>
+   </key>
+   <key value="Security_details_message">
+      <comment>Security dialog details message</comment>
+      <comment>
+         <val lang="en_US">For security reasons, the external function calls have been disabled because the Schematron file 
+             is not located inside a framework. You can disable Schematron security checks by selecting the "{0}" option from the {1} preferences page.</val>
+      </comment>
+      <val lang="zh_CN">For security reasons, the external function calls have been disabled because the Schematron file 
+             is not located inside a framework. You can disable Schematron security checks by selecting the "{0}" option from the {1} preferences page.</val>
+   </key>
+   <key value="Problem_ID">
+      <comment>Column name ignore problems table</comment>
+      <comment>
+         <val lang="en_US">Problem ID</val>
+      </comment>
+      <val lang="zh_CN">Problem ID</val>
+   </key>
+   <key value="Log_in_with_Microsoft_account_to_open_document">
+      <comment>Explanation in authentication dialog</comment>
+      <comment>
+         <val lang="en_US">You must log in with a Microsoft account to open the document.</val>
+      </comment>
+      <val lang="zh_CN">You must log in with a Microsoft account to open the document.</val>
+   </key>
+   <key value="Unauthorized">
+      <comment>Title of the dialog shown when user is not authentified.</comment>
+      <comment>
+         <val lang="en_US">Unauthorized</val>
+      </comment>
+      <val lang="zh_CN">Unauthorized</val>
+   </key>
+   <key value="Could_not_remove_file">
+      <comment>used when trying to remove file</comment>
+      <comment>
+         <val lang="en_US">Could not remove file: </val>
+      </comment>
+      <val lang="zh_CN">Could not remove file: </val>
+   </key>
+   <key value="Profiling_output_file_tool_tip">
+      <comment>Saxon advanced options, profiling output file tooltip</comment>
+      <comment>
+         <val lang="en_US">The path to the output file where profiling information is saved</val>
+      </comment>
+      <val lang="zh_CN">The path to the output file where profiling information is saved</val>
+   </key>
+   <key value="Framework_script_edit_title">
+      <comment>Title of the dialog presented when the user wants to edit a 
+        document type generated through a framework update script.</comment>
+      <comment>
+         <val lang="en_US">Extension script-generated framework</val>
+      </comment>
+      <val lang="zh_CN">Extension script-generated framework</val>
+   </key>
+   <key value="Framework_script_edit_message">
+      <comment>Message presented when the user wants to edit a dcument type 
+        generated through a framework update script.</comment>
+      <comment>
+         <val lang="en_US">The selected document type was generated from an extension script. 
+            You can view the resulting document type in read-only mode or open the script in 
+            the editor where you can modify it.</val>
+      </comment>
+      <val lang="zh_CN">The selected document type was generated from an extension script. 
+            You can view the resulting document type in read-only mode or open the script in 
+            the editor where you can modify it.</val>
+   </key>
+   <key value="Ignored_Validation_Problems">
+      <comment>Ignored Validation Problems Option tag</comment>
+      <comment>
+         <val lang="en_US">Ignored Validation Problems</val>
+      </comment>
+      <val lang="zh_CN">Ignored Validation Problems</val>
+   </key>
+   <key value="Generate_JSON_Schema_Documentation">
+      <comment>JSON Schema Doc Generator progress tracker title</comment>
+      <comment>
+         <val lang="en_US">Generate JSON Schema Documentation</val>
+      </comment>
+      <val lang="zh_CN">Generate JSON Schema Documentation</val>
+   </key>
+   <key distribution="eclipse" value="JSON_to_YAML_eclipse">
+      <comment>JSON to YAML conversion action (EC)</comment>
+      <comment>
+         <val lang="en_US">JSON to YAML...</val>
+      </comment>
+      <val lang="zh_CN">JSON to YAML...</val>
+   </key>
+   <key distribution="eclipse" value="YAML_to_JSON_eclipse">
+      <comment>YAML to JSON conversion action (EC)</comment>
+      <comment>
+         <val lang="en_US">YAML to JSON...</val>
+      </comment>
+      <val lang="zh_CN">YAML to JSON...</val>
+   </key>
+   <key distribution="common" value="JSON_to_YAML">
+      <comment>JSON to YAML conversion action.</comment>
+      <comment>
+         <val lang="en_US">JSON to YAML</val>
+      </comment>
+      <val lang="zh_CN">JSON to YAML</val>
+   </key>
+   <key distribution="common" value="YAML_to_JSON">
+      <comment>YAML to JSON conversion action.</comment>
+      <comment>
+         <val lang="en_US">YAML to JSON</val>
+      </comment>
+      <val lang="zh_CN">YAML to JSON</val>
+   </key>
+   <key value="YAML_URL">
+      <comment>Label name for selecting YAML file URL.</comment>
+      <comment>
+         <val lang="en_US">YAML URL</val>
+      </comment>
+      <val lang="zh_CN">YAML URL</val>
+   </key>
+   <key distribution="eclipse" value="wizard.name">
+      <comment>wizard.name</comment>
+      <comment>
+         <val lang="en_US">Database Data to XML...</val>
+      </comment>
+      <val lang="zh_CN">Database Data to XML...</val>
+   </key>
+   <key distribution="eclipse" value="wizard.name.0">
+      <comment>wizard.name.0</comment>
+      <comment>
+         <val lang="en_US">Text File to XML...</val>
+      </comment>
+      <val lang="zh_CN">Text File to XML...</val>
+   </key>
+   <key distribution="eclipse" value="wizard.name.1">
+      <comment>wizard.name.1</comment>
+      <comment>
+         <val lang="en_US">MS Excel File to XML...</val>
+      </comment>
+      <val lang="zh_CN">MS Excel File to XML...</val>
+   </key>
+   <key distribution="eclipse" value="wizard.name.2">
+      <comment>wizard.name.2</comment>
+      <comment>
+         <val lang="en_US">HTML File to XHTML...</val>
+      </comment>
+      <val lang="zh_CN">HTML File to XHTML...</val>
+   </key>
+   <key value="Exception_while_converting_HTML_to_XML_Well_Formed">
+      <comment>Message informing about an exception encountered while converting an HTML resource to an XML well-formed one.</comment>
+      <comment>
+         <val lang="en_US">An error occurred while trying to convert the HTML resource to an XML well-formed one.</val>
+      </comment>
+      <val lang="zh_CN">An error occurred while trying to convert the HTML resource to an XML well-formed one.</val>
+   </key>
+   <key value="Exception_while_HTML_minifying" distribution="common">
+      <comment>Message informing about an exception encountered while minifying an HTML resource.</comment>
+      <comment>
+         <val lang="en_US">An error occurred while trying to minify the HTML resource.</val>
+      </comment>
+      <val lang="zh_CN">An error occurred while trying to minify the HTML resource.</val>
+   </key>
+   <key value="HTML_file_to_XHTML">
+      <comment>Import from HTML file to XHTML menu caption.</comment>
+      <comment>
+         <val lang="en_US">HTML File to XHTML</val>
+      </comment>
+      <val lang="zh_CN">HTML File to XHTML</val>
+   </key>
+   <key value="Popular">
+      <comment>Popular</comment>
+      <comment>
+         <val lang="en_US">Popular</val>
+      </comment>
+      <val lang="zh_CN">Popular</val>
+   </key>
+   <key value="MS_Excel_file_to_xml">
+      <comment>Import from MS Excel to XML menu caption.</comment>
+      <comment>
+         <val lang="en_US">MS Excel File to XML</val>
+      </comment>
+      <val lang="zh_CN">MS Excel File to XML</val>
+   </key>
+   <key value="Text_file_to_xml">
+      <comment>Import from text to XML menu caption.</comment>
+      <comment>
+         <val lang="en_US">Text File to XML</val>
+      </comment>
+      <val lang="zh_CN">Text File to XML</val>
+   </key>
+   <key value="Database_data_to_xml">
+      <comment>Import from database to XML menu caption.</comment>
+      <comment>
+         <val lang="en_US">Database Data to XML</val>
+      </comment>
+      <val lang="zh_CN">Database Data to XML</val>
+   </key>
+   <key value="Import_batch_converter_action_tooltip">
+      <comment>The tooltip of the submenu that contains conversions</comment>
+      <comment>
+         <val lang="en_US">Batch convert and import MS Word, MS Excel, HTML, Confluence, DocBook, and Markdown documents to DITA.</val>
+      </comment>
+      <val lang="zh_CN">Batch convert and import MS Word, MS Excel, HTML, Confluence, DocBook, and Markdown documents to DITA.</val>
+   </key>
+   <key value="Additional_conversions">
+      <comment>The name of a submenu that contains conversions</comment>
+      <comment>
+         <val lang="en_US">Additional conversions</val>
+      </comment>
+      <val lang="zh_CN">Additional conversions</val>
+   </key>
+   <key value="Enable_profiling">
+      <comment>Label used to enable profiling for XSLT/XQuery.</comment>
+      <comment>
+         <val lang="en_US">Enable profiling</val>
+      </comment>
+      <val lang="zh_CN">Enable profiling</val>
+   </key>
+   <key value="Retrieve_the_remote_directory_structure">
+      <comment>Label name</comment>
+      <comment>
+         <val lang="en_US">Retrieve the remote directory structure</val>
+      </comment>
+      <val lang="zh_CN">Retrieve the remote directory structure</val>
+   </key>
+   <key value="Automatically_connect_to_and_browse_the_remote_server_when_this_dialog_box_is_displayed">
+      <comment>Label name</comment>
+      <comment>
+         <val lang="en_US">Automatically connect to and browse the remote server when this dialog box is displayed</val>
+      </comment>
+      <val lang="zh_CN">Automatically connect to and browse the remote server when this dialog box is displayed</val>
+   </key>
+   <key value="URL_of_the_remote_server_without_name_and_password">
+      <comment>Label name</comment>
+      <comment>
+         <val lang="en_US">URL of the remote server without name and password, ex: "{0}".</val>
+      </comment>
+      <val lang="zh_CN">URL of the remote server without name and password, ex: "{0}".</val>
+   </key>
+   <key value="Store_name_password_server_url">
+      <comment>Name of label</comment>
+      <comment>
+         <val lang="en_US">Store name, password, server URL, and autoconnect choice until next SFTP/WebDAV session</val>
+      </comment>
+      <val lang="zh_CN">Store name, password, server URL, and autoconnect choice until next SFTP/WebDAV session</val>
+   </key>
+   <key value="User_password_to_log_on_to_the_remote_server">
+      <comment>Name of label</comment>
+      <comment>
+         <val lang="en_US">User password to log on to the remote server</val>
+      </comment>
+      <val lang="zh_CN">User password to log on to the remote server</val>
+   </key>
+   <key value="User_name_to_log_on_to_the_remote_server">
+      <comment>Name of label</comment>
+      <comment>
+         <val lang="en_US">User name to log on to the remote server</val>
+      </comment>
+      <val lang="zh_CN">User name to log on to the remote server</val>
+   </key>
+   <key value="Full_URL_of_remote_document">
+      <comment>Name of label</comment>
+      <comment>
+         <val lang="en_US">Full URL of remote document, ex:</val>
+      </comment>
+      <val lang="zh_CN">Full URL of remote document, ex:</val>
+   </key>
+   <key value="Remove_from_disk_dpi">
+      <comment>Message for when trying to remove a resource from the disk using the contextual menu action from the
+            results view.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to permanently remove the files corresponding to the selected
+            results?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to permanently remove the files corresponding to the selected
+            results?</val>
+   </key>
+   <key value="Remove_references">
+      <comment>Name of action used to remove one or more references to a topic in the DITA Maps Manager view</comment>
+      <comment>
+         <val lang="en_US">Remove Reference(s)</val>
+      </comment>
+      <val lang="zh_CN">Remove Reference(s)</val>
+   </key>
+   <key value="Move_to_trash">
+      <comment>Remove files from disk action tag for MacOs</comment>
+      <comment>
+         <val lang="en_US">Move to Trash</val>
+      </comment>
+      <val lang="zh_CN">Move to Trash</val>
+   </key>
+   <key value="Cast">
+      <comment>Cast YAML data</comment>
+      <comment>
+         <val lang="en_US">Cast</val>
+      </comment>
+      <val lang="zh_CN">Cast</val>
+   </key>
+   <key value="YAML_start">
+      <comment>YAML document start</comment>
+      <comment>
+         <val lang="en_US">YAML start</val>
+      </comment>
+      <val lang="zh_CN">YAML start</val>
+   </key>
+   <key value="YAML_end">
+      <comment>YAML document end</comment>
+      <comment>
+         <val lang="en_US">YAML end</val>
+      </comment>
+      <val lang="zh_CN">YAML end</val>
+   </key>
+   <key value="Anchor">
+      <comment>Anchor. Used for YAML anchors in documents</comment>
+      <comment>
+         <val lang="en_US">Anchor</val>
+      </comment>
+      <val lang="zh_CN">Anchor</val>
+   </key>
+   <key value="Navigation_reference">
+      <comment>Reference type.</comment>
+      <comment>
+         <val lang="en_US">Navigation reference</val>
+      </comment>
+      <val lang="zh_CN">Navigation reference</val>
+   </key>
+   <key value="Map_reference">
+      <comment>Reference type.</comment>
+      <comment>
+         <val lang="en_US">Map reference</val>
+      </comment>
+      <val lang="zh_CN">Map reference</val>
+   </key>
+   <key value="Topic_reference">
+      <comment>Reference type.</comment>
+      <comment>
+         <val lang="en_US">Topic reference</val>
+      </comment>
+      <val lang="zh_CN">Topic reference</val>
+   </key>
+   <key value="Log_in_with_Microsoft_account">
+      <comment>Action name to login with Microsoft account</comment>
+      <comment>
+         <val lang="en_US">Log in with Microsoft account</val>
+      </comment>
+      <val lang="zh_CN">Log in with Microsoft account</val>
+   </key>
+   <key value="Log_out">
+      <comment>Logout action name</comment>
+      <comment>
+         <val lang="en_US">Log out</val>
+      </comment>
+      <val lang="zh_CN">Log out</val>
+   </key>
+   <key value="New_sharepoint_online_connection_action_description">
+      <comment>The description for the action used to create a new SharePoint Online connection.</comment>
+      <comment>
+         <val lang="en_US">Create a new connection to a SharePoint Online repository.</val>
+      </comment>
+      <val lang="zh_CN">Create a new connection to a SharePoint Online repository.</val>
+   </key>
+   <key value="New_sharepoint_online_connection">
+      <comment>New SharePoint Online action name</comment>
+      <comment>
+         <val lang="en_US">New SharePoint Online connection</val>
+      </comment>
+      <val lang="zh_CN">New SharePoint Online connection</val>
+   </key>
+   <key value="Detect_main_files_from_project">
+      <comment>Action name used to detect the Main Files starting from the project root.</comment>
+      <comment>
+         <val lang="en_US">Detect Main Files from Project</val>
+      </comment>
+      <val lang="zh_CN">Detect Main Files from Project</val>
+   </key>
+   <key value="Enumerations">
+      <comment> Name of option to include "Enumerations" in the documentation file (JSON Schema Doc Generator dialog).</comment>
+      <comment>
+         <val lang="en_US">Enumerations</val>
+      </comment>
+      <val lang="zh_CN">Enumerations</val>
+   </key>
+   <key value="Pattern_properties">
+      <comment>Name of option to include "Pattern Properties" in the documentation file (JSON Schema Doc Generator dialog).</comment>
+      <comment>
+         <val lang="en_US">Pattern Properties</val>
+      </comment>
+      <val lang="zh_CN">Pattern Properties</val>
+   </key>
+   <key value="Enable_main_files_support"
+        type="action"
+        distribution="common">
+      <comment>Name of the option used to enable the main files support.</comment>
+      <comment>
+         <val lang="en_US">Enable Main Files support</val>
+      </comment>
+      <val lang="zh_CN">Enable Main Files support</val>
+   </key>
+   <key value="Resource_type_main_files_detection">
+      <comment>Label in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">Resource type for Main Files detection</val>
+      </comment>
+      <val lang="zh_CN">Resource type for Main Files detection</val>
+   </key>
+   <key value="Use_only_main_files">
+      <comment>Check box name added in the configure scope dialog.</comment>
+      <comment>
+         <val lang="en_US">Use only Main Files, if enabled</val>
+      </comment>
+      <val lang="zh_CN">Use only Main Files, if enabled</val>
+   </key>
+   <key value="Main_files_support_defined_for_project">
+      <comment>Tooltip text displayed on the Main Files folder, when the support is enabled.</comment>
+      <comment>
+         <val lang="en_US">The Main Files defined for this project</val>
+      </comment>
+      <val lang="zh_CN">The Main Files defined for this project</val>
+   </key>
+   <key value="Main_files_support_is_disabled">
+      <comment>Tooltip text displayed on the Main Files folder, when the support is disabled.</comment>
+      <comment>
+         <val lang="en_US">The Main Files support is disabled.</val>
+      </comment>
+      <val lang="zh_CN">The Main Files support is disabled.</val>
+   </key>
+   <key value="Add_to_main_files" type="action" distribution="common">
+      <comment>Description of the action that add the selected files and folder to the Main Files folder.</comment>
+      <comment>
+         <val lang="en_US">Add to Main Files</val>
+      </comment>
+      <val lang="zh_CN">Add to Main Files</val>
+   </key>
+   <key value="Main_files_lower_case">
+      <comment>Message used in main files messages. It will be appended to other message.</comment>
+      <comment>
+         <val lang="en_US">main files</val>
+      </comment>
+      <val lang="zh_CN">main files</val>
+   </key>
+   <key value="Enable_main_files">
+      <comment>Name of the dialog that enables/disables Main Files.</comment>
+      <comment>
+         <val lang="en_US">Enable Main Files</val>
+      </comment>
+      <val lang="zh_CN">Enable Main Files</val>
+   </key>
+   <key value="Select_main_files">
+      <comment>Label for the button that selects all the detected main files.</comment>
+      <comment>
+         <val lang="en_US">Select main files</val>
+      </comment>
+      <val lang="zh_CN">Select main files</val>
+   </key>
+   <key value="Choose_the_Main_Files_detection_type">
+      <comment>Label in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">Choose the resources type for the Main Files detection</val>
+      </comment>
+      <val lang="zh_CN">Choose the resources type for the Main Files detection</val>
+   </key>
+   <key value="Resources_types">
+      <comment>Label in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">Resources type</val>
+      </comment>
+      <val lang="zh_CN">Resources type</val>
+   </key>
+   <key value="Select_main_files_to_add_in_project">
+      <comment>Label in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">Select the files to be marked as Main Files in project</val>
+      </comment>
+      <val lang="zh_CN">Select the files to be marked as Main Files in project</val>
+   </key>
+   <key value="No_main_files_detected">
+      <comment>Label in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">No Main Files detected</val>
+      </comment>
+      <val lang="zh_CN">No Main Files detected</val>
+   </key>
+   <key value="Main_files_to_be_added_in_project">
+      <comment>Label in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">Main Files to be added in project</val>
+      </comment>
+      <val lang="zh_CN">Main Files to be added in project</val>
+   </key>
+   <key value="Possible_main_files">
+      <comment>Label in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">Possible main files</val>
+      </comment>
+      <val lang="zh_CN">Possible main files</val>
+   </key>
+   <key value="Category_possible_main_tooltip">
+      <comment>Tooltip in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">The files presented on the first level are not imported/included from other files. These files
+            are most likely to be set as main files.</val>
+      </comment>
+      <val lang="zh_CN">The files presented on the first level are not imported/included from other files. These files
+            are most likely to be set as main files.</val>
+   </key>
+   <key value="Category_cycle_tooltip">
+      <comment>Tooltip in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">The files presented on the first level are in circular dependence. Any of these files is a
+            possible main file.</val>
+      </comment>
+      <val lang="zh_CN">The files presented on the first level are in circular dependence. Any of these files is a
+            possible main file.</val>
+   </key>
+   <key value="Category_standalone_tooltip">
+      <comment>Tooltip in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">Files that are not imported/included and do not import/include other files. No need to be set
+            as main files.</val>
+      </comment>
+      <val lang="zh_CN">Files that are not imported/included and do not import/include other files. No need to be set
+            as main files.</val>
+   </key>
+   <key value="Main_file_defined_in_project">
+      <comment>Tooltip in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">Main File defined in Project</val>
+      </comment>
+      <val lang="zh_CN">Main File defined in Project</val>
+   </key>
+   <key value="Main_file">
+      <comment>Tooltip in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">Main File</val>
+      </comment>
+      <val lang="zh_CN">Main File</val>
+   </key>
+   <key distribution="common" value="Detect_main_files">
+      <comment>Action name used to detect the Main Files from project.</comment>
+      <comment>
+         <val lang="en_US">Detect Main Files</val>
+      </comment>
+      <val lang="zh_CN">Detect Main Files</val>
+   </key>
+   <key value="Main_files_explanation">
+      <comment>Label used in 'Detect Main Files' dialog.</comment>
+      <comment>
+         <val lang="en_US">{0} allows you to define main files at project level. These main files are automatically
+            used to determine the context for operations like validation, content-completion, refactoring or
+            searching.</val>
+      </comment>
+      <val lang="zh_CN">{0} allows you to define main files at project level. These main files are automatically
+            used to determine the context for operations like validation, content-completion, refactoring or
+            searching.</val>
+   </key>
+   <key value="Main_files_xml_note">
+      <comment>Label used in 'Detect Main Files' dialog.</comment>
+      <comment>
+         <val lang="en_US">Note: Only the modules referred using the XInclude or external entities mechanism are handled
+            by the main files support.</val>
+      </comment>
+      <val lang="zh_CN">Note: Only the modules referred using the XInclude or external entities mechanism are handled
+            by the main files support.</val>
+   </key>
+   <key value="Select_all_possible_main_files">
+      <comment>Tooltip for the 'Select main files' button from the 'Detect main files' dialog.</comment>
+      <comment>
+         <val lang="en_US">Selects all the resources detected as possible main files.</val>
+      </comment>
+      <val lang="zh_CN">Selects all the resources detected as possible main files.</val>
+   </key>
+   <key value="Disable_main_files_support"
+        type="action"
+        distribution="eclipse">
+      <comment>Name of the option used to disable the main files support.</comment>
+      <comment>
+         <val lang="en_US">Disable Main Files Support</val>
+      </comment>
+      <val lang="zh_CN">Disable Main Files Support</val>
+   </key>
+   <key value="JSON_definition_file_cannot_be_validated">
+      <comment>Warning message provided when validating JSON files that either are empty, or contains property
+            definitions only.</comment>
+      <comment>
+         <val lang="en_US">The JSON Schema cannot be validated because it is empty or only contains definitions. It is
+            recommended to validate the main file that references the definitions.</val>
+      </comment>
+      <val lang="zh_CN">The JSON Schema cannot be validated because it is empty or only contains definitions. It is
+            recommended to validate the main file that references the definitions.</val>
+   </key>
+   <key value="Main_Maps">
+      <comment>Label used in the "Context" combo box from the DITA Maps Manager view. A DITA Map is a file which has
+            references to other files.</comment>
+      <comment>
+         <val lang="en_US">Main maps</val>
+      </comment>
+      <val lang="zh_CN">Main maps</val>
+   </key>
+   <key value="Only_available_for_text_comparison_mode">
+      <comment>Note in the File Comparison options page.</comment>
+      <comment>
+         <val lang="en_US">Only available for the Text comparison mode</val>
+      </comment>
+      <val lang="zh_CN">Only available for the Text comparison mode</val>
+   </key>
+   <key value="Show_key_reference_values">
+      <comment>Setting in DITA Maps Manager.</comment>
+      <comment>
+         <val lang="en_US">Show key reference values</val>
+      </comment>
+      <val lang="zh_CN">Show key reference values</val>
+   </key>
+   <key value="Enable_plugin_message">
+      <comment>Message for the dialog displayed when trying to use a disabled plugin/addon, asking if you want to enable it.</comment>
+      <comment>
+         <val lang="en_US">The "{0}" plugin is disabled.\nDo you want to enable it now?</val>
+      </comment>
+      <val lang="zh_CN">The "{0}" plugin is disabled.\nDo you want to enable it now?</val>
+   </key>
+   <key value="Validation_fatal_error_highlight_color">
+      <comment>Validation fatal error highlight color option.</comment>
+      <comment>
+         <val lang="en_US">Validation fatal error highlight color</val>
+      </comment>
+      <val lang="zh_CN">Validation fatal error highlight color</val>
+   </key>
+   <key value="Compile_framework_extension_script_question">
+      <comment>The script is saved outside the frameworks directories so Oxygen 
+        will not load it. This question offers the option to add the script's parent 
+        directory as a framework directory.</comment>
+      <comment>
+         <val lang="en_US">The script is not inside the configured frameworks directory 
+        so the generated framework will not be loaded by Oxygen.\n\nDo you want to add 
+        the script location as an additional frameworks location?</val>
+      </comment>
+      <val lang="zh_CN">The script is not inside the configured frameworks directory 
+        so the generated framework will not be loaded by Oxygen.\n\nDo you want to add 
+        the script location as an additional frameworks location?</val>
+   </key>
+   <key value="Compile_framework_extension_scripts_result">
+      <comment>Presents the absolute path of the generated *.framework file.</comment>
+      <comment>
+         <val lang="en_US">The framework file was generated at:</val>
+      </comment>
+      <val lang="zh_CN">The framework file was generated at:</val>
+   </key>
+   <key value="Compile_framework_extension_scripts_errors">
+      <comment>Errors during the compiling framework update scripts.</comment>
+      <comment>
+         <val lang="en_US">The script was not compiled. Check the Results area for details.</val>
+      </comment>
+      <val lang="zh_CN">The script was not compiled. Check the Results area for details.</val>
+   </key>
+   <key value="Compile_framework_extension_script_tooltip">
+      <comment>Tooltip of the action that compiles framework update script and obtains *.framework files.</comment>
+      <comment>
+         <val lang="en_US">Generates the corresponding framework file (*.framework).</val>
+      </comment>
+      <val lang="zh_CN">Generates the corresponding framework file (*.framework).</val>
+   </key>
+   <key value="Content_fusion_show_tasks_manager_view">
+      <comment>The name of the action that shows the Content Fusion Tasks Manager view</comment>
+      <comment>
+         <val lang="en_US">Show Content Fusion Tasks Manager View</val>
+      </comment>
+      <val lang="zh_CN">Show Content Fusion Tasks Manager View</val>
+   </key>
+   <key value="Restart_now">
+      <comment>Restart now button</comment>
+      <comment>
+         <val lang="en_US">Restart now</val>
+      </comment>
+      <val lang="zh_CN">Restart now</val>
+   </key>
+   <key value="Restart_later">
+      <comment>Restart later button</comment>
+      <comment>
+         <val lang="en_US">Restart later</val>
+      </comment>
+      <val lang="zh_CN">Restart later</val>
+   </key>
+   <key value="Modified_references">
+      <comment>Dialog title</comment>
+      <comment>
+         <val lang="en_US">Modified references</val>
+      </comment>
+      <val lang="zh_CN">Modified references</val>
+   </key>
+   <key value="Double_click_for_details">
+      <comment>Tooltip on the validation status panel.</comment>
+      <comment>
+         <val lang="en_US">Double-click for details.</val>
+      </comment>
+      <val lang="zh_CN">Double-click for details.</val>
+   </key>
+   <key value="Save_and_Continue">
+      <comment>Save and Continue dialog button</comment>
+      <comment>
+         <val lang="en_US">Save and Continue</val>
+      </comment>
+      <val lang="zh_CN">Save and Continue</val>
+   </key>
+   <key value="Document_contains_modified_references_save_before_switch_page">
+      <comment>Dialog message presented when references are modified in Author page and the user changes the page.</comment>
+      <comment>
+         <val lang="en_US">The document contains modified references that must be saved before switching editing modes.</val>
+      </comment>
+      <val lang="zh_CN">The document contains modified references that must be saved before switching editing modes.</val>
+   </key>
+   <key distribution="webauthor" value="Room_not_found">
+      <comment>Message presented when the room doesn't exist.</comment>
+      <comment>
+         <val lang="en_US">Could not join the shared editing session, it may have been closed or the URL is not correct.</val>
+      </comment>
+      <val lang="zh_CN">Could not join the shared editing session, it may have been closed or the URL is not correct.</val>
+   </key>
+   <key value="Reference_modified_Save_before_making_changes">
+      <comment>Tooltip warning message message to inform user to save before editing.</comment>
+      <comment>
+         <val lang="en_US">Reference is modified in another place. Save before making additional changes.</val>
+      </comment>
+      <val lang="zh_CN">Reference is modified in another place. Save before making additional changes.</val>
+   </key>
+   <key value="Compile_framework_extension_script">
+      <comment>Name of the action that compiles framework update scripts and obtains *.framework files.</comment>
+      <comment>
+         <val lang="en_US">Compile Framework Extension Script</val>
+      </comment>
+      <val lang="zh_CN">Compile Framework Extension Script</val>
+   </key>
+   <key value="JSON_Schema_Documentation">
+      <comment>Title of Generate Documentation -&gt; JSON Schema Documentation action dialog.</comment>
+      <comment>
+         <val lang="en_US">JSON Schema Documentation</val>
+      </comment>
+      <val lang="zh_CN">JSON Schema Documentation</val>
+   </key>
+   <key value="Consider_subsequent_sibling_elements">
+      <comment>Take into account the next sibling XML elements when showing the content completion window.</comment>
+      <comment>
+         <val lang="en_US">Consider subsequent sibling elements</val>
+      </comment>
+      <val lang="zh_CN">Consider subsequent sibling elements</val>
+   </key>
+   <key value="Replace_non_alphanumeric_chars_with">
+      <comment>Option label.</comment>
+      <comment>
+         <val lang="en_US">Replace non-alphanumeric characters with</val>
+      </comment>
+      <val lang="zh_CN">Replace non-alphanumeric characters with</val>
+   </key>
+   <key value="No_valid_insert_position_for_frag">
+      <comment>Warning message displayed when a valid insertion position could not be found
+        for an XML fragment.</comment>
+      <comment>
+         <val lang="en_US">A valid insert position could not be determined.</val>
+      </comment>
+      <val lang="zh_CN">A valid insert position could not be determined.</val>
+   </key>
+   <key value="Content_not_allowed_outside_root">
+      <comment>Invalid operation message displayed when schema aware is on.</comment>
+      <comment>
+         <val lang="en_US">Content is not allowed outside of the root element.</val>
+      </comment>
+      <val lang="zh_CN">Content is not allowed outside of the root element.</val>
+   </key>
+   <key value="Question_discard_changes_and_reload_referenced_resources">
+      <comment>Confirmation message to reload referenced resources and reload changes</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to discard all your changes and reload the referenced resources?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to discard all your changes and reload the referenced resources?</val>
+   </key>
+   <key value="References_modified_outside_current_editor">
+      <comment>Detailed message presented when same reference is edited in different editors</comment>
+      <comment>
+         <val lang="en_US">The following referenced resources were modified outside of the current editor</val>
+      </comment>
+      <val lang="zh_CN">The following referenced resources were modified outside of the current editor</val>
+   </key>
+   <key value="Errors_while_saving_referenced_content_See_results_tab_for_details">
+      <comment>Detailed message to present to users when the reference content fails to be saved.</comment>
+      <comment>
+         <val lang="en_US">Cannot save changes to the referenced content.\nSee the "{0}" tab in the Results panel for details.</val>
+      </comment>
+      <val lang="zh_CN">Cannot save changes to the referenced content.\nSee the "{0}" tab in the Results panel for details.</val>
+   </key>
+   <key value="Save_reference_problems">
+      <comment>Title of the Result tab that presents the problems appeard while saving content of referenced files.</comment>
+      <comment>
+         <val lang="en_US">Save Reference Problems</val>
+      </comment>
+      <val lang="zh_CN">Save Reference Problems</val>
+   </key>
+   <key distribution="common" value="Attributes_Condition_Sets">
+      <comment>Title of an option page.</comment>
+      <comment>
+         <val lang="en_US">Attributes and Condition Sets</val>
+      </comment>
+      <val lang="zh_CN">Attributes and Condition Sets</val>
+   </key>
+   <key value="Show_author_layout_messages">
+      <comment>Label in Author option pane</comment>
+      <comment>
+         <val lang="en_US">Show layout problems</val>
+      </comment>
+      <val lang="zh_CN">Show layout problems</val>
+   </key>
+   <key value="Show_floating_toolbar">
+      <comment>Checkbox in the "Cursor Navigation" option page which controls the active state of the contextual floating toolbar.</comment>
+      <comment>
+         <val lang="en_US">Show floating contextual toolbar</val>
+      </comment>
+      <val lang="zh_CN">Show floating contextual toolbar</val>
+   </key>
+   <key value="Copy_as_xml_tooltip_text">
+      <comment>Tooltip text for "Copy as XML".</comment>
+      <comment>
+         <val lang="en_US">Copy the selected content preserving the XML structure.</val>
+      </comment>
+      <val lang="zh_CN">Copy the selected content preserving the XML structure.</val>
+   </key>
+   <key value="Paste_as_xml_tooltip_text" distribution="common">
+      <comment>Tooltip text for "Paste as XML".</comment>
+      <comment>
+         <val lang="en_US">Paste the clipboard text content preserving the XML structure.</val>
+      </comment>
+      <val lang="zh_CN">Paste the clipboard text content preserving the XML structure.</val>
+   </key>
+   <key value="Paste_as_text_tooltip_text" distribution="common">
+      <comment>Tooltip text for "Paste as text".</comment>
+      <comment>
+         <val lang="en_US">Paste the clipboard content as plain text.</val>
+      </comment>
+      <val lang="zh_CN">Paste the clipboard content as plain text.</val>
+   </key>
+   <key value="Serialization" distribution="common">
+      <comment>Name of a preferences page.</comment>
+      <comment>
+         <val lang="en_US">Serialization</val>
+      </comment>
+      <val lang="zh_CN">Serialization</val>
+   </key>
+   <key value="Action_not_executed_in_unsafe_context">
+      <comment>Error message presented to the user when an action is defined in 
+            a CSS file outside the frameworks directory.</comment>
+      <comment>
+         <val lang="en_US">For security reasons, the action cannot be executed because it is defined in a file located outside the framework directory: {0}</val>
+      </comment>
+      <val lang="zh_CN">For security reasons, the action cannot be executed because it is defined in a file located outside the framework directory: {0}</val>
+   </key>
+   <key value="Default_project">
+      <comment>"Default project" label.</comment>
+      <comment>
+         <val lang="en_US">Default project</val>
+      </comment>
+      <val lang="zh_CN">Default project</val>
+   </key>
+   <key value="Cannot_create_project">
+      <comment>"Cannot create project" message.</comment>
+      <comment>
+         <val lang="en_US">Cannot create project.</val>
+      </comment>
+      <val lang="zh_CN">Cannot create project.</val>
+   </key>
+   <key value="Check_project_name_and_dir_path">
+      <comment>Message to check the provided project name and directory path.</comment>
+      <comment>
+         <val lang="en_US">Check the project name and directory path.</val>
+      </comment>
+      <val lang="zh_CN">Check the project name and directory path.</val>
+   </key>
+   <key value="Cannot_overwrite_project_resources">
+      <comment>Message shown when trying to create a project based on a template
+  			 and some of the resources already exist in the destination.</comment>
+      <comment>
+         <val lang="en_US">One or more of the template resources already exist in the destination folder.</val>
+      </comment>
+      <val lang="zh_CN">One or more of the template resources already exist in the destination folder.</val>
+   </key>
+   <key value="File_contains_modified_references_confirm_continue_and_revert_changes">
+      <comment>Confirmation message to continue the refresh reference action and revert changes.</comment>
+      <comment>
+         <val lang="en_US">The following file contains modified references:\n{0}\n\nIf you continue with the refresh operation, all changes made to those references will be lost.</val>
+      </comment>
+      <val lang="zh_CN">The following file contains modified references:\n{0}\n\nIf you continue with the refresh operation, all changes made to those references will be lost.</val>
+   </key>
+   <key value="Project_file_name">
+      <comment>The project file name</comment>
+      <comment>
+         <val lang="en_US">Project file name</val>
+      </comment>
+      <val lang="zh_CN">Project file name</val>
+   </key>
+   <key value="Run_in_parallel_dot_ant">
+      <comment>Checkbox in the transformation scenarios dialog which allows running multiple transformation scenarios in parallel.</comment>
+      <comment>
+         <val lang="en_US">Run in parallel (DITA-OT or Ant scenarios)</val>
+      </comment>
+      <val lang="zh_CN">Run in parallel (DITA-OT or Ant scenarios)</val>
+   </key>
+   <key value="Enable_dita_2_0_editing_support_experimental">
+      <comment>Checkbox which allows creating new documents using the DITA 2.0 standard.</comment>
+      <comment>
+         <val lang="en_US">Enable DITA 2.0 editing support (Experimental)</val>
+      </comment>
+      <val lang="zh_CN">Enable DITA 2.0 editing support (Experimental)</val>
+   </key>
+   <key value="Choose_a_project_template">
+      <comment>"Choose a project template" label.</comment>
+      <comment>
+         <val lang="en_US">Choose a project template</val>
+      </comment>
+      <val lang="zh_CN">Choose a project template</val>
+   </key>
+   <key value="Dita_map_framework_from_preferences_page_not_enabled_or_present">
+      <comment>Message displayed if a ditamap cannot be opened because the DITA Map framework is not active.</comment>
+      <comment>
+         <val lang="en_US">The {0} framework configuration from the {1} preferences page is not enabled or is not present.</val>
+      </comment>
+      <val lang="zh_CN">The {0} framework configuration from the {1} preferences page is not enabled or is not present.</val>
+   </key>
+   <key value="Dita_map_specialization_not_integrated_in_default_dita_ot">
+      <comment>Message displayed if a ditamap contains specializations not integrated in the default DITA-OT.
+        {0} and {1} markers must be near the words, no space after/before - will be replaced with HTML tags.</comment>
+      <comment>
+         <val lang="en_US">Your DITA map may use a {0}vocabulary specialization{1} that is not integrated in the DITA Open Toolkit that is used by default.</val>
+      </comment>
+      <val lang="zh_CN">Your DITA map may use a {0}vocabulary specialization{1} that is not integrated in the DITA Open Toolkit that is used by default.</val>
+   </key>
+   <key value="This_problem_may_happen_in_the_following_situations">
+      <comment>Generic message presenting different situations for a problem:</comment>
+      <comment>
+         <val lang="en_US">This problem may happen in the following situations:</val>
+      </comment>
+      <val lang="zh_CN">This problem may happen in the following situations:</val>
+   </key>
+   <key value="Dita_ot_location_does_not_exist">
+      <comment>Message presented when trying to open a ditamap in the DITa Maps Manager view but have no DITA-OT tool.</comment>
+      <comment>
+         <val lang="en_US">The DITA-OT publishing engine configured in the {0} preferences page points to a location that does not exist.</val>
+      </comment>
+      <val lang="zh_CN">The DITA-OT publishing engine configured in the {0} preferences page points to a location that does not exist.</val>
+   </key>
+   <key value="File_not_a_dita_map">
+      <comment>Message presented when trying to open a non DITA map file in the DITA Maps Manager view.</comment>
+      <comment>
+         <val lang="en_US">This file "{0}" does not appear to be a DITA map.</val>
+      </comment>
+      <val lang="zh_CN">This file "{0}" does not appear to be a DITA map.</val>
+   </key>
+   <key value="Dita_topics_must_open_in_editor">
+      <comment>Message presented if trying to open DITA topics in the DITA Maps Manager view.</comment>
+      <comment>
+         <val lang="en_US">DITA topics must be opened in the main editor area.</val>
+      </comment>
+      <val lang="zh_CN">DITA topics must be opened in the main editor area.</val>
+   </key>
+   <key value="Switching_to_compare_mode">
+      <comment>Switching to "{0}" compare mode</comment>
+      <comment>
+         <val lang="en_US">Switching to "{0}" compare mode</val>
+      </comment>
+      <val lang="zh_CN">Switching to "{0}" compare mode</val>
+   </key>
+   <key value="Enable_File_Comparison_In_Text_Mode">
+      <comment>The name of an option from the Diff &gt; File Comparison page in Preferences.</comment>
+      <comment>
+         <val lang="en_US">Enable file comparison in Text mode</val>
+      </comment>
+      <val lang="zh_CN">Enable file comparison in Text mode</val>
+   </key>
+   <key value="Copy_as_xml">
+      <comment>"Copy as XML" label.</comment>
+      <comment>
+         <val lang="en_US">Copy as XML</val>
+      </comment>
+      <val lang="zh_CN">Copy as XML</val>
+   </key>
+   <key value="Allow_referenced_submaps_to_be_edited">
+      <comment>Options message that allows inplace editing of referred content in DITA Maps Manager</comment>
+      <comment>
+         <val lang="en_US">Allow referenced submaps to be edited</val>
+      </comment>
+      <val lang="zh_CN">Allow referenced submaps to be edited</val>
+   </key>
+   <key value="Local_files_only">
+      <comment>Options message that restricts editing referred content to local files</comment>
+      <comment>
+         <val lang="en_US">Local files only</val>
+      </comment>
+      <val lang="zh_CN">Local files only</val>
+   </key>
+   <key value="Allow_referenced_content_to_be_edited">
+      <comment>Options message that allows inplace editing of referred content</comment>
+      <comment>
+         <val lang="en_US">Allow referenced content to be edited</val>
+      </comment>
+      <val lang="zh_CN">Allow referenced content to be edited</val>
+   </key>
+   <key value="Preserve_case_of_names_from_the_XSD">
+      <comment>XSD to JSON Schema dialog option to keep in JSON Schema the case of names from XSD.</comment>
+      <comment>
+         <val lang="en_US">Preserve case of names from the XSD</val>
+      </comment>
+      <val lang="zh_CN">Preserve case of names from the XSD</val>
+   </key>
+   <key value="Identifying_HTML_files_in_selection">
+      <comment>Message in the progress tracker of looking up for HTML files in Project view selection.</comment>
+      <comment>
+         <val lang="en_US">Identifying HTML files in selection</val>
+      </comment>
+      <val lang="zh_CN">Identifying HTML files in selection</val>
+   </key>
+   <key value="Selection_without_HTML_files">
+      <comment>Message in an information dialog box.</comment>
+      <comment>
+         <val lang="en_US">The selection does not contain any HTML file.</val>
+      </comment>
+      <val lang="zh_CN">The selection does not contain any HTML file.</val>
+   </key>
+   <key value="HTML_files_identified_in_selection">
+      <comment>Message in a dialog box. It is followed by a semicolon and the number of HTML files found.</comment>
+      <comment>
+         <val lang="en_US">HTML files identified in selection</val>
+      </comment>
+      <val lang="zh_CN">HTML files identified in selection</val>
+   </key>
+   <key value="Files_backed_up_before_being_processed">
+      <comment>Informative message in a dialog box.</comment>
+      <comment>
+         <val lang="en_US">These files will be backed up before being processed.</val>
+      </comment>
+      <val lang="zh_CN">These files will be backed up before being processed.</val>
+   </key>
+   <key value="Some_of_selected_HTML_files_not_saved">
+      <comment>Warning message in a dialog box.</comment>
+      <comment>
+         <val lang="en_US">Some HTML files from selection contain unsaved changes.</val>
+      </comment>
+      <val lang="zh_CN">Some HTML files from selection contain unsaved changes.</val>
+   </key>
+   <key value="Ask_for_saving_all_modifications">
+      <comment>Interrogative message in a dialog box that requires an user option.</comment>
+      <comment>
+         <val lang="en_US">Do you want to save all modifications?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to save all modifications?</val>
+   </key>
+   <key value="Operation_canceled">
+      <comment>Message in a dialog box informing that the current operation was canceled by the user.</comment>
+      <comment>
+         <val lang="en_US">Operation canceled</val>
+      </comment>
+      <val lang="zh_CN">Operation canceled</val>
+   </key>
+   <key value="Files_processed">
+      <comment>Message in a report dialog box. It is followed by a semicolon and the number of files processed.</comment>
+      <comment>
+         <val lang="en_US">Files processed</val>
+      </comment>
+      <val lang="zh_CN">Files processed</val>
+   </key>
+   <key value="Backup files created">
+      <comment>Message in a report dialog box. It is followed by a semicolon and the number of back-up copies created.</comment>
+      <comment>
+         <val lang="en_US">Backup files created</val>
+      </comment>
+      <val lang="zh_CN">Backup files created</val>
+   </key>
+   <key value="Key_combination_for_edit_or_assign_shortcut">
+      <comment>Parameterized text of an explanatory label in Accelerators Editor panel.
+        		The parameter refers a keyboard key as follows:
+        		"Ctrl" for Win/Linux, "Cmd" for Mac OS respectively.</comment>
+      <comment>
+         <val lang="en_US">Press {0}+Enter to assign/edit shortcut</val>
+      </comment>
+      <val lang="zh_CN">Press {0}+Enter to assign/edit shortcut</val>
+   </key>
+   <key value="Open_selected_files">
+      <comment>Explanatory message in the progress monitor invoked through the Open action from Project view.</comment>
+      <comment>
+         <val lang="en_US">Open selected files</val>
+      </comment>
+      <val lang="zh_CN">Open selected files</val>
+   </key>
+   <key value="Include_disabled_actions">
+      <comment>Name of an option control in Accelerators Editor panel.</comment>
+      <comment>
+         <val lang="en_US">Disabled actions</val>
+      </comment>
+      <val lang="zh_CN">Disabled actions</val>
+   </key>
+   <key value="Actions_available_in_editing_context">
+      <comment>Name of an option control in Accelerators Editor panel.</comment>
+      <comment>
+         <val lang="en_US">Actions in editing context</val>
+      </comment>
+      <val lang="zh_CN">Actions in editing context</val>
+   </key>
+   <key value="All_available_actions">
+      <comment>Name of an option control in Accelerators Editor panel.</comment>
+      <comment>
+         <val lang="en_US">All actions</val>
+      </comment>
+      <val lang="zh_CN">All actions</val>
+   </key>
+   <key value="Find_action">
+      <comment>Name of an action available in both Find and Help menus of the oXygen.
+        		The action allows to find (and execute) a specific action.
+        </comment>
+      <comment>
+         <val lang="en_US">Find action</val>
+      </comment>
+      <val lang="zh_CN">Find action</val>
+   </key>
+   <key value="Inserting_links" distribution="common">
+      <comment>Message used in options page.</comment>
+      <comment>
+         <val lang="en_US">Inserting Links</val>
+      </comment>
+      <val lang="zh_CN">Inserting Links</val>
+   </key>
+   <key value="Inserting_topic_references">
+      <comment>Label used in Maps preferences page.</comment>
+      <comment>
+         <val lang="en_US">Inserting Topic References</val>
+      </comment>
+      <val lang="zh_CN">Inserting Topic References</val>
+   </key>
+   <key value="Dita_use_navigation_title_for_rendering" distribution="common">
+      <comment>Option name which controls if the navigation title is presented in the Dita Maps Manager.</comment>
+      <comment>
+         <val lang="en_US">Prefer using the navigation title for rendering topic references</val>
+      </comment>
+      <val lang="zh_CN">Prefer using the navigation title for rendering topic references</val>
+   </key>
+   <key value="Use_filename_to_generate_topicref_keys_attr">
+      <comment>Label for the option used to generate the "keys" attribute for topcrefs in DMM
+        based on the name of the topic file.</comment>
+      <comment>
+         <val lang="en_US">Use the file name as the value of the "keys" attribute</val>
+      </comment>
+      <val lang="zh_CN">Use the file name as the value of the "keys" attribute</val>
+   </key>
+   <key value="Always_set_link_or_topicref_attrs">
+      <comment>Label used in options page.</comment>
+      <comment>
+         <val lang="en_US">Always set values for the following attributes:</val>
+      </comment>
+      <val lang="zh_CN">Always set values for the following attributes:</val>
+   </key>
+   <key value="Maps" distribution="common">
+      <comment>"Maps".</comment>
+      <comment>
+         <val lang="en_US">Maps</val>
+      </comment>
+      <val lang="zh_CN">Maps</val>
+   </key>
+   <key value="Topics" distribution="common">
+      <comment>"Topics".</comment>
+      <comment>
+         <val lang="en_US">Topics</val>
+      </comment>
+      <val lang="zh_CN">Topics</val>
+   </key>
+   <key value="Dynamically_use_currently_open_map">
+      <comment>Info message. Describe what "current map" root map means.</comment>
+      <comment>
+         <val lang="en_US">Dynamically use the currently open map in the DITA Maps Manager as context root map.</val>
+      </comment>
+      <val lang="zh_CN">Dynamically use the currently open map in the DITA Maps Manager as context root map.</val>
+   </key>
+   <key value="Using_context_root_map">
+      <comment>Info message. Presents the context root map with the given name is used.</comment>
+      <comment>
+         <val lang="en_US">Using context root map: {0}</val>
+      </comment>
+      <val lang="zh_CN">Using context root map: {0}</val>
+   </key>
+   <key value="Context_root_map_set_through_api">
+      <comment>Info message. Presents the context root map was set using the API.</comment>
+      <comment>
+         <val lang="en_US">Context root map set through API.</val>
+      </comment>
+      <val lang="zh_CN">Context root map set through API.</val>
+   </key>
+   <key value="Context_details_for">
+      <comment>Info message. It's used to present details about a context with the given name.</comment>
+      <comment>
+         <val lang="en_US">Context details for {0}</val>
+      </comment>
+      <val lang="zh_CN">Context details for {0}</val>
+   </key>
+   <key value="Deliverable_with_name">
+      <comment>Info message. It's used to present the deliverable named {0}</comment>
+      <comment>
+         <val lang="en_US">{0} deliverable</val>
+      </comment>
+      <val lang="zh_CN">{0} deliverable</val>
+   </key>
+   <key value="Context_with_name">
+      <comment>Info message. It's used to present the context named {0}</comment>
+      <comment>
+         <val lang="en_US">{0} context</val>
+      </comment>
+      <val lang="zh_CN">{0} context</val>
+   </key>
+   <key value="Context_for_deliverable">
+      <comment>Info message. It's used to present the context of the deliverable named {0}</comment>
+      <comment>
+         <val lang="en_US">Context for the {0} deliverable</val>
+      </comment>
+      <val lang="zh_CN">Context for the {0} deliverable</val>
+   </key>
+   <key value="Context_details_for_deliverable">
+      <comment>Info message. It's used to present details about the context of the deliverable named {0}</comment>
+      <comment>
+         <val lang="en_US">Context details for the {0} deliverable</val>
+      </comment>
+      <val lang="zh_CN">Context details for the {0} deliverable</val>
+   </key>
+   <key value="DITA_map_with_name">
+      <comment>Info message. It's used to present the DITA map named {0}</comment>
+      <comment>
+         <val lang="en_US">DITA map: {0}</val>
+      </comment>
+      <val lang="zh_CN">DITA map: {0}</val>
+   </key>
+   <key value="Filter_with_name">
+      <comment>Info message. It's used to present the filter named {0}</comment>
+      <comment>
+         <val lang="en_US">Filter: {0}</val>
+      </comment>
+      <val lang="zh_CN">Filter: {0}</val>
+   </key>
+   <key value="DITA_OT_project_with_name">
+      <comment>Info message. It's used to present the DITA-OT project named {0}</comment>
+      <comment>
+         <val lang="en_US">DITA-OT project: {0}</val>
+      </comment>
+      <val lang="zh_CN">DITA-OT project: {0}</val>
+   </key>
+   <key value="Profiling_conditional_text_filter">
+      <comment>Tooltip of the "Profiling/Conditional Text" button.</comment>
+      <comment>
+         <val lang="en_US">Profiling/Conditional Text filter</val>
+      </comment>
+      <val lang="zh_CN">Profiling/Conditional Text filter</val>
+   </key>
+   <key value="Profiling_filter_defined_by_context">
+      <comment>Info message. The profiling filter was defined by the context with the given name.</comment>
+      <comment>
+         <val lang="en_US">Profiling filter defined by context: {0}</val>
+      </comment>
+      <val lang="zh_CN">Profiling filter defined by context: {0}</val>
+   </key>
+   <key value="Profiling_condition_set">
+      <comment>Info message. It presents profiling condition set with the given name.</comment>
+      <comment>
+         <val lang="en_US">Profiling condition set: {0}</val>
+      </comment>
+      <val lang="zh_CN">Profiling condition set: {0}</val>
+   </key>
+   <key value="No_profiling_filter_or_condition_set">
+      <comment>Info message when there is not applied a filter or a condition set.</comment>
+      <comment>
+         <val lang="en_US">No profiling filter or condition set</val>
+      </comment>
+      <val lang="zh_CN">No profiling filter or condition set</val>
+   </key>
+   <key value="There_is_no_currently_open_map_for_context">
+      <comment>Info message, presented as tooptip when we don't have an opened map to be used as context.</comment>
+      <comment>
+         <val lang="en_US">There is no currently open map to use for the context.</val>
+      </comment>
+      <val lang="zh_CN">There is no currently open map to use for the context.</val>
+   </key>
+   <key value="Oxygen_content_fusion_connector">
+      <comment>Add-on name.</comment>
+      <comment>
+         <val lang="en_US">Oxygen Content Fusion Connector</val>
+      </comment>
+      <val lang="zh_CN">Oxygen Content Fusion Connector</val>
+   </key>
+</translation>

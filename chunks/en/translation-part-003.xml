@@ -1,0 +1,1912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="JSON_Schema_version">
+      <comment>Text label for choosing the JSON Schema version when generating (JSON Schema generator).</comment>
+      <comment>
+         <val lang="en_US">JSON Schema version</val>
+      </comment>
+      <val lang="zh_CN">JSON Schema version</val>
+   </key>
+   <key value="Memory_av_to_fo_processors">
+      <comment>Options/Preferences/FO Processors The Apache FOP processors are run as an external
+            process. This option controls the amount of memory that is available to them.</comment>
+      <comment>
+         <val lang="en_US">Memory available to the Apache FOP</val>
+      </comment>
+      <val lang="zh_CN">Memory available to the Apache FOP</val>
+   </key>
+   <key value="You_can_disable_the_Author_mode">
+      <comment>Ask for switching to text mode.</comment>
+      <comment>
+         <val lang="en_US">You can disable the Author mode comparison from the "{0}" link below. Then redo the operation.</val>
+      </comment>
+      <val lang="zh_CN">You can disable the Author mode comparison from the "{0}" link below. Then redo the operation.</val>
+   </key>
+   <key value="Content_fusion_add_to_review_task">
+      <comment>The name of the action that adds the selected files to a Content Fusion review task</comment>
+      <comment>
+         <val lang="en_US">Add to review task</val>
+      </comment>
+      <val lang="zh_CN">Add to review task</val>
+   </key>
+   <key value="Content_fusion_add_file_to_review_task">
+      <comment>The name of the action that adds the current file to a Content Fusion review tasks</comment>
+      <comment>
+         <val lang="en_US">Add File to Review Task</val>
+      </comment>
+      <val lang="zh_CN">Add File to Review Task</val>
+   </key>
+   <key value="Content_fusion_tasks_manager">
+      <comment>The plugin view name</comment>
+      <comment>
+         <val lang="en_US">Content Fusion Tasks Manager</val>
+      </comment>
+      <val lang="zh_CN">Content Fusion Tasks Manager</val>
+   </key>
+   <key value="Show_mathml_editor_recommendation">
+      <comment>Option in the preferences directory whether to display or not a recommendation for the mathml
+            editor.</comment>
+      <comment>
+         <val lang="en_US">Show MathML editor recommendation</val>
+      </comment>
+      <val lang="zh_CN">Show MathML editor recommendation</val>
+   </key>
+   <key value="Command_line_external_mathml_editor_description">
+      <comment>Description of an input field where it's set the command line to a external mathml editor.</comment>
+      <comment>
+         <val lang="en_US">A command-line instruction to open an external MathML editor.
+         You should use the "${cf}" editor variable instead of a relative path.</val>
+      </comment>
+      <val lang="zh_CN">A command-line instruction to open an external MathML editor.
+         You should use the "${cf}" editor variable instead of a relative path.</val>
+   </key>
+   <key value="Editing_mathml">
+      <comment>Title of a dialog showed when editing MathML in an external application.</comment>
+      <comment>
+         <val lang="en_US">Editing MathML</val>
+      </comment>
+      <val lang="zh_CN">Editing MathML</val>
+   </key>
+   <key value="Waiting_external_mathml_editor">
+      <comment>Information message showed when editing MathML in an external application.</comment>
+      <comment>
+         <val lang="en_US">Waiting for external MathML editor to close.</val>
+      </comment>
+      <val lang="zh_CN">Waiting for external MathML editor to close.</val>
+   </key>
+   <key value="Switch_to_text_mode">
+      <comment>Switch to text mode. Action tooltip in Diff.</comment>
+      <comment>
+         <val lang="en_US">Switch to Text mode</val>
+      </comment>
+      <val lang="zh_CN">Switch to Text mode</val>
+   </key>
+   <key value="Ask_for_switching_to_text_mode" distribution="common">
+      <comment>Ask for switching to text mode.</comment>
+      <comment>
+         <val lang="en_US">Do you want to switch to the text-based comparison mode?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to switch to the text-based comparison mode?</val>
+   </key>
+   <key value="Resources_cannot_be_compared_in_author_mode"
+        distribution="common">
+      <comment>Warning message: resources cannot be compared in Author mode.</comment>
+      <comment>
+         <val lang="en_US">The resources cannot be compared in Author mode</val>
+      </comment>
+      <val lang="zh_CN">The resources cannot be compared in Author mode</val>
+   </key>
+   <key value="Suggestion_for_choosing_different_algorithm"
+        distribution="common">
+      <comment>Suggestion for choosing a different algorithm (when comparing resources in Diff).</comment>
+      <comment>
+         <val lang="en_US">Try choosing a different algorithm</val>
+      </comment>
+      <val lang="zh_CN">Try choosing a different algorithm</val>
+   </key>
+   <key value="Not_enough_memory_to_compare_using_selected_diff_algorithm"
+        distribution="common">
+      <comment>Warning message: not enough memory to compare files using the selected diff algorithm.</comment>
+      <comment>
+         <val lang="en_US">There is not enough memory to compare the files using the selected diff algorithm</val>
+      </comment>
+      <val lang="zh_CN">There is not enough memory to compare the files using the selected diff algorithm</val>
+   </key>
+   <key value="External_application">
+      <comment>Section in a preferences page.</comment>
+      <comment>
+         <val lang="en_US">External application</val>
+      </comment>
+      <val lang="zh_CN">External application</val>
+   </key>
+   <key value="Keys_automatically_generated_based_on_filenames">
+      <comment>Information label text.</comment>
+      <comment>
+         <val lang="en_US">Key names will be automatically generated based on the names of files selected in the Target tab.</val>
+      </comment>
+      <val lang="zh_CN">Key names will be automatically generated based on the names of files selected in the Target tab.</val>
+   </key>
+   <key value="Expand_map_references_in_author_page">
+      <comment>Label text for the option that controls whether or not a map's references to other maps
+   			will be expanded when that map is open in the Author page.</comment>
+      <comment>
+         <val lang="en_US">Expand references to other maps when opening a map in Author mode</val>
+      </comment>
+      <val lang="zh_CN">Expand references to other maps when opening a map in Author mode</val>
+   </key>
+   <key value="Always_open_results_text_mode">
+      <comment>A checkbox in the Find/Replace in Files dialog forcing the editor to locate matches only in the Text editing mode.</comment>
+      <comment>
+         <val lang="en_US">Always open selected results in Text mode</val>
+      </comment>
+      <val lang="zh_CN">Always open selected results in Text mode</val>
+   </key>
+   <key value="External_action_export_description">
+      <comment>A description/tooltip for the action that can export an author action into its own file.</comment>
+      <comment>
+         <val lang="en_US">Exports the action to the document type directory, in its own separate file.</val>
+      </comment>
+      <val lang="zh_CN">Exports the action to the document type directory, in its own separate file.</val>
+   </key>
+   <key value="Hide_editor_tabs">
+      <comment>Opened documents are presented in a tabbed pane, for each document there is a tab showing its file name. This checkbox when checked hides the tabs.</comment>
+      <comment>
+         <val lang="en_US">Hide editor tabs</val>
+      </comment>
+      <val lang="zh_CN">Hide editor tabs</val>
+   </key>
+   <key value="Pasting_20_licenses_warning">
+      <comment>Warning issued when user pastes a license key that holds more than 20 users.</comment>
+      <comment>
+         <val lang="en_US">Since your license key contains a large number of Named User Licenses, 
+        		you should instead use the free Oxygen License Server to ensure compliance with the terms  
+        		of the Oxygen End-User License Agreement.\nThe benefit of using the license server is that 
+        		you have access to the License Server Management and Statistics Pages that provide access 
+        		to several statistics reports and various management tasks.</val>
+      </comment>
+      <val lang="zh_CN">Since your license key contains a large number of Named User Licenses, 
+        		you should instead use the free Oxygen License Server to ensure compliance with the terms  
+        		of the Oxygen End-User License Agreement.\nThe benefit of using the license server is that 
+        		you have access to the License Server Management and Statistics Pages that provide access 
+        		to several statistics reports and various management tasks.</val>
+   </key>
+   <key value="See_more_about_license_server">
+      <comment>HTML link used in a warning dialog box popped-up through the license registration process.</comment>
+      <comment>
+         <val lang="en_US">See more about the Oxygen License Server</val>
+      </comment>
+      <val lang="zh_CN">See more about the Oxygen License Server</val>
+   </key>
+   <key value="Previous_error_highlight">
+      <comment>Goes to the previous error/highlight.</comment>
+      <comment>
+         <val lang="en_US">Previous Error/Highlight</val>
+      </comment>
+      <val lang="zh_CN">Previous Error/Highlight</val>
+   </key>
+   <key value="Next_error_highlight">
+      <comment>Goes to the next error/highlight.</comment>
+      <comment>
+         <val lang="en_US">Next Error/Highlight</val>
+      </comment>
+      <val lang="zh_CN">Next Error/Highlight</val>
+   </key>
+   <key value="Package_name_info" distribution="common">
+      <comment>Info about the package name field. (Java Classes Generator).</comment>
+      <comment>
+         <val lang="en_US">The name of the Java package that will contain the generated source files. 
+            If not specified, it will be generated based on the value of the "targetNamespace" attribute of the schema. 
+            If no "targetNamespace" is declared in the schema, a package named "generated" will be used by default.</val>
+      </comment>
+      <val lang="zh_CN">The name of the Java package that will contain the generated source files. 
+            If not specified, it will be generated based on the value of the "targetNamespace" attribute of the schema. 
+            If no "targetNamespace" is declared in the schema, a package named "generated" will be used by default.</val>
+   </key>
+   <key value="Batch_converter_action_tooltip">
+      <comment>Batch Converter action tooltip.</comment>
+      <comment>
+         <val lang="en_US">Batch convert MS Word, MS Excel, HTML, JSON, Confluence, DocBook, and Markdown documents to DITA, DocBook, XHTML, or XML.</val>
+      </comment>
+      <val lang="zh_CN">Batch convert MS Word, MS Excel, HTML, JSON, Confluence, DocBook, and Markdown documents to DITA, DocBook, XHTML, or XML.</val>
+   </key>
+   <key value="Close_current_tab">
+      <comment>Action to close the current selected results tab (there is a Results view with various tabs presenting
+        find replace matches, validation errors and so on).</comment>
+      <comment>
+         <val lang="en_US">Close Current Tab</val>
+      </comment>
+      <val lang="zh_CN">Close Current Tab</val>
+   </key>
+   <key value="Package_name" distribution="common">
+      <comment>Name of text label denoting the field for choosing the package (Java Classes Generator).</comment>
+      <comment>
+         <val lang="en_US">Package name</val>
+      </comment>
+      <val lang="zh_CN">Package name</val>
+   </key>
+   <key value="Generate_Java_classes_from_XML_Schema_(XSD)"
+        distribution="common">
+      <comment>The name of add-on action used for generating Java classes from XSD.</comment>
+      <comment>
+         <val lang="en_US">Generate Java classes from XML Schema (XSD)</val>
+      </comment>
+      <val lang="zh_CN">Generate Java classes from XML Schema (XSD)</val>
+   </key>
+   <key value="New_dita_map">
+      <comment>"New DITA Map" action.</comment>
+      <comment>
+         <val lang="en_US">New DITA Map</val>
+      </comment>
+      <val lang="zh_CN">New DITA Map</val>
+   </key>
+   <key value="External_action_editing_hint">
+      <comment>Message presented when an external action is being edited but 
+            the document type is internal (saved inside Oxygen's options).</comment>
+      <comment>
+         <val lang="en_US">You must change the storage option for this document type to 'External' before editing an external action.</val>
+      </comment>
+      <val lang="zh_CN">You must change the storage option for this document type to 'External' before editing an external action.</val>
+   </key>
+   <key value="Modifier_click_to_open_url">
+      <comment>Tooltip for opening links.</comment>
+      <comment>
+         <val lang="en_US">{0}+click to open: {1}</val>
+      </comment>
+      <val lang="zh_CN">{0}+click to open: {1}</val>
+   </key>
+   <key value="Click_to_open_url">
+      <comment>Tooltip for opening links</comment>
+      <comment>
+         <val lang="en_US">Click to open: {0}</val>
+      </comment>
+      <val lang="zh_CN">Click to open: {0}</val>
+   </key>
+   <key value="External_action_description">
+      <comment>A description/tooltip that explains what an eternal action is.</comment>
+      <comment>
+         <val lang="en_US">External action saved in: {0}</val>
+      </comment>
+      <val lang="zh_CN">External action saved in: {0}</val>
+   </key>
+   <key value="Actions_already_external">
+      <comment>Message encountered while exporting an author action to a file. 
+            The selected actions are already external.</comment>
+      <comment>
+         <val lang="en_US">The selected actions are already stored externally. They were loaded from the local file system.</val>
+      </comment>
+      <val lang="zh_CN">The selected actions are already stored externally. They were loaded from the local file system.</val>
+   </key>
+   <key value="External_author_action_internal_dt">
+      <comment>Message encountered while exporting an author action to a file. 
+            We need an external document type to save the author actions to a predefined location.</comment>
+      <comment>
+         <val lang="en_US">You must change the storage option for this document type to 'External' before exporting actions.</val>
+      </comment>
+      <val lang="zh_CN">You must change the storage option for this document type to 'External' before exporting actions.</val>
+   </key>
+   <key value="External_author_action_export_notice">
+      <comment>Message encountered while exporting an author action to a file. 
+            It tells the user the location where the actions were exported to.</comment>
+      <comment>
+         <val lang="en_US">The selected actions will be exported to: {0}</val>
+      </comment>
+      <val lang="zh_CN">The selected actions will be exported to: {0}</val>
+   </key>
+   <key value="External_action_incorrect_export_location">
+      <comment>Message encountered while exporting an author action to a file. 
+            The file path is outside the predefined directory where all such 
+            action should be stored.</comment>
+      <comment>
+         <val lang="en_US">External actions must be saved inside: {0}</val>
+      </comment>
+      <val lang="zh_CN">External actions must be saved inside: {0}</val>
+   </key>
+   <key value="DITA_references_view">
+      <comment>"DITA References View" add-on name.</comment>
+      <comment>
+         <val lang="en_US">DITA References View</val>
+      </comment>
+      <val lang="zh_CN">DITA References View</val>
+   </key>
+   <key value="DITA_references">
+      <comment>"DITA References" side-view name.</comment>
+      <comment>
+         <val lang="en_US">DITA References</val>
+      </comment>
+      <val lang="zh_CN">DITA References</val>
+   </key>
+   <key value="Converting_HTML_to_XML_Well_Formed">
+      <comment>Text label used while monitoring the progress of 'HTML to XML Well-formed' action.</comment>
+      <comment>
+         <val lang="en_US">Converting HTML to XML well-formed...</val>
+      </comment>
+      <val lang="zh_CN">Converting HTML to XML well-formed...</val>
+   </key>
+   <key value="HTML_to_XML_Well_Formed" distribution="common">
+      <comment>Name of the 'HTML_to_XML_Well_Formed' action.</comment>
+      <comment>
+         <val lang="en_US">HTML to XML Well-formed</val>
+      </comment>
+      <val lang="zh_CN">HTML to XML Well-formed</val>
+   </key>
+   <key value="Install_specific_plugin_title">
+      <comment>Title of the dialog that asks the users if they want to install a specific add-on.</comment>
+      <comment>
+         <val lang="en_US">Install {0}</val>
+      </comment>
+      <val lang="zh_CN">Install {0}</val>
+   </key>
+   <key value="Install_specific_plugin_message">
+      <comment>Message for the dialog that asks the users if they want to install a specific plugin
+            that is required by a certain action.</comment>
+      <comment>
+         <val lang="en_US">This action requires the "{0}" add-on to be installed.</val>
+      </comment>
+      <val lang="zh_CN">This action requires the "{0}" add-on to be installed.</val>
+   </key>
+   <key value="Install_specific_plugin_question">
+      <comment>Message for the dialog that asks the users if they want to install a specific plugin
+            that is required by a certain action.</comment>
+      <comment>
+         <val lang="en_US">Do you want to install it now?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to install it now?</val>
+   </key>
+   <key value="Git_client">
+      <comment>Git Client label</comment>
+      <comment>
+         <val lang="en_US">Git Client</val>
+      </comment>
+      <val lang="zh_CN">Git Client</val>
+   </key>
+   <key value="Git_staging">
+      <comment>Git Staging label</comment>
+      <comment>
+         <val lang="en_US">Git Staging</val>
+      </comment>
+      <val lang="zh_CN">Git Staging</val>
+   </key>
+   <key value="Allow_save_transformation_scenario_associations_at_project_level">
+      <comment>Option from "Project Level Settings" page. Used to decide where to save the transformation scenario
+            associations.</comment>
+      <comment>
+         <val lang="en_US">Allow transformation scenario associations to be saved at project level</val>
+      </comment>
+      <val lang="zh_CN">Allow transformation scenario associations to be saved at project level</val>
+   </key>
+   <key value="Allow_save_validation_scenario_associations_at_project_level">
+      <comment>Option from "Project Level Settings" page. Used to decide where to save the validation scenario
+            associations.</comment>
+      <comment>
+         <val lang="en_US">Allow validation scenario associations to be saved at project level</val>
+      </comment>
+      <val lang="zh_CN">Allow validation scenario associations to be saved at project level</val>
+   </key>
+   <key value="feedback_tab_install_plugin_description">
+      <comment>Label message to inform the user that the Oxygen Feedback plugin can be used/installed to integrate the feedback.</comment>
+      <comment>
+         <val lang="en_US">You can see all the comments directly in Oxygen by using the {0} view.</val>
+      </comment>
+      <val lang="zh_CN">You can see all the comments directly in Oxygen by using the {0} view.</val>
+   </key>
+   <key value="Use_replace_element_name">
+      <comment>Option in edit content completion entry dialog to use the replace element name as display name for the item. </comment>
+      <comment>
+         <val lang="en_US">Use replaced element name</val>
+      </comment>
+      <val lang="zh_CN">Use replaced element name</val>
+   </key>
+   <key value="feedback_plugin_install_description">
+      <comment>Label from Feedback panel (Webhelp responsive scenario) when Oxygen Feedback Connector plugin is not installed.</comment>
+      <comment>
+         <val lang="en_US">An add-on is available that contributes a {0} view where you can see all the comments directly in Oxygen.</val>
+      </comment>
+      <val lang="zh_CN">An add-on is available that contributes a {0} view where you can see all the comments directly in Oxygen.</val>
+   </key>
+   <key value="Press_button_to_set_html_fragment">
+      <comment>Info label about the Oxygen Feedback initialization HTML fragment.</comment>
+      <comment>
+         <val lang="en_US">Click the ''{0}'' button and paste the generated HTML fragment.</val>
+      </comment>
+      <val lang="zh_CN">Click the ''{0}'' button and paste the generated HTML fragment.</val>
+   </key>
+   <key value="Feedback_html_fragment">
+      <comment>Label for the Oxygen Feedback initialization HTML fragment.</comment>
+      <comment>
+         <val lang="en_US">{0} HTML fragment</val>
+      </comment>
+      <val lang="zh_CN">{0} HTML fragment</val>
+   </key>
+   <key value="feedback_site_configuration">
+      <comment>Label that informs the user about how a site can be configured to have feedback attached.</comment>
+      <comment>
+         <val lang="en_US">{0} site configuration</val>
+      </comment>
+      <val lang="zh_CN">{0} site configuration</val>
+   </key>
+   <key value="Connect_webhelp_to_oxygen_feedback_description">
+      <comment>Label that informs the user about the posibility of embedding Oxygen Feedback in the WebHelp Responsive
+            output.</comment>
+      <comment>
+         <val lang="en_US">You can integrate {0} with your {1} output to provide a comments area at the bottom of each 
+        page where readers can offer feedback.</val>
+      </comment>
+      <val lang="zh_CN">You can integrate {0} with your {1} output to provide a comments area at the bottom of each 
+        page where readers can offer feedback.</val>
+   </key>
+   <key value="How_to_embed_oxygen_feedback">
+      <comment>Label that tells the user where he can obtain an Oxygen Feedback initialization HTML
+            fragment.</comment>
+      <comment>
+         <val lang="en_US">When you create an {0}, an HTML fragment is generated during the final step 
+        of the creation process.</val>
+      </comment>
+      <val lang="zh_CN">When you create an {0}, an HTML fragment is generated during the final step 
+        of the creation process.</val>
+   </key>
+   <key value="Avoid_pos_between_blocks_after_del" distribution="common">
+      <comment>Label for check-box used to enable a feature. When activated, the cursor from 
+          the document will avoid positions between block elements after a delete is performed</comment>
+      <comment>
+         <val lang="en_US">Avoid positioning the cursor between blocks after a deletion</val>
+      </comment>
+      <val lang="zh_CN">Avoid positioning the cursor between blocks after a deletion</val>
+   </key>
+   <key distribution="webauthor" value="trusted_code_description">
+      <comment>Connections contributed by plugins warning</comment>
+      <comment>
+         <val lang="en_US">Code (such as CSS or Schematron) is executed only when it is identified as trusted. You can mark code as trusted by adding its location above.</val>
+      </comment>
+      <val lang="zh_CN">Code (such as CSS or Schematron) is executed only when it is identified as trusted. You can mark code as trusted by adding its location above.</val>
+   </key>
+   <key distribution="webauthor" value="plugin_contributed_connections_warning">
+      <comment>Connections contributed by plugins warning</comment>
+      <comment>
+         <val lang="en_US">Plugins can define whether a connection is allowed or denied, regardless of these settings.</val>
+      </comment>
+      <val lang="zh_CN">Plugins can define whether a connection is allowed or denied, regardless of these settings.</val>
+   </key>
+   <key distribution="webauthor"
+        value="only_allow_connections_to_trusted_hosts">
+      <comment>Label for the only allow connections to these trusted hosts firewall option</comment>
+      <comment>
+         <val lang="en_US">Only allow connections to these trusted hosts</val>
+      </comment>
+      <val lang="zh_CN">Only allow connections to these trusted hosts</val>
+   </key>
+   <key distribution="webauthor" value="log_each_connection_with_explanation">
+      <comment>Label for the allow and log all connections firewall option</comment>
+      <comment>
+         <val lang="en_US">Log each connection (useful for monitoring or troubleshooting)</val>
+      </comment>
+      <val lang="zh_CN">Log each connection (useful for monitoring or troubleshooting)</val>
+   </key>
+   <key distribution="webauthor" value="allow_all_connections">
+      <comment>Label for the allow all connections firewall option</comment>
+      <comment>
+         <val lang="en_US">Allow All Connections</val>
+      </comment>
+      <val lang="zh_CN">Allow All Connections</val>
+   </key>
+   <key distribution="webauthor" value="Accept_security_certificates">
+      <comment>Label for the option to accept https certificates automatically</comment>
+      <comment>
+         <val lang="en_US">Automatically accept security certificates, even if invalid</val>
+      </comment>
+      <val lang="zh_CN">Automatically accept security certificates, even if invalid</val>
+   </key>
+   <key distribution="webauthor" value="firewall">
+      <comment>Connections Firewall confiruration section header.</comment>
+      <comment>
+         <val lang="en_US">Firewall</val>
+      </comment>
+      <val lang="zh_CN">Firewall</val>
+   </key>
+   <key distribution="webauthor" value="trusted_code_locations">
+      <comment>trusted code file locations security configuration.</comment>
+      <comment>
+         <val lang="en_US">Trusted code locations</val>
+      </comment>
+      <val lang="zh_CN">Trusted code locations</val>
+   </key>
+   <key distribution="webauthor" value="trusted_code">
+      <comment>Section title for trusted code security configuration.</comment>
+      <comment>
+         <val lang="en_US">Trusted Code</val>
+      </comment>
+      <val lang="zh_CN">Trusted Code</val>
+   </key>
+   <key distribution="webauthor" value="trusted_resources">
+      <comment>Section title for the trusted resources security configuration.</comment>
+      <comment>
+         <val lang="en_US">Trusted Resources</val>
+      </comment>
+      <val lang="zh_CN">Trusted Resources</val>
+   </key>
+   <key value="show_feedback_comments_manager">
+      <comment>Name of the action that shows the "Feedback Comments Manager" view. "Feedback Comments Manager" should not be translated.</comment>
+      <comment>
+         <val lang="en_US">Show Feedback Comments Manager</val>
+      </comment>
+      <val lang="zh_CN">Show Feedback Comments Manager</val>
+   </key>
+   <key value="Replacement_for">
+      <comment>Label for a field that specifies the element to be replaced by an action.</comment>
+      <comment>
+         <val lang="en_US">Replacement for</val>
+      </comment>
+      <val lang="zh_CN">Replacement for</val>
+   </key>
+   <key value="security">
+      <comment>Title of a security-related dialog</comment>
+      <comment>
+         <val lang="en_US">Security</val>
+      </comment>
+      <val lang="zh_CN">Security</val>
+   </key>
+   <key value="connection_to_trusted_host_allowed">
+      <comment>Message displayed when a connection to an trusted host is allowed.</comment>
+      <comment>
+         <val lang="en_US">Connection to {0} was allowed because it was configured as a trusted host.</val>
+      </comment>
+      <val lang="zh_CN">Connection to {0} was allowed because it was configured as a trusted host.</val>
+   </key>
+   <key value="connection_to_host_was_allowed_because">
+      <comment>Connection to url was allowed by plugin message.</comment>
+      <comment>
+         <val lang="en_US">Connection to {0} was allowed because of: {1}.</val>
+      </comment>
+      <val lang="zh_CN">Connection to {0} was allowed because of: {1}.</val>
+   </key>
+   <key value="connection_to_host_was_allowed_by_because">
+      <comment>Connection to url was allowed by plugin message.</comment>
+      <comment>
+         <val lang="en_US">Connection to {0} was allowed by {1} because of: {2}.</val>
+      </comment>
+      <val lang="zh_CN">Connection to {0} was allowed by {1} because of: {2}.</val>
+   </key>
+   <key value="connection_to_host_was_allowed_by">
+      <comment>Connection to url was allowed by plugin message.</comment>
+      <comment>
+         <val lang="en_US">Connection to {0} was allowed by {1}.</val>
+      </comment>
+      <val lang="zh_CN">Connection to {0} was allowed by {1}.</val>
+   </key>
+   <key value="connection_to_host_was_blocked_because">
+      <comment>Connection to url was blocked by plugin message.</comment>
+      <comment>
+         <val lang="en_US">Connection to {0} was blocked because of: {1}.</val>
+      </comment>
+      <val lang="zh_CN">Connection to {0} was blocked because of: {1}.</val>
+   </key>
+   <key value="connection_to_host_was_blocked_by_because">
+      <comment>Connection to url was blocked by plugin message.</comment>
+      <comment>
+         <val lang="en_US">Connection to {0} was blocked by {1} because of: {2}.</val>
+      </comment>
+      <val lang="zh_CN">Connection to {0} was blocked by {1} because of: {2}.</val>
+   </key>
+   <key value="connection_to_host_was_blocked_by">
+      <comment>Connection to url was blocked by plugin message.</comment>
+      <comment>
+         <val lang="en_US">Connection to {0} was blocked by {1}.</val>
+      </comment>
+      <val lang="zh_CN">Connection to {0} was blocked by {1}.</val>
+   </key>
+   <key value="thread_creation_rejected">
+      <comment>Message displayed when an attempt to create a thread was rejected by the user.</comment>
+      <comment>
+         <val lang="en_US">Code execution thread was not allowed to run.</val>
+      </comment>
+      <val lang="zh_CN">Code execution thread was not allowed to run.</val>
+   </key>
+   <key value="thread_creation_blocked">
+      <comment>Message displayed when an attempt to create a thread was blocked for security reasons.</comment>
+      <comment>
+         <val lang="en_US">For security reasons, code execution thread was not allowed to run.</val>
+      </comment>
+      <val lang="zh_CN">For security reasons, code execution thread was not allowed to run.</val>
+   </key>
+   <key value="connection_rejected">
+      <comment>Message displayed when a connection was rejected by the user.</comment>
+      <comment>
+         <val lang="en_US">Connection to {0} was denied.</val>
+      </comment>
+      <val lang="zh_CN">Connection to {0} was denied.</val>
+   </key>
+   <key value="writing_to_file_rejected">
+      <comment>Message displayed after writing to a file was rejected by the user.</comment>
+      <comment>
+         <val lang="en_US">Writing to file {0} was denied.</val>
+      </comment>
+      <val lang="zh_CN">Writing to file {0} was denied.</val>
+   </key>
+   <key value="connections_defined_in_data_sources_are_trusted">
+      <comment>Label message to inform the user that connection defined in Data Sources are trusted.</comment>
+      <comment>
+         <val lang="en_US">Connections defined in the Data Sources preferences page or accepted by add-ons are also considered trusted.</val>
+      </comment>
+      <val lang="zh_CN">Connections defined in the Data Sources preferences page or accepted by add-ons are also considered trusted.</val>
+   </key>
+   <key value="connection_to_untrusted_host_blocked">
+      <comment>Message displayed when a connection to an untrusted host is blocked.</comment>
+      <comment>
+         <val lang="en_US">Connection to {0} was blocked because it is not configured as a trusted host.</val>
+      </comment>
+      <val lang="zh_CN">Connection to {0} was blocked because it is not configured as a trusted host.</val>
+   </key>
+   <key value="writing_to_file_blocked_for_security_reasons">
+      <comment>Message displayed when writing to a file was blocked for security reasons.</comment>
+      <comment>
+         <val lang="en_US">Writing to file {0} was blocked for security reasons.</val>
+      </comment>
+      <val lang="zh_CN">Writing to file {0} was blocked for security reasons.</val>
+   </key>
+   <key distribution="webauthor" value="one_per_line">
+      <comment>Short explanation appended after a label.</comment>
+      <comment>
+         <val lang="en_US">(one per line):</val>
+      </comment>
+      <val lang="zh_CN">(one per line):</val>
+   </key>
+   <key distribution="webauthor" value="trusted_css_urls_referenced">
+      <comment>Label denoting the trusted CSS URLs referrenced from documents.</comment>
+      <comment>
+         <val lang="en_US">Trusted CSS locations</val>
+      </comment>
+      <val lang="zh_CN">Trusted CSS locations</val>
+   </key>
+   <key distribution="webauthor" value="log">
+      <comment>Option value to log access</comment>
+      <comment>
+         <val lang="en_US">Log</val>
+      </comment>
+      <val lang="zh_CN">Log</val>
+   </key>
+   <key value="deny">
+      <comment>Option value to block access</comment>
+      <comment>
+         <val lang="en_US">Deny</val>
+      </comment>
+      <val lang="zh_CN">Deny</val>
+   </key>
+   <key distribution="webauthor" value="auto">
+      <comment>Option name to choose something automatically depending on context.</comment>
+      <comment>
+         <val lang="en_US">Auto</val>
+      </comment>
+      <val lang="zh_CN">Auto</val>
+   </key>
+   <key value="trusted_hosts_lowercase" distribution="webauthor">
+      <comment>The hosts that the user trust and allows Oxygen to connect to.</comment>
+      <comment>
+         <val lang="en_US">Trusted hosts</val>
+      </comment>
+      <val lang="zh_CN">Trusted hosts</val>
+   </key>
+   <key distribution="webauthor" value="untrusted_hosts_connection_behavior">
+      <comment>Untrusted host connection behavior option</comment>
+      <comment>
+         <val lang="en_US">Untrusted host connection behavior</val>
+      </comment>
+      <val lang="zh_CN">Untrusted host connection behavior</val>
+   </key>
+   <key distribution="webauthor" value="auto_untrusted_hosts_description">
+      <comment>automatically choose untrusted hosts behavior.</comment>
+      <comment>
+         <val lang="en_US">Connections are allowed only if the code used for the connection is trusted</val>
+      </comment>
+      <val lang="zh_CN">Connections are allowed only if the code used for the connection is trusted</val>
+   </key>
+   <key distribution="webauthor" value="deny_untrusted_hosts_description">
+      <comment>block untrusted hosts option description.</comment>
+      <comment>
+         <val lang="en_US">Connections to untrusted hosts are blocked</val>
+      </comment>
+      <val lang="zh_CN">Connections to untrusted hosts are blocked</val>
+   </key>
+   <key distribution="webauthor" value="log_untrusted_hosts_description">
+      <comment>Log untrusted hosts option description.</comment>
+      <comment>
+         <val lang="en_US">Connections are allowed and the name of the host will appear in the logs</val>
+      </comment>
+      <val lang="zh_CN">Connections are allowed and the name of the host will appear in the logs</val>
+   </key>
+   <key value="Use_action_name">
+      <comment>Option in edit content completion entry dialog to use the action name as display name for the item.</comment>
+      <comment>
+         <val lang="en_US">Use action name</val>
+      </comment>
+      <val lang="zh_CN">Use action name</val>
+   </key>
+   <key value="Content_completion_entry">
+      <comment>Title for edit content completion entry dialog</comment>
+      <comment>
+         <val lang="en_US">Content Completion Item</val>
+      </comment>
+      <val lang="zh_CN">Content Completion Item</val>
+   </key>
+   <key value="Contribute_action_to">
+      <comment>Category label for 3 checkboxes used to contribute Author actions to 3 different places (see
+            below).</comment>
+      <comment>
+         <val lang="en_US">Contribute to</val>
+      </comment>
+      <val lang="zh_CN">Contribute to</val>
+   </key>
+   <key value="Use_when_element_allowed" distribution="common">
+      <comment>Option to use an action instead of an element only when the element is allowed at caret. </comment>
+      <comment>
+         <val lang="en_US">Display item only when element is allowed at cursor </val>
+      </comment>
+      <val lang="zh_CN">Display item only when element is allowed at cursor </val>
+   </key>
+   <key value="Function_not_allowed_in_internal_css">
+      <comment>A CSS function not allowed inside the internal CSS for security reasons.</comment>
+      <comment>
+         <val lang="en_US">The {0} function encountered in an internal CSS is not loaded because of security concerns.
+            Please use it in an external CSS.</val>
+      </comment>
+      <val lang="zh_CN">The {0} function encountered in an internal CSS is not loaded because of security concerns.
+            Please use it in an external CSS.</val>
+   </key>
+   <key value="Hide_all_toolbars">
+      <comment>Name of the action that hides all toolbars.</comment>
+      <comment>
+         <val lang="en_US">Hide all toolbars</val>
+      </comment>
+      <val lang="zh_CN">Hide all toolbars</val>
+   </key>
+   <key value="Run_in_Background">
+      <comment>Button which when pressed runs an action which takes a long time in the background without blocking the
+            user's interface.</comment>
+      <comment>
+         <val lang="en_US">Run in Background</val>
+      </comment>
+      <val lang="zh_CN">Run in Background</val>
+   </key>
+   <key value="Decide_whether_various_settings_should_be_saved">
+      <comment>Message that describe 'Project Settings Level' preferences page.</comment>
+      <comment>
+         <val lang="en_US">Decide whether various settings should be saved in the project configuration file or in the
+            global settings.</val>
+      </comment>
+      <val lang="zh_CN">Decide whether various settings should be saved in the project configuration file or in the
+            global settings.</val>
+   </key>
+   <key value="Save_check_for_completeness_settings_at_project_level">
+      <comment>Option from "Project Level Settings" page. Used to decide where to save the settings from the validate
+            and check for completeness.</comment>
+      <comment>
+         <val lang="en_US">Save DITA map validate and check for completeness settings at project level</val>
+      </comment>
+      <val lang="zh_CN">Save DITA map validate and check for completeness settings at project level</val>
+   </key>
+   <key value="Error_parsing_ask_variable_values">
+      <comment>Error message shown when an editor variable could not be expanded due to a syntax error.</comment>
+      <comment>
+         <val lang="en_US">An error occurred while expanding the possible values of the ''{0}'' editor variable, at line
+            {1}, column {2}. Please check the syntax of the possible values: ''{3}''.</val>
+      </comment>
+      <val lang="zh_CN">An error occurred while expanding the possible values of the ''{0}'' editor variable, at line
+            {1}, column {2}. Please check the syntax of the possible values: ''{3}''.</val>
+   </key>
+   <key value="Project_level_settings">
+      <comment>Title of a option page used to select what options are saved at project level.</comment>
+      <comment>
+         <val lang="en_US">Project Level Settings</val>
+      </comment>
+      <val lang="zh_CN">Project Level Settings</val>
+   </key>
+   <key value="Save_current_root_map_at_project_level">
+      <comment>Option to choose if the selected DITA root map will be saved at project option level.</comment>
+      <comment>
+         <val lang="en_US">Save current DITA root map at project level</val>
+      </comment>
+      <val lang="zh_CN">Save current DITA root map at project level</val>
+   </key>
+   <key value="Save_media_working_sets_at_project_level">
+      <comment>Option to select if the media working sets will be saved at project option level.</comment>
+      <comment>
+         <val lang="en_US">Save DITA media working sets at project level</val>
+      </comment>
+      <val lang="zh_CN">Save DITA media working sets at project level</val>
+   </key>
+   <key value="Editor_variable_not_expanded_in_css_message">
+      <comment>Error message presented when a particular editor variable is encountered inside the CSS used to render
+            the author mode. Some editor variables are not expanded.</comment>
+      <comment>
+         <val lang="en_US">The {0} editor variable is not expanded inside CSS rules. Use the {1} CSS function
+            instead.</val>
+      </comment>
+      <val lang="zh_CN">The {0} editor variable is not expanded inside CSS rules. Use the {1} CSS function
+            instead.</val>
+   </key>
+   <key value="Revert_structure_autocorrect">
+      <comment>Label for the action which reverts an automatic correction of text into markup, for example "* "
+            automatic conversion to a bulleted list.</comment>
+      <comment>
+         <val lang="en_US">Revert automatic conversion</val>
+      </comment>
+      <val lang="zh_CN">Revert automatic conversion</val>
+   </key>
+   <key value="Form_control_was_not_loaded_not_safe_location">
+      <comment>Error message. Warns the user that CSS form control was not loaded because the CSS source file is not
+            safe.</comment>
+      <comment>
+         <val lang="en_US">The form control was not loaded because the location of its source CSS file is not considered
+            safe. For example, the frameworks and plugins folders inside the Oxygen installation directory are
+            considered safe locations.</val>
+      </comment>
+      <val lang="zh_CN">The form control was not loaded because the location of its source CSS file is not considered
+            safe. For example, the frameworks and plugins folders inside the Oxygen installation directory are
+            considered safe locations.</val>
+   </key>
+   <key value="CSS_form_controls_not_allowed_in_style_elements">
+      <comment>Error message. Warns the user that CSS form controls are not allowed in HTML style elements.</comment>
+      <comment>
+         <val lang="en_US">CSS form controls are not allowed in HTML "style" elements.</val>
+      </comment>
+      <val lang="zh_CN">CSS form controls are not allowed in HTML "style" elements.</val>
+   </key>
+   <key value="Enable_sys_param_entities_expansion_in_other_entities">
+      <comment>Checkbox in the XML Parser options dialog.</comment>
+      <comment>
+         <val lang="en_US">Enable system parameter entity expansion in other entity definitions</val>
+      </comment>
+      <val lang="zh_CN">Enable system parameter entity expansion in other entity definitions</val>
+   </key>
+   <key value="Include_text_to_markup_corrections">
+      <comment>Text for AutoCorrect option.</comment>
+      <comment>
+         <val lang="en_US">Include text-to-markup corrections based on the current document type</val>
+      </comment>
+      <val lang="zh_CN">Include text-to-markup corrections based on the current document type</val>
+   </key>
+   <key value="Show_context_toolbar">
+      <comment>Action name that shows/hides the context toolbar on DITA Maps Manager view.</comment>
+      <comment>
+         <val lang="en_US">Show context toolbar</val>
+      </comment>
+      <val lang="zh_CN">Show context toolbar</val>
+   </key>
+   <key value="Reusable_components_hint_no_elems_matching_search_criteria">
+      <comment>Message presented when there are no elements matching a specific search criteria.</comment>
+      <comment>
+         <val lang="en_US">No reusable components were found that match the search criteria.</val>
+      </comment>
+      <val lang="zh_CN">No reusable components were found that match the search criteria.</val>
+   </key>
+   <key value="Dita_ot_project" skipTranslation="true">
+      <comment>DITA-OT Project resource</comment>
+      <comment>
+         <val lang="en_US">DITA-OT Project</val>
+      </comment>
+      <val lang="zh_CN">DITA-OT Project</val>
+   </key>
+   <key distribution="webauthor" value="HIDE_">
+      <comment>Tooltip for button hiding UI component</comment>
+      <comment>
+         <val lang="en_US">Hide</val>
+      </comment>
+      <val lang="zh_CN">Hide</val>
+   </key>
+   <key value="You_can_perform_search_references_on_DITA">
+      <comment>Information message for XML refactory actions.</comment>
+      <comment>
+         <val lang="en_US">You can perform this operation on an ID attribute value or on references to element IDs.</val>
+      </comment>
+      <val lang="zh_CN">You can perform this operation on an ID attribute value or on references to element IDs.</val>
+   </key>
+   <key distribution="webauthor" value="COMMENT_CANNOT_BE_INSERTED_">
+      <comment>Error displayed to the user when a comment cannot be inserted at the current selection</comment>
+      <comment>
+         <val lang="en_US">Comment cannot be inserted</val>
+      </comment>
+      <val lang="zh_CN">Comment cannot be inserted</val>
+   </key>
+   <key distribution="webauthor" value="INVALID_LOCATION_">
+      <comment>Title for dialog error message when an operation cannot be performed for the specified
+            location.</comment>
+      <comment>
+         <val lang="en_US">Invalid location</val>
+      </comment>
+      <val lang="zh_CN">Invalid location</val>
+   </key>
+   <key value="Filter_by_element_type">
+      <comment>Hint message on a filter field</comment>
+      <comment>
+         <val lang="en_US">Filter by element type</val>
+      </comment>
+      <val lang="zh_CN">Filter by element type</val>
+   </key>
+   <key value="Filter_by_source_file">
+      <comment>Hint message on a filter field</comment>
+      <comment>
+         <val lang="en_US">Filter by source file</val>
+      </comment>
+      <val lang="zh_CN">Filter by source file</val>
+   </key>
+   <key value="DITA" skipTranslation="true">
+      <comment>DITA. Skip translation.</comment>
+      <comment>
+         <val lang="en_US">DITA</val>
+      </comment>
+      <val lang="zh_CN">DITA</val>
+   </key>
+   <key value="Html_doc_not_xml_wellformed_message">
+      <comment>Warning message presented when an HTML document that is not XML wellformed is opened in the Author
+            page.</comment>
+      <comment>
+         <val lang="en_US">The HTML document is not XML well-formed. If it is modified, Oxygen will automatically convert
+            it to a proper XML structure.</val>
+      </comment>
+      <val lang="zh_CN">The HTML document is not XML well-formed. If it is modified, Oxygen will automatically convert
+            it to a proper XML structure.</val>
+   </key>
+   <key value="Check_oxygen_events_at_startup">
+      <comment>Options from Preferences/Global dialog.</comment>
+      <comment>
+         <val lang="en_US">Check for Oxygen-related events at startup</val>
+      </comment>
+      <val lang="zh_CN">Check for Oxygen-related events at startup</val>
+   </key>
+   <key value="Custom_dita_ot_disable_certain_features">
+      <comment>Warning message from Preferences/DITA dialog.</comment>
+      <comment>
+         <val lang="en_US">Using a custom DITA Open Toolkit may disable certain features.</val>
+      </comment>
+      <val lang="zh_CN">Using a custom DITA Open Toolkit may disable certain features.</val>
+   </key>
+   <key value="Show_only_allowed_items">
+      <comment>Name of an option from Preferences/Views dialog that allows the user to show only the allowed items
+            within Elements view.</comment>
+      <comment>
+         <val lang="en_US">Show only allowed items</val>
+      </comment>
+      <val lang="zh_CN">Show only allowed items</val>
+   </key>
+   <key value="Restrict_additional_content" distribution="common">
+      <comment>(JSON Schema generator)</comment>
+      <comment>
+         <val lang="en_US">Restrict additional content</val>
+      </comment>
+      <val lang="zh_CN">Restrict additional content</val>
+   </key>
+   <key value="Extract_matching_format_for_strings" distribution="common">
+      <comment>(JSON Schema generator)</comment>
+      <comment>
+         <val lang="en_US">Extract matching format for strings</val>
+      </comment>
+      <val lang="zh_CN">Extract matching format for strings</val>
+   </key>
+   <key value="Add_default_values_for_simple_types" distribution="common">
+      <comment>(JSON Schema generator)</comment>
+      <comment>
+         <val lang="en_US">Add default values for simple types</val>
+      </comment>
+      <val lang="zh_CN">Add default values for simple types</val>
+   </key>
+   <key value="XML_URL" distribution="common">
+      <comment>(XML to JSON converter)</comment>
+      <comment>
+         <val lang="en_US">XML URL</val>
+      </comment>
+      <val lang="zh_CN">XML URL</val>
+   </key>
+   <key value="JSON_URL" distribution="common">
+      <comment>(JSON to XML converter)</comment>
+      <comment>
+         <val lang="en_US">JSON URL</val>
+      </comment>
+      <val lang="zh_CN">JSON URL</val>
+   </key>
+   <key value="XSD_URL" distribution="common">
+      <comment>(XSD to JSON Schema converter)</comment>
+      <comment>
+         <val lang="en_US">XSD URL</val>
+      </comment>
+      <val lang="zh_CN">XSD URL</val>
+   </key>
+   <key value="Generate_required_content" distribution="common">
+      <comment>Name of an option in content completion option pane(s).</comment>
+      <comment>
+         <val lang="en_US">Generate required content</val>
+      </comment>
+      <val lang="zh_CN">Generate required content</val>
+   </key>
+   <key value="JSON_Schema_URL" distribution="common">
+      <comment>(JSON Instance generator)</comment>
+      <comment>
+         <val lang="en_US">JSON Schema URL</val>
+      </comment>
+      <val lang="zh_CN">JSON Schema URL</val>
+   </key>
+   <key value="Output_JSON_Schema" distribution="common">
+      <comment>(JSON Schema generator)</comment>
+      <comment>
+         <val lang="en_US">Output JSON Schema</val>
+      </comment>
+      <val lang="zh_CN">Output JSON Schema</val>
+   </key>
+   <key value="JSON_Document_URL" distribution="common">
+      <comment>(JSON Schema generator)</comment>
+      <comment>
+         <val lang="en_US">JSON Document URL</val>
+      </comment>
+      <val lang="zh_CN">JSON Document URL</val>
+   </key>
+   <key value="Generate_JSON_Schema_eclipse" distribution="eclipse">
+      <comment>JSON Schema generator (eclipse).</comment>
+      <comment>
+         <val lang="en_US">Generate JSON Schema...</val>
+      </comment>
+      <val lang="zh_CN">Generate JSON Schema...</val>
+   </key>
+   <key value="Generate_JSON_Schema" distribution="common">
+      <comment>The action for generating JSON Schema from JSON document.</comment>
+      <comment>
+         <val lang="en_US">Generate JSON Schema</val>
+      </comment>
+      <val lang="zh_CN">Generate JSON Schema</val>
+   </key>
+   <key value="JSON_Tools" distribution="common">
+      <comment>Label for JSON actions.</comment>
+      <comment>
+         <val lang="en_US">JSON Tools</val>
+      </comment>
+      <val lang="zh_CN">JSON Tools</val>
+   </key>
+   <key value="No_permission_to_save_at" distribution="common">
+      <comment>The user doesn't have permission to save at a location.</comment>
+      <comment>
+         <val lang="en_US">You don''t have permission to save in the location: ''{0}''.</val>
+      </comment>
+      <val lang="zh_CN">You don''t have permission to save in the location: ''{0}''.</val>
+   </key>
+   <key value="Edit_option_in_transformation_scenario" distribution="common">
+      <comment>Error message when a option from the transformation scenario is not correct.</comment>
+      <comment>
+         <val lang="en_US">Please edit the ''{0}'' option in the transformation scenario.</val>
+      </comment>
+      <val lang="zh_CN">Please edit the ''{0}'' option in the transformation scenario.</val>
+   </key>
+   <key value="Minify_HTML" distribution="common">
+      <comment>Description of the Minify HTML action</comment>
+      <comment>
+         <val lang="en_US">Minify HTML</val>
+      </comment>
+      <val lang="zh_CN">Minify HTML</val>
+   </key>
+   <key value="Minify_HTML_action" distribution="common">
+      <comment>Description of the Minify HTML action, followed by "..."</comment>
+      <comment>
+         <val lang="en_US">Minify HTML...</val>
+      </comment>
+      <val lang="zh_CN">Minify HTML...</val>
+   </key>
+   <key value="Minifying_HTML_resource" distribution="common">
+      <comment>Text label used while monitoring the progress of 'Minify HTML' action.</comment>
+      <comment>
+         <val lang="en_US">Minifying HTML resource...</val>
+      </comment>
+      <val lang="zh_CN">Minifying HTML resource...</val>
+   </key>
+   <key value="Compress_on_a_single_line_label" distribution="common">
+      <comment>Text label associated with an option from the 'Minify HTML' dialog.</comment>
+      <comment>
+         <val lang="en_US">Compress on a single line</val>
+      </comment>
+      <val lang="zh_CN">Compress on a single line</val>
+   </key>
+   <key value="Open_output_file_in_editor_label" distribution="common">
+      <comment>Text label associated with the option of opening a result/output file in oXygen editor.</comment>
+      <comment>
+         <val lang="en_US">Open output file in editor</val>
+      </comment>
+      <val lang="zh_CN">Open output file in editor</val>
+   </key>
+   <key value="Remove_comments_label" distribution="common">
+      <comment>Text label associated with the option of removing comments in a specific context.</comment>
+      <comment>
+         <val lang="en_US">Remove comments</val>
+      </comment>
+      <val lang="zh_CN">Remove comments</val>
+   </key>
+   <key value="Exception_while_managing_clipboard" distribution="common">
+      <comment>Message in an error dialog informing about an exception occurred while managing the
+            clipboard.</comment>
+      <comment>
+         <val lang="en_US">Exception occurred while managing the clipboard.</val>
+      </comment>
+      <val lang="zh_CN">Exception occurred while managing the clipboard.</val>
+   </key>
+   <key value="Clipboard_currently_unavailable" distribution="common">
+      <comment>Message in an error dialog informing that the clipboard is currently unavailable.</comment>
+      <comment>
+         <val lang="en_US">The clipboard is currently unavailable.</val>
+      </comment>
+      <val lang="zh_CN">The clipboard is currently unavailable.</val>
+   </key>
+   <key distribution="common" value="Error_exporting_dita_map_in_parent_dir">
+      <comment>Error message shown when there was an error exporting the DITA Map at the original location.</comment>
+      <comment>
+         <val lang="en_US">Cannot export resources to the original DITA Map folder. Please check the "Export as ZIP
+            archive" checkbox.</val>
+      </comment>
+      <val lang="zh_CN">Cannot export resources to the original DITA Map folder. Please check the "Export as ZIP
+            archive" checkbox.</val>
+   </key>
+   <key distribution="webauthor" value="Not_configured">
+      <comment>label for a not configured value.</comment>
+      <comment>
+         <val lang="en_US">Not configured</val>
+      </comment>
+      <val lang="zh_CN">Not configured</val>
+   </key>
+   <key value="Cannot_find_definition" distribution="common">
+      <comment>Generic error message displayed when a definition hyper-link fails.</comment>
+      <comment>
+         <val lang="en_US">Cannot find definition.</val>
+      </comment>
+      <val lang="zh_CN">Cannot find definition.</val>
+   </key>
+   <key value="Show_dialog_that_suggests_switching_to_DITA_persp">
+      <comment>Label for the option that decides wether to show or not the dialog suggesting to swith to the DITA
+            perspective when opening a resource from the DITA Maps Manager.</comment>
+      <comment>
+         <val lang="en_US">Show the dialog box that suggests switching to the DITA perspective</val>
+      </comment>
+      <val lang="zh_CN">Show the dialog box that suggests switching to the DITA perspective</val>
+   </key>
+   <key distribution="webauthor" value="Document_change_no_reload_label">
+      <comment>Label for option that when active the document changes will be done inplace, without full page
+            reload.</comment>
+      <comment>
+         <val lang="en_US">Change editors without page reload</val>
+      </comment>
+      <val lang="zh_CN">Change editors without page reload</val>
+   </key>
+   <key value="Encode_non_ascii_url">
+      <comment>Checkbox selected when user wants to encode non-ASCII characters in URL paths.</comment>
+      <comment>
+         <val lang="en_US">Encode non-ASCII characters in URL paths</val>
+      </comment>
+      <val lang="zh_CN">Encode non-ASCII characters in URL paths</val>
+   </key>
+   <key value="Question_switch_to_dita_perspective">
+      <comment>Question asking if the user wants to switch to the DITA perspective.</comment>
+      <comment>
+         <val lang="en_US">The DITA perspective is meant to offer a productive editing environment for those who work
+            with DITA projects. It provides a default set of side-views and toolbar actions specifically designed for
+            editing DITA content.\n\nDo you want to switch to the DITA perspective now?</val>
+      </comment>
+      <val lang="zh_CN">The DITA perspective is meant to offer a productive editing environment for those who work
+            with DITA projects. It provides a default set of side-views and toolbar actions specifically designed for
+            editing DITA content.\n\nDo you want to switch to the DITA perspective now?</val>
+   </key>
+   <key value="Maximize_editing_area">
+      <comment>Checkbox action for maximizing the editor area.(the work area with the editor tabs)</comment>
+      <comment>
+         <val lang="en_US">Maximize Editing Area</val>
+      </comment>
+      <val lang="zh_CN">Maximize Editing Area</val>
+   </key>
+   <key value="Maximize_editing_area_description">
+      <comment>Tooltip for checkbox menu item used to maximize the editing area.</comment>
+      <comment>
+         <val lang="en_US">Hides all the side views and maximizes the editing area.</val>
+      </comment>
+      <val lang="zh_CN">Hides all the side views and maximizes the editing area.</val>
+   </key>
+   <key value="schematron_validation" distribution="common">
+      <comment>Section for Schematron Validation into the Markdown option pane.</comment>
+      <comment>
+         <val lang="en_US">Schematron Validation</val>
+      </comment>
+      <val lang="zh_CN">Schematron Validation</val>
+   </key>
+   <key value="validate_converted_content" distribution="common">
+      <comment>Option from Markdown option pane</comment>
+      <comment>
+         <val lang="en_US">Validate converted {0} content</val>
+      </comment>
+      <val lang="zh_CN">Validate converted {0} content</val>
+   </key>
+   <key value="schematron" skipTranslation="true" distribution="common">
+      <comment>Schematron. Skip translation.</comment>
+      <comment>
+         <val lang="en_US">Schematron</val>
+      </comment>
+      <val lang="zh_CN">Schematron</val>
+   </key>
+   <key value="Markdown_no_schematron_associated" distribution="common">
+      <comment>Markdown validation with Schematron.</comment>
+      <comment>
+         <val lang="en_US">There is no Schematron associated with Markdown. You can create an association either inside
+            Preferences/Markdown (Schematron Validation section) or by adding catalog mappings for one of the following
+            URIs: http://www.oxygenxml.com/ns/validation/sch/markdown-as-dita
+            http://www.oxygenxml.com/ns/validation/sch/markdown-as-html.</val>
+      </comment>
+      <val lang="zh_CN">There is no Schematron associated with Markdown. You can create an association either inside
+            Preferences/Markdown (Schematron Validation section) or by adding catalog mappings for one of the following
+            URIs: http://www.oxygenxml.com/ns/validation/sch/markdown-as-dita
+            http://www.oxygenxml.com/ns/validation/sch/markdown-as-html.</val>
+   </key>
+   <key value="XSD_to_JSON_Schema" distribution="common">
+      <comment>XSD to JSON Schema Converter</comment>
+      <comment>
+         <val lang="en_US">XSD to JSON Schema</val>
+      </comment>
+      <val lang="zh_CN">XSD to JSON Schema</val>
+   </key>
+   <key value="Database_persp_short_desc">
+      <comment>Short description to be shown, for example, in the perspective-changing button.</comment>
+      <comment>
+         <val lang="en_US">Database perspective</val>
+      </comment>
+      <val lang="zh_CN">Database perspective</val>
+   </key>
+   <key value="Dita_persp_short_desc">
+      <comment>Short description to be shown, for example, in the perspective-changing button.</comment>
+      <comment>
+         <val lang="en_US">DITA perspective</val>
+      </comment>
+      <val lang="zh_CN">DITA perspective</val>
+   </key>
+   <key value="Editor_persp_short_desc">
+      <comment>Short description to be shown, for example, in the perspective-changing button.</comment>
+      <comment>
+         <val lang="en_US">Editor perspective</val>
+      </comment>
+      <val lang="zh_CN">Editor perspective</val>
+   </key>
+   <key value="Xslt_debug_persp_short_desc">
+      <comment>Short description to be shown, for example, in the perspective-changing button.</comment>
+      <comment>
+         <val lang="en_US">XSLT Debugger perspective</val>
+      </comment>
+      <val lang="zh_CN">XSLT Debugger perspective</val>
+   </key>
+   <key value="Xquery_debug_persp_short_desc">
+      <comment>Short description to be shown, for example, in the perspective-changing button.</comment>
+      <comment>
+         <val lang="en_US">XQuery Debugger perspective</val>
+      </comment>
+      <val lang="zh_CN">XQuery Debugger perspective</val>
+   </key>
+   <key value="Insert_as_Embedded_Reference">
+      <comment>Name of the action in DITA Reusable Components, Media tab.</comment>
+      <comment>
+         <val lang="en_US">Insert as Embedded Reference</val>
+      </comment>
+      <val lang="zh_CN">Insert as Embedded Reference</val>
+   </key>
+   <key value="Insert_as_Video_Reference">
+      <comment>Name of the action in DITA Reusable Components, Media tab.</comment>
+      <comment>
+         <val lang="en_US">Insert as Video Reference</val>
+      </comment>
+      <val lang="zh_CN">Insert as Video Reference</val>
+   </key>
+   <key value="Insert_as_Audio_Reference">
+      <comment>Name of the action in DITA Reusable Components, Media tab.</comment>
+      <comment>
+         <val lang="en_US">Insert as Audio Reference</val>
+      </comment>
+      <val lang="zh_CN">Insert as Audio Reference</val>
+   </key>
+   <key value="Insert_as_Image_Reference">
+      <comment>Name of the action in DITA Reusable Components, Media tab.</comment>
+      <comment>
+         <val lang="en_US">Insert as Image Reference</val>
+      </comment>
+      <val lang="zh_CN">Insert as Image Reference</val>
+   </key>
+   <key value="UNSAVED_CHANGES" distribution="webauthor">
+      <comment>Dialog title informig the user that the current file has unsaved changes.</comment>
+      <comment>
+         <val lang="en_US">Unsaved Changes</val>
+      </comment>
+      <val lang="zh_CN">Unsaved Changes</val>
+   </key>
+   <key value="FILE_HAS_UNSAVED_CHANGES" distribution="webauthor">
+      <comment>Message informing the user that the current file has unsaved changes.</comment>
+      <comment>
+         <val lang="en_US">The currently edited file has unsaved changes</val>
+      </comment>
+      <val lang="zh_CN">The currently edited file has unsaved changes</val>
+   </key>
+   <key value="Use_filter_to_search_through_key_names">
+      <comment>Tooltip text in the quick filter field of the Media tab in DITA Reusable Components.</comment>
+      <comment>
+         <val lang="en_US">Use the filter to search through all key names</val>
+      </comment>
+      <val lang="zh_CN">Use the filter to search through all key names</val>
+   </key>
+   <key value="No_Schematron_associated" distribution="common">
+      <comment>Message informing that no Schematron has yet been associated with a JSON in order to validate
+            it.</comment>
+      <comment>
+         <val lang="en_US">No Schematron associated</val>
+      </comment>
+      <val lang="zh_CN">No Schematron associated</val>
+   </key>
+   <key value="Audios">
+      <comment>Quick filter name that show keys of type in DITA Reusable Components, Media tab.</comment>
+      <comment>
+         <val lang="en_US">Audios</val>
+      </comment>
+      <val lang="zh_CN">Audios</val>
+   </key>
+   <key value="Videos">
+      <comment>Quick filter name that show keys of type in DITA Reusable Components, Media tab.</comment>
+      <comment>
+         <val lang="en_US">Videos</val>
+      </comment>
+      <val lang="zh_CN">Videos</val>
+   </key>
+   <key value="Media">
+      <comment>Name of the DITA Reusable Components tab: Media</comment>
+      <comment>
+         <val lang="en_US">Media</val>
+      </comment>
+      <val lang="zh_CN">Media</val>
+   </key>
+   <key value="DITA_MAP_LOAD_FAILED" distribution="webauthor">
+      <comment>Error message displayed when the DITA Map loading failed.</comment>
+      <comment>
+         <val lang="en_US">Could not load DITA Map</val>
+      </comment>
+      <val lang="zh_CN">Could not load DITA Map</val>
+   </key>
+   <key value="DITA_Map" distribution="webauthor">
+      <comment>Name of side view presenting the DITA Map</comment>
+      <comment>
+         <val lang="en_US">DITA Map</val>
+      </comment>
+      <val lang="zh_CN">DITA Map</val>
+   </key>
+   <key value="cannot_connect_to_main_license_server" distribution="webauthor">
+      <comment>Message informing the admin that the connection to the main license server failed.</comment>
+      <comment>
+         <val lang="en_US">Cannot connect to the main license server.</val>
+      </comment>
+      <val lang="zh_CN">Cannot connect to the main license server.</val>
+   </key>
+   <key value="cannot_connect_to_backup_license_server"
+        distribution="webauthor">
+      <comment>Message informing the admin that the connection to the backup license server failed.</comment>
+      <comment>
+         <val lang="en_US">Cannot connect to the backup license server.</val>
+      </comment>
+      <val lang="zh_CN">Cannot connect to the backup license server.</val>
+   </key>
+   <key value="using_backup_license_server" distribution="webauthor">
+      <comment>Message informing the admin that the backup license server is in use as the main server is
+            down.</comment>
+      <comment>
+         <val lang="en_US">The backup license server is now being used.</val>
+      </comment>
+      <val lang="zh_CN">The backup license server is now being used.</val>
+   </key>
+   <key value="Configure_working_sets">
+      <comment>Action name used to configure the working sets fort the Media tab.</comment>
+      <comment>
+         <val lang="en_US">Configure working sets</val>
+      </comment>
+      <val lang="zh_CN">Configure working sets</val>
+   </key>
+   <key value="Rename_key" distribution="common">
+      <comment>Rename key tag</comment>
+      <comment>
+         <val lang="en_US">Rename key</val>
+      </comment>
+      <val lang="zh_CN">Rename key</val>
+   </key>
+   <key value="search_in_content_must_be_selected">
+      <comment>Inform that an action cannot be performed because the 'search in content' option is disable.</comment>
+      <comment>
+         <val lang="en_US">To use this action, the 'Enable searching in content' option from the 'Open/Find Resource'
+            preferences page must be selected.</val>
+      </comment>
+      <val lang="zh_CN">To use this action, the 'Enable searching in content' option from the 'Open/Find Resource'
+            preferences page must be selected.</val>
+   </key>
+   <key value="topic_does_not_contain_words_in_relevant_elements">
+      <comment>Message that appear when "Find Similar Topics" is invoked, but the current topic does not contain key
+            words.</comment>
+      <comment>
+         <val lang="en_US">This topic does not contain words in &lt;title&gt;, &lt;shortdesc&gt;, &lt;keyword&gt;, or
+            &lt;indexterm&gt; elements.</val>
+      </comment>
+      <val lang="zh_CN">This topic does not contain words in &lt;title&gt;, &lt;shortdesc&gt;, &lt;keyword&gt;, or
+            &lt;indexterm&gt; elements.</val>
+   </key>
+   <key distribution="common" value="Gold">
+      <comment>Gold color</comment>
+      <comment>
+         <val lang="en_US">Gold</val>
+      </comment>
+      <val lang="zh_CN">Gold</val>
+   </key>
+   <key distribution="common" value="Gray">
+      <comment>Gray color</comment>
+      <comment>
+         <val lang="en_US">Gray</val>
+      </comment>
+      <val lang="zh_CN">Gray</val>
+   </key>
+   <key distribution="common" value="Light_gray">
+      <comment>Light gray color</comment>
+      <comment>
+         <val lang="en_US">Light gray</val>
+      </comment>
+      <val lang="zh_CN">Light gray</val>
+   </key>
+   <key distribution="common" value="Dark_yellow">
+      <comment>Dark yellow color</comment>
+      <comment>
+         <val lang="en_US">Dark yellow</val>
+      </comment>
+      <val lang="zh_CN">Dark yellow</val>
+   </key>
+   <key distribution="common" value="Dark_red">
+      <comment>Dark red color</comment>
+      <comment>
+         <val lang="en_US">Dark red</val>
+      </comment>
+      <val lang="zh_CN">Dark red</val>
+   </key>
+   <key distribution="common" value="Dark_blue">
+      <comment>Dark blue color</comment>
+      <comment>
+         <val lang="en_US">Dark blue</val>
+      </comment>
+      <val lang="zh_CN">Dark blue</val>
+   </key>
+   <key distribution="common" value="Crimson">
+      <comment>Crimson color</comment>
+      <comment>
+         <val lang="en_US">Crimson</val>
+      </comment>
+      <val lang="zh_CN">Crimson</val>
+   </key>
+   <key distribution="common" value="Teal">
+      <comment>Teal color</comment>
+      <comment>
+         <val lang="en_US">Teal</val>
+      </comment>
+      <val lang="zh_CN">Teal</val>
+   </key>
+   <key distribution="common" value="Yellow_green">
+      <comment>Yellow-green color</comment>
+      <comment>
+         <val lang="en_US">Yellow-green</val>
+      </comment>
+      <val lang="zh_CN">Yellow-green</val>
+   </key>
+   <key distribution="webauthor" value="Elem_placeholder">
+      <comment>Placeholder for empty elements. {0} is either the element local name of its translation.</comment>
+      <comment>
+         <val lang="en_US">Placeholder: ''{0}''</val>
+      </comment>
+      <val lang="zh_CN">Placeholder: ''{0}''</val>
+   </key>
+   <key value="Choose_valid_json_schema">
+      <comment>Message shown when a wrong schema was selected in Generate Sample JSON Instance dialog.</comment>
+      <comment>
+         <val lang="en_US">Please choose a valid JSON Schema.</val>
+      </comment>
+      <val lang="zh_CN">Please choose a valid JSON Schema.</val>
+   </key>
+   <key value="Error_parsing_editor_variable">
+      <comment>Error message shown when an editor variable could not be expanded due to a syntax error.</comment>
+      <comment>
+         <val lang="en_US">An error occurred while expanding the ''{0}'' editor variable, at line {1}, column {2}. Please
+            check the syntax of the editor variable: ''{3}''.</val>
+      </comment>
+      <val lang="zh_CN">An error occurred while expanding the ''{0}'' editor variable, at line {1}, column {2}. Please
+            check the syntax of the editor variable: ''{3}''.</val>
+   </key>
+   <key value="Associate_schema_in_document">
+      <comment>Add a schema declaration to the document (JSON instance generator).</comment>
+      <comment>
+         <val lang="en_US">Associate schema in the document</val>
+      </comment>
+      <val lang="zh_CN">Associate schema in the document</val>
+   </key>
+   <key value="Generate_additional_content">
+      <comment>Generate additional content (JSON instance generator).</comment>
+      <comment>
+         <val lang="en_US">Generate additional content</val>
+      </comment>
+      <val lang="zh_CN">Generate additional content</val>
+   </key>
+   <key value="Generate_optional_properties">
+      <comment>Generate optional properties (JSON instance generator).</comment>
+      <comment>
+         <val lang="en_US">Generate optional properties</val>
+      </comment>
+      <val lang="zh_CN">Generate optional properties</val>
+   </key>
+   <key value="Choice_strategy_info">
+      <comment>JSON instance generator - choice strategy.</comment>
+      <comment>
+         <val lang="en_US">Only for Combined Schemas:\n - When First is selected, the first defined subschema will be
+            parsed.\n - When Random is selected, a random subschema will be parsed.\n</val>
+      </comment>
+      <val lang="zh_CN">Only for Combined Schemas:\n - When First is selected, the first defined subschema will be
+            parsed.\n - When Random is selected, a random subschema will be parsed.\n</val>
+   </key>
+   <key value="Recursion_level">
+      <comment>Option to set the recursion level (JSON instance generator).</comment>
+      <comment>
+         <val lang="en_US">Recursion level</val>
+      </comment>
+      <val lang="zh_CN">Recursion level</val>
+   </key>
+   <key value="Recursion_level_info">
+      <comment>JSON instance generator - recursion level.</comment>
+      <comment>
+         <val lang="en_US">Only for Reference Schemas\n - If the schema contains recursive calls (on the same property),
+            set the maximum recursion level.</val>
+      </comment>
+      <val lang="zh_CN">Only for Reference Schemas\n - If the schema contains recursive calls (on the same property),
+            set the maximum recursion level.</val>
+   </key>
+   <key value="Generate_sample_json_files" distribution="common">
+      <comment>JSON files generator</comment>
+      <comment>
+         <val lang="en_US">Generate Sample JSON Files</val>
+      </comment>
+      <val lang="zh_CN">Generate Sample JSON Files</val>
+   </key>
+   <key value="Generate_sample_json_files_eclipse" distribution="eclipse">
+      <comment>JSON files generator (Eclipse).</comment>
+      <comment>
+         <val lang="en_US">Generate Sample JSON Files...</val>
+      </comment>
+      <val lang="zh_CN">Generate Sample JSON Files...</val>
+   </key>
+   <key value="No_instance_generated">
+      <comment>No instance was generated (JSON instance generator)</comment>
+      <comment>
+         <val lang="en_US">No instance generated</val>
+      </comment>
+      <val lang="zh_CN">No instance generated</val>
+   </key>
+   <key value="Void_element">
+      <comment>XHTML: Void Element</comment>
+      <comment>
+         <val lang="en_US">Void Element</val>
+      </comment>
+      <val lang="zh_CN">Void Element</val>
+   </key>
+   <key value="Apply_stylesheets_set_in_framework">
+      <comment>Checkbox for select to apply in a tranformation scenario the stylesheets from framwork.</comment>
+      <comment>
+         <val lang="en_US">Apply CSS stylesheets set in the current framework</val>
+      </comment>
+      <val lang="zh_CN">Apply CSS stylesheets set in the current framework</val>
+   </key>
+   <key value="Apply_stylesheets_set_in_framework_tooltip">
+      <comment>Checkbox for select to apply in a tranformation scenario the stylesheets from framwork.</comment>
+      <comment>
+         <val lang="en_US">Select this if you want the CSS stylesheets specified in the current framework (Document Type
+            Association) to be applied in addition to a custom CSS and/or a CSS referenced directly in the
+            document</val>
+      </comment>
+      <val lang="zh_CN">Select this if you want the CSS stylesheets specified in the current framework (Document Type
+            Association) to be applied in addition to a custom CSS and/or a CSS referenced directly in the
+            document</val>
+   </key>
+   <key value="Stack_overflow_error_message">
+      <comment>The error message displayed in Errors view when StackOverflowError happen in validation.</comment>
+      <comment>
+         <val lang="en_US">A stack overflow error occurred. You have to increase the stack size by setting a custom
+            parameter in the Oxygen startup script. See the section "Increasing the Stack Size for Validation Engines"
+            of the User Manual.</val>
+      </comment>
+      <val lang="zh_CN">A stack overflow error occurred. You have to increase the stack size by setting a custom
+            parameter in the Oxygen startup script. See the section "Increasing the Stack Size for Validation Engines"
+            of the User Manual.</val>
+   </key>
+   <key value="Memory_optimize_for_large_documents_message">
+      <comment>Message shown to describe limitations for opening large documents.</comment>
+      <comment>
+         <val lang="en_US">Optimizes memory usage when loading large local files in the Text page, by using temporary
+            file buffers.\n\n To open a large file from the disk using this optimization, you need an amount of memory
+            for Oxygen 3-6 times (depending on the XML structure) larger than the size of the file on disk, plus an
+            additional 30-40MB.\n You also need to have enough disk space for the temporary file buffer available in
+            your temporary directory.\n Example: At best, you can load a file of 200 MB on disk in Oxygen using a
+            minimum of 512 MB and having an amount of 400 MB free disk space.\n\n The following changes take place:\n 1)
+            The imposed initial page for opening large documents is the Text page.\n 2) The automatic validation is
+            disabled.\n 3) XPath expressions cannot be used in the Find/Replace dialog for filtering.\n 4) There is no
+            support for special rendering of bidirectional documents.\n 5) If the 'Format and indent the document on
+            open' option is enabled, the formatting will be disabled for non-XML documents.\n For XML documents, it will
+            be done optimizing the memory usage, but without respecting the options set in the Oxygen 'Editor/Format'
+            preferences page.\n 6) The localization for executed XPath expressions is less precise.\n The execution of
+            XPath expressions uses SAX sources for a smaller memory footprint. We recommend using XPath 2.0, which has
+            increased speed and a smaller memory footprint than 1.0. XPath 2.0 requires additional memory, about 2-3
+            times the size of the document on the disk.</val>
+      </comment>
+      <val lang="zh_CN">Optimizes memory usage when loading large local files in the Text page, by using temporary
+            file buffers.\n\n To open a large file from the disk using this optimization, you need an amount of memory
+            for Oxygen 3-6 times (depending on the XML structure) larger than the size of the file on disk, plus an
+            additional 30-40MB.\n You also need to have enough disk space for the temporary file buffer available in
+            your temporary directory.\n Example: At best, you can load a file of 200 MB on disk in Oxygen using a
+            minimum of 512 MB and having an amount of 400 MB free disk space.\n\n The following changes take place:\n 1)
+            The imposed initial page for opening large documents is the Text page.\n 2) The automatic validation is
+            disabled.\n 3) XPath expressions cannot be used in the Find/Replace dialog for filtering.\n 4) There is no
+            support for special rendering of bidirectional documents.\n 5) If the 'Format and indent the document on
+            open' option is enabled, the formatting will be disabled for non-XML documents.\n For XML documents, it will
+            be done optimizing the memory usage, but without respecting the options set in the Oxygen 'Editor/Format'
+            preferences page.\n 6) The localization for executed XPath expressions is less precise.\n The execution of
+            XPath expressions uses SAX sources for a smaller memory footprint. We recommend using XPath 2.0, which has
+            increased speed and a smaller memory footprint than 1.0. XPath 2.0 requires additional memory, about 2-3
+            times the size of the document on the disk.</val>
+   </key>
+   <key value="Long_lines_documents_message">
+      <comment>Message shown to describe limitations for opening documents containing long lines.</comment>
+      <comment>
+         <val lang="en_US">The documents containing long lines can affect the performance when opened in the text editor.
+            If you choose to open such documents, the line wrap support will be enabled. Also some of the features of
+            the editor will be affected:\n 1) The 'Monospaced' font is used as the editor's font.\n 2) The automatic
+            validation is disabled.\n 3) The automatic spell checking is disabled.\n 4) XPath expressions cannot be used
+            in the Find/Replace dialog for filtering.\n 5) The localization for executed XPath expressions is less
+            precise.\n The XPath executions use SAX sources for smaller memory footprint. We recommend using XPath 2.0,
+            which has increased speed and a smaller memory footprint than 1.0. XPath 2.0 requires additional memory,
+            about 2-3 times the size of the document on disk.</val>
+      </comment>
+      <val lang="zh_CN">The documents containing long lines can affect the performance when opened in the text editor.
+            If you choose to open such documents, the line wrap support will be enabled. Also some of the features of
+            the editor will be affected:\n 1) The 'Monospaced' font is used as the editor's font.\n 2) The automatic
+            validation is disabled.\n 3) The automatic spell checking is disabled.\n 4) XPath expressions cannot be used
+            in the Find/Replace dialog for filtering.\n 5) The localization for executed XPath expressions is less
+            precise.\n The XPath executions use SAX sources for smaller memory footprint. We recommend using XPath 2.0,
+            which has increased speed and a smaller memory footprint than 1.0. XPath 2.0 requires additional memory,
+            about 2-3 times the size of the document on disk.</val>
+   </key>
+   <key value="Reviews_navigation_first_last_item_reached">
+      <comment>Titled border in Preferences Page regarding reviews navigation in Review view</comment>
+      <comment>
+         <val lang="en_US">When the last/first item is reached while navigating review items:</val>
+      </comment>
+      <val lang="zh_CN">When the last/first item is reached while navigating review items:</val>
+   </key>
+   <key value="Open_document_with_reviews_from_dita_map">
+      <comment>Documents with reviews navigation option preferences.</comment>
+      <comment>
+         <val lang="en_US">Open the next/previous document (in the current DITA map hierarchy) that contains review
+            items</val>
+      </comment>
+      <val lang="zh_CN">Open the next/previous document (in the current DITA map hierarchy) that contains review
+            items</val>
+   </key>
+   <key value="Question_open_previous_document_with_reviews">
+      <comment>Reviews side view. Confirmation dialog question - navigate reviews actions</comment>
+      <comment>
+         <val lang="en_US">Do you want to open the previous document (from the current DITA map) that contains review
+            items?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to open the previous document (from the current DITA map) that contains review
+            items?</val>
+   </key>
+   <key value="Required_information">
+      <comment>Required information</comment>
+      <comment>
+         <val lang="en_US">Required information</val>
+      </comment>
+      <val lang="zh_CN">Required information</val>
+   </key>
+   <key value="Current_license_signature">
+      <comment>The current licese signature</comment>
+      <comment>
+         <val lang="en_US">Current license signature</val>
+      </comment>
+      <val lang="zh_CN">Current license signature</val>
+   </key>
+   <key value="Paste_the_HTML_fragment">
+      <comment>Label for the Oxygen Feedback initialization HTML fragment.</comment>
+      <comment>
+         <val lang="en_US">Paste the HTML fragment</val>
+      </comment>
+      <val lang="zh_CN">Paste the HTML fragment</val>
+   </key>
+   <key value="Edit_feedback_html_fragment">
+      <comment>The title of the dialog where the user can edit the Oxygen Feedback initialization HTML
+            fragment.</comment>
+      <comment>
+         <val lang="en_US">Edit Feedback HTML Fragment</val>
+      </comment>
+      <val lang="zh_CN">Edit Feedback HTML Fragment</val>
+   </key>
+   <key value="Configured_in_the_current_template">
+      <comment>Info label about the Oxygen Feedback initialization HTML fragment.</comment>
+      <comment>
+         <val lang="en_US">Configured in the current template.</val>
+      </comment>
+      <val lang="zh_CN">Configured in the current template.</val>
+   </key>
+   <key value="Overrides_value_configured_in_current_template">
+      <comment>Info label about the Oxygen Feedback initialization HTML fragment.</comment>
+      <comment>
+         <val lang="en_US">Overrides the value configured in the current template.</val>
+      </comment>
+      <val lang="zh_CN">Overrides the value configured in the current template.</val>
+   </key>
+   <key value="Press_button_to_override">
+      <comment>Info label about the Oxygen Feedback initialization HTML fragment.</comment>
+      <comment>
+         <val lang="en_US">Press ''{0}'' to override it.</val>
+      </comment>
+      <val lang="zh_CN">Press ''{0}'' to override it.</val>
+   </key>
+   <key value="Show_only_fonts_that_render_text">
+      <comment>Check box text in the font chooser</comment>
+      <comment>
+         <val lang="en_US">Show only the fonts that can render the sample text</val>
+      </comment>
+      <val lang="zh_CN">Show only the fonts that can render the sample text</val>
+   </key>
+   <key value="No_fonts_to_render_text">
+      <comment>Message shown when no font that can render a user-provided text was detected.</comment>
+      <comment>
+         <val lang="en_US">No font was detected that can render the sample text.</val>
+      </comment>
+      <val lang="zh_CN">No font was detected that can render the sample text.</val>
+   </key>
+   <key value="Feedback">
+      <comment>The name of the tab from the WebHelp Responsive scenario dialog where the user can input the Oxygen
+            Feedback configuration HTML fragment.</comment>
+      <comment>
+         <val lang="en_US">Feedback</val>
+      </comment>
+      <val lang="zh_CN">Feedback</val>
+   </key>
+   <key value="Unable_to_find_documents_with_reviews_in_current_map">
+      <comment>The indexer was unable to find documents referred in current DITA map that contains review
+            items.</comment>
+      <comment>
+         <val lang="en_US">Unable to find other documents in the current DITA map that contain review items.</val>
+      </comment>
+      <val lang="zh_CN">Unable to find other documents in the current DITA map that contain review items.</val>
+   </key>
+   <key value="Document_contains_validation_issues">
+      <comment>Warning message</comment>
+      <comment>
+         <val lang="en_US">"{0}" contains validation issues</val>
+      </comment>
+      <val lang="zh_CN">"{0}" contains validation issues</val>
+   </key>
+   <key value="Save_anyway">
+      <comment>"Save anyway" message.</comment>
+      <comment>
+         <val lang="en_US">Save anyway</val>
+      </comment>
+      <val lang="zh_CN">Save anyway</val>
+   </key>
+   <key value="Managed_named_user_license">
+      <comment>Online license</comment>
+      <comment>
+         <val lang="en_US">Managed Named User License</val>
+      </comment>
+      <val lang="zh_CN">Managed Named User License</val>
+   </key>
+   <key value="These_licenses_cannot_be_inserted">
+      <comment>Error message in the Registration Dialog. These licenses cannot be inserted directly in the
+            dialog.</comment>
+      <comment>
+         <val lang="en_US">You must select the 'Use a license server' option for floating licenses.\nContact your system
+            administrator for the server information.</val>
+      </comment>
+      <val lang="zh_CN">You must select the 'Use a license server' option for floating licenses.\nContact your system
+            administrator for the server information.</val>
+   </key>
+   <key value="Question_open_next_document_with_reviews">
+      <comment>Reviews side view. Confirmation dialog question - navigate reviews actions</comment>
+      <comment>
+         <val lang="en_US">Do you want to open the next document (from the current DITA map) that contains review
+            items?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to open the next document (from the current DITA map) that contains review
+            items?</val>
+   </key>
+   <key value="Table_Header" distribution="webauthor">
+      <comment>The table header.</comment>
+      <comment>
+         <val lang="en_US">Header</val>
+      </comment>
+      <val lang="zh_CN">Header</val>
+   </key>
+   <key value="Table_Body" distribution="webauthor">
+      <comment>The table body.</comment>
+      <comment>
+         <val lang="en_US">Body</val>
+      </comment>
+      <val lang="zh_CN">Body</val>
+   </key>
+   <key value="Map_key">
+      <comment>Map key</comment>
+      <comment>
+         <val lang="en_US">Map key</val>
+      </comment>
+      <val lang="zh_CN">Map key</val>
+   </key>
+   <key value="Compile">
+      <comment>Compile message</comment>
+      <comment>
+         <val lang="en_US">Compile</val>
+      </comment>
+      <val lang="zh_CN">Compile</val>
+   </key>
+   <key value="Options_applies_only_for_local_files">
+      <comment>Additional explanation for some options, meaning they are applied only for local files.</comment>
+      <comment>
+         <val lang="en_US">Option that applies only for local files.</val>
+      </comment>
+      <val lang="zh_CN">Option that applies only for local files.</val>
+   </key>
+   <key value="Validate_before_save">
+      <comment>Editor -&gt; Save option</comment>
+      <comment>
+         <val lang="en_US">Validate document before saving</val>
+      </comment>
+      <val lang="zh_CN">Validate document before saving</val>
+   </key>
+   <key distribution="common" value="Document_validation">
+      <comment>'Document Validation' option pane name</comment>
+      <comment>
+         <val lang="en_US">Document Validation</val>
+      </comment>
+      <val lang="zh_CN">Document Validation</val>
+   </key>
+   <key value="Auto_recover_location_must_be_on_local_drive">
+      <comment>Message shown when a location not from a local drive is chosen as the auto-recover file
+            location.</comment>
+      <comment>
+         <val lang="en_US">The auto-recover file location must be on a local drive.</val>
+      </comment>
+      <val lang="zh_CN">The auto-recover file location must be on a local drive.</val>
+   </key>
+   <key value="Refresh_index_when_opening_maps">
+      <comment>DITA check box option which automatically index opened maps in DITA Maps Manager.</comment>
+      <comment>
+         <val lang="en_US">Refresh index when opening a map in DITA Maps Manager</val>
+      </comment>
+      <val lang="zh_CN">Refresh index when opening a map in DITA Maps Manager</val>
+   </key>
+   <key value="Enable_indexing_for_remote_resources">
+      <comment>Checkbox. If selected, the remote resources content is processed when creating the search
+            index.</comment>
+      <comment>
+         <val lang="en_US">Enable indexing for remote resources: Web, CMS, etc.</val>
+      </comment>
+      <val lang="zh_CN">Enable indexing for remote resources: Web, CMS, etc.</val>
+   </key>
+   <key value="No_writing_permissions_for_chosen_location">
+      <comment>Message shown when a location with no writing permissions is chosen from a file chooser.</comment>
+      <comment>
+         <val lang="en_US">Oxygen does not have write permissions for the chosen location.</val>
+      </comment>
+      <val lang="zh_CN">Oxygen does not have write permissions for the chosen location.</val>
+   </key>
+   <key value="Error_occured_while_reading_recover_content">
+      <comment>Error message shown when a recovery file cannot be read.</comment>
+      <comment>
+         <val lang="en_US">An error occurred while trying to read the recover file.</val>
+      </comment>
+      <val lang="zh_CN">An error occurred while trying to read the recover file.</val>
+   </key>
+   <key value="Remote_resources_indexing">
+      <comment>Dialog title regarding the status of remote files indexing.</comment>
+      <comment>
+         <val lang="en_US">Remote Resources Indexing</val>
+      </comment>
+      <val lang="zh_CN">Remote Resources Indexing</val>
+   </key>
+</translation>

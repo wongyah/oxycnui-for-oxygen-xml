@@ -1,0 +1,1872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="Add_dictionaries_link_label">
+      <comment>Link label in Dictionaries option page.</comment>
+      <comment>
+         <val lang="en_US">How to add more dictionaries and term lists</val>
+      </comment>
+      <val lang="zh_CN">How to add more dictionaries and term lists</val>
+   </key>
+   <key value="Use_dictionaries_from">
+      <comment>Label in Dictionaries option page.</comment>
+      <comment>
+         <val lang="en_US">Dictionaries and term lists default folder</val>
+      </comment>
+      <val lang="zh_CN">Dictionaries and term lists default folder</val>
+   </key>
+   <key value="Additional_dictionaries_directory">
+      <comment>Label in Dictionaries option page.</comment>
+      <comment>
+         <val lang="en_US">Include dictionaries and term list from</val>
+      </comment>
+      <val lang="zh_CN">Include dictionaries and term list from</val>
+   </key>
+   <key distribution="common" value="Dictionaries">
+      <comment>Name of the option page containing information about spell checker dictionaries.</comment>
+      <comment>
+         <val lang="en_US">Dictionaries</val>
+      </comment>
+      <val lang="zh_CN">Dictionaries</val>
+   </key>
+   <key value="Type_alternative_explanation">
+      <comment>Explanation message used for the type alternative generation strategy.</comment>
+      <comment>
+         <val lang="en_US">Option to be used in case of xs:alternative from XML Schema 1.1. The possible strategies
+            are:\n First - the first valid alternative type will be always used.\n Random - a random alternative type
+            will be used.\n</val>
+      </comment>
+      <val lang="zh_CN">Option to be used in case of xs:alternative from XML Schema 1.1. The possible strategies
+            are:\n First - the first valid alternative type will be always used.\n Random - a random alternative type
+            will be used.\n</val>
+   </key>
+   <key value="Type_alternative_strategy">
+      <comment>Option used by the instance generator to generate the alternative type for an element.</comment>
+      <comment>
+         <val lang="en_US">Type alternative strategy</val>
+      </comment>
+      <val lang="zh_CN">Type alternative strategy</val>
+   </key>
+   <key distribution="common" value="Choose_highlight_no_color">
+      <comment>Choose no color for content highlight.</comment>
+      <comment>
+         <val lang="en_US">No color (erase)</val>
+      </comment>
+      <val lang="zh_CN">No color (erase)</val>
+   </key>
+   <key distribution="common" value="Highlight">
+      <comment>Choose content highlight color.</comment>
+      <comment>
+         <val lang="en_US">Highlight</val>
+      </comment>
+      <val lang="zh_CN">Highlight</val>
+   </key>
+   <key value="Network_connection_settings" distribution="common">
+      <comment>Network connection settings option page title</comment>
+      <comment>
+         <val lang="en_US">Network Connection Settings</val>
+      </comment>
+      <val lang="zh_CN">Network Connection Settings</val>
+   </key>
+   <key distribution="common" value="Move_resource">
+      <comment>'Move resource' dialog title.</comment>
+      <comment>
+         <val lang="en_US">Move resource</val>
+      </comment>
+      <val lang="zh_CN">Move resource</val>
+   </key>
+   <key value="Update_references">
+      <comment>Message for a checkbox from the Move references dialog and Rename references dialog.</comment>
+      <comment>
+         <val lang="en_US">Update references</val>
+      </comment>
+      <val lang="zh_CN">Update references</val>
+   </key>
+   <key value="When_editing_while_debugging">
+      <comment>Label in the option dialog. The corresponding option controls whether or not to stop the XSLT/XQuery
+            debugger when the user edits (modifies) a file. It sounds like: "When editing while a debugging session is
+            in progress [always stop the debugging session]"</comment>
+      <comment>
+         <val lang="en_US">When editing while a debugging session is in progress</val>
+      </comment>
+      <val lang="zh_CN">When editing while a debugging session is in progress</val>
+   </key>
+   <key value="Always_stop_debugging">
+      <comment>Option checkbox. The user chooses to "always stop" the debugger when he/she edits one of the opened
+            files.</comment>
+      <comment>
+         <val lang="en_US">Always stop the debugging session</val>
+      </comment>
+      <val lang="zh_CN">Always stop the debugging session</val>
+   </key>
+   <key value="Never_stop_debugging">
+      <comment>Option checkbox. The user chooses to "not stop" the debugger when he/she edits one of the opened
+            files.</comment>
+      <comment>
+         <val lang="en_US">Never stop the debugging session</val>
+      </comment>
+      <val lang="zh_CN">Never stop the debugging session</val>
+   </key>
+   <key value="Ask_me_what_to_do">
+      <comment>Generic message. The user chooses to be "asked" each time for a confirmation.</comment>
+      <comment>
+         <val lang="en_US">Ask me what to do</val>
+      </comment>
+      <val lang="zh_CN">Ask me what to do</val>
+   </key>
+   <key value="The_archive_has_an_unknown_format">
+      <comment>Message displayed when trying to open an archive which is not recognized by the Archive
+            Browser.</comment>
+      <comment>
+         <val lang="en_US">The archive has an unknown format</val>
+      </comment>
+      <val lang="zh_CN">The archive has an unknown format</val>
+   </key>
+   <key value="Change_advanced_http_settings">
+      <comment>Link label name that redirects the user to 'Advanced HTTP Settings' option page.</comment>
+      <comment>
+         <val lang="en_US">Change Advanced HTTP Settings</val>
+      </comment>
+      <val lang="zh_CN">Change Advanced HTTP Settings</val>
+   </key>
+   <key value="The_condition_has_not_been_evaluated_yet">
+      <comment>Tooltip in the breakpoints table.</comment>
+      <comment>
+         <val lang="en_US">The condition has not been evaluated yet</val>
+      </comment>
+      <val lang="zh_CN">The condition has not been evaluated yet</val>
+   </key>
+   <key value="Last_evaluated_as">
+      <comment>Tooltip in the breakpoints table.</comment>
+      <comment>
+         <val lang="en_US">Last evaluated as ''{0}''</val>
+      </comment>
+      <val lang="zh_CN">Last evaluated as ''{0}''</val>
+   </key>
+   <key value="No_condition_is_set">
+      <comment>Tooltip in the breakpoints table.</comment>
+      <comment>
+         <val lang="en_US">No condition is set</val>
+      </comment>
+      <val lang="zh_CN">No condition is set</val>
+   </key>
+   <key value="Only_the_break_condition_counts_in_the_evaluation">
+      <comment>Tooltip in the breakpoints table.</comment>
+      <comment>
+         <val lang="en_US">Only the break condition counts in the evaluation</val>
+      </comment>
+      <val lang="zh_CN">Only the break condition counts in the evaluation</val>
+   </key>
+   <key value="Conditional_only">
+      <comment>Refers to those breakpoints that have only a break condition set and no location.</comment>
+      <comment>
+         <val lang="en_US">Conditional only</val>
+      </comment>
+      <val lang="zh_CN">Conditional only</val>
+   </key>
+   <key value="Cannot_locate_breakpoint_in_file">
+      <comment>Warning message shown when a breakpoint cannot be located in the specified file.</comment>
+      <comment>
+         <val lang="en_US">Cannot locate breakpoint in file {0}.</val>
+      </comment>
+      <val lang="zh_CN">Cannot locate breakpoint in file {0}.</val>
+   </key>
+   <key value="Import_from_ditaval">
+      <comment>Message for "Import from DITAVAL..." button.</comment>
+      <comment>
+         <val lang="en_US">Import from DITAVAL</val>
+      </comment>
+      <val lang="zh_CN">Import from DITAVAL</val>
+   </key>
+   <key value="Java_class_not_specified">
+      <comment>Message displayed when no java classes were found.</comment>
+      <comment>
+         <val lang="en_US">A Java class should be specified.</val>
+      </comment>
+      <val lang="zh_CN">A Java class should be specified.</val>
+   </key>
+   <key value="No_jars_zip_found">
+      <comment>Message displayed when no jar or zip files were found.</comment>
+      <comment>
+         <val lang="en_US">No JAR or ZIP files were found.</val>
+      </comment>
+      <val lang="zh_CN">No JAR or ZIP files were found.</val>
+   </key>
+   <key value="Invalid_data_source_field">
+      <comment>Title of the dialog displayed when a data source field is invalid.</comment>
+      <comment>
+         <val lang="en_US">Invalid data source {0}</val>
+      </comment>
+      <val lang="zh_CN">Invalid data source {0}</val>
+   </key>
+   <key value="Invalid_session_collection">
+      <comment>Invalid session collection error message.</comment>
+      <comment>
+         <val lang="en_US">Invalid session collection</val>
+      </comment>
+      <val lang="zh_CN">Invalid session collection</val>
+   </key>
+   <key value="Options_apply_for_svn_only">
+      <comment>Message in SSH option page.</comment>
+      <comment>
+         <val lang="en_US">These options apply for SVN Client only.</val>
+      </comment>
+      <val lang="zh_CN">These options apply for SVN Client only.</val>
+   </key>
+   <key value="Data_sources_with_empty_collection_not_accepted">
+      <comment>Error message shown when the user tries to create a data source with an empty collection.</comment>
+      <comment>
+         <val lang="en_US">Sessions with empty collection are not accepted.</val>
+      </comment>
+      <val lang="zh_CN">Sessions with empty collection are not accepted.</val>
+   </key>
+   <key value="Data_sources_empty_field_not_accepted">
+      <comment>Message displayed when a field for a data source is invalid.</comment>
+      <comment>
+         <val lang="en_US">Data source {0} should be specified.</val>
+      </comment>
+      <val lang="zh_CN">Data source {0} should be specified.</val>
+   </key>
+   <key value="Data_source_with_same_name">
+      <comment>Another data source with the same name already exist.</comment>
+      <comment>
+         <val lang="en_US">Another data source with the same name already exists.</val>
+      </comment>
+      <val lang="zh_CN">Another data source with the same name already exists.</val>
+   </key>
+   <key distribution="common" value="Generate_schema_documentation">
+      <comment>Action in project tree used to generate Schema documentation for the current file.</comment>
+      <comment>
+         <val lang="en_US" mnemonic="0">&amp;Generate XML Schema Documentation</val>
+      </comment>
+      <val lang="zh_CN" mnemonic="0">&amp;Generate XML Schema Documentation</val>
+   </key>
+   <key value="Schema_documentation">
+      <comment>Schema documentation in menu Tools. </comment>
+      <comment>
+         <val lang="en_US">XML Schema Documentation</val>
+      </comment>
+      <val lang="zh_CN">XML Schema Documentation</val>
+   </key>
+   <key distribution="eclipse" value="action.label.30">
+      <comment>The text of the 'XML Schema Documentation' action from 'Generate documentation' menu entry.</comment>
+      <comment>
+         <val lang="en_US">XML &amp;Schema Documentation...</val>
+      </comment>
+      <val lang="zh_CN">XML &amp;Schema Documentation...</val>
+   </key>
+   <key distribution="eclipse" value="action.tooltip.30" type="action">
+      <comment>The tooltip text of the 'XML Schema Documentation' action from 'Generate documentation' menu
+            entry.</comment>
+      <comment>
+         <val lang="en_US">Create XML Schema documentation</val>
+      </comment>
+      <val lang="zh_CN">Create XML Schema documentation</val>
+   </key>
+   <key value="Selected_file_does_not_exist">
+      <comment>Error message shown when the user tries to rename/move a file which does not exists on the
+            disk.</comment>
+      <comment>
+         <val lang="en_US">The selected file does not exists.</val>
+      </comment>
+      <val lang="zh_CN">The selected file does not exists.</val>
+   </key>
+   <key value="File_could_not_be_deleted">
+      <comment>Warning message shown when a file is renamed and the source file could not be deleted from the
+            disk.</comment>
+      <comment>
+         <val lang="en_US">The ''{0}'' was created, but the source file still exists on the disk. To keep only the new
+            file, manually delete the source file.</val>
+      </comment>
+      <val lang="zh_CN">The ''{0}'' was created, but the source file still exists on the disk. To keep only the new
+            file, manually delete the source file.</val>
+   </key>
+   <key value="File_already_exists_replace_it">
+      <comment>Message used on the rename dialog.</comment>
+      <comment>
+         <val lang="en_US">The target file already exists. Do you want to replace it?\n{0}</val>
+      </comment>
+      <val lang="zh_CN">The target file already exists. Do you want to replace it?\n{0}</val>
+   </key>
+   <key value="Target_file_is_opened_in_editor">
+      <comment>Error message shown when trying to rename a file and the file with the chosen name exists and it is
+            opened in editor.</comment>
+      <comment>
+         <val lang="en_US">The chosen target file is opened in editor. Please close it and try again.\n{0}</val>
+      </comment>
+      <val lang="zh_CN">The chosen target file is opened in editor. Please close it and try again.\n{0}</val>
+   </key>
+   <key value="Dependencies_of">
+      <comment>Message when computing component's dependencies, like: Dependencies of 'component_name' (no
+            location)</comment>
+      <comment>
+         <val lang="en_US">Dependencies of ''{0}''</val>
+      </comment>
+      <val lang="zh_CN">Dependencies of ''{0}''</val>
+   </key>
+   <key value="Hierarchy_of">
+      <comment>Message when computing component's hierarchy, like: Hierarchy of 'component_name' (no
+            location)</comment>
+      <comment>
+         <val lang="en_US">Hierarchy of ''{0}''</val>
+      </comment>
+      <val lang="zh_CN">Hierarchy of ''{0}''</val>
+   </key>
+   <key value="Hierarchy_of_in_location">
+      <comment>Message when computing component's hierarchy, like: Hierarchy of 'component_name' in workspace (or
+            project)</comment>
+      <comment>
+         <val lang="en_US">Hierarchy of ''{0}'' in {1}</val>
+      </comment>
+      <val lang="zh_CN">Hierarchy of ''{0}'' in {1}</val>
+   </key>
+   <key value="Highlights_not_presented_message">
+      <comment>Warning message displayed on the range ruler when the highlights exceeded the maximum number.</comment>
+      <comment>
+         <val lang="en_US">The {0} highlights are not available because the allowed number of highlights was exceeded
+            (see {1} / {2} / {3}).</val>
+      </comment>
+      <val lang="zh_CN">The {0} highlights are not available because the allowed number of highlights was exceeded
+            (see {1} / {2} / {3}).</val>
+   </key>
+   <key value="Anonymous_working_set">
+      <comment>Message used in main files messages. It will be appended to other message.</comment>
+      <comment>
+         <val lang="en_US">anonymous working set</val>
+      </comment>
+      <val lang="zh_CN">anonymous working set</val>
+   </key>
+   <key value="Workspace_lower_case">
+      <comment>Message used in main files messages. It will be appended to other message.</comment>
+      <comment>
+         <val lang="en_US">workspace</val>
+      </comment>
+      <val lang="zh_CN">workspace</val>
+   </key>
+   <key value="Working_set_s">
+      <comment>Message used in main files messages. It will be appended to other message.</comment>
+      <comment>
+         <val lang="en_US">working set(s)</val>
+      </comment>
+      <val lang="zh_CN">working set(s)</val>
+   </key>
+   <key value="Current_file_lower_case">
+      <comment>Message used in main files messages. It will be appended to other message.</comment>
+      <comment>
+         <val lang="en_US">current file</val>
+      </comment>
+      <val lang="zh_CN">current file</val>
+   </key>
+   <key value="Undefined">
+      <comment>Message used in main files messages. It will be appended to other message.</comment>
+      <comment>
+         <val lang="en_US">undefined</val>
+      </comment>
+      <val lang="zh_CN">undefined</val>
+   </key>
+   <key value="Project_lower_case">
+      <comment>Message used in main files messages. It will be appended to other message.</comment>
+      <comment>
+         <val lang="en_US">project</val>
+      </comment>
+      <val lang="zh_CN">project</val>
+   </key>
+   <key value="File_must_be_saved_before_operation">
+      <comment>Message shown by the Move/Rename action when the current DITA MAP is not saved.</comment>
+      <comment>
+         <val lang="en_US">"{0}" must be saved before this operation.\n Also, all opened files will be saved.</val>
+      </comment>
+      <val lang="zh_CN">"{0}" must be saved before this operation.\n Also, all opened files will be saved.</val>
+   </key>
+   <key distribution="eclipse" value="editor.name.18">
+      <comment>editor.name.18</comment>
+      <comment>
+         <val lang="en_US">Oxygen DITA Map Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen DITA Map Editor</val>
+   </key>
+   <key value="Content_search_scope">
+      <comment>Title of a section in the options.</comment>
+      <comment>
+         <val lang="en_US">Content search scope</val>
+      </comment>
+      <val lang="zh_CN">Content search scope</val>
+   </key>
+   <key value="Rename_resource_from_to">
+      <comment>Message shown in the Move/Rename preview changes dialog when renaming a resource.</comment>
+      <comment>
+         <val lang="en_US">Rename "{0}" to "{1}".</val>
+      </comment>
+      <val lang="zh_CN">Rename "{0}" to "{1}".</val>
+   </key>
+   <key value="Move_resource_from_to">
+      <comment>Message shown in the Move/Rename preview changes dialog when moving a resource.</comment>
+      <comment>
+         <val lang="en_US">Move "{0}" to "{1}".</val>
+      </comment>
+      <val lang="zh_CN">Move "{0}" to "{1}".</val>
+   </key>
+   <key value="No_preview_available">
+      <comment>Message label for Move/Rename preview dialog.</comment>
+      <comment>
+         <val lang="en_US">No preview available</val>
+      </comment>
+      <val lang="zh_CN">No preview available</val>
+   </key>
+   <key value="Conditional_cannot_edit_selection">
+      <comment>Message shown when the current selection cannot be profiled.</comment>
+      <comment>
+         <val lang="en_US">The current type of XML document allows profiling only entirely selected elements.</val>
+      </comment>
+      <val lang="zh_CN">The current type of XML document allows profiling only entirely selected elements.</val>
+   </key>
+   <key value="Xerces_honour_all_schemaLocations">
+      <comment>Xerces honour all schema locations option name</comment>
+      <comment>
+         <val lang="en_US">Enable honour all schema locations feature</val>
+      </comment>
+      <val lang="zh_CN">Enable honour all schema locations feature</val>
+   </key>
+   <key value="Xerces_schema_full_checking">
+      <comment>Xerces schema full checking option name</comment>
+      <comment>
+         <val lang="en_US">Enable full schema constraint checking</val>
+      </comment>
+      <val lang="zh_CN">Enable full schema constraint checking</val>
+   </key>
+   <key distribution="common" value="Rename_resource">
+      <comment>'Rename resource' dialog title.</comment>
+      <comment>
+         <val lang="en_US">Rename resource</val>
+      </comment>
+      <val lang="zh_CN">Rename resource</val>
+   </key>
+   <key value="Move_rename_preview_label_text">
+      <comment>Text for move preview label.</comment>
+      <comment>
+         <val lang="en_US">To preserve the completeness of the DITA Map the following files need to be updated</val>
+      </comment>
+      <val lang="zh_CN">To preserve the completeness of the DITA Map the following files need to be updated</val>
+   </key>
+   <key value="Document_modification_while_debugging_warning">
+      <comment>Warning during the debugging session.</comment>
+      <comment>
+         <val lang="en_US">Any document modification made after starting a debugging session is ignored.\nAlso, modifying
+            documents while debugging can lead to incorrect in-document highlights.</val>
+      </comment>
+      <val lang="zh_CN">Any document modification made after starting a debugging session is ignored.\nAlso, modifying
+            documents while debugging can lead to incorrect in-document highlights.</val>
+   </key>
+   <key value="Allow_detaching_editors">
+      <comment>Checkbox in the "Perspective Layouts" option page. When checked, the opened files editors can be
+            dragged outside the editor frame. For instance in case of multiple monitors, you could drag one file on the
+            other monitor.</comment>
+      <comment>
+         <val lang="en_US">Allow detaching of editors from main window</val>
+      </comment>
+      <val lang="zh_CN">Allow detaching of editors from main window</val>
+   </key>
+   <key distribution="common" value="XML_instances_generator">
+      <comment>Generate sample XML instances from schema.</comment>
+      <comment>
+         <val lang="en_US">Sample XML Files Generator</val>
+      </comment>
+      <val lang="zh_CN">Sample XML Files Generator</val>
+   </key>
+   <key distribution="eclipse" value="command.description.73" type="action">
+      <comment>command.description.73</comment>
+      <comment>
+         <val lang="en_US">Validate editor content with cached resources</val>
+      </comment>
+      <val lang="zh_CN">Validate editor content with cached resources</val>
+   </key>
+   <key distribution="common" value="Validate_cached">
+      <comment>Validate (cached) action</comment>
+      <comment>
+         <val lang="en_US">Validate (cached)</val>
+      </comment>
+      <val lang="zh_CN">Validate (cached)</val>
+   </key>
+   <key value="Merge_or_replace_imported_attrs">
+      <comment>Question shown in "Confirm DITAVAL import" dialog.</comment>
+      <comment>
+         <val lang="en_US">Do you want to merge already defined profiling attributes with the ones extracted from the
+            DITAVAL file(s)?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to merge already defined profiling attributes with the ones extracted from the
+            DITAVAL file(s)?</val>
+   </key>
+   <key value="Attrs_already_defined">
+      <comment>Message shown in the "Confirm DITAVAL import" dialog, before a table which contains the attributes from
+            Options.</comment>
+      <comment>
+         <val lang="en_US">Already defined profiling attributes</val>
+      </comment>
+      <val lang="zh_CN">Already defined profiling attributes</val>
+   </key>
+   <key value="Attrs_values_extracted_ditaval_files">
+      <comment>Message shown in the "Confirm DITAVAL import" dialog, before a table which contains the imported
+            attributes.</comment>
+      <comment>
+         <val lang="en_US">Attributes and values extracted from DITAVAL file(s)</val>
+      </comment>
+      <val lang="zh_CN">Attributes and values extracted from DITAVAL file(s)</val>
+   </key>
+   <key value="Exception_on_move_rename_operation">
+      <comment>Message shown when the Move/Rename operation fails because of an exception</comment>
+      <comment>
+         <val lang="en_US">An error occurred and the Move/Rename operation cannot be completed.</val>
+      </comment>
+      <val lang="zh_CN">An error occurred and the Move/Rename operation cannot be completed.</val>
+   </key>
+   <key value="Huge_doc_save_requires_safe_save">
+      <comment>If the user wants to modify and then save huge documents (over 300 MBs) the "Safe save" checkbox needs
+            to be checked in the Oxygen Preferences. This is an error message presented when the user saves with "Safe
+            save" unchecked.</comment>
+      <comment>
+         <val lang="en_US">Saving huge files is only available when "Safe save" is checked in the Preferences
+            dialog.</val>
+      </comment>
+      <val lang="zh_CN">Saving huge files is only available when "Safe save" is checked in the Preferences
+            dialog.</val>
+   </key>
+   <key value="Import_profiling_atts_finished">
+      <comment>Success message shown when profiling attributes were imported from DITAVAL.</comment>
+      <comment>
+         <val lang="en_US">Import profiling attributes from DITAVAL finished.</val>
+      </comment>
+      <val lang="zh_CN">Import profiling attributes from DITAVAL finished.</val>
+   </key>
+   <key value="No_profiling_attributes_to_detect">
+      <comment>Message shown when there is no profiling attribute to be imported.</comment>
+      <comment>
+         <val lang="en_US">No profiling attribute was detected from the selected DITAVAL file(s).</val>
+      </comment>
+      <val lang="zh_CN">No profiling attribute was detected from the selected DITAVAL file(s).</val>
+   </key>
+   <key value="Cannot_extract_profiling_attributes">
+      <comment>Error message shown when the profiling attributes cannot be extracted from a DITAVAL file.</comment>
+      <comment>
+         <val lang="en_US">Cannot extract profiling attributes from: {0}.\nThe error is: {1}.</val>
+      </comment>
+      <val lang="zh_CN">Cannot extract profiling attributes from: {0}.\nThe error is: {1}.</val>
+   </key>
+   <key distribution="eclipse" value="automatic.warning.name">
+      <comment>automatic.warning.name</comment>
+      <comment>
+         <val lang="en_US">Automatic Warning</val>
+      </comment>
+      <val lang="zh_CN">Automatic Warning</val>
+   </key>
+   <key distribution="eclipse" value="automatic.error.name">
+      <comment>automatic.error.name</comment>
+      <comment>
+         <val lang="en_US">Automatic Problem</val>
+      </comment>
+      <val lang="zh_CN">Automatic Problem</val>
+   </key>
+   <key value="Debugger_stopped_by_editing">
+      <comment>A message to the user telling that the debugger was stopped because the source file was
+            edited.</comment>
+      <comment>
+         <val lang="en_US">The source file was changed. Debugger stopped!</val>
+      </comment>
+      <val lang="zh_CN">The source file was changed. Debugger stopped!</val>
+   </key>
+   <key value="Drive_full_error">
+      <comment>Error message that there is no more space on the current partition to save the file.</comment>
+      <comment>
+         <val lang="en_US">There is not enough space in the destination drive.</val>
+      </comment>
+      <val lang="zh_CN">There is not enough space in the destination drive.</val>
+   </key>
+   <key value="No_spelling_errors_found">
+      <comment>Message displayed when no spelling errors were found.</comment>
+      <comment>
+         <val lang="en_US">No spelling errors were found.</val>
+      </comment>
+      <val lang="zh_CN">No spelling errors were found.</val>
+   </key>
+   <key value="Optimize_loading_large_files">
+      <comment>Option to optimize loading for large files (less than 300 MBs)</comment>
+      <comment>
+         <val lang="en_US">Optimize loading for large files</val>
+      </comment>
+      <val lang="zh_CN">Optimize loading for large files</val>
+   </key>
+   <key value="Optimize_loading_huge_files">
+      <comment>Option to optimize loading for huge files (more than 300 MBs)</comment>
+      <comment>
+         <val lang="en_US">Optimize loading for huge files</val>
+      </comment>
+      <val lang="zh_CN">Optimize loading for huge files</val>
+   </key>
+   <key value="Svn_change_wc_admin_dir_name">
+      <comment>SVN Client action used to change the name of the working copy administrative directory</comment>
+      <comment>
+         <val lang="en_US">Change working copy administrative directory name</val>
+      </comment>
+      <val lang="zh_CN">Change working copy administrative directory name</val>
+   </key>
+   <key value="Svn_wc_admin_dir_rename_warning">
+      <comment>SVN Client warning message when changing working copy administrative directory name</comment>
+      <comment>
+         <val lang="en_US">Changing working copy administrative directory name will have effect only for future working
+            copies.\n Existing working copies will not be recognized after.</val>
+      </comment>
+      <val lang="zh_CN">Changing working copy administrative directory name will have effect only for future working
+            copies.\n Existing working copies will not be recognized after.</val>
+   </key>
+   <key value="Insert_cross_refence_link">
+      <comment>'Cross reference (link)' dialog title.</comment>
+      <comment>
+         <val lang="en_US">Cross reference (link)</val>
+      </comment>
+      <val lang="zh_CN">Cross reference (link)</val>
+   </key>
+   <key value="Insert_cross_reference_xref">
+      <comment>'Cross reference (xref)' dialog title.</comment>
+      <comment>
+         <val lang="en_US">Cross reference (xref)</val>
+      </comment>
+      <val lang="zh_CN">Cross reference (xref)</val>
+   </key>
+   <key value="Use_a_secure_https_connection">
+      <comment>Checkbox used in the eXist database connection configuration dialog.</comment>
+      <comment>
+         <val lang="en_US">Use a secure HTTPS connection (SSL)</val>
+      </comment>
+      <val lang="zh_CN">Use a secure HTTPS connection (SSL)</val>
+   </key>
+   <key value="Svn_app_global_ignore_patterns_info">
+      <comment>Information message about how a set of filename patterns are applied</comment>
+      <comment>
+         <val lang="en_US">Filename patterns are case-sensitive: "*.txt" will match "file.txt", but will not match
+            "file.TXT".</val>
+      </comment>
+      <val lang="zh_CN">Filename patterns are case-sensitive: "*.txt" will match "file.txt", but will not match
+            "file.TXT".</val>
+   </key>
+   <key distribution="eclipse" value="Move_rename_description">
+      <comment>Move/rename action description from DITA Maps manager.</comment>
+      <comment>
+         <val lang="en_US">Renames or moves the selected DITA Map resource.</val>
+      </comment>
+      <val lang="zh_CN">Renames or moves the selected DITA Map resource.</val>
+   </key>
+   <key value="All_opened_files_will_be_saved">
+      <comment>Message shown in "Save all files" dialog.</comment>
+      <comment>
+         <val lang="en_US">All opened files will be saved.</val>
+      </comment>
+      <val lang="zh_CN">All opened files will be saved.</val>
+   </key>
+   <key value="Exception_occured_when_update_references">
+      <comment>Warning message shown when an exception occurs on Rename/Move action from DITA Maps Manager.</comment>
+      <comment>
+         <val lang="en_US">An exception occurred while trying to update references.\nRename/Move operation was
+            canceled.</val>
+      </comment>
+      <val lang="zh_CN">An exception occurred while trying to update references.\nRename/Move operation was
+            canceled.</val>
+   </key>
+   <key value="Default_xml_schema_validation_engine">
+      <comment>Checkbox label in XML Schema option page.</comment>
+      <comment>
+         <val lang="en_US">Default XML Schema validation engine</val>
+      </comment>
+      <val lang="zh_CN">Default XML Schema validation engine</val>
+   </key>
+   <key value="Default_xml_schema_version">
+      <comment>XML Schema option pane label.</comment>
+      <comment>
+         <val lang="en_US">Default XML Schema version</val>
+      </comment>
+      <val lang="zh_CN">Default XML Schema version</val>
+   </key>
+   <key value="Xerces_validation_features">
+      <comment>XML Schema option pane label.</comment>
+      <comment>
+         <val lang="en_US">Xerces validation features</val>
+      </comment>
+      <val lang="zh_CN">Xerces validation features</val>
+   </key>
+   <key value="Saxon_EE_validation_features">
+      <comment>XML Schema option pane label.</comment>
+      <comment>
+         <val lang="en_US">Saxon-EE validation features</val>
+      </comment>
+      <val lang="zh_CN">Saxon-EE validation features</val>
+   </key>
+   <key value="There_are_no_references_to_update">
+      <comment>Warning message shown when there are no references to update.</comment>
+      <comment>
+         <val lang="en_US">There are no references to update in accordance with the new location.</val>
+      </comment>
+      <val lang="zh_CN">There are no references to update in accordance with the new location.</val>
+   </key>
+   <key value="Move_rename" distribution="common">
+      <comment>Move/rename action from DITA Maps manager.</comment>
+      <comment>
+         <val lang="en_US">Move/Rename</val>
+      </comment>
+      <val lang="zh_CN">Move/Rename</val>
+   </key>
+   <key value="Svn_when_loading_old_format_wc">
+      <comment>Label for the working copy format management option</comment>
+      <comment>
+         <val lang="en_US">When loading an old format working copy</val>
+      </comment>
+      <val lang="zh_CN">When loading an old format working copy</val>
+   </key>
+   <key value="Framework_extension_error_message">
+      <comment>Error message for when the framework extension is different than ".framework"</comment>
+      <comment>
+         <val lang="en_US">The external storage location file name must have the extension ".framework".</val>
+      </comment>
+      <val lang="zh_CN">The external storage location file name must have the extension ".framework".</val>
+   </key>
+   <key value="Spell_check_completed">
+      <comment>Message displayed when spell check is finished.</comment>
+      <comment>
+         <val lang="en_US">Spell checking completed.</val>
+      </comment>
+      <val lang="zh_CN">Spell checking completed.</val>
+   </key>
+   <key value="The_named_file_already_exists">
+      <comment>Message displayed when a dropped project file already exists at the destination.</comment>
+      <comment>
+         <val lang="en_US">The file "{0}" already exists.</val>
+      </comment>
+      <val lang="zh_CN">The file "{0}" already exists.</val>
+   </key>
+   <key value="The_named_folder_already_exists">
+      <comment>Message displayed when a dropped project folder already exists at the destination.</comment>
+      <comment>
+         <val lang="en_US">The folder "{0}" already exists.</val>
+      </comment>
+      <val lang="zh_CN">The folder "{0}" already exists.</val>
+   </key>
+   <key value="Replace_files_warning">
+      <comment>Warning message for some operations</comment>
+      <comment>
+         <val lang="en_US">The following files will be replaced:</val>
+      </comment>
+      <val lang="zh_CN">The following files will be replaced:</val>
+   </key>
+   <key value="Svn_17_wc_root_selection_warning">
+      <comment>Message presented in the SVN client when trying to load only a part of an SVN 1.7 working
+            copy</comment>
+      <comment>
+         <val lang="en_US">Due to the new architecture of SVN 1.7/1.8 working copies, the full working copy needs to be
+            loaded.</val>
+      </comment>
+      <val lang="zh_CN">Due to the new architecture of SVN 1.7/1.8 working copies, the full working copy needs to be
+            loaded.</val>
+   </key>
+   <key value="Svn_directory_depth_limit">
+      <comment>Message for components allowing user to change the directory processing limit (tree depth) in
+            SVN</comment>
+      <comment>
+         <val lang="en_US">Directory depth limit</val>
+      </comment>
+      <val lang="zh_CN">Directory depth limit</val>
+   </key>
+   <key value="Selected_counter_of_total">
+      <comment>How many items are selected from the total number available, like 3 of 10</comment>
+      <comment>
+         <val lang="en_US">Selected: {0} of {1}</val>
+      </comment>
+      <val lang="zh_CN">Selected: {0} of {1}</val>
+   </key>
+   <key value="Svn_no_ignore">
+      <comment>SVN Client option to not apply global ignore patterns on 'add'</comment>
+      <comment>
+         <val lang="en_US">No ignore</val>
+      </comment>
+      <val lang="zh_CN">No ignore</val>
+   </key>
+   <key value="Svn_enable_auto_properties">
+      <comment>SVN Client option to enable auto-properties on 'add'</comment>
+      <comment>
+         <val lang="en_US">Enable automatic properties</val>
+      </comment>
+      <val lang="zh_CN">Enable automatic properties</val>
+   </key>
+   <key value="Svn_disable_auto_properties">
+      <comment>SVN Client option to disable auto-properties on 'add'</comment>
+      <comment>
+         <val lang="en_US">Disable automatic properties</val>
+      </comment>
+      <val lang="zh_CN">Disable automatic properties</val>
+   </key>
+   <key value="Svn_no_resources_to_add_under_version_control">
+      <comment>SVN client message presented when there is no resource to be added under version control</comment>
+      <comment>
+         <val lang="en_US">No resources to add under version control.</val>
+      </comment>
+      <val lang="zh_CN">No resources to add under version control.</val>
+   </key>
+   <key value="Svn_wc_format_version">
+      <comment>The format of the currently loaded working copy</comment>
+      <comment>
+         <val lang="en_US">Working copy format - {0}</val>
+      </comment>
+      <val lang="zh_CN">Working copy format - {0}</val>
+   </key>
+   <key value="Modified_date">
+      <comment>Label for file last modified date-time information</comment>
+      <comment>
+         <val lang="en_US">Modified date</val>
+      </comment>
+      <val lang="zh_CN">Modified date</val>
+   </key>
+   <key value="Base_date">
+      <comment>The modification date of the BASE revision, in SVN client</comment>
+      <comment>
+         <val lang="en_US">BASE date</val>
+      </comment>
+      <val lang="zh_CN">BASE date</val>
+   </key>
+   <key value="Current_revision">
+      <comment>Resource's current revision, for SVN Client</comment>
+      <comment>
+         <val lang="en_US">Current revision</val>
+      </comment>
+      <val lang="zh_CN">Current revision</val>
+   </key>
+   <key value="Sharing_project">
+      <comment>SVN process name</comment>
+      <comment>
+         <val lang="en_US">Sharing project</val>
+      </comment>
+      <val lang="zh_CN">Sharing project</val>
+   </key>
+   <key value="Svn_processing">
+      <comment>SVN task name, like "Processing unversioned..."</comment>
+      <comment>
+         <val lang="en_US">Processing {0}</val>
+      </comment>
+      <val lang="zh_CN">Processing {0}</val>
+   </key>
+   <key value="Svn_content_of_unversioned_dirs_not_shown">
+      <comment>SVN Client option to show contents of working copy unversioned directories.</comment>
+      <comment>
+         <val lang="en_US">The content of {0} directories is not shown</val>
+      </comment>
+      <val lang="zh_CN">The content of {0} directories is not shown</val>
+   </key>
+   <key value="Svn_show_unversioned_dirs_content">
+      <comment>SVN Client option to show contents of working copy unversioned directories.</comment>
+      <comment>
+         <val lang="en_US">Show unversioned directories content</val>
+      </comment>
+      <val lang="zh_CN">Show unversioned directories content</val>
+   </key>
+   <key value="Show_ignored_items">
+      <comment>SVN Client options to show working copy ignored items</comment>
+      <comment>
+         <val lang="en_US">Show ignored items</val>
+      </comment>
+      <val lang="zh_CN">Show ignored items</val>
+   </key>
+   <key value="Svn_show_ignored_dirs_content">
+      <comment>SVN Client option to show contents of working copy ignored directories</comment>
+      <comment>
+         <val lang="en_US">Show ignored directories content</val>
+      </comment>
+      <val lang="zh_CN">Show ignored directories content</val>
+   </key>
+   <key value="Show_deleted_items">
+      <comment>SVN Client options to show working copy deleted items</comment>
+      <comment>
+         <val lang="en_US">Show deleted items</val>
+      </comment>
+      <val lang="zh_CN">Show deleted items</val>
+   </key>
+   <key value="Svn_wc_17_downgrade_warning">
+      <comment>Message displayed when trying to downgrade an SVN 1.7 working copy</comment>
+      <comment>
+         <val lang="en_US">SVN 1.7 working copies cannot be downgraded to older formats.</val>
+      </comment>
+      <val lang="zh_CN">SVN 1.7 working copies cannot be downgraded to older formats.</val>
+   </key>
+   <key value="Svn_directory_already_versioned">
+      <comment>Message presented when the chosen directory is under version control already</comment>
+      <comment>
+         <val lang="en_US">The selected directory is already under version control.</val>
+      </comment>
+      <val lang="zh_CN">The selected directory is already under version control.</val>
+   </key>
+   <key value="Convert_schema_tip">
+      <comment>Tip shown when a wrong schema was selected in Generate Sample XML Instance dialog.</comment>
+      <comment>
+         <val lang="en_US">Note: You can convert your schema to an equivalent XML Schema using "Generate/Convert Schema"
+            action from Tools menu.</val>
+      </comment>
+      <val lang="zh_CN">Note: You can convert your schema to an equivalent XML Schema using "Generate/Convert Schema"
+            action from Tools menu.</val>
+   </key>
+   <key value="Erorr_reported_by_parser">
+      <comment>Message shown when a wrong schema was selected in Generate Sample XML Instance dialog.</comment>
+      <comment>
+         <val lang="en_US">Error reported by parser</val>
+      </comment>
+      <val lang="zh_CN">Error reported by parser</val>
+   </key>
+   <key value="Choose_valid_schema">
+      <comment>Message shown when a wrong schema was selected in Generate Sample XML Instance dialog.</comment>
+      <comment>
+         <val lang="en_US">Please choose a valid XML Schema (XSD).</val>
+      </comment>
+      <val lang="zh_CN">Please choose a valid XML Schema (XSD).</val>
+   </key>
+   <key value="Changes_immediately_applied_on_archive">
+      <comment>Warning dialog shown when an archive is opened.</comment>
+      <comment>
+         <val lang="en_US">Please note that all modifications made to the structure of the archive, or to the contents of
+            the files inside the archive, are immediately saved.</val>
+      </comment>
+      <val lang="zh_CN">Please note that all modifications made to the structure of the archive, or to the contents of
+            the files inside the archive, are immediately saved.</val>
+   </key>
+   <key value="Browsable">
+      <comment>Column name in database connections table.</comment>
+      <comment>
+         <val lang="en_US">Browsable</val>
+      </comment>
+      <val lang="zh_CN">Browsable</val>
+   </key>
+   <key value="Subscription_is_over">
+      <comment>Title of the dialog displayed when the subscription has expired.</comment>
+      <comment>
+         <val lang="en_US">Your subscription is over</val>
+      </comment>
+      <val lang="zh_CN">Your subscription is over</val>
+   </key>
+   <key value="Subscription_expired_message">
+      <comment>Message displayed when the subscription has expired.</comment>
+      <comment>
+         <val lang="en_US">You have used the application with a subscription license key which has expired.\n If you
+            would like to continue using the product, you need a valid license key.</val>
+      </comment>
+      <val lang="zh_CN">You have used the application with a subscription license key which has expired.\n If you
+            would like to continue using the product, you need a valid license key.</val>
+   </key>
+   <key value="Thank_you_for_using_subscription">
+      <comment>Message to the user when the S&amp;MP is close to expiration.</comment>
+      <comment>
+         <val lang="en_US">Thank you for using {0} subscription</val>
+      </comment>
+      <val lang="zh_CN">Thank you for using {0} subscription</val>
+   </key>
+   <key value="Maintenance_days_left">
+      <comment>Message in licensing dialog.</comment>
+      <comment>
+         <val lang="en_US">Maintenance days left</val>
+      </comment>
+      <val lang="zh_CN">Maintenance days left</val>
+   </key>
+   <key value="Subscription">
+      <comment>Subscription.</comment>
+      <comment>
+         <val lang="en_US">Subscription</val>
+      </comment>
+      <val lang="zh_CN">Subscription</val>
+   </key>
+   <key value="Subscription_days_left">
+      <comment>Message in licensing dialog.</comment>
+      <comment>
+         <val lang="en_US">Subscription days left</val>
+      </comment>
+      <val lang="zh_CN">Subscription days left</val>
+   </key>
+   <key value="Sequence_having_items_of_type">
+      <comment>Tooltip in XWatch view.</comment>
+      <comment>
+         <val lang="en_US">Sequence having {0} item(s) of type {1}</val>
+      </comment>
+      <val lang="zh_CN">Sequence having {0} item(s) of type {1}</val>
+   </key>
+   <key value="Sequence_having_items">
+      <comment>Tooltip in XWatch view.</comment>
+      <comment>
+         <val lang="en_US">Sequence having {0} item(s)</val>
+      </comment>
+      <val lang="zh_CN">Sequence having {0} item(s)</val>
+   </key>
+   <key value="No_scenario_associated_message_afs_unchecked">
+      <comment>Message shown in 'Configure transformation scenarios dialog' when there is no scenarios associated and
+            mode 'Association follows selection' is not selected.</comment>
+      <comment>
+         <val lang="en_US">There are no scenarios associated with the document(s). To associate one or more scenarios,
+            select their checkboxes in the table above.</val>
+      </comment>
+      <val lang="zh_CN">There are no scenarios associated with the document(s). To associate one or more scenarios,
+            select their checkboxes in the table above.</val>
+   </key>
+   <key value="No_scenario_associated_message_afs_checked">
+      <comment>Message shown in 'Configure transformation scenarios dialog' when there is no scenarios associated and
+            mode 'Association follows selection' is selected.</comment>
+      <comment>
+         <val lang="en_US">There are no scenarios associated with the document(s). To associate one or more scenarios,
+            select them in the table above.</val>
+      </comment>
+      <val lang="zh_CN">There are no scenarios associated with the document(s). To associate one or more scenarios,
+            select them in the table above.</val>
+   </key>
+   <key value="Association_follows_selection">
+      <comment>Check box label in the select scenario dialog.</comment>
+      <comment>
+         <val lang="en_US">Association follows selection</val>
+      </comment>
+      <val lang="zh_CN">Association follows selection</val>
+   </key>
+   <key value="No_main_files_detected_explanation">
+      <comment>Explanation label in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">There are no {0} files in the given resources set.</val>
+      </comment>
+      <val lang="zh_CN">There are no {0} files in the given resources set.</val>
+   </key>
+   <key value="Detect_and_enable" type="action">
+      <comment>Name of the button that detects and enables Main Files.</comment>
+      <comment>
+         <val lang="en_US">Detect and Enable</val>
+      </comment>
+      <val lang="zh_CN">Detect and Enable</val>
+   </key>
+   <key value="Assertions_can_see_comments">
+      <comment>Controls whether comments and processing instructions are visible to the XPath expression used to
+            define an assertion.</comment>
+      <comment>
+         <val lang="en_US">Assertions can see comments and processing instructions</val>
+      </comment>
+      <val lang="zh_CN">Assertions can see comments and processing instructions</val>
+   </key>
+   <key value="Multiple_schema_imports">
+      <comment>Saxon-EE validation option that will handle multiple imported schemas that have the same
+            namespace.</comment>
+      <comment>
+         <val lang="en_US">Multiple schema imports</val>
+      </comment>
+      <val lang="zh_CN">Multiple schema imports</val>
+   </key>
+   <key value="Default_validation_scenario_message">
+      <comment>Message shown in 'Configure validation scenarios' when there is no associated scenario but associated
+            document type has default scenarios defined.</comment>
+      <comment>
+         <val lang="en_US">There are no scenarios associated with the document(s). In this case, the &lt;b&gt;default
+            validation scenario(s)&lt;/b&gt; defined in the &lt;b&gt;{0}&lt;/b&gt; document type will be applied.</val>
+      </comment>
+      <val lang="zh_CN">There are no scenarios associated with the document(s). In this case, the &lt;b&gt;default
+            validation scenario(s)&lt;/b&gt; defined in the &lt;b&gt;{0}&lt;/b&gt; document type will be applied.</val>
+   </key>
+   <key value="Default_validation_message">
+      <comment>Message shown in 'Configure validation scenarios' when there is no associated scenario.</comment>
+      <comment>
+         <val lang="en_US">There are no scenarios associated with the document(s). In this case, the &lt;b&gt;default
+            validation&lt;/b&gt; will be applied.</val>
+      </comment>
+      <val lang="zh_CN">There are no scenarios associated with the document(s). In this case, the &lt;b&gt;default
+            validation&lt;/b&gt; will be applied.</val>
+   </key>
+   <key value="Apply_default_validation">
+      <comment>Button text from 'Configure validation scenarios' dialog.</comment>
+      <comment>
+         <val lang="en_US">Apply default validation</val>
+      </comment>
+      <val lang="zh_CN">Apply default validation</val>
+   </key>
+   <key value="Update_site">
+      <comment>Label presented before the URL from where an add-on is discovered.</comment>
+      <comment>
+         <val lang="en_US">Update site</val>
+      </comment>
+      <val lang="zh_CN">Update site</val>
+   </key>
+   <key value="Addons_installed_hint">
+      <comment>Label in the tab that presents all the add-ons already installed</comment>
+      <comment>
+         <val lang="en_US">These are the add-ons that are already installed in Oxygen.</val>
+      </comment>
+      <val lang="zh_CN">These are the add-ons that are already installed in Oxygen.</val>
+   </key>
+   <key value="Document_type_rule_activation_message">
+      <comment>Label included in the dialog for setting a rule for a document type. The message suggest that all
+            criteria must be met to match the rule.</comment>
+      <comment>
+         <val lang="en_US">Activates on any document matching ALL the following criteria</val>
+      </comment>
+      <val lang="zh_CN">Activates on any document matching ALL the following criteria</val>
+   </key>
+   <key value="Automatic">
+      <comment>Label name suggesting that the used color is assigned automatically for all authors.</comment>
+      <comment>
+         <val lang="en_US">Automatic</val>
+      </comment>
+      <val lang="zh_CN">Automatic</val>
+   </key>
+   <key value="Fixed">
+      <comment>Label name suggesting that the used color is fixed for all authors.</comment>
+      <comment>
+         <val lang="en_US">Fixed</val>
+      </comment>
+      <val lang="zh_CN">Fixed</val>
+   </key>
+   <key distribution="eclipse" value="editor.name.xspec">
+      <comment>The name of the XSpec editor.</comment>
+      <comment>
+         <val lang="en_US">Oxygen XSpec Editor</val>
+      </comment>
+      <val lang="zh_CN">Oxygen XSpec Editor</val>
+   </key>
+   <key value="Breakpoint_wrong_line">
+      <comment>Message when the user adds a breakpoint on a line where we know the debugger wont stop.</comment>
+      <comment>
+         <val lang="en_US">The debugger will not stop at this line. Try setting the breakpoint on an adjacent line.</val>
+      </comment>
+      <val lang="zh_CN">The debugger will not stop at this line. Try setting the breakpoint on an adjacent line.</val>
+   </key>
+   <key value="Cycle">
+      <comment>Label in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">Cycle</val>
+      </comment>
+      <val lang="zh_CN">Cycle</val>
+   </key>
+   <key value="Module">
+      <comment>Tooltip in the Main Files Detector Wizard.</comment>
+      <comment>
+         <val lang="en_US">Module</val>
+      </comment>
+      <val lang="zh_CN">Module</val>
+   </key>
+   <key value="Enable_relax_ng_defaults">
+      <comment>Used as a checkbox label to enable/disable the support that adds default attribute values by looking
+            into a RELAX NG schema for default value annotations. If enabled attributes that are not present in the
+            document but are defined with default values in the schema will be automatically added with a "specified"
+            property set to false to mark the fact that they were added from the schema (they are not present in the
+            document). </comment>
+      <comment>
+         <val lang="en_US">Add default attribute values</val>
+      </comment>
+      <val lang="zh_CN">Add default attribute values</val>
+   </key>
+   <key distribution="eclipse" value="action.label.15" type="action">
+      <comment>'Configure Transformation' action label text.</comment>
+      <comment>
+         <val lang="en_US">&amp;Configure Transformation Scenario(s)...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Configure Transformation Scenario(s)...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.16" type="action">
+      <comment>'Apply Transformation' action label text.</comment>
+      <comment>
+         <val lang="en_US">&amp;Apply Transformation Scenario(s)...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Apply Transformation Scenario(s)...</val>
+   </key>
+   <key distribution="eclipse" value="action.label.10" type="action">
+      <comment>Configure validation scenario action label text.</comment>
+      <comment>
+         <val lang="en_US">&amp;Configure validation scenario(s)...</val>
+      </comment>
+      <val lang="zh_CN">&amp;Configure validation scenario(s)...</val>
+   </key>
+   <key distribution="common" value="Configure_validation_scenario">
+      <comment>Title for Configure validation scenario dialog.</comment>
+      <comment>
+         <val lang="en_US">Configure Validation Scenario(s)</val>
+      </comment>
+      <val lang="zh_CN">Configure Validation Scenario(s)</val>
+   </key>
+   <key value="wizard.description.xspec" distribution="eclipse">
+      <comment>Used in the Eclipse wizard.</comment>
+      <comment>
+         <val lang="en_US">A wizard that creates new XSLT Unit Test</val>
+      </comment>
+      <val lang="zh_CN">A wizard that creates new XSLT Unit Test</val>
+   </key>
+   <key value="Transformation_scenario_s">
+      <comment>Used in the Document properties dialog</comment>
+      <comment>
+         <val lang="en_US">Transformation Scenario(s)</val>
+      </comment>
+      <val lang="zh_CN">Transformation Scenario(s)</val>
+   </key>
+   <key value="Validation_scenarios">
+      <comment>Validation scenario.</comment>
+      <comment>
+         <val lang="en_US">Validation Scenario(s)</val>
+      </comment>
+      <val lang="zh_CN">Validation Scenario(s)</val>
+   </key>
+   <key distribution="common" value="Apply_style_sheet_tooltip">
+      <comment>Tooltip on the transformation button.</comment>
+      <comment>
+         <val lang="en_US">Apply Transformation Scenario(s)</val>
+      </comment>
+      <val lang="zh_CN">Apply Transformation Scenario(s)</val>
+   </key>
+   <key value="Stopped_at">
+      <comment>Information about where the debugger has stopped relative to the current expression.</comment>
+      <comment>
+         <val lang="en_US">Stopped at: {0}</val>
+      </comment>
+      <val lang="zh_CN">Stopped at: {0}</val>
+   </key>
+   <key value="To_ignore_encoding_errors">
+      <comment>The message that instructs the user what to do to be able to open a document that contains encoding
+            errors. It directs the user to the options and instructs it to change the option with the name given by the
+            Encoding_errors_handling key (so make sure the same translation is used in this message as it is in that
+            key). Oxygen product name should be written like Oxygen</comment>
+      <comment>
+         <val lang="en_US">Got a character encoding exception.\n\nFile encoding ({0}) does not support all characters
+            from the current file.\nTo ignore these errors or to replace invalid characters, go to the Preferences pages
+            and change the "Encoding errors handling" option value from REPORT to IGNORE or REPLACE.</val>
+      </comment>
+      <val lang="zh_CN">Got a character encoding exception.\n\nFile encoding ({0}) does not support all characters
+            from the current file.\nTo ignore these errors or to replace invalid characters, go to the Preferences pages
+            and change the "Encoding errors handling" option value from REPORT to IGNORE or REPLACE.</val>
+   </key>
+   <key value="No_updates_available">
+      <comment>Information message and dialog title when no updates were detected for the installed add-ons.</comment>
+      <comment>
+         <val lang="en_US">No updates available</val>
+      </comment>
+      <val lang="zh_CN">No updates available</val>
+   </key>
+   <key value="Addons_web_link">
+      <comment>Link in the Add-ons options page that opens a web page where the user can find out more about add-ons
+            as well as discover new add-ons.</comment>
+      <comment>
+         <val lang="en_US">Find out more about Oxygen add-ons</val>
+      </comment>
+      <val lang="zh_CN">Find out more about Oxygen add-ons</val>
+   </key>
+   <key value="Plugins_discover_hint">
+      <comment>Link in the Plugins page that provides a hint about the possibility to install plugins through the
+            add-ons system. The link leads to the Add-ons page.</comment>
+      <comment>
+         <val lang="en_US">Discover more plugins by using add-ons update sites</val>
+      </comment>
+      <val lang="zh_CN">Discover more plugins by using add-ons update sites</val>
+   </key>
+   <key value="Frameworks_discover_hint">
+      <comment>Link in the Document Types Association page that provides a hint about the possibility to install
+            frameworks through the add-ons system. The link leads to the Add-ons page.</comment>
+      <comment>
+         <val lang="en_US">Discover more frameworks by using add-ons update sites</val>
+      </comment>
+      <val lang="zh_CN">Discover more frameworks by using add-ons update sites</val>
+   </key>
+   <key value="Frameworks_discover_hint_tooltip">
+      <comment>Tooltip in the Document Types Association page that provides a hint about the possibility to install
+            frameworks through the add-ons system. The link leads to the Add-ons page.</comment>
+      <comment>
+         <val lang="en_US">Frameworks and plugins can be automatically discovered and installed from a remote location
+            using the add-ons install system.</val>
+      </comment>
+      <val lang="zh_CN">Frameworks and plugins can be automatically discovered and installed from a remote location
+            using the add-ons install system.</val>
+   </key>
+   <key value="Addon">
+      <comment>An Oxygen add-on. A package that can be remotely discovered by Oxygen and can be installed, updated or
+            uninstalled.</comment>
+      <comment>
+         <val lang="en_US">Add-on</val>
+      </comment>
+      <val lang="zh_CN">Add-on</val>
+   </key>
+   <key value="Addons_unistall_hint">
+      <comment>If a framework is installed in Oxygen through the Add-ons system we don't permit the user to delete it.
+            This is a hint that suggests using the Add-ons system to uninstall.</comment>
+      <comment>
+         <val lang="en_US">Do you want to open the add-ons manager?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to open the add-ons manager?</val>
+   </key>
+   <key value="Framework_installed_as_addons_is_read_only">
+      <comment>If a framework is installed in Oxygen through the Add-ons system we don't permit the user to alter
+            it.</comment>
+      <comment>
+         <val lang="en_US">This framework was installed as an add-on.</val>
+      </comment>
+      <val lang="zh_CN">This framework was installed as an add-on.</val>
+   </key>
+   <key distribution="common" value="Stored_in_project_options">
+      <comment>Stored in project options tooltip for scenarios table.</comment>
+      <comment>
+         <val lang="en_US">Stored in Project Options</val>
+      </comment>
+      <val lang="zh_CN">Stored in Project Options</val>
+   </key>
+   <key distribution="common" value="Stored_in_global_options">
+      <comment>Stored in global options tooltip for scenarios table.</comment>
+      <comment>
+         <val lang="en_US">Stored in Global Options</val>
+      </comment>
+      <val lang="zh_CN">Stored in Global Options</val>
+   </key>
+   <key distribution="common" value="Configure_transformation">
+      <comment>Configure transformation scenarios. Tooltip for the configuration button.</comment>
+      <comment>
+         <val lang="en_US">Configure Transformation Scenario(s)</val>
+      </comment>
+      <val lang="zh_CN">Configure Transformation Scenario(s)</val>
+   </key>
+   <key value="Refresh_context">
+      <comment>Action in the MarkLogic XQuery debugger that updates the status of the debugger after interrogating the
+            server.</comment>
+      <comment>
+         <val lang="en_US">Refresh current session context from server</val>
+      </comment>
+      <val lang="zh_CN">Refresh current session context from server</val>
+   </key>
+   <key distribution="common" value="Xml_signing_certificates">
+      <comment>Name of the certificates option pane</comment>
+      <comment>
+         <val lang="en_US">XML Signing Certificates</val>
+      </comment>
+      <val lang="zh_CN">XML Signing Certificates</val>
+   </key>
+   <key value="said">
+      <comment> This label is shown in a dialog that displays the comment created by a reviewer. The text displayed in
+            the label is "[reviewer_author] said:", where [reviewer_author_name] represents the name of the author that
+            created the comment.</comment>
+      <comment>
+         <val lang="en_US">{0} said</val>
+      </comment>
+      <val lang="zh_CN">{0} said</val>
+   </key>
+   <key value="Prompt_when_move_resources">
+      <comment>Message displayed in the options indicating whether or not a confirmation dialog should be displayed
+            when moving resources.</comment>
+      <comment>
+         <val lang="en_US">Show confirmation dialog when moving resources</val>
+      </comment>
+      <val lang="zh_CN">Show confirmation dialog when moving resources</val>
+   </key>
+   <key value="Track_changes_option_page_section">
+      <comment>Track changes section from option page.</comment>
+      <comment>
+         <val lang="en_US">Track Changes (applies for all authors)</val>
+      </comment>
+      <val lang="zh_CN">Track Changes (applies for all authors)</val>
+   </key>
+   <key value="Comments_color">
+      <comment>Title for comments section.</comment>
+      <comment>
+         <val lang="en_US">Comments color (applies for all authors)</val>
+      </comment>
+      <val lang="zh_CN">Comments color (applies for all authors)</val>
+   </key>
+   <key value="Xml_documents_signing_cerificates">
+      <comment>Message for Certificates page from Preferences.</comment>
+      <comment>
+         <val lang="en_US">Certificates for Signing XML Documents</val>
+      </comment>
+      <val lang="zh_CN">Certificates for Signing XML Documents</val>
+   </key>
+   <key value="Execute_engine">
+      <comment>Execute button tooltip from XPath builder.</comment>
+      <comment>
+         <val lang="en_US">Execute {0}</val>
+      </comment>
+      <val lang="zh_CN">Execute {0}</val>
+   </key>
+   <key value="Define_scope_info_label">
+      <comment>Information label used in Define Scope dialog.</comment>
+      <comment>
+         <val lang="en_US">The scope contains all the files imported or included from the selected resources and from the
+            current file.</val>
+      </comment>
+      <val lang="zh_CN">The scope contains all the files imported or included from the selected resources and from the
+            current file.</val>
+   </key>
+   <key value="Action_not_available_in_current_location">
+      <comment>Error message shown when an action could not be executed in current location.</comment>
+      <comment>
+         <val lang="en_US">The action: ''{0}'' is not available in the current location.</val>
+      </comment>
+      <val lang="zh_CN">The action: ''{0}'' is not available in the current location.</val>
+   </key>
+   <key value="Colors_for_automatic_assignement">
+      <comment>Authors automatic assignment colors for track changes.</comment>
+      <comment>
+         <val lang="en_US">Colors for automatic assignment</val>
+      </comment>
+      <val lang="zh_CN">Colors for automatic assignment</val>
+   </key>
+   <key value="Addon_status_installed">
+      <comment>Status for an add-on that informs the user that the latest compatible version is already
+            installed.</comment>
+      <comment>
+         <val lang="en_US">Installed</val>
+      </comment>
+      <val lang="zh_CN">Installed</val>
+   </key>
+   <key value="Addon_status_incompatibile">
+      <comment>Status for an add-on that informs the user that it isn't compatible with the current Oxygen
+            version.</comment>
+      <comment>
+         <val lang="en_US">Incompatible</val>
+      </comment>
+      <val lang="zh_CN">Incompatible</val>
+   </key>
+   <key value="Addon_status_update_available">
+      <comment>Status for an add-on that informs the user that this is a add-on already installed and a new version is
+            available.</comment>
+      <comment>
+         <val lang="en_US">Update available</val>
+      </comment>
+      <val lang="zh_CN">Update available</val>
+   </key>
+   <key value="Addon_status_installable_tt">
+      <comment>Tooltip for the status of an add-on that informs the user that this is a new add-on, that is compatible
+            and can be installed.</comment>
+      <comment>
+         <val lang="en_US">New add-on. Can be installed.</val>
+      </comment>
+      <val lang="zh_CN">New add-on. Can be installed.</val>
+   </key>
+   <key value="Addon_status_up_to_date_tt">
+      <comment>Tooltip for the status of an add-on that informs the user that the latest compatible version is already
+            installed.</comment>
+      <comment>
+         <val lang="en_US">The latest compatible add-on version is already installed.</val>
+      </comment>
+      <val lang="zh_CN">The latest compatible add-on version is already installed.</val>
+   </key>
+   <key value="Addon_status_update_available_tt">
+      <comment>Tooltip for the status of an add-on that informs the user that this is a add-on already installed and a
+            new version is available.</comment>
+      <comment>
+         <val lang="en_US">Add-on already installed. New update available:</val>
+      </comment>
+      <val lang="zh_CN">Add-on already installed. New update available:</val>
+   </key>
+   <key value="Addon_status_installable">
+      <comment>Status for a new add-on that informs the user that this is a new add-on that is compatible and can be
+            installed.</comment>
+      <comment>
+         <val lang="en_US">Can be installed</val>
+      </comment>
+      <val lang="zh_CN">Can be installed</val>
+   </key>
+   <key value="Addon_with_valid_signature">
+      <comment>Message presented when an add-on has a valid signature.</comment>
+      <comment>
+         <val lang="en_US">The add-on has a valid signature.</val>
+      </comment>
+      <val lang="zh_CN">The add-on has a valid signature.</val>
+   </key>
+   <key value="Addon_with_invalid_signature">
+      <comment>Message presented when an add-on has an invalid signature.</comment>
+      <comment>
+         <val lang="en_US">The add-on has an invalid signature.</val>
+      </comment>
+      <val lang="zh_CN">The add-on has an invalid signature.</val>
+   </key>
+   <key value="Addon_without_signature">
+      <comment>Message presented when an add-on is not signed.</comment>
+      <comment>
+         <val lang="en_US">The add-on is not signed.</val>
+      </comment>
+      <val lang="zh_CN">The add-on is not signed.</val>
+   </key>
+   <key value="Addons_signature_importance">
+      <comment>Message presented when an add-on is not signed or has an invalid signature.</comment>
+      <comment>
+         <val lang="en_US">By installing an add-on with an invalid or missing signature, you accept at your own risk a
+            potential security threat, since you cannot verify the integrity of the add-on issuer.</val>
+      </comment>
+      <val lang="zh_CN">By installing an add-on with an invalid or missing signature, you accept at your own risk a
+            potential security threat, since you cannot verify the integrity of the add-on issuer.</val>
+   </key>
+   <key value="Load_layout">
+      <comment>Load current views layout from a certain file</comment>
+      <comment>
+         <val lang="en_US">Load Layout</val>
+      </comment>
+      <val lang="zh_CN">Load Layout</val>
+   </key>
+   <key value="Addons_uninstall_confirm">
+      <comment>Confirmation for the add-on uninstall.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to uninstall the selected add-ons?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to uninstall the selected add-ons?</val>
+   </key>
+   <key value="Addons_signature_warn">
+      <comment>Warning presented when installing an add-on that is not signed or has an invalid signature.</comment>
+      <comment>
+         <val lang="en_US">Not all selected add-ons have valid signatures. {0}\nAdd-ons without a valid signature:
+            {1}.</val>
+      </comment>
+      <val lang="zh_CN">Not all selected add-ons have valid signatures. {0}\nAdd-ons without a valid signature:
+            {1}.</val>
+   </key>
+   <key value="Icon">
+      <comment>Icon table column title.</comment>
+      <comment>
+         <val lang="en_US">Icon</val>
+      </comment>
+      <val lang="zh_CN">Icon</val>
+   </key>
+   <key value="Incompatible_addon_warning">
+      <comment>Warning message when the user has chosen to install an add-on that is not marked as compatible with the
+            running oxygen version. This situation can happen when importing add-ons from a previous Oxygen
+            installation.</comment>
+      <comment>
+         <val lang="en_US">The add-on is not compatible with the current Oxygen version and it might not work
+            properly.</val>
+      </comment>
+      <val lang="zh_CN">The add-on is not compatible with the current Oxygen version and it might not work
+            properly.</val>
+   </key>
+   <key value="License_accept">
+      <comment>Check box in the install add-ons flow.</comment>
+      <comment>
+         <val lang="en_US">I accept all terms of the end user license agreements</val>
+      </comment>
+      <val lang="zh_CN">I accept all terms of the end user license agreements</val>
+   </key>
+   <key value="Callouts_options">
+      <comment>The callouts options action label.</comment>
+      <comment>
+         <val lang="en_US">Callouts Options</val>
+      </comment>
+      <val lang="zh_CN">Callouts Options</val>
+   </key>
+   <key value="Uninstall">
+      <comment>Button name in the manage add-ons dialog.</comment>
+      <comment>
+         <val lang="en_US">Uninstall</val>
+      </comment>
+      <val lang="zh_CN">Uninstall</val>
+   </key>
+   <key value="Manage">
+      <comment>Tab name in the manage add-ons dialog.</comment>
+      <comment>
+         <val lang="en_US">Manage</val>
+      </comment>
+      <val lang="zh_CN">Manage</val>
+   </key>
+   <key value="Install">
+      <comment>Button name in the manage add-ons dialog.</comment>
+      <comment>
+         <val lang="en_US">Install</val>
+      </comment>
+      <val lang="zh_CN">Install</val>
+   </key>
+   <key value="How_to_translate_frameworks">
+      <comment>URL label that redirects user to documentation on how to translate frameworks.</comment>
+      <comment>
+         <val lang="en_US">How to translate frameworks</val>
+      </comment>
+      <val lang="zh_CN">How to translate frameworks</val>
+   </key>
+   <key value="License_and_signature">
+      <comment>Title of the dialog that presents the license agreement and the signature for the add-ons to
+            install.</comment>
+      <comment>
+         <val lang="en_US">License and signature</val>
+      </comment>
+      <val lang="zh_CN">License and signature</val>
+   </key>
+   <key value="Show_only_compatible_addons">
+      <comment>Check box in the manage add-ons dialog.</comment>
+      <comment>
+         <val lang="en_US">Show only compatible add-ons</val>
+      </comment>
+      <val lang="zh_CN">Show only compatible add-ons</val>
+   </key>
+   <key value="Signature">
+      <comment>Signature tab title from add-ons update confirmation.</comment>
+      <comment>
+         <val lang="en_US">Signature</val>
+      </comment>
+      <val lang="zh_CN">Signature</val>
+   </key>
+   <key value="Check_for_addons_updates">
+      <comment>Action that checks for updates for the currently installed add-ons.</comment>
+      <comment>
+         <val lang="en_US">Check for add-ons updates</val>
+      </comment>
+      <val lang="zh_CN">Check for add-ons updates</val>
+   </key>
+   <key value="Review_updates">
+      <comment>Button text for reviewing updates that can update/be installed.</comment>
+      <comment>
+         <val lang="en_US">Review updates</val>
+      </comment>
+      <val lang="zh_CN">Review updates</val>
+   </key>
+   <key value="Apply_associated">
+      <comment>Text for a button used in configure scenarios dialog.</comment>
+      <comment>
+         <val lang="en_US">Apply associated</val>
+      </comment>
+      <val lang="zh_CN">Apply associated</val>
+   </key>
+   <key distribution="common" value="Debug_associated_scenario">
+      <comment>Debug associated scenario action.</comment>
+      <comment>
+         <val lang="en_US">Debug associated scenario</val>
+      </comment>
+      <val lang="zh_CN">Debug associated scenario</val>
+   </key>
+   <key distribution="common" value="Debug_selected_scenario">
+      <comment>Debug selected scenario action.</comment>
+      <comment>
+         <val lang="en_US">Debug selected scenario</val>
+      </comment>
+      <val lang="zh_CN">Debug selected scenario</val>
+   </key>
+   <key value="Following_errors_were_encountered">
+      <comment>Error message shown when add-ons installation failed.</comment>
+      <comment>
+         <val lang="en_US">The following errors were encountered while installing add-ons:</val>
+      </comment>
+      <val lang="zh_CN">The following errors were encountered while installing add-ons:</val>
+   </key>
+   <key value="Change_search_refactor_scope">
+      <comment>Button label for changing the search and refactor operations scope in project.</comment>
+      <comment>
+         <val lang="en_US">Change Search and Refactor operations scope</val>
+      </comment>
+      <val lang="zh_CN">Change Search and Refactor operations scope</val>
+   </key>
+   <key value="Update_available_notification">
+      <comment>Message shown when new add-ons versions are available.</comment>
+      <comment>
+         <val lang="en_US">{0} new update(s) are available for the installed add-ons.\n</val>
+      </comment>
+      <val lang="zh_CN">{0} new update(s) are available for the installed add-ons.\n</val>
+   </key>
+   <key value="Updates_available">
+      <comment>Dialog title when add-ons updates are available.?</comment>
+      <comment>
+         <val lang="en_US">Updates Available</val>
+      </comment>
+      <val lang="zh_CN">Updates Available</val>
+   </key>
+   <key value="Enable_automatic_checking_for_updates">
+      <comment>Option checkbox for automatic checking add-ons.</comment>
+      <comment>
+         <val lang="en_US">Enable automatic updates checking</val>
+      </comment>
+      <val lang="zh_CN">Enable automatic updates checking</val>
+   </key>
+   <key value="Addons">
+      <comment>Add-ons tag for add-ons manager.</comment>
+      <comment>
+         <val lang="en_US">Add-ons</val>
+      </comment>
+      <val lang="zh_CN">Add-ons</val>
+   </key>
+   <key value="Apply_validaton_scenarios">
+      <comment>Tooltip on the validation button.</comment>
+      <comment>
+         <val lang="en_US">Apply Validation Scenario(s)</val>
+      </comment>
+      <val lang="zh_CN">Apply Validation Scenario(s)</val>
+   </key>
+   <key value="Downloading_resources">
+      <comment>Message in the add-ons management.</comment>
+      <comment>
+         <val lang="en_US">Downloading resources</val>
+      </comment>
+      <val lang="zh_CN">Downloading resources</val>
+   </key>
+   <key value="Addons_cannot_be_installed_ask_location">
+      <comment>Dialog message when trying to update an add-on in a folder with no write permissions.</comment>
+      <comment>
+         <val lang="en_US">\nDo you want to install them in their default installation location?</val>
+      </comment>
+      <val lang="zh_CN">\nDo you want to install them in their default installation location?</val>
+   </key>
+   <key value="Addons_cannot_be_installed">
+      <comment>Dialog message when trying to update an add-on in a folder with no write permissions.</comment>
+      <comment>
+         <val lang="en_US">The following add-ons cannot be installed in their current location due to write
+            permissions:\n</val>
+      </comment>
+      <val lang="zh_CN">The following add-ons cannot be installed in their current location due to write
+            permissions:\n</val>
+   </key>
+   <key value="No_write_permissions">
+      <comment>Dialog title when trying to update an add-on in a folder with no write permissions.</comment>
+      <comment>
+         <val lang="en_US">No write permissions</val>
+      </comment>
+      <val lang="zh_CN">No write permissions</val>
+   </key>
+   <key value="Show_latest_addons_versions">
+      <comment>Show latest versions of the add-ons from the add-ons manager dialog.</comment>
+      <comment>
+         <val lang="en_US">Show only the latest versions of the add-ons</val>
+      </comment>
+      <val lang="zh_CN">Show only the latest versions of the add-ons</val>
+   </key>
+   <key value="Show_associated_scenarios">
+      <comment>Action name in the Transformation scenarios view</comment>
+      <comment>
+         <val lang="en_US">Show associated scenarios</val>
+      </comment>
+      <val lang="zh_CN">Show associated scenarios</val>
+   </key>
+   <key value="Update_previous_addons_info">
+      <comment>Message that informs the user that he can import add-ons from the previous oxygen version. </comment>
+      <comment>
+         <val lang="en_US">Updates are available for the following add-ons. Please select the ones to update.</val>
+      </comment>
+      <val lang="zh_CN">Updates are available for the following add-ons. Please select the ones to update.</val>
+   </key>
+   <key value="Import_previous_addons_info">
+      <comment>Message that informs the user that he can import add-ons from the previous oxygen version.</comment>
+      <comment>
+         <val lang="en_US">Please select the add-ons you want to import from the previous Oxygen installation.</val>
+      </comment>
+      <val lang="zh_CN">Please select the add-ons you want to import from the previous Oxygen installation.</val>
+   </key>
+   <key value="Import_previous_addons">
+      <comment>Dialog title for importing previously installed add-ons.</comment>
+      <comment>
+         <val lang="en_US">Import previous Add-ons</val>
+      </comment>
+      <val lang="zh_CN">Import previous Add-ons</val>
+   </key>
+   <key value="Apply_selected_scenarios">
+      <comment>Action name in the Transformation scenarios view</comment>
+      <comment>
+         <val lang="en_US">Apply selected scenarios</val>
+      </comment>
+      <val lang="zh_CN">Apply selected scenarios</val>
+   </key>
+   <key value="Author_external_object_insertion_handler">
+      <comment>Label in the Document Type editing dialog/ Extensions tab.</comment>
+      <comment>
+         <val lang="en_US">Author external object insertion handler</val>
+      </comment>
+      <val lang="zh_CN">Author external object insertion handler</val>
+   </key>
+   <key value="Addons_update_sites">
+      <comment>Add-ons update sites label from option pane.</comment>
+      <comment>
+         <val lang="en_US">Add-ons update sites</val>
+      </comment>
+      <val lang="zh_CN">Add-ons update sites</val>
+   </key>
+   <key value="Manage_addons">
+      <comment>Manage add-ons action name from Help menu.</comment>
+      <comment>
+         <val lang="en_US">Manage add-ons</val>
+      </comment>
+      <val lang="zh_CN">Manage add-ons</val>
+   </key>
+   <key value="Change_storage">
+      <comment>Action name in the Scenarios view</comment>
+      <comment>
+         <val lang="en_US">Change storage</val>
+      </comment>
+      <val lang="zh_CN">Change storage</val>
+   </key>
+   <key value="Select_the_scenarios_storage">
+      <comment>Label in the dialog for changing scenarios storage location</comment>
+      <comment>
+         <val lang="en_US">Select the scenarios new storage location:</val>
+      </comment>
+      <val lang="zh_CN">Select the scenarios new storage location:</val>
+   </key>
+   <key value="Keep_original_scenario">
+      <comment>Label in the dialog for changing scenarios storage location</comment>
+      <comment>
+         <val lang="en_US">Keep original scenarios and make copies in the new storage location</val>
+      </comment>
+      <val lang="zh_CN">Keep original scenarios and make copies in the new storage location</val>
+   </key>
+   <key value="Scenario_storage_cannot_be_changed">
+      <comment>Warning message when trying to change the storage location for a scenario defined by a Document
+            Type</comment>
+      <comment>
+         <val lang="en_US">{0} scenario storage location cannot be changed, because it is defined by the {1} Document
+            Type.\nTry making a copy in the new storage location.</val>
+      </comment>
+      <val lang="zh_CN">{0} scenario storage location cannot be changed, because it is defined by the {1} Document
+            Type.\nTry making a copy in the new storage location.</val>
+   </key>
+   <key value="Replace_all_in_files_warning">
+      <comment>The user has chosen to perform Replace All in all the selected resource. A dialog with this warning
+            message is presented.</comment>
+      <comment>
+         <val lang="en_US">This operation will replace all occurrences in the selected resources.</val>
+      </comment>
+      <val lang="zh_CN">This operation will replace all occurrences in the selected resources.</val>
+   </key>
+   <key value="Check_opened_files_for_file_system_changes">
+      <comment>Option in Global Options, check opened files for file system changes.</comment>
+      <comment>
+         <val lang="en_US">Check opened files for file system changes</val>
+      </comment>
+      <val lang="zh_CN">Check opened files for file system changes</val>
+   </key>
+   <key distribution="common" value="Callouts">
+      <comment>Name of a section from the options controlling the review callouts. A callout is a representation of a
+            comment or change in the document. Usually placed in the right of the author page.</comment>
+      <comment>
+         <val lang="en_US">Callouts</val>
+      </comment>
+      <val lang="zh_CN">Callouts</val>
+   </key>
+   <key value="Show_review_time" type="action">
+      <comment>Option in the Callouts options section to control if the review callouts should present the time at
+            which the review change has been made.</comment>
+      <comment>
+         <val lang="en_US">Show review time</val>
+      </comment>
+      <val lang="zh_CN">Show review time</val>
+   </key>
+   <key value="Show_all_connecting_lines" type="action">
+      <comment>Option in the Callouts options section to control the the display of the connecting lines between the
+            review callout and the related text.</comment>
+      <comment>
+         <val lang="en_US">Show all connecting lines</val>
+      </comment>
+      <val lang="zh_CN">Show all connecting lines</val>
+   </key>
+   <key value="Show_content_in_deletion_callout" type="action">
+      <comment>Label for an option from "Callouts" options page that controls the display of the document content
+            inside Track Changes deletion callouts </comment>
+      <comment>
+         <val lang="en_US">Show deleted content in callout</val>
+      </comment>
+      <val lang="zh_CN">Show deleted content in callout</val>
+   </key>
+   <key value="Show_content_in_insertion_callout" type="action">
+      <comment>Label for an option from "Callouts" options page that controls the display of the document content
+            inside Track Changes deletion callouts </comment>
+      <comment>
+         <val lang="en_US">Show inserted content in callout</val>
+      </comment>
+      <val lang="zh_CN">Show inserted content in callout</val>
+   </key>
+   <key value="Commented">
+      <comment>This is a text displayed in the review callouts. Like in "Commented text."</comment>
+      <comment>
+         <val lang="en_US">Commented</val>
+      </comment>
+      <val lang="zh_CN">Commented</val>
+   </key>
+   <key value="Inserted">
+      <comment>This is a text displayed in the review callouts. Like in "Inserted text."</comment>
+      <comment>
+         <val lang="en_US">Inserted</val>
+      </comment>
+      <val lang="zh_CN">Inserted</val>
+   </key>
+</translation>

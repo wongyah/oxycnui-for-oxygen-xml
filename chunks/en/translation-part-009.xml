@@ -1,0 +1,1833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="Generate_unique_id_value_description">
+      <comment>Quick fix description for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Generate an ID that is unique in the current context.</val>
+      </comment>
+      <val lang="zh_CN">Generate an ID that is unique in the current context.</val>
+   </key>
+   <key value="The_attribute_is_not_allowed">
+      <comment>Quick fix error description for XML documents.</comment>
+      <comment>
+         <val lang="en_US">The attribute ''{0}'' is not allowed on element ''{1}''</val>
+      </comment>
+      <val lang="zh_CN">The attribute ''{0}'' is not allowed on element ''{1}''</val>
+   </key>
+   <key value="Remove_attribute">
+      <comment>Quick fix name for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Remove attribute ''{0}'' from element ''{1}''</val>
+      </comment>
+      <val lang="zh_CN">Remove attribute ''{0}'' from element ''{1}''</val>
+   </key>
+   <key value="Remove_attribute_description">
+      <comment>Quick fix description for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Remove the not allowed attribute ''{0}'' from the element ''{1}''.</val>
+      </comment>
+      <val lang="zh_CN">Remove the not allowed attribute ''{0}'' from the element ''{1}''.</val>
+   </key>
+   <key value="Invalid_element_expected_required">
+      <comment>Quick fix description for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Invalid element, expected the required element ''{0}''</val>
+      </comment>
+      <val lang="zh_CN">Invalid element, expected the required element ''{0}''</val>
+   </key>
+   <key value="Required_element_expected">
+      <comment>Quick fix description for XML documents.</comment>
+      <comment>
+         <val lang="en_US">The required element ''{0}'' is expected</val>
+      </comment>
+      <val lang="zh_CN">The required element ''{0}'' is expected</val>
+   </key>
+   <key value="Add_new_element_last_child_description">
+      <comment>Quick fix description for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Insert the required element ''{0}'' as last child.</val>
+      </comment>
+      <val lang="zh_CN">Insert the required element ''{0}'' as last child.</val>
+   </key>
+   <key value="Add_new_element_before_description">
+      <comment>Quick fix description for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Insert the element ''{0}'' before the current position.</val>
+      </comment>
+      <val lang="zh_CN">Insert the element ''{0}'' before the current position.</val>
+   </key>
+   <key value="Insert_required_element">
+      <comment>Quick fix name for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Insert element ''{0}''</val>
+      </comment>
+      <val lang="zh_CN">Insert element ''{0}''</val>
+   </key>
+   <key value="High_contrast_activated">
+      <comment>Message displayed when high contrast is activated.</comment>
+      <comment>
+         <val lang="en_US">The High Contrast mode has been activated.</val>
+      </comment>
+      <val lang="zh_CN">The High Contrast mode has been activated.</val>
+   </key>
+   <key value="High_contrast_deactivated">
+      <comment>Message displayed when high contrast is deactivated.</comment>
+      <comment>
+         <val lang="en_US">The High Contrast mode has been deactivated.</val>
+      </comment>
+      <val lang="zh_CN">The High Contrast mode has been deactivated.</val>
+   </key>
+   <key value="High_contrast_restart_message">
+      <comment>Message displayed when high contrast mode changed.</comment>
+      <comment>
+         <val lang="en_US">Please restart the application for the change to take full effect.</val>
+      </comment>
+      <val lang="zh_CN">Please restart the application for the change to take full effect.</val>
+   </key>
+   <key value="Configure">
+      <comment>An action displaying a configuration dialog or page. </comment>
+      <comment>
+         <val lang="en_US">Configure...</val>
+      </comment>
+      <val lang="zh_CN">Configure...</val>
+   </key>
+   <key value="Configure_no_dots" distribution="webauthor">
+      <comment>Configure button label. </comment>
+      <comment>
+         <val lang="en_US">Configure</val>
+      </comment>
+      <val lang="zh_CN">Configure</val>
+   </key>
+   <key value="Minifying_CSS_error_message">
+      <comment>Text label used when presenting errors occurred while minifying CSS resources.</comment>
+      <comment>
+         <val lang="en_US">The following problems were detected while minifying the CSS resource.\n Note that the result
+            of the minify operation may not be accurate.</val>
+      </comment>
+      <val lang="zh_CN">The following problems were detected while minifying the CSS resource.\n Note that the result
+            of the minify operation may not be accurate.</val>
+   </key>
+   <key value="Minifying_CSS_resource">
+      <comment>Text label used while monitoring the progress of 'Minify CSS' action.</comment>
+      <comment>
+         <val lang="en_US">Minifying CSS resource...</val>
+      </comment>
+      <val lang="zh_CN">Minifying CSS resource...</val>
+   </key>
+   <key value="Cant_load_css_start">
+      <comment>Start error message when a CSS could not be load or is not associated.</comment>
+      <comment>
+         <val lang="en_US">Cannot load the associated CSS file(s).\A The error was: {0}</val>
+      </comment>
+      <val lang="zh_CN">Cannot load the associated CSS file(s).\A The error was: {0}</val>
+   </key>
+   <key value="Cant_load_css_hint">
+      <comment>Error message hint used when a CSS could not be load or is not associated.</comment>
+      <comment>
+         <val lang="en_US">\A Please switch to the text mode and use the [{0}] action \A to associate a CSS Stylesheet to
+            your document.</val>
+      </comment>
+      <val lang="zh_CN">\A Please switch to the text mode and use the [{0}] action \A to associate a CSS Stylesheet to
+            your document.</val>
+   </key>
+   <key value="Place_style_rules_on_a_new_line">
+      <comment>Check-box label used in CSS Minify dialog.</comment>
+      <comment>
+         <val lang="en_US">Place style rules on a new line</val>
+      </comment>
+      <val lang="zh_CN">Place style rules on a new line</val>
+   </key>
+   <key value="Press_backspace_del_to_remove">
+      <comment>Warning message when user tries to delete an element which is required.</comment>
+      <comment>
+         <val lang="en_US">Press Backspace or Del again to force its removal.</val>
+      </comment>
+      <val lang="zh_CN">Press Backspace or Del again to force its removal.</val>
+   </key>
+   <key value="Find_Replace_XPath_Combo_Tooltip">
+      <comment>Tooltip for the XPath combo box in the Find Replace Dialog.</comment>
+      <comment>
+         <val lang="en_US">To restrict the search scope, enter an XPath 2.0 expression.\n Can be used only on well-formed
+            XML Documents.</val>
+      </comment>
+      <val lang="zh_CN">To restrict the search scope, enter an XPath 2.0 expression.\n Can be used only on well-formed
+            XML Documents.</val>
+   </key>
+   <key value="Use_in_replace_tooltip">
+      <comment>Tooltip for the replace string in the find/replace dialogs.</comment>
+      <comment>
+         <val lang="en_US">When "Regular expression" is enabled, supports matching capturing groups like "$1", "$2",
+            etc.</val>
+      </comment>
+      <val lang="zh_CN">When "Regular expression" is enabled, supports matching capturing groups like "$1", "$2",
+            etc.</val>
+   </key>
+   <key value="Only_record_the_merge">
+      <comment>Option in the SVN Merge wizard dialog</comment>
+      <comment>
+         <val lang="en_US">Only record the merge (block revisions from getting merged)</val>
+      </comment>
+      <val lang="zh_CN">Only record the merge (block revisions from getting merged)</val>
+   </key>
+   <key value="Svn_only_record_the_merge_tooltip">
+      <comment>Tooltip for the SVN option to only record the merge, without performing it</comment>
+      <comment>
+         <val lang="en_US">Marks the revisions as merged, without actually performing the merge.\nThis blocks the
+            revisions from getting merged in the future.</val>
+      </comment>
+      <val lang="zh_CN">Marks the revisions as merged, without actually performing the merge.\nThis blocks the
+            revisions from getting merged in the future.</val>
+   </key>
+   <key value="Svn_merge_force_operation">
+      <comment>SVN option to force merge operation to delete modified items</comment>
+      <comment>
+         <val lang="en_US">Force deletion of modified or non-versioned items, if necessary</val>
+      </comment>
+      <val lang="zh_CN">Force deletion of modified or non-versioned items, if necessary</val>
+   </key>
+   <key value="You_must_select_a_file">
+      <comment>Error message</comment>
+      <comment>
+         <val lang="en_US">You must select a file.</val>
+      </comment>
+      <val lang="zh_CN">You must select a file.</val>
+   </key>
+   <key value="Svn_merge_error_sources_not_from_same_repository">
+      <comment>SVN: error message if the two merge sources are not from the same repository.</comment>
+      <comment>
+         <val lang="en_US">Both source URLs must point to the same repository.</val>
+      </comment>
+      <val lang="zh_CN">Both source URLs must point to the same repository.</val>
+   </key>
+   <key value="Svn_merge_error_source_not_from_same_repository_as_target">
+      <comment>SVN: error message if merge source is not from the same repository as the destination</comment>
+      <comment>
+         <val lang="en_US">Merge source URL must point to the same repository as the merge target.</val>
+      </comment>
+      <val lang="zh_CN">Merge source URL must point to the same repository as the merge target.</val>
+   </key>
+   <key value="Disable_merge_tracking">
+      <comment>SVN option name, used to not register/track the revisions merged from one branch to another</comment>
+      <comment>
+         <val lang="en_US">Disable merge tracking</val>
+      </comment>
+      <val lang="zh_CN">Disable merge tracking</val>
+   </key>
+   <key value="Svn_not_allowed_revision">
+      <comment>Message when an SVN revision is not allowed in a specific context.</comment>
+      <comment>
+         <val lang="en_US">Not allowed revision: {0}</val>
+      </comment>
+      <val lang="zh_CN">Not allowed revision: {0}</val>
+   </key>
+   <key value="Svn_merge_multiple_revision_rangex_mix">
+      <comment>Tooltip in the SVN Merge wizard dialog box: can specify multiple revisions (2,3,4), revision ranges
+            (5-10, 15-20) and reverse revisions/ranges (-7, 19-16)</comment>
+      <comment>
+         <val lang="en_US">Multiple single revisions and/or revision ranges can be specified and mixing of forward and
+            reverse ranges is allowed.</val>
+      </comment>
+      <val lang="zh_CN">Multiple single revisions and/or revision ranges can be specified and mixing of forward and
+            reverse ranges is allowed.</val>
+   </key>
+   <key value="Parent_branch_url">
+      <comment>Option in the SVN merge wizard dialog box</comment>
+      <comment>
+         <val lang="en_US">Parent branch (URL)</val>
+      </comment>
+      <val lang="zh_CN">Parent branch (URL)</val>
+   </key>
+   <key value="Child_branch_url">
+      <comment>Option in the SVN merge wizard dialog box</comment>
+      <comment>
+         <val lang="en_US">Child branch (URL)</val>
+      </comment>
+      <val lang="zh_CN">Child branch (URL)</val>
+   </key>
+   <key value="Svn_merge_two_different_trees_short_description">
+      <comment>SVN merge: merge two different trees option short description</comment>
+      <comment>
+         <val lang="en_US">Merge the difference between two source URLs at specific revisions.</val>
+      </comment>
+      <val lang="zh_CN">Merge the difference between two source URLs at specific revisions.</val>
+   </key>
+   <key value="Svn_merge_two_different_trees_description">
+      <comment>SVN merge: merge two different trees option description</comment>
+      <comment>
+         <val lang="en_US">The two sources are compared at the specified revisions, and the difference is applied to
+            another branch. The three branches involved can be completely unrelated.\n\n You should use this merge
+            variant only if the other variants do not apply to your situation.</val>
+      </comment>
+      <val lang="zh_CN">The two sources are compared at the specified revisions, and the difference is applied to
+            another branch. The three branches involved can be completely unrelated.\n\n You should use this merge
+            variant only if the other variants do not apply to your situation.</val>
+   </key>
+   <key value="Svn_reintegrate_branch_short_description">
+      <comment>SVN merge: reintegrate branch option short description</comment>
+      <comment>
+         <val lang="en_US">Merge back a branch to its originating branch.</val>
+      </comment>
+      <val lang="zh_CN">Merge back a branch to its originating branch.</val>
+   </key>
+   <key value="Svn_reintegrate_branch_description">
+      <comment>SVN merge: reintegrate branch option description</comment>
+      <comment>
+         <val lang="en_US">The source branch has originally been created by copying the target branch, development has
+            concluded on the source branch and it should now be merged back into the target branch.</val>
+      </comment>
+      <val lang="zh_CN">The source branch has originally been created by copying the target branch, development has
+            concluded on the source branch and it should now be merged back into the target branch.</val>
+   </key>
+   <key value="Svn_synchronize_branch_short_description">
+      <comment>SVN merge: synchronize branch option short description</comment>
+      <comment>
+         <val lang="en_US">Fetch all the latest changes made on a parent branch.</val>
+      </comment>
+      <val lang="zh_CN">Fetch all the latest changes made on a parent branch.</val>
+   </key>
+   <key value="Svn_synchronize_branch_description">
+      <comment>SVN merge: synchronize branch option description</comment>
+      <comment>
+         <val lang="en_US">The target branch has originally been created by copying a source branch, and any changes
+            committed on the source branch, since branching, are applied to the target branch.\n\n You should
+            synchronize your branch periodically to stay up-to-date with the source branch.</val>
+      </comment>
+      <val lang="zh_CN">The target branch has originally been created by copying a source branch, and any changes
+            committed on the source branch, since branching, are applied to the target branch.\n\n You should
+            synchronize your branch periodically to stay up-to-date with the source branch.</val>
+   </key>
+   <key value="Svn_merge_revisions_short_description">
+      <comment>SVN merge: merge revisions option short description</comment>
+      <comment>
+         <val lang="en_US">Merge specific revisions (or revision ranges) from one branch to another.</val>
+      </comment>
+      <val lang="zh_CN">Merge specific revisions (or revision ranges) from one branch to another.</val>
+   </key>
+   <key value="Svn_merge_revisions_description">
+      <comment>SVN merge: merge revisions option description</comment>
+      <comment>
+         <val lang="en_US">Changes done between different revisions of the source branch are merged to the target
+            branch.</val>
+      </comment>
+      <val lang="zh_CN">Changes done between different revisions of the source branch are merged to the target
+            branch.</val>
+   </key>
+   <key value="Merge_to">
+      <comment>Option in the SVN merge wizard dialog box</comment>
+      <comment>
+         <val lang="en_US">Merge to</val>
+      </comment>
+      <val lang="zh_CN">Merge to</val>
+   </key>
+   <key value="No_revision_specified">
+      <comment>Error message</comment>
+      <comment>
+         <val lang="en_US">No revision specified.</val>
+      </comment>
+      <val lang="zh_CN">No revision specified.</val>
+   </key>
+   <key value="Specific_revisions">
+      <comment>Option in the SVN Merge wizard dialog box</comment>
+      <comment>
+         <val lang="en_US">specific revision(s):</val>
+      </comment>
+      <val lang="zh_CN">specific revision(s):</val>
+   </key>
+   <key value="Revisions_to_merge">
+      <comment>Option in the SVN Merge wizard dialog box</comment>
+      <comment>
+         <val lang="en_US">Revisions to merge:</val>
+      </comment>
+      <val lang="zh_CN">Revisions to merge:</val>
+   </key>
+   <key value="Merge_from_url">
+      <comment>Label in the SVN Merge wizard dialog box</comment>
+      <comment>
+         <val lang="en_US">Merge from (URL)</val>
+      </comment>
+      <val lang="zh_CN">Merge from (URL)</val>
+   </key>
+   <key value="Svn_merge_revisions_panel_description">
+      <comment>Description of the SVN Merge wizard panel used to merge revisions</comment>
+      <comment>
+         <val lang="en_US">Select the branch to merge from.</val>
+      </comment>
+      <val lang="zh_CN">Select the branch to merge from.</val>
+   </key>
+   <key value="Svn_synchronize_branch_panel_description">
+      <comment>Description of the SVN Merge wizard panel used to synchronize a branch</comment>
+      <comment>
+         <val lang="en_US">Select the parent branch to synchronize with.</val>
+      </comment>
+      <val lang="zh_CN">Select the parent branch to synchronize with.</val>
+   </key>
+   <key value="Svn_reintegrate_branch_panel_description">
+      <comment>Description of the SVN Merge wizard panel used to reintegrate a branch</comment>
+      <comment>
+         <val lang="en_US">Select the child branch to be reintegrated.</val>
+      </comment>
+      <val lang="zh_CN">Select the child branch to be reintegrated.</val>
+   </key>
+   <key value="Svn_merge_two_different_trees_panel_description">
+      <comment>Description of the SVN Merge wizard panel used to merge the difference between two different
+            trees</comment>
+      <comment>
+         <val lang="en_US">Select the two branches to be compared.</val>
+      </comment>
+      <val lang="zh_CN">Select the two branches to be compared.</val>
+   </key>
+   <key value="Synchronize_branch">
+      <comment>SVN client option in the Merge wizard dialog box</comment>
+      <comment>
+         <val lang="en_US">Synchronize branch</val>
+      </comment>
+      <val lang="zh_CN">Synchronize branch</val>
+   </key>
+   <key value="Svn_wc_unsupported_format_upgrade_needed">
+      <comment>SVN Client option exception message</comment>
+      <comment>
+         <val lang="en_US">SVN 1.6 and older working copies still need to be upgraded before loading them.</val>
+      </comment>
+      <val lang="zh_CN">SVN 1.6 and older working copies still need to be upgraded before loading them.</val>
+   </key>
+   <key value="Svn_wc_old_format">
+      <comment>SVN Client message used to notify the user that the working copy format is old</comment>
+      <comment>
+         <val lang="en_US">The format of the selected working copy is old ({0}).</val>
+      </comment>
+      <val lang="zh_CN">The format of the selected working copy is old ({0}).</val>
+   </key>
+   <key value="Svn_wc_ask_for_upgrade">
+      <comment>SVN Client question to upgrade the working copy format</comment>
+      <comment>
+         <val lang="en_US">Do you want to upgrade the working copy to SVN 1.8 format?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to upgrade the working copy to SVN 1.8 format?</val>
+   </key>
+   <key value="Svn_wc_do_not_offer_to_upgrade">
+      <comment>SVN Client option to not ask for working copy format upgrade</comment>
+      <comment>
+         <val lang="en_US">Don't offer to upgrade other working copies</val>
+      </comment>
+      <val lang="zh_CN">Don't offer to upgrade other working copies</val>
+   </key>
+   <key value="Svn_wc_unsupported_format">
+      <comment>SVN Client message used to notify the user that the working copy format is not supported</comment>
+      <comment>
+         <val lang="en_US">Unsupported working copy format - {0}.</val>
+      </comment>
+      <val lang="zh_CN">Unsupported working copy format - {0}.</val>
+   </key>
+   <key value="Svn_no_resources_to_revert">
+      <comment>SVN client message presented when there is no resource to be reverted</comment>
+      <comment>
+         <val lang="en_US">No resources to revert.</val>
+      </comment>
+      <val lang="zh_CN">No resources to revert.</val>
+   </key>
+   <key value="Upgraded_item">
+      <comment>Message while upgrading SVN working copy format</comment>
+      <comment>
+         <val lang="en_US">Upgraded {0}</val>
+      </comment>
+      <val lang="zh_CN">Upgraded {0}</val>
+   </key>
+   <key value="Moved_to">
+      <comment>SVN item status information, when an item was moved to a different location</comment>
+      <comment>
+         <val lang="en_US">Moved to</val>
+      </comment>
+      <val lang="zh_CN">Moved to</val>
+   </key>
+   <key value="Moved_from">
+      <comment>SVN item status information, when an item was moved from a different location</comment>
+      <comment>
+         <val lang="en_US">Moved from</val>
+      </comment>
+      <val lang="zh_CN">Moved from</val>
+   </key>
+   <key value="Renamed_to">
+      <comment>SVN item status information, when an item was renamed</comment>
+      <comment>
+         <val lang="en_US">Renamed to</val>
+      </comment>
+      <val lang="zh_CN">Renamed to</val>
+   </key>
+   <key value="Renamed_from">
+      <comment>SVN item status information, when an item was renamed</comment>
+      <comment>
+         <val lang="en_US">Renamed from</val>
+      </comment>
+      <val lang="zh_CN">Renamed from</val>
+   </key>
+   <key value="Swapped_places_with">
+      <comment>SVN item status information, when two items swapped their places (each one moved in place of the other
+            one)</comment>
+      <comment>
+         <val lang="en_US">Swapped places with</val>
+      </comment>
+      <val lang="zh_CN">Swapped places with</val>
+   </key>
+   <key value="Svn_wc_add_edit_unsupported_format">
+      <comment>SVN Client message presented when adding an unsupported working copy</comment>
+      <comment>
+         <val lang="en_US">To use the selected working copy, an upgrade to SVN 1.8 format\nwill be required, before
+            loading it.</val>
+      </comment>
+      <val lang="zh_CN">To use the selected working copy, an upgrade to SVN 1.8 format\nwill be required, before
+            loading it.</val>
+   </key>
+   <key value="Svn_wc_18_upgrade_needed">
+      <comment>SVN Client message presented when trying to load an unsupported working copy format</comment>
+      <comment>
+         <val lang="en_US">To load the selected working copy, it must be upgraded to SVN 1.8 format.</val>
+      </comment>
+      <val lang="zh_CN">To load the selected working copy, it must be upgraded to SVN 1.8 format.</val>
+   </key>
+   <key value="Svn_wc_18_upgrade_warning">
+      <comment>SVN Client warning presented when upgrading a working copy to SVN 1.8 format</comment>
+      <comment>
+         <val lang="en_US">After upgrading the working copy, you will not be able to use it\n with other Subversion
+            clients, that are not compatible with SVN 1.8.</val>
+      </comment>
+      <val lang="zh_CN">After upgrading the working copy, you will not be able to use it\n with other Subversion
+            clients, that are not compatible with SVN 1.8.</val>
+   </key>
+   <key value="Svn_unknown_wc_format">
+      <comment>SVN Client error message presented when the working copy format is not known</comment>
+      <comment>
+         <val lang="en_US">Unknown working copy format.</val>
+      </comment>
+      <val lang="zh_CN">Unknown working copy format.</val>
+   </key>
+   <key value="Minify_CSS" distribution="common">
+      <comment>Minify CSS file</comment>
+      <comment>
+         <val lang="en_US">Minify CSS</val>
+      </comment>
+      <val lang="zh_CN">Minify CSS</val>
+   </key>
+   <key distribution="common" value="Minify_CSS_action">
+      <comment>Minify CSS action label text.</comment>
+      <comment>
+         <val lang="en_US">Minify CSS...</val>
+      </comment>
+      <val lang="zh_CN">Minify CSS...</val>
+   </key>
+   <key value="Extensions_depend_on_document_type_warning">
+      <comment>When a document type is deleted and there are extensions depending on it, they will not work
+            anymore.</comment>
+      <comment>
+         <val lang="en_US">The following extensions of the document type will stop working:</val>
+      </comment>
+      <val lang="zh_CN">The following extensions of the document type will stop working:</val>
+   </key>
+   <key value="The_target_does_not_exist">
+      <comment>Describes an Ant build validation problem stating that the referred target does not exist.</comment>
+      <comment>
+         <val lang="en_US">The ''{0}'' target does not exist</val>
+      </comment>
+      <val lang="zh_CN">The ''{0}'' target does not exist</val>
+   </key>
+   <key value="Element_must_have_no_children">
+      <comment>Quick fix group description for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Element ''{0}'' must have no child elements</val>
+      </comment>
+      <val lang="zh_CN">Element ''{0}'' must have no child elements</val>
+   </key>
+   <key value="Remove_all_child_elements">
+      <comment>Quick fix name for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Remove all child elements of ''{0}''</val>
+      </comment>
+      <val lang="zh_CN">Remove all child elements of ''{0}''</val>
+   </key>
+   <key value="Remove_all_child_elements_description">
+      <comment>Quick fix description for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Remove all child elements from the element ''{0}''.</val>
+      </comment>
+      <val lang="zh_CN">Remove all child elements from the element ''{0}''.</val>
+   </key>
+   <key value="Element_must_be_empty">
+      <comment>Quick fix group description for XML documents.</comment>
+      <comment>
+         <val lang="en_US">The ''{0}'' element must be empty</val>
+      </comment>
+      <val lang="zh_CN">The ''{0}'' element must be empty</val>
+   </key>
+   <key value="Invalid_id_reference">
+      <comment>Quick fix group description for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Invalid ID reference ''{0}''</val>
+      </comment>
+      <val lang="zh_CN">Invalid ID reference ''{0}''</val>
+   </key>
+   <key value="The_value_of_the_attribute_must_be">
+      <comment>Quick fix group description for XML documents.</comment>
+      <comment>
+         <val lang="en_US">The value of the attribute ''{0}'' must be ''{1}''</val>
+      </comment>
+      <val lang="zh_CN">The value of the attribute ''{0}'' must be ''{1}''</val>
+   </key>
+   <key value="Change_id_reference">
+      <comment>Quick fix name for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Change ID reference of ''{0}'' attribute to ''{1}''</val>
+      </comment>
+      <val lang="zh_CN">Change ID reference of ''{0}'' attribute to ''{1}''</val>
+   </key>
+   <key value="Change_id_reference_description">
+      <comment>Quick fix name for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Change the invalid ID reference of ''{0}'' attribute to ''{1}''.</val>
+      </comment>
+      <val lang="zh_CN">Change the invalid ID reference of ''{0}'' attribute to ''{1}''.</val>
+   </key>
+   <key value="Change_elem_id_reference">
+      <comment>Quick fix name for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Change ID reference to ''{0}''</val>
+      </comment>
+      <val lang="zh_CN">Change ID reference to ''{0}''</val>
+   </key>
+   <key value="Change_elem_id_reference_description">
+      <comment>Quick fix name for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Change the invalid ID reference to ''{0}''.</val>
+      </comment>
+      <val lang="zh_CN">Change the invalid ID reference to ''{0}''.</val>
+   </key>
+   <key value="Set_attribute_value">
+      <comment>Quick fix name for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Set ''{0}'' attribute value to ''{1}''</val>
+      </comment>
+      <val lang="zh_CN">Set ''{0}'' attribute value to ''{1}''</val>
+   </key>
+   <key value="Set_attribute_value_description">
+      <comment>Quick fix name for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Set the value of the attribute ''{0}'' to ''{1}''.</val>
+      </comment>
+      <val lang="zh_CN">Set the value of the attribute ''{0}'' to ''{1}''.</val>
+   </key>
+   <key value="Invalid_element_current_position">
+      <comment>Quick fix group name for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Invalid element at current position</val>
+      </comment>
+      <val lang="zh_CN">Invalid element at current position</val>
+   </key>
+   <key value="Remove_invalid_element_description">
+      <comment>Quick fix description for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Remove the invalid element ''{0}'' from the current position.</val>
+      </comment>
+      <val lang="zh_CN">Remove the invalid element ''{0}'' from the current position.</val>
+   </key>
+   <key value="Remove_invalid_element">
+      <comment>Quick fix name for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Remove invalid element ''{0}''</val>
+      </comment>
+      <val lang="zh_CN">Remove invalid element ''{0}''</val>
+   </key>
+   <key value="Remove_element_content">
+      <comment>Quick fix name for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Remove element content</val>
+      </comment>
+      <val lang="zh_CN">Remove element content</val>
+   </key>
+   <key value="Remove_element_content_description">
+      <comment>Quick fix name for XML documents.</comment>
+      <comment>
+         <val lang="en_US">Remove the content from the current element.</val>
+      </comment>
+      <val lang="zh_CN">Remove the content from the current element.</val>
+   </key>
+   <key value="Create_named_target">
+      <comment>Quick fix proposal for an unknown target reference in an Ant build.</comment>
+      <comment>
+         <val lang="en_US">Create target ''{0}''</val>
+      </comment>
+      <val lang="zh_CN">Create target ''{0}''</val>
+   </key>
+   <key value="Create_named_target_tooltip">
+      <comment>Tooltip message displayed for an Ant quick fix proposal.</comment>
+      <comment>
+         <val lang="en_US">Creates a new target.</val>
+      </comment>
+      <val lang="zh_CN">Creates a new target.</val>
+   </key>
+   <key value="Changes_the_target_reference_to_tooltip">
+      <comment>Tooltip message displayed for an Ant quick fix proposal.</comment>
+      <comment>
+         <val lang="en_US">Changes the target reference to ''{0}''.</val>
+      </comment>
+      <val lang="zh_CN">Changes the target reference to ''{0}''.</val>
+   </key>
+   <key value="Remove_target_reference">
+      <comment>Quick fix proposal for an unknown target reference in an Ant build.</comment>
+      <comment>
+         <val lang="en_US">Remove ''{0}'' target reference</val>
+      </comment>
+      <val lang="zh_CN">Remove ''{0}'' target reference</val>
+   </key>
+   <key value="Remove_target_reference_tooltip">
+      <comment>Tooltip message displayed for an Ant quick fix proposal.</comment>
+      <comment>
+         <val lang="en_US">Removes the invalid target reference.</val>
+      </comment>
+      <val lang="zh_CN">Removes the invalid target reference.</val>
+   </key>
+   <key value="Add_required_parameter_description">
+      <comment>Quick fix description for XSL.</comment>
+      <comment>
+         <val lang="en_US">Add the required parameter ''{0}'' in the call-template.</val>
+      </comment>
+      <val lang="zh_CN">Add the required parameter ''{0}'' in the call-template.</val>
+   </key>
+   <key value="Add_required_parameter">
+      <comment>Quick fix name for XSL.</comment>
+      <comment>
+         <val lang="en_US">Add required parameter ''{0}''</val>
+      </comment>
+      <val lang="zh_CN">Add required parameter ''{0}''</val>
+   </key>
+   <key value="Parameter_not_supplied">
+      <comment>Quick fix description for XSL.</comment>
+      <comment>
+         <val lang="en_US">Required parameter ''{0}'' is not supplied</val>
+      </comment>
+      <val lang="zh_CN">Required parameter ''{0}'' is not supplied</val>
+   </key>
+   <key value="Join_and_normalize" distribution="common">
+      <comment>Join and normalize lines action</comment>
+      <comment>
+         <val lang="en_US">Join and Normalize Lines</val>
+      </comment>
+      <val lang="zh_CN">Join and Normalize Lines</val>
+   </key>
+   <key value="Step_into_description">
+      <comment>Description of the Step Into action.</comment>
+      <comment>
+         <val lang="en_US">Run until the next instruction is encountered.</val>
+      </comment>
+      <val lang="zh_CN">Run until the next instruction is encountered.</val>
+   </key>
+   <key value="Step_over_description">
+      <comment>Description of the Step Over action.</comment>
+      <comment>
+         <val lang="en_US">Run until the current instruction and its sub-instructions are over. Usually, this will
+            advance to the next sibling instruction.</val>
+      </comment>
+      <val lang="zh_CN">Run until the current instruction and its sub-instructions are over. Usually, this will
+            advance to the next sibling instruction.</val>
+   </key>
+   <key value="Step_out_description">
+      <comment>Description of the Step Out action.</comment>
+      <comment>
+         <val lang="en_US">Run until the parent of the current instruction is over. Usually, this will advance to the
+            next sibling of the parent instruction.</val>
+      </comment>
+      <val lang="zh_CN">Run until the parent of the current instruction is over. Usually, this will advance to the
+            next sibling of the parent instruction.</val>
+   </key>
+   <key value="Run_description">
+      <comment>Description of the Run action.</comment>
+      <comment>
+         <val lang="en_US">Run until a breakpoint is encountered, or the transformation ends.</val>
+      </comment>
+      <val lang="zh_CN">Run until a breakpoint is encountered, or the transformation ends.</val>
+   </key>
+   <key value="Run_to_cursor_description">
+      <comment>Description of the Run to cursor action.</comment>
+      <comment>
+         <val lang="en_US">Run until the current line is reached, a breakpoint is hit, or the execution ends.</val>
+      </comment>
+      <val lang="zh_CN">Run until the current line is reached, a breakpoint is hit, or the execution ends.</val>
+   </key>
+   <key value="Run_to_end_description">
+      <comment>Description of the Run to end action.</comment>
+      <comment>
+         <val lang="en_US">Run the transformation until the end, without taking into account enabled breakpoints (if
+            any).</val>
+      </comment>
+      <val lang="zh_CN">Run the transformation until the end, without taking into account enabled breakpoints (if
+            any).</val>
+   </key>
+   <key value="Pause_description">
+      <comment>Description of the Pause action.</comment>
+      <comment>
+         <val lang="en_US">Request to pause the current transformation as soon as possible.</val>
+      </comment>
+      <val lang="zh_CN">Request to pause the current transformation as soon as possible.</val>
+   </key>
+   <key value="Stop_description">
+      <comment>Description of the Stop action.</comment>
+      <comment>
+         <val lang="en_US">Request to stop the current transformation without completing its execution.</val>
+      </comment>
+      <val lang="zh_CN">Request to stop the current transformation without completing its execution.</val>
+   </key>
+   <key value="Show_current_execution_nodes_description">
+      <comment>Description of the Show current execution nodes action.</comment>
+      <comment>
+         <val lang="en_US">Reveals the current debugger context, showing both the current instruction and the current
+            node in the XML source.</val>
+      </comment>
+      <val lang="zh_CN">Reveals the current debugger context, showing both the current instruction and the current
+            node in the XML source.</val>
+   </key>
+   <key value="Profiling_attribute_value_is_used_in_sets">
+      <comment>Message shown when trying to change a profiling attribute value used in defined condition
+            sets.</comment>
+      <comment>
+         <val lang="en_US">The profiling attribute value ''{0}'' is used in the following condition sets: {1}.</val>
+      </comment>
+      <val lang="zh_CN">The profiling attribute value ''{0}'' is used in the following condition sets: {1}.</val>
+   </key>
+   <key value="Do_you_want_to_reload">
+      <comment>Label in the dialog displayed when the edited file changes in file system</comment>
+      <comment>
+         <val lang="en_US">Do you want to reload the file content from disk?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to reload the file content from disk?</val>
+   </key>
+   <key value="Do_you_want_to_replace_editor_contents">
+      <comment>Message displayed when a file changes on file system.</comment>
+      <comment>
+         <val lang="en_US">Do you want to discard all your changes and reload the file content from disk?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to discard all your changes and reload the file content from disk?</val>
+   </key>
+   <key value="Old_modification_time">
+      <comment>Message displayed when a file changes on file system.</comment>
+      <comment>
+         <val lang="en_US">Old modification time</val>
+      </comment>
+      <val lang="zh_CN">Old modification time</val>
+   </key>
+   <key value="New_modification_time">
+      <comment>Message displayed when a file changes on file system.</comment>
+      <comment>
+         <val lang="en_US">New modification time</val>
+      </comment>
+      <val lang="zh_CN">New modification time</val>
+   </key>
+   <key value="Do_not_reload">
+      <comment>Button in dialog displayed when a file changes on file system.</comment>
+      <comment>
+         <val lang="en_US">Do not reload</val>
+      </comment>
+      <val lang="zh_CN">Do not reload</val>
+   </key>
+   <key value="Clear_favorites_confimation">
+      <comment>Confirmation message shown on clear favorites action.</comment>
+      <comment>
+         <val lang="en_US">Are you sure you want to clear the favorite items?</val>
+      </comment>
+      <val lang="zh_CN">Are you sure you want to clear the favorite items?</val>
+   </key>
+   <key value="Clear_favorites">
+      <comment>Action in XPath/XQuery builder. </comment>
+      <comment>
+         <val lang="en_US">Clear favorites</val>
+      </comment>
+      <val lang="zh_CN">Clear favorites</val>
+   </key>
+   <key value="No_image_at_caret">
+      <comment>Message displayed when the "Open Image" action is invoked when there is no image at caret (or
+            selected).</comment>
+      <comment>
+         <val lang="en_US">There is no image at cursor position.</val>
+      </comment>
+      <val lang="zh_CN">There is no image at cursor position.</val>
+   </key>
+   <key value="Open_image">
+      <comment>Open image action name.</comment>
+      <comment>
+         <val lang="en_US">Open image</val>
+      </comment>
+      <val lang="zh_CN">Open image</val>
+   </key>
+   <key value="Destination_XSLT_module_cannot_be_found">
+      <comment>Explanation text for directive choose dialog.</comment>
+      <comment>
+         <val lang="en_US">The destination XSLT module "{0}" could not be found in the hierarchy of the current
+            stylesheet.\n Choose how the destination module should be referred from the current stylesheet.</val>
+      </comment>
+      <val lang="zh_CN">The destination XSLT module "{0}" could not be found in the hierarchy of the current
+            stylesheet.\n Choose how the destination module should be referred from the current stylesheet.</val>
+   </key>
+   <key value="Unicode_block">
+      <comment>Label for Unicode blocks combo box.</comment>
+      <comment>
+         <val lang="en_US">Unicode Block</val>
+      </comment>
+      <val lang="zh_CN">Unicode Block</val>
+   </key>
+   <key value="Destination_stylesheet">
+      <comment>A Dialog's title.</comment>
+      <comment>
+         <val lang="en_US">Destination stylesheet</val>
+      </comment>
+      <val lang="zh_CN">Destination stylesheet</val>
+   </key>
+   <key value="Refactor_selected_text">
+      <comment>Message used to group the XSLT refactor actions in the quick assist window</comment>
+      <comment>
+         <val lang="en_US">Refactor selection</val>
+      </comment>
+      <val lang="zh_CN">Refactor selection</val>
+   </key>
+   <key value="Clear_style">
+      <comment>Text of a button in "Colors and Styles" option page</comment>
+      <comment>
+         <val lang="en_US">Clear style</val>
+      </comment>
+      <val lang="zh_CN">Clear style</val>
+   </key>
+   <key value="Author_profiling_import_colors_and_styles_from_ditaval_label">
+      <comment>Message presented in the Author's "Profiling/Conditional Text &gt; Colors and Styles" option
+            page</comment>
+      <comment>
+         <val lang="en_US">To import the profiling colors and styles defined in a set of DITAVAL files, click
+            "{0}".</val>
+      </comment>
+      <val lang="zh_CN">To import the profiling colors and styles defined in a set of DITAVAL files, click
+            "{0}".</val>
+   </key>
+   <key value="Author_profiling_import_attributes_and_condition_sets_from_ditaval_label">
+      <comment>Message presented in the Author's "Profiling/Conditional Text" option page</comment>
+      <comment>
+         <val lang="en_US">To import the profiling attributes defined in a set of DITAVAL files and create profiling
+            condition sets based on these files, click "{0}".</val>
+      </comment>
+      <val lang="zh_CN">To import the profiling attributes defined in a set of DITAVAL files and create profiling
+            condition sets based on these files, click "{0}".</val>
+   </key>
+   <key value="Select_the_ID_you_want_to_search_the_declatation_for"><!-- Translate "declaration" in the Japanese text -->
+      <comment>The message displayed when the user should choose between multiple IDs when search ID's declaration. </comment>
+      <comment>
+         <val lang="en_US">Select the {0} you want to search the declaration for</val>
+      </comment>
+      <val lang="zh_CN">Select the {0} you want to search the declaration for</val>
+   </key>
+   <key value="Select_the_ID_you_want_to_search_occurrences"><!-- Translate "declaration" in the Japanese text -->
+      <comment>The message displayed when the user should choose between multiple IDs when search occurrences in
+            current file. </comment>
+      <comment>
+         <val lang="en_US">Select the {0} you want to search the declaration and references for</val>
+      </comment>
+      <val lang="zh_CN">Select the {0} you want to search the declaration and references for</val>
+   </key>
+   <key value="Current_map">
+      <comment>Item from root map combo-box.</comment>
+      <comment>
+         <val lang="en_US">Current map</val>
+      </comment>
+      <val lang="zh_CN">Current map</val>
+   </key>
+   <key value="Could_not_get_url">
+      <comment>Error message displayed when an Ant library is missing.</comment>
+      <comment>
+         <val lang="en_US">Could not get an URL for Ant library "{0}".</val>
+      </comment>
+      <val lang="zh_CN">Could not get an URL for Ant library "{0}".</val>
+   </key>
+   <key value="Check_ant_home">
+      <comment>Error message displayed when the directory specified as Ant home does not contains any jars.</comment>
+      <comment>
+         <val lang="en_US">Ant libraries not found in "{0}".\nPlease check the "Ant Home" option in XML / Ant.</val>
+      </comment>
+      <val lang="zh_CN">Ant libraries not found in "{0}".\nPlease check the "Ant Home" option in XML / Ant.</val>
+   </key>
+   <key value="Element_is_required">
+      <comment>Warning message when user tries to delete an element which is required.</comment>
+      <comment>
+         <val lang="en_US">Element is required</val>
+      </comment>
+      <val lang="zh_CN">Element is required</val>
+   </key>
+   <key value="Excluded_content_structure_warning">
+      <comment> Warning message shown when the content from the Outline or DITA Maps Manager is hidden (when the "Show
+            Excluded Content" option is off and a condition set is applied).</comment>
+      <comment>
+         <val lang="en_US">Showing only nodes matching the "{0}" condition set.</val>
+      </comment>
+      <val lang="zh_CN">Showing only nodes matching the "{0}" condition set.</val>
+   </key>
+   <key value="Excluded_content_warning">
+      <comment> Warning message shown when the content from the editor is hidden (when the "Show Excluded Content"
+            option is off and a condition set is applied).</comment>
+      <comment>
+         <val lang="en_US">Showing only content matching the "{0}" condition set.</val>
+      </comment>
+      <val lang="zh_CN">Showing only content matching the "{0}" condition set.</val>
+   </key>
+   <key value="Choose_another_stylesheet">
+      <comment>Messages shown in the dialog displayed when move a component from a stylesheet to another.</comment>
+      <comment>
+         <val lang="en_US">The chosen stylesheet is the same one with the current stylesheet. Please select another
+            stylesheet.</val>
+      </comment>
+      <val lang="zh_CN">The chosen stylesheet is the same one with the current stylesheet. Please select another
+            stylesheet.</val>
+   </key>
+   <key value="Online_preview">
+      <comment>Message for preview link on Skins tab.</comment>
+      <comment>
+         <val lang="en_US">Online preview</val>
+      </comment>
+      <val lang="zh_CN">Online preview</val>
+   </key>
+   <key value="Attribute_set_not_exist">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Attribute-set "{0}" does not exist</val>
+      </comment>
+      <val lang="zh_CN">Attribute-set "{0}" does not exist</val>
+   </key>
+   <key value="Change_attr_set_reference_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Change the attribute-set reference to "{0}".</val>
+      </comment>
+      <val lang="zh_CN">Change the attribute-set reference to "{0}".</val>
+   </key>
+   <key value="Create_new_attribute_set">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Create attribute-set "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Create attribute-set "{0}"</val>
+   </key>
+   <key value="Create_new_attribute_set_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Create a new attribute-set with name "{0}", in the current file.</val>
+      </comment>
+      <val lang="zh_CN">Create a new attribute-set with name "{0}", in the current file.</val>
+   </key>
+   <key value="Character_map_not_defined">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Character-map named "{0}" has not been defined</val>
+      </comment>
+      <val lang="zh_CN">Character-map named "{0}" has not been defined</val>
+   </key>
+   <key value="Change_character_map_ref_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Change the character-map reference to "{0}".</val>
+      </comment>
+      <val lang="zh_CN">Change the character-map reference to "{0}".</val>
+   </key>
+   <key value="Create_new_character_map">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Create character-map "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Create character-map "{0}"</val>
+   </key>
+   <key value="Create_new_character_map_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Create a new character-map with name "{0}", in the current file.</val>
+      </comment>
+      <val lang="zh_CN">Create a new character-map with name "{0}", in the current file.</val>
+   </key>
+   <key value="Template_does_not_exist">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Template named "{0}" does not exist</val>
+      </comment>
+      <val lang="zh_CN">Template named "{0}" does not exist</val>
+   </key>
+   <key value="Change_call_template_ref_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Change the call-template reference to "{0}".</val>
+      </comment>
+      <val lang="zh_CN">Change the call-template reference to "{0}".</val>
+   </key>
+   <key value="Create_new_template">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Create template "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Create template "{0}"</val>
+   </key>
+   <key value="Create_new_template_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Create a new template with name "{0}", in the current file.</val>
+      </comment>
+      <val lang="zh_CN">Create a new template with name "{0}", in the current file.</val>
+   </key>
+   <key value="Parameter_not_declared">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Parameter "{0}" is not declared in the called template</val>
+      </comment>
+      <val lang="zh_CN">Parameter "{0}" is not declared in the called template</val>
+   </key>
+   <key value="Remove_parameter_from_call_template">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Remove parameter "{0}" from call-template</val>
+      </comment>
+      <val lang="zh_CN">Remove parameter "{0}" from call-template</val>
+   </key>
+   <key value="Remove_parameter_from_call_template_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Remove the parameter named "{0}" from the call-template.</val>
+      </comment>
+      <val lang="zh_CN">Remove the parameter named "{0}" from the call-template.</val>
+   </key>
+   <key value="Add_parameter_in_template">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Add new parameter "{0}" in template "{1}"</val>
+      </comment>
+      <val lang="zh_CN">Add new parameter "{0}" in template "{1}"</val>
+   </key>
+   <key value="Add_parameter_in_template_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Add a new parameter with name "{0}" in the template named "{1}" from the current file.</val>
+      </comment>
+      <val lang="zh_CN">Add a new parameter with name "{0}" in the template named "{1}" from the current file.</val>
+   </key>
+   <key value="Add_parameter_in_template_from_file_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Add a new parameter with name "{0}" in the template named "{1}" from the stylesheet
+            "{2}".</val>
+      </comment>
+      <val lang="zh_CN">Add a new parameter with name "{0}" in the template named "{1}" from the stylesheet
+            "{2}".</val>
+   </key>
+   <key value="Change_parameter_reference">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Change the "{0}" parameter reference to "{1}"</val>
+      </comment>
+      <val lang="zh_CN">Change the "{0}" parameter reference to "{1}"</val>
+   </key>
+   <key value="Change_parameter_reference_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Change the "{0}" call-template parameter reference to "{1}".</val>
+      </comment>
+      <val lang="zh_CN">Change the "{0}" call-template parameter reference to "{1}".</val>
+   </key>
+   <key value="Function_not_defined">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Function "{0}" has not been defined</val>
+      </comment>
+      <val lang="zh_CN">Function "{0}" has not been defined</val>
+   </key>
+   <key value="Create_new_function">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Create function "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Create function "{0}"</val>
+   </key>
+   <key value="Create_new_function_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Create a new function "{0}", in the current file.</val>
+      </comment>
+      <val lang="zh_CN">Create a new function "{0}", in the current file.</val>
+   </key>
+   <key value="Change_function_reference_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Change the reference to the function "{0}".</val>
+      </comment>
+      <val lang="zh_CN">Change the reference to the function "{0}".</val>
+   </key>
+   <key value="Variable_has_not_been_declared">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Variable "{0}" has not been declared</val>
+      </comment>
+      <val lang="zh_CN">Variable "{0}" has not been declared</val>
+   </key>
+   <key value="Create_global_variable">
+      <comment>Quick fix name</comment>
+      <comment>
+         <val lang="en_US">Create global variable "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Create global variable "{0}"</val>
+   </key>
+   <key value="Create_global_variable_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Create a new global variable with name "{0}", in the current file.</val>
+      </comment>
+      <val lang="zh_CN">Create a new global variable with name "{0}", in the current file.</val>
+   </key>
+   <key value="Create_local_variable">
+      <comment>Quick fix name</comment>
+      <comment>
+         <val lang="en_US">Create local variable "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Create local variable "{0}"</val>
+   </key>
+   <key value="Create_local_variable_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Create a new local variable with name "{0}", before the current element.</val>
+      </comment>
+      <val lang="zh_CN">Create a new local variable with name "{0}", before the current element.</val>
+   </key>
+   <key value="Create_global_parameter">
+      <comment>Quick fix name</comment>
+      <comment>
+         <val lang="en_US">Create global parameter "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Create global parameter "{0}"</val>
+   </key>
+   <key value="Create_global_parameter_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Create a new global parameter with name "{0}", in the current file.</val>
+      </comment>
+      <val lang="zh_CN">Create a new global parameter with name "{0}", in the current file.</val>
+   </key>
+   <key value="Create_template_parameter">
+      <comment>Quick fix name</comment>
+      <comment>
+         <val lang="en_US">Create template parameter "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Create template parameter "{0}"</val>
+   </key>
+   <key value="Create_template_parameter_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Create a new parameter with name "{0}", in the current template.</val>
+      </comment>
+      <val lang="zh_CN">Create a new parameter with name "{0}", in the current template.</val>
+   </key>
+   <key value="Create_function_parameter">
+      <comment>Quick fix name</comment>
+      <comment>
+         <val lang="en_US">Create function parameter "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Create function parameter "{0}"</val>
+   </key>
+   <key value="Create_function_parameter_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Create a new parameter with name "{0}", in the current function.</val>
+      </comment>
+      <val lang="zh_CN">Create a new parameter with name "{0}", in the current function.</val>
+   </key>
+   <key value="Change_reference_to">
+      <comment>Quick fix name</comment>
+      <comment>
+         <val lang="en_US">Change reference to "{0}"</val>
+      </comment>
+      <val lang="zh_CN">Change reference to "{0}"</val>
+   </key>
+   <key value="Change_reference_to_local_variable_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Change the reference to the local variable "{0}".</val>
+      </comment>
+      <val lang="zh_CN">Change the reference to the local variable "{0}".</val>
+   </key>
+   <key value="Change_reference_to_local_param_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Change the reference to the local parameter "{0}".</val>
+      </comment>
+      <val lang="zh_CN">Change the reference to the local parameter "{0}".</val>
+   </key>
+   <key value="Change_reference_to_global_variable_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Change the reference to the global variable "{0}".</val>
+      </comment>
+      <val lang="zh_CN">Change the reference to the global variable "{0}".</val>
+   </key>
+   <key value="Change_reference_to_global_parameter_description">
+      <comment>Quick fix description</comment>
+      <comment>
+         <val lang="en_US">Change the reference to the global parameter "{0}".</val>
+      </comment>
+      <val lang="zh_CN">Change the reference to the global parameter "{0}".</val>
+   </key>
+   <key value="Destination_stylesheet_is_modified">
+      <comment>Messages shown in the dialog displayed when move a component from a stylesheet to another and the
+            destination stylesheet is modified.</comment>
+      <comment>
+         <val lang="en_US">The destination stylesheet "{0}" is already opened and modified in the editor.\nTo continue,
+            the file must be saved.</val>
+      </comment>
+      <val lang="zh_CN">The destination stylesheet "{0}" is already opened and modified in the editor.\nTo continue,
+            the file must be saved.</val>
+   </key>
+   <key value="Destination_stylesheet_is_in_hierarchy">
+      <comment>Messages shown in the dialog displayed when move a component from a stylesheet to another.</comment>
+      <comment>
+         <val lang="en_US">The destination stylesheet is already in the hierarchy of the edited stylesheet.</val>
+      </comment>
+      <val lang="zh_CN">The destination stylesheet is already in the hierarchy of the edited stylesheet.</val>
+   </key>
+   <key value="Destination_stylesheet_will_be_imported">
+      <comment>Messages shown in the dialog displayed when move a component from a stylesheet to another.</comment>
+      <comment>
+         <val lang="en_US">The destination stylesheet will be imported from the edited one.</val>
+      </comment>
+      <val lang="zh_CN">The destination stylesheet will be imported from the edited one.</val>
+   </key>
+   <key value="Destination_stylesheet_will_be_included">
+      <comment>Messages shown in the dialog displayed when move a component from a stylesheet to another.</comment>
+      <comment>
+         <val lang="en_US">The destination stylesheet will be included from the edited one.</val>
+      </comment>
+      <val lang="zh_CN">The destination stylesheet will be included from the edited one.</val>
+   </key>
+   <key value="Warning_invalid_content_insert_deleting_tags_for_element">
+      <comment>Warning when invalid content is going to be inserted in the document (for example a tag name is
+            changed).</comment>
+      <comment>
+         <val lang="en_US">By deleting the tags of element ''{0}'', invalid content will be inserted in its parent
+            element ''{1}''. To skip these validity check please disable the option ''{2}''. \n\nAre you sure you want
+            to continue the element tags deletion?</val>
+      </comment>
+      <val lang="zh_CN">By deleting the tags of element ''{0}'', invalid content will be inserted in its parent
+            element ''{1}''. To skip these validity check please disable the option ''{2}''. \n\nAre you sure you want
+            to continue the element tags deletion?</val>
+   </key>
+   <key value="Select_the_destination_stylesheet">
+      <comment>Messages shown in the dialog displayed when move a component from a stylesheet to another.</comment>
+      <comment>
+         <val lang="en_US">Select the destination stylesheet</val>
+      </comment>
+      <val lang="zh_CN">Select the destination stylesheet</val>
+   </key>
+   <key value="Css_file">
+      <comment>Label for custom CSS file text field.</comment>
+      <comment>
+         <val lang="en_US">CSS File</val>
+      </comment>
+      <val lang="zh_CN">CSS File</val>
+   </key>
+   <key value="An_existing_stylesheet">
+      <comment>Messages shown in the dialog displayed when move a component from a stylesheet to another.</comment>
+      <comment>
+         <val lang="en_US">an existing stylesheet</val>
+      </comment>
+      <val lang="zh_CN">an existing stylesheet</val>
+   </key>
+   <key value="A_new_stylesheet">
+      <comment>Messages shown in the dialog displayed when move a component from a stylesheet to another.</comment>
+      <comment>
+         <val lang="en_US">a new stylesheet</val>
+      </comment>
+      <val lang="zh_CN">a new stylesheet</val>
+   </key>
+   <key value="Move_the_selected_components_to">
+      <comment>Messages shown in the dialog displayed when move a component from a stylesheet to another.</comment>
+      <comment>
+         <val lang="en_US">Move the selected components to</val>
+      </comment>
+      <val lang="zh_CN">Move the selected components to</val>
+   </key>
+   <key value="Built_in">
+      <comment>Radio button in Ant option page.</comment>
+      <comment>
+         <val lang="en_US">Built-in</val>
+      </comment>
+      <val lang="zh_CN">Built-in</val>
+   </key>
+   <key value="Register_saxon_js_extensions">
+      <comment>Message in Saxon options page.</comment>
+      <comment>
+         <val lang="en_US">Register Saxon-JS extension functions and instructions</val>
+      </comment>
+      <val lang="zh_CN">Register Saxon-JS extension functions and instructions</val>
+   </key>
+   <key value="Ant_build_patterns">
+      <comment>Label for Ant build file patterns.</comment>
+      <comment>
+         <val lang="en_US">Ant build patterns</val>
+      </comment>
+      <val lang="zh_CN">Ant build patterns</val>
+   </key>
+   <key value="You_can_perform_search_references_on_ANT">
+      <comment>Information message for Ant refactory actions.</comment>
+      <comment>
+         <val lang="en_US">You can perform this operation on targets, extension-points, properties and references.</val>
+      </comment>
+      <val lang="zh_CN">You can perform this operation on targets, extension-points, properties and references.</val>
+   </key>
+   <key value="Property_start">
+      <comment>Label for ant property colors</comment>
+      <comment>
+         <val lang="en_US">Property start</val>
+      </comment>
+      <val lang="zh_CN">Property start</val>
+   </key>
+   <key value="Property_end">
+      <comment>Label for ant property colors</comment>
+      <comment>
+         <val lang="en_US">Property end</val>
+      </comment>
+      <val lang="zh_CN">Property end</val>
+   </key>
+   <key value="Could_not_find_extension_base">
+      <comment>An extended framework configuration has a base framework configuration which can no longer be
+            found.</comment>
+      <comment>
+         <val lang="en_US">Could not find base document type "{0}" for current document type extension.</val>
+      </comment>
+      <val lang="zh_CN">Could not find base document type "{0}" for current document type extension.</val>
+   </key>
+   <key distribution="common" value="Extract_template">
+      <comment>Extract template action name</comment>
+      <comment>
+         <val lang="en_US">Extract template</val>
+      </comment>
+      <val lang="zh_CN">Extract template</val>
+   </key>
+   <key distribution="common" value="Extract_template_description">
+      <comment>Extract template action description</comment>
+      <comment>
+         <val lang="en_US">Extract the selected text to a new named template.</val>
+      </comment>
+      <val lang="zh_CN">Extract the selected text to a new named template.</val>
+   </key>
+   <key value="Convert_attributes_to_xsl_attributes" distribution="common">
+      <comment>Stylesheet rename. Convert the attributes of a non-xsl element to xsl:attribute</comment>
+      <comment>
+         <val lang="en_US">Convert attributes to xsl:attributes</val>
+      </comment>
+      <val lang="zh_CN">Convert attributes to xsl:attributes</val>
+   </key>
+   <key value="Convert_attributes_to_xsl_attributes_description"
+        distribution="common">
+      <comment>Stylesheet rename. Convert the attributes of a non-xsl element to xsl:attribute</comment>
+      <comment>
+         <val lang="en_US">Convert the attributes of the current element to xsl:attributes</val>
+      </comment>
+      <val lang="zh_CN">Convert the attributes of the current element to xsl:attributes</val>
+   </key>
+   <key value="Could_not_extract_original_stylesheet_s_root_tags">
+      <comment>Warning message in the "Create stylesheet from selection" action.</comment>
+      <comment>
+         <val lang="en_US">Could not extract original stylesheet's root tags.</val>
+      </comment>
+      <val lang="zh_CN">Could not extract original stylesheet's root tags.</val>
+   </key>
+   <key value="No_ref_for_keydef">
+      <comment>Error message when a key reference is defined.</comment>
+      <comment>
+         <val lang="en_US">There is no reference defined for the current key definition.</val>
+      </comment>
+      <val lang="zh_CN">There is no reference defined for the current key definition.</val>
+   </key>
+   <key value="Enable_mark_occurrences_ant_files">
+      <comment>Option name in 'Mark occurrences' options pane to enable feature for Ant files.</comment>
+      <comment>
+         <val lang="en_US">Ant files (i.e. targets, extension-points...)</val>
+      </comment>
+      <val lang="zh_CN">Ant files (i.e. targets, extension-points...)</val>
+   </key>
+   <key value="Defined_attributes_styles_category">
+      <comment>Profiling style category containing the styles that are associated with profiling attributes values
+            defined in options</comment>
+      <comment>
+         <val lang="en_US">Defined attributes values</val>
+      </comment>
+      <val lang="zh_CN">Defined attributes values</val>
+   </key>
+   <key value="Other_styles_category">
+      <comment>Profiling style category containing the styles that are not associated with profiling attributes
+            defined in options</comment>
+      <comment>
+         <val lang="en_US">Other</val>
+      </comment>
+      <val lang="zh_CN">Other</val>
+   </key>
+   <key value="Evaluate_xpath_3_0_expression">
+      <comment>Evaluate an XPath 3.0 expression</comment>
+      <comment>
+         <val lang="en_US">Evaluate XPath 3.0 expression</val>
+      </comment>
+      <val lang="zh_CN">Evaluate XPath 3.0 expression</val>
+   </key>
+   <key distribution="common" value="Move_to_another_stylesheet">
+      <comment>Move the selected content to another stylesheet.</comment>
+      <comment>
+         <val lang="en_US">Move to another stylesheet</val>
+      </comment>
+      <val lang="zh_CN">Move to another stylesheet</val>
+   </key>
+   <key distribution="common" value="Move_to_another_stylesheet_description">
+      <comment>Move the selected content to another stylesheet - action description</comment>
+      <comment>
+         <val lang="en_US">Move the selected components to another stylesheet. If the selected stylesheet does not exist
+            it will be created.</val>
+      </comment>
+      <val lang="zh_CN">Move the selected components to another stylesheet. If the selected stylesheet does not exist
+            it will be created.</val>
+   </key>
+   <key value="Sample_no_profiling_text_sample">
+      <comment>Sample text for profiling styles preview.</comment>
+      <comment>
+         <val lang="en_US">Sample text without profiling styles.</val>
+      </comment>
+      <val lang="zh_CN">Sample text without profiling styles.</val>
+   </key>
+   <key value="Inherited">
+      <comment>Label used to present inherited profiling attributes on DITA Map tooltip</comment>
+      <comment>
+         <val lang="en_US">Inherited</val>
+      </comment>
+      <val lang="zh_CN">Inherited</val>
+   </key>
+   <key value="CLear_all">
+      <comment>Clear all text</comment>
+      <comment>
+         <val lang="en_US">Clear all</val>
+      </comment>
+      <val lang="zh_CN">Clear all</val>
+   </key>
+   <key value="Automatic_styling">
+      <comment>Button in Profiling Colors and Styles option page that generates styling for existing profiling
+            values</comment>
+      <comment>
+         <val lang="en_US">Automatic styling</val>
+      </comment>
+      <val lang="zh_CN">Automatic styling</val>
+   </key>
+   <key value="User_role_extend">
+      <comment>Document type user extend question</comment>
+      <comment>
+         <val lang="en_US">Do you want to extend and customize it?</val>
+      </comment>
+      <val lang="zh_CN">Do you want to extend and customize it?</val>
+   </key>
+   <key value="Sample_profiling_text_sample">
+      <comment>Sample text for profiling styles preview.</comment>
+      <comment>
+         <val lang="en_US">Sample text to preview the profiling styles.</val>
+      </comment>
+      <val lang="zh_CN">Sample text to preview the profiling styles.</val>
+   </key>
+   <key value="Show_profiling_attr_name">
+      <comment>Checkbox text that controls if the profiling attributes are displayed or not.</comment>
+      <comment>
+         <val lang="en_US">Show profiling attribute name</val>
+      </comment>
+      <val lang="zh_CN">Show profiling attribute name</val>
+   </key>
+   <key value="No_profiling_styles_defined">
+      <comment>Text presented in "Show Profiling Styles" dialog.</comment>
+      <comment>
+         <val lang="en_US">There are no profiling styles defined.\nWould you like to define profiling styles now?</val>
+      </comment>
+      <val lang="zh_CN">There are no profiling styles defined.\nWould you like to define profiling styles now?</val>
+   </key>
+   <key value="Define_profiling_styles">
+      <comment>Button in "Show Profiling Styles" dialog that opens the profiling styles page option.</comment>
+      <comment>
+         <val lang="en_US">Define profiling styles</val>
+      </comment>
+      <val lang="zh_CN">Define profiling styles</val>
+   </key>
+   <key value="Extend">
+      <comment>Extend document type.</comment>
+      <comment>
+         <val lang="en_US">Extend</val>
+      </comment>
+      <val lang="zh_CN">Extend</val>
+   </key>
+   <key value="Show_excluded_content">
+      <comment>Tag of the "Show_excluded_content" action.</comment>
+      <comment>
+         <val lang="en_US">Show Excluded Content</val>
+      </comment>
+      <val lang="zh_CN">Show Excluded Content</val>
+   </key>
+   <key value="Click_to_edit">
+      <comment>Click to edit..</comment>
+      <comment>
+         <val lang="en_US">Click to edit</val>
+      </comment>
+      <val lang="zh_CN">Click to edit</val>
+   </key>
+   <key value="Edit_profiling_style">
+      <comment>Title for edit profiling style dialog.</comment>
+      <comment>
+         <val lang="en_US">Edit Profiling Style</val>
+      </comment>
+      <val lang="zh_CN">Edit Profiling Style</val>
+   </key>
+   <key value="Add_profiling_style">
+      <comment>Title for add profiling style dialog.</comment>
+      <comment>
+         <val lang="en_US">Add Profiling Style</val>
+      </comment>
+      <val lang="zh_CN">Add Profiling Style</val>
+   </key>
+   <key value="No_profiling_styles_to_detect">
+      <comment>Message shown when there is no profiling style to be imported.</comment>
+      <comment>
+         <val lang="en_US">No profiling style was detected from the selected DITAVAL file(s).</val>
+      </comment>
+      <val lang="zh_CN">No profiling style was detected from the selected DITAVAL file(s).</val>
+   </key>
+   <key value="Profiling_styles_in_conflict">
+      <comment>Label in the dialog used to display the imported profiling styles which are in conflict with the
+            existing ones.</comment>
+      <comment>
+         <val lang="en_US">The imported profiling styles are in conflict with the existing ones.</val>
+      </comment>
+      <val lang="zh_CN">The imported profiling styles are in conflict with the existing ones.</val>
+   </key>
+   <key value="Profiling_styles_already_defined">
+      <comment>Message shown in the "Confirm DITAVAL import" dialog for profiling styles</comment>
+      <comment>
+         <val lang="en_US">Already defined profiling styles</val>
+      </comment>
+      <val lang="zh_CN">Already defined profiling styles</val>
+   </key>
+   <key value="Profiling_styles_extracted_ditaval_files">
+      <comment>Message shown in the "Confirm DITAVAL import" dialog for profiling styles</comment>
+      <comment>
+         <val lang="en_US">Profiling styles extracted from DITAVAL file(s)</val>
+      </comment>
+      <val lang="zh_CN">Profiling styles extracted from DITAVAL file(s)</val>
+   </key>
+   <key value="Local_or_missing_variables_parameters">
+      <comment>label in a dialog from create global variable action</comment>
+      <comment>
+         <val lang="en_US">Local or missing variables/parameters are referred in the existing selection:</val>
+      </comment>
+      <val lang="zh_CN">Local or missing variables/parameters are referred in the existing selection:</val>
+   </key>
+   <key value="Configure_Profiling_Condition_Sets">
+      <comment>Menu in DITA Maps Manager Settings for creating or managing the profiling condition sets.</comment>
+      <comment>
+         <val lang="en_US">Profiling Settings</val>
+      </comment>
+      <val lang="zh_CN">Profiling Settings</val>
+   </key>
+   <key value="Text_style">
+      <comment>Label in the profiling colors and styles option page.</comment>
+      <comment>
+         <val lang="en_US">Text style</val>
+      </comment>
+      <val lang="zh_CN">Text style</val>
+   </key>
+   <key value="Bold" distribution="common">
+      <comment>Bold text weight label</comment>
+      <comment>
+         <val lang="en_US">Bold</val>
+      </comment>
+      <val lang="zh_CN">Bold</val>
+   </key>
+   <key value="Italic" distribution="common">
+      <comment>Italic text decoration label</comment>
+      <comment>
+         <val lang="en_US">Italic</val>
+      </comment>
+      <val lang="zh_CN">Italic</val>
+   </key>
+   <key value="Double_underline">
+      <comment>Value of text decoration profiling style.</comment>
+      <comment>
+         <val lang="en_US">Double underline</val>
+      </comment>
+      <val lang="zh_CN">Double underline</val>
+   </key>
+   <key value="Text_decoration">
+      <comment>Label in the profiling colors and styles option page.</comment>
+      <comment>
+         <val lang="en_US">Text decoration</val>
+      </comment>
+      <val lang="zh_CN">Text decoration</val>
+   </key>
+   <key value="Set_here_profiling_styles">
+      <comment>Profiling colors option page information label</comment>
+      <comment>
+         <val lang="en_US">You can set here the text colors and styles associated with a profiling attribute value.</val>
+      </comment>
+      <val lang="zh_CN">You can set here the text colors and styles associated with a profiling attribute value.</val>
+   </key>
+   <key value="Profiling_colors_page_info">
+      <comment>Profiling colors option page information label</comment>
+      <comment>
+         <val lang="en_US">These colors are used when presenting the profiling attributes names and values in Author
+            mode.</val>
+      </comment>
+      <val lang="zh_CN">These colors are used when presenting the profiling attributes names and values in Author
+            mode.</val>
+   </key>
+   <key value="Specify_dt_pattern_attribute_name_value">
+      <comment>Error message when an incorrect profiling style is added</comment>
+      <comment>
+         <val lang="en_US">You must specify a Document Type pattern, an attribute name and value.</val>
+      </comment>
+      <val lang="zh_CN">You must specify a Document Type pattern, an attribute name and value.</val>
+   </key>
+   <key value="Profiling_style_already_exists">
+      <comment>Error message when a profiling style for an attribute which already has a defined style is
+            added</comment>
+      <comment>
+         <val lang="en_US">A profiling style is already defined for the attribute "{0}" with the "{1}" value from the
+            "{2}" document type pattern.</val>
+      </comment>
+      <val lang="zh_CN">A profiling style is already defined for the attribute "{0}" with the "{1}" value from the
+            "{2}" document type pattern.</val>
+   </key>
+   <key distribution="common" value="Colors_and_styles">
+      <comment>Colors and styles option pane</comment>
+      <comment>
+         <val lang="en_US">Colors and Styles</val>
+      </comment>
+      <val lang="zh_CN">Colors and Styles</val>
+   </key>
+   <key value="Configure_profiling_colors_and_styles">
+      <comment>Link label in the profiling conditions option pane</comment>
+      <comment>
+         <val lang="en_US">Configure profiling colors and styles</val>
+      </comment>
+      <val lang="zh_CN">Configure profiling colors and styles</val>
+   </key>
+   <key value="Profiling_Attributes">
+      <comment>Category in Profiling/Condition Text option page for condition attributes.</comment>
+      <comment>
+         <val lang="en_US">Profiling Attributes</val>
+      </comment>
+      <val lang="zh_CN">Profiling Attributes</val>
+   </key>
+   <key value="Profiling_Styles">
+      <comment>Category in Profiling/Condition/Colors option page for condition attributes styles.</comment>
+      <comment>
+         <val lang="en_US">Profiling Styles</val>
+      </comment>
+      <val lang="zh_CN">Profiling Styles</val>
+   </key>
+   <key value="Apply_profiling_styles">
+      <comment>Tag of the "Apply Profiling Styles" action.</comment>
+      <comment>
+         <val lang="en_US">Show Profiling Colors and Styles</val>
+      </comment>
+      <val lang="zh_CN">Show Profiling Colors and Styles</val>
+   </key>
+   <key value="Style">
+      <comment>'Style' tag used in Profiling Style setting </comment>
+      <comment>
+         <val lang="en_US">Style</val>
+      </comment>
+      <val lang="zh_CN">Style</val>
+   </key>
+   <key value="Recursion_detected">
+      <comment>Tooltip message displayed on the dependencies/hierarchy view.</comment>
+      <comment>
+         <val lang="en_US">Recursion detected</val>
+      </comment>
+      <val lang="zh_CN">Recursion detected</val>
+   </key>
+   <key value="External_referred_by">
+      <comment>Tooltip message displayed on the hierarchy view.</comment>
+      <comment>
+         <val lang="en_US">External referred by</val>
+      </comment>
+      <val lang="zh_CN">External referred by</val>
+   </key>
+   <key value="External_reference">
+      <comment>Tooltip message displayed on the dependencies view.</comment>
+      <comment>
+         <val lang="en_US">External reference</val>
+      </comment>
+      <val lang="zh_CN">External reference</val>
+   </key>
+   <key value="Overrides">
+      <comment>Tooltip message displayed on the dependencies view.</comment>
+      <comment>
+         <val lang="en_US">Overrides</val>
+      </comment>
+      <val lang="zh_CN">Overrides</val>
+   </key>
+   <key value="Redefined_by">
+      <comment>Tooltip message displayed on the hierarchy view.</comment>
+      <comment>
+         <val lang="en_US">Redefined by</val>
+      </comment>
+      <val lang="zh_CN">Redefined by</val>
+   </key>
+   <key value="Imported_by">
+      <comment>Tooltip message displayed on the hierarchy view.</comment>
+      <comment>
+         <val lang="en_US">Imported by</val>
+      </comment>
+      <val lang="zh_CN">Imported by</val>
+   </key>
+   <key value="Imports">
+      <comment>Tooltip message displayed on the dependencies view.</comment>
+      <comment>
+         <val lang="en_US">Imports</val>
+      </comment>
+      <val lang="zh_CN">Imports</val>
+   </key>
+   <key value="Included_by">
+      <comment>Tooltip message displayed on the hierarchy view.</comment>
+      <comment>
+         <val lang="en_US">Included by</val>
+      </comment>
+      <val lang="zh_CN">Included by</val>
+   </key>
+   <key value="Includes">
+      <comment>Tooltip message displayed on the dependencies view.</comment>
+      <comment>
+         <val lang="en_US">Includes</val>
+      </comment>
+      <val lang="zh_CN">Includes</val>
+   </key>
+   <key value="Include">
+      <comment>Button in a question dialog.</comment>
+      <comment>
+         <val lang="en_US">Include</val>
+      </comment>
+      <val lang="zh_CN">Include</val>
+   </key>
+   <key value="with_namespaces">
+      <comment>Presents the namespace(s) used with the included/imported/overridden/redefined schema.</comment>
+      <comment>
+         <val lang="en_US">with namespace(s)</val>
+      </comment>
+      <val lang="zh_CN">with namespace(s)</val>
+   </key>
+   <key value="Used_with_namespaces">
+      <comment>Presents the namespace(s) used with the current schema.</comment>
+      <comment>
+         <val lang="en_US">Used with namespace(s)</val>
+      </comment>
+      <val lang="zh_CN">Used with namespace(s)</val>
+   </key>
+   <key value="Import_of_namespace">
+      <comment>Information displayed when only namespace was imported.</comment>
+      <comment>
+         <val lang="en_US">Import of namespace: {0}</val>
+      </comment>
+      <val lang="zh_CN">Import of namespace: {0}</val>
+   </key>
+</translation>
