@@ -1,0 +1,36 @@
+术语原文, 术语译文
+concurrent editing, 协同编辑
+document, 文档
+base document, 基准文档
+directory, 目录
+base directory, 基准目录
+tracking marker, 修订标记
+change tracking markers, 修订标记
+Change Tracking, 更改跟踪
+change tracking file, 更改跟踪文件
+review, 审阅
+document type, 文档类型
+topic, 主题
+map, 导图
+DITA map, DITA导图
+context, 上下文
+context DITA map, 上下文导图
+attribute, 属性
+attribute value, 属性值
+key, 键
+scope, 作用域
+key reference, 键引用
+inline equation, 行内公式
+display equation, 行间公式
+figure, 插图
+Image Map, 图像地图
+reuse, 复用
+scenario, 场景
+empty element, 空元素
+
+
+
+
+
+
+
