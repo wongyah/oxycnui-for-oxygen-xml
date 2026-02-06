@@ -1,0 +1,1774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <languageList>
+      <language description="Chinese" lang="zh_CN" localeDescription="中文"/>
+   </languageList>
+   <key value="XProc_version">
+      <comment>The version of the XProc label in the XProc version dialog.</comment>
+      <comment>
+         <val lang="en_US">XProc version</val>
+      </comment>
+      <val lang="zh_CN">XProc 版本</val>
+   </key>
+   <key value="Enable_secure_processing">
+      <comment>Enable secure processing</comment>
+      <comment>
+         <val lang="en_US">Enable secure processing</val>
+      </comment>
+      <val lang="zh_CN">启用安全处理</val>
+   </key>
+   <key value="Entity_expansion_limit">
+      <comment>Entity expansion limit</comment>
+      <comment>
+         <val lang="en_US">Entity expansion limit</val>
+      </comment>
+      <val lang="zh_CN">实体展开限制</val>
+   </key>
+   <key value="Maximum_occurance_node_limit">
+      <comment>XML Schema nodes maximum occurrence limit</comment>
+      <comment>
+         <val lang="en_US">XML Schema nodes maximum occurrence limit</val>
+      </comment>
+      <val lang="zh_CN">XML Schema 节点数量上限</val>
+   </key>
+   <key value="Configure_addons_update_site_warning">
+      <comment>Warning message when editing add-ons update site.</comment>
+      <comment>
+         <val lang="en_US">You are about to configure a source for plugins and add-ons. Please be aware that, while this can enhance the functionality
+            of your application, it may also expose you to potential security risks. \n\nTo ensure your safety, make sure the update site is reputable
+            and trustworthy. Do not install add-ons that are unsigned or from sources you do not fully trust.</val>
+      </comment>
+      <val lang="zh_CN">您正在为插件和插件包设置源地址（安装源和更新源）。请注意，这虽然可以扩展软件功能，但也可能带来潜在的安全风险。\n\n为了安全起见，请使用有声望、可信赖的源地址。切勿安装未签名的或者来源不明的插件包！</val>
+   </key>
+   <key value="Accept_risk_and_continue">
+      <comment>Button name</comment>
+      <comment>
+         <val lang="en_US">Accept risk and continue</val>
+      </comment>
+      <val lang="zh_CN">接受风险并继续</val>
+   </key>
+   <key value="Add_update_site_url">
+      <comment>Dialog title</comment>
+      <comment>
+         <val lang="en_US">Add update site URL</val>
+      </comment>
+      <val lang="zh_CN">添加更新源的 URL</val>
+   </key>
+   <key value="Edit_update_site_url">
+      <comment>Dialog title</comment>
+      <comment>
+         <val lang="en_US">Edit update site URL</val>
+      </comment>
+      <val lang="zh_CN">修改更新源的 URL</val>
+   </key>
+   <key value="Initializing_plugins">
+      <comment>Message on loading the application main frame.</comment>
+      <comment>
+         <val lang="en_US">Initializing plugins</val>
+      </comment>
+      <val lang="zh_CN">初始化插件</val>
+   </key>
+   <key distribution="webauthor" value="HIGHLIGHT_CANNOT_BE_ADDED_">
+      <comment>Message to be presented to the user when a color highlight cannot be added.</comment>
+      <comment>
+         <val lang="en_US">The highlight cannot be added on the current selection (the selection must not start or end in a read-only content).</val>
+      </comment>
+      <val lang="zh_CN">无法为当前选区添加高亮（选区的开头和结尾不能位于只读内容中）。</val>
+   </key>
+   <key value="Sort_keys">
+      <comment>Sort keys</comment>
+      <comment>
+         <val lang="en_US">Sort keys</val>
+      </comment>
+      <val lang="zh_CN">对键进行排序</val>
+   </key>
+   <key distribution="webauthor" value="OPERATION_NOT_SUPPORTED_CONCURRENT_EDITING_">
+      <comment>Warning shown when an operation is not supported in concurrent editing.</comment>
+      <comment>
+         <val lang="en_US">Operation is not supported in concurrent editing</val>
+      </comment>
+      <val lang="zh_CN">协同编辑时，不支持该操作</val>
+   </key>
+   <key value="Current">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Current</val>
+      </comment>
+      <val lang="zh_CN">当前</val>
+   </key>
+   <key value="Proposed_changes">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Proposed changes</val>
+      </comment>
+      <val lang="zh_CN">修改意见</val>
+   </key>
+   <key value="Apply_all_default_quick_fix_proposals_for_all_problems_additional_info">
+      <comment>Additional explanation about an action name.</comment>
+      <comment>
+         <val lang="en_US">Each default quick fix proposal for each validation problem reported in the document will be applied</val>
+      </comment>
+      <val lang="zh_CN">该操作将对文档验证中报告的每一个问题应用默认快速修复。</val>
+   </key>
+   <key value="Apply_all_default_quick_fix_proposals_in_all_files">
+      <comment>Action name.</comment>
+      <comment>
+         <val lang="en_US">Apply all default quick fix proposals in all files</val>
+      </comment>
+      <val lang="zh_CN">为所有文件应用默认快速修复</val>
+   </key>
+   <key value="Cannot_convert_schema">
+      <comment>Message when schema generation process fails.</comment>
+      <comment>
+         <val lang="en_US">Schema cannot be converted</val>
+      </comment>
+      <val lang="zh_CN">模式转换失败</val>
+   </key>
+   <key distribution="webauthor" value="csp_use_custom_policy">
+      <comment>Label for a CSP checkbox.</comment>
+      <comment>
+         <val lang="en_US">Use a custom policy</val>
+      </comment>
+      <val lang="zh_CN">使用自定义策略</val>
+   </key>
+   <key distribution="webauthor" value="use_csp_header">
+      <comment>Header for a section from administration page that contains security checklist (checkboxes)</comment>
+      <comment>
+         <val lang="en_US">Use CSP</val>
+      </comment>
+      <val lang="zh_CN">使用 CSP</val>
+   </key>
+   <key distribution="webauthor" value="one_value_per_line">
+      <comment>Short explanation appended after a label.</comment>
+      <comment>
+         <val lang="en_US">(one value per line):</val>
+      </comment>
+      <val lang="zh_CN">（每行一个值）：</val>
+   </key>
+   <key distribution="webauthor" value="Application_authentication">
+      <comment>Label for the application authentication security option.</comment>
+      <comment>
+         <val lang="en_US">Application authentication provider:</val>
+      </comment>
+      <val lang="zh_CN">身份验证提供方：</val>
+   </key>
+   <key distribution="webauthor" value="Application_authentication_disabled">
+      <comment>Message used when the application authentication is disabled.</comment>
+      <comment>
+         <val lang="en_US">Application authentication is disabled</val>
+      </comment>
+      <val lang="zh_CN">身份验证已禁用</val>
+   </key>
+   <key distribution="webauthor" value="No_authentication_provider">
+      <comment>Message used when there is no application authentication provider.</comment>
+      <comment>
+         <val lang="en_US">No authentication provider installed or configured</val>
+      </comment>
+      <val lang="zh_CN">未安装或未设置身份验证提供方</val>
+   </key>
+   <key distribution="webauthor" value="The_folder_not_found">
+      <comment>Error message when fails to list a folder that's missing.</comment>
+      <comment>
+         <val lang="en_US">Folder not found.</val>
+      </comment>
+      <val lang="zh_CN">找不到文件夹。</val>
+   </key>
+   <key value="Enable_dynamic_conversion">
+      <comment>Options for enable/disable the dynamic conversion of specific non-DITA resources</comment>
+      <comment>
+         <val lang="en_US">Dynamic conversion of specific non-DITA resources</val>
+      </comment>
+      <val lang="zh_CN">动态转换部分非 DITA 资源</val>
+   </key>
+   <key value="Subscript">
+      <comment>Subscript</comment>
+      <comment>
+         <val lang="en_US">Subscript</val>
+      </comment>
+      <val lang="zh_CN">下标</val>
+   </key>
+   <key value="Superscript">
+      <comment>Superscript</comment>
+      <comment>
+         <val lang="en_US">Superscript</val>
+      </comment>
+      <val lang="zh_CN">上标</val>
+   </key>
+   <key value="No_dita_reusable_components_found_message">
+      <comment>Message in dialog explaining that no DITA Key definitions were found.</comment>
+      <comment>
+         <val lang="en_US">No reusable components were found. Reusable components are elements with IDs that are defined in topics referenced as "resource-only" in the context DITA map.</val>
+      </comment>
+      <val lang="zh_CN">找不到可复用的内容。可复用的内容是指一些带有 ID 的元素，而且这些元素所在主题在上下文导图中被设置为 “resource-only”。</val>
+   </key>
+   <key value="No_dita_keys_found_message">
+      <comment>Message in dialog explaining that no DITA Key definitions were found.</comment>
+      <comment>
+         <val lang="en_US">No key definitions were found. Keys are gathered from the context DITA map.</val>
+      </comment>
+      <val lang="zh_CN">找不到键值对定义。键值对定义位于上下文导图中。</val>
+   </key>
+   <key value="YAML_Header">
+      <comment>YAML Header for markdown documents</comment>
+      <comment>
+         <val lang="en_US">YAML Header</val>
+      </comment>
+      <val lang="zh_CN">YAML 头部</val>
+   </key>
+   <key value="Comparison_tools">
+      <comment>Sub-menu in Tools main menu.</comment>
+      <comment>
+         <val lang="en_US">Comparison Tools</val>
+      </comment>
+      <val lang="zh_CN">比较工具</val>
+   </key>
+   <key value="Quick_fixes_could_not_be_applied_document_became_unparsable">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">Quick fixes could not be applied, the document may have become not well-formed during the update process</val>
+      </comment>
+      <val lang="zh_CN">无法应用快速修复，文档在更新过程中可能产生了不符合语法规则的内容</val>
+   </key>
+   <key value="Apply_all_default_quick_fix_proposals">
+      <comment>Action name.</comment>
+      <comment>
+         <val lang="en_US">Apply all default quick fix proposals</val>
+      </comment>
+      <val lang="zh_CN">应用所有的默认快速修复</val>
+   </key>
+   <key value="Could_not_create_document_copy">
+      <comment>Error message.</comment>
+      <comment>
+         <val lang="en_US">Could not create a document copy.</val>
+      </comment>
+      <val lang="zh_CN">无法创建文档副本。</val>
+   </key>
+   <key value="Could_not_generate_operations_for_quick_fix">
+      <comment>Formatted error message. The parameter is a String indicating the name of the quick fix.</comment>
+      <comment>
+         <val lang="en_US">"{0}" quick fix not applied because the associated operations could not be generated correctly.</val>
+      </comment>
+      <val lang="zh_CN">无法应用快速修复 “{0}”，因为无法正确生成相关操作。</val>
+   </key>
+   <key value="Conflicting_quick_fixes_detcted">
+      <comment>Formatted error message. The parameter is a String indicating the name of the quick fix.</comment>
+      <comment>
+         <val lang="en_US">"{0}" quick fix not applied because it would have conflicted with one of the previously performed fixes.</val>
+      </comment>
+      <val lang="zh_CN">无法应用快速修复 “{0}”，因为它与之前已应用的某个修复产生了冲突。</val>
+   </key>
+   <key value="Quick_fix_not_performed_as_it_required_providing_user_entered_values">
+      <comment>Formatted error message. The parameter is a String indicating the name of the quick fix.</comment>
+      <comment>
+         <val lang="en_US">"{0}" quick fix not performed because it required providing user-entered values.</val>
+      </comment>
+      <val lang="zh_CN">无法执行快速修复 “{0}”，因为需要提供用户输入的值。</val>
+   </key>
+   <key value="Quick_fix_not_applied_in_referenced_doc">
+      <comment>Formatted error message. The 1st parameter is a String indicating the name of the quick fix. The 2nd parameter is the system ID of the referenced document.</comment>
+      <comment>
+         <val lang="en_US">"{0}" quick fix not applied in the referenced document "{1}".</val>
+      </comment>
+      <val lang="zh_CN">无法在引用的文档 “{1}” 中应用快速修复 “{0}”。</val>
+   </key>
+   <key value="Several_quick_fixes_could_not_be_applied">
+      <comment>Formatted error message. The parameters are numbers.</comment>
+      <comment>
+         <val lang="en_US">{0} out of {1} quick fixes could not be applied</val>
+      </comment>
+      <val lang="zh_CN">共有 {1} 个快速修复，其中有 {0} 个快速修复无法应用</val>
+   </key>
+   <key value="All_quick_fixes_applied_quantitative_info">
+      <comment>Formatted error message. The parameter is a number.</comment>
+      <comment>
+         <val lang="en_US">{0} out of {0} quick fixes applied successfully</val>
+      </comment>
+      <val lang="zh_CN">共有 {0} 个快速修复，其中有 {0} 个快速修复已成功应用</val>
+   </key>
+   <key value="Several_quick_fixes_could_not_be_applied_in_scope">
+      <comment>Formatted error message. The parameters are numbers.</comment>
+      <comment>
+         <val lang="en_US">{0} out of {1} documents not completely updated</val>
+      </comment>
+      <val lang="zh_CN">共有 {1} 个文档，其中有 {0} 个文档没有完全更新</val>
+   </key>
+   <key value="All_quick_fixes_applied_in_scope_quantitative_info">
+      <comment>Formatted error message. The parameter is a number.</comment>
+      <comment>
+         <val lang="en_US">{0} out of {0} documents updated successfully</val>
+      </comment>
+      <val lang="zh_CN">共有 {0} 个文档，其中的 {0} 个文档已更新成功</val>
+   </key>
+   <key value="Apply_transform_JSON_tooltip">
+      <comment>Tooltip for the input URL in the transformation configuration dialog.</comment>
+      <comment>
+         <val lang="en_US">The transformation will be applied on the JSON document at this URL</val>
+      </comment>
+      <val lang="zh_CN">该转换将应用于以下 URL 指向的 JSON 文档</val>
+   </key>
+   <key value="Browse_Json_Local_Tooltip">
+      <comment>Browse for an input file, used in XSL transformation. Transformation Configuration dialog.</comment>
+      <comment>
+         <val lang="en_US">Browse for a local input JSON file</val>
+      </comment>
+      <val lang="zh_CN">请选择一个本地的 JSON 文件作为输入</val>
+   </key>
+   <key value="Browse_Json_URL_Tooltip">
+      <comment>Configure Transformation Scenario dialog.</comment>
+      <comment>
+         <val lang="en_US">Browse for a remote input JSON file</val>
+      </comment>
+      <val lang="zh_CN">请选择一个远程的 JSON 文件作为输入</val>
+   </key>
+   <key value="Open_Json_Tooltip">
+      <comment/>
+      <comment>
+         <val lang="en_US">Open the JSON file</val>
+      </comment>
+      <val lang="zh_CN">打开 JSON 文件</val>
+   </key>
+   <key value="No_value_specified">
+      <comment>Tooltip for combo box in which an XML attribute value is edited.</comment>
+      <comment>
+         <val lang="en_US">No value specified</val>
+      </comment>
+      <val lang="zh_CN">未指定值</val>
+   </key>
+   <key value="Inline_equations">
+      <comment>Inline Equations</comment>
+      <comment>
+         <val lang="en_US">Inline Equations</val>
+      </comment>
+      <val lang="zh_CN">行内公式</val>
+   </key>
+   <key value="Display_equations">
+      <comment>Display Equations</comment>
+      <comment>
+         <val lang="en_US">Display Equations</val>
+      </comment>
+      <val lang="zh_CN">行间公式</val>
+   </key>
+   <key distribution="webauthor" value="use_hsts_header">
+      <comment>Header for a section from administration page that contains security checklist (checkboxes)</comment>
+      <comment>
+         <val lang="en_US">Use HTTP Strict Transport Security (HSTS)</val>
+      </comment>
+      <val lang="zh_CN">使用 HTTP 严格传输安全（HSTS）</val>
+   </key>
+   <key distribution="webauthor" value="security_checklist">
+      <comment>Header for a section from administration page that contains security checklist (checkboxes)</comment>
+      <comment>
+         <val lang="en_US">Security Options</val>
+      </comment>
+      <val lang="zh_CN">安全选项</val>
+   </key>
+   <key distribution="webauthor" value="use_secure_cookie_attribute">
+      <comment>Label for a security checkbox</comment>
+      <comment>
+         <val lang="en_US">Use the "Secure" attribute for the session cookie</val>
+      </comment>
+      <val lang="zh_CN">为会话 Cookie 设置 “Secure” 属性</val>
+   </key>
+   <key distribution="webauthor" value="Reject_invalid_security_certificates">
+      <comment>Label for a security checkbox</comment>
+      <comment>
+         <val lang="en_US">Reject invalid security certificates</val>
+      </comment>
+      <val lang="zh_CN">拒绝无效证书</val>
+   </key>
+   <key value="Auto_apply_styles_ditaval_main_files">
+      <comment>Checkbox for applying colors defined in DITAVAL files which are referenced in the Main Files Folder</comment>
+      <comment>
+         <val lang="en_US">Automatically apply colors and styles from DITAVAL files referenced in the Main Files folder</val>
+      </comment>
+      <val lang="zh_CN">自动应用在主文件文件夹中引用的 DITAVAL文件中定义的颜色和样式</val>
+   </key>
+   <key value="Json_Schema_components">
+      <comment>Name for JSON Schema components outliner.</comment>
+      <comment>
+         <val lang="en_US">JSON Schema components</val>
+      </comment>
+      <val lang="zh_CN">JSON Schema 组件</val>
+   </key>
+   <key value="Index_only_resource_only_topics">
+      <comment>Info message that shows how to disable option in preferences page.</comment>
+      <comment>
+         <val lang="en_US">Only index files referenced in the context DITA map as "resource-only"</val>
+      </comment>
+      <val lang="zh_CN">仅索引在上下文导图中以 “resource-only” 方式引用的文件</val>
+   </key>
+   <key value="Save_comparison_as_document_with_tracked_changes">
+      <comment>Name of a Diff action that saves the comparison results as a document with tracked changes.</comment>
+      <comment>
+         <val lang="en_US">Save Comparison as Document with Tracked Changes</val>
+      </comment>
+      <val lang="zh_CN">将比较结果另存为文档并跟踪更改</val>
+   </key>
+   <key value="Merge_documents_with_change_tracking_highlights">
+      <comment>Action name</comment>
+      <comment>
+         <val lang="en_US">Merge Documents with Change Tracking Highlights</val>
+      </comment>
+      <val lang="zh_CN">合并文档并高亮更改跟踪</val>
+   </key>
+   <key value="Base_document">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Base document</val>
+      </comment>
+      <val lang="zh_CN">基准文档</val>
+   </key>
+   <key value="Document_to_merge_with">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Document to merge with</val>
+      </comment>
+      <val lang="zh_CN">待合并的文档</val>
+   </key>
+   <key value="Failed_to_open_resulting_file">
+      <comment>Error message</comment>
+      <comment>
+         <val lang="en_US">Failed to open the resulting file.</val>
+      </comment>
+      <val lang="zh_CN">无法打开生成的文件。</val>
+   </key>
+   <key value="Merge_directories_with_change_tracking_highlights">
+      <comment>Action name</comment>
+      <comment>
+         <val lang="en_US">Merge Directories with Change Tracking Highlights</val>
+      </comment>
+      <val lang="zh_CN">合并目录并高亮更改跟踪</val>
+   </key>
+   <key value="Directory_to_merge_with">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Directory to merge with</val>
+      </comment>
+      <val lang="zh_CN">待合并的目录</val>
+   </key>
+   <key value="Merge_options">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Merge options</val>
+      </comment>
+      <val lang="zh_CN">合并选项</val>
+   </key>
+   <key value="Update_the_modified_non_XML_files">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Update the modified non-XML files</val>
+      </comment>
+      <val lang="zh_CN">更新已修改的非 XML 文件 </val>
+   </key>
+   <key value="Add_the_files_found_only_in_the_directory_to_merge_with">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Add the files found only in the directory to merge with</val>
+      </comment>
+      <val lang="zh_CN">仅添加要合并的目录中的文件</val>
+   </key>
+   <key value="Create_change_tracking_markers_for_the_XML_files_to_be_added">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Create change tracking markers for the XML files to be added</val>
+      </comment>
+      <val lang="zh_CN">为要添加的 XML 文件创建更改跟踪标记</val>
+   </key>
+   <key value="Delete_the_files_found_only_in_the_base_directory">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Delete the files found only in the base directory</val>
+      </comment>
+      <val lang="zh_CN">仅删除基准目录中的文件</val>
+   </key>
+   <key value="Open_the_operation_report_file_in_editor">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Open the operation report file in editor</val>
+      </comment>
+      <val lang="zh_CN">在编辑窗口中打开处理报告</val>
+   </key>
+   <key value="Backup_the_base_directory">
+      <comment>Label</comment>
+      <comment>
+         <val lang="en_US">Backup the base directory</val>
+      </comment>
+      <val lang="zh_CN">备份基准目录</val>
+   </key>
+   <key value="Output_dir_same_as_dir_to_merge_with_conflict_msg_1">
+      <comment>Error message</comment>
+      <comment>
+         <val lang="en_US">The directory to merge with cannot be used as the output directory.</val>
+      </comment>
+      <val lang="zh_CN">待合并的目录不能作为输出目录。</val>
+   </key>
+   <key value="Output_dir_same_as_dir_to_merge_with_conflict_msg_2">
+      <comment>Error message</comment>
+      <comment>
+         <val lang="en_US">You can leave the field blank to save the merge results in the base directory, overwriting it</val>
+      </comment>
+      <val lang="zh_CN">如果将字段留空，合并结果将被保存到基准目录中，覆盖原有文件</val>
+   </key>
+   <key value="Output_dir_same_as_dir_to_merge_with_conflict_msg_3">
+      <comment>Error message - continuation of the message above, in a certain context. There should be no semantic problems at all. The preposition OR at the beginning actually composes the 2 messages.</comment>
+      <comment>
+         <val lang="en_US">or you can choose a separate output directory</val>
+      </comment>
+      <val lang="zh_CN">或者选择一个单独的输出目录</val>
+   </key>
+   <key value="Directory_to_merge_with_does_not_exist">
+      <comment>Info message associated with an error</comment>
+      <comment>
+         <val lang="en_US">The specified directory to merge with does not exist.</val>
+      </comment>
+      <val lang="zh_CN">用来合并的目录不存在。</val>
+   </key>
+   <key value="Dir_to_merge_with_file_specified_instead_of_directory">
+      <comment>Info message associated with an error</comment>
+      <comment>
+         <val lang="en_US">You specified a file as directory to merge with.</val>
+      </comment>
+      <val lang="zh_CN">您把一个文件错当成目录合并了。</val>
+   </key>
+   <key value="Generating_change_tracking_files_for_modified_XML_file_pairs">
+      <comment>Merge operation status message</comment>
+      <comment>
+         <val lang="en_US">Generating change tracking files for modified XML file pairs</val>
+      </comment>
+      <val lang="zh_CN">为一对存在差异的 XML 文件生成更改跟踪文件</val>
+   </key>
+   <key value="Show_vertical_bars">
+      <comment>Option to show vertical bars character marks in YAML editors only. It's an "extension" of the already existing key "Show_SPACE_marks"</comment>
+      <comment>
+         <val lang="en_US">Show vertical bars</val>
+      </comment>
+      <val lang="zh_CN">显示竖线符号</val>
+   </key>
+   <key value="Accompanying_message_for_link_to_show_space_marks_option">
+      <comment>Info message that accompanies a link to a specific option in preferences page.</comment>
+      <comment>
+         <val lang="en_US">You can display SPACE marks for all editors by selecting the following option</val>
+      </comment>
+      <val lang="zh_CN">您可以通过以下选项让所有编辑窗口显示空格标记</val>
+   </key>
+   <key value="Info_disable_option_from_preferences">
+      <comment>Info message that shows how to disable option in preferences page.</comment>
+      <comment>
+         <val lang="en_US">To disable this check, deselect the "{0}" option in the {1} preferences page.</val>
+      </comment>
+      <val lang="zh_CN">要禁用这项检查，请在首选项的 “{1}” 页面取消勾选 “{0}” 选项</val>
+   </key>
+   <key value="Check_for_notifications_description">
+      <comment>Tooltip for the Check for notification options from Notification dialog.</comment>
+      <comment>
+         <val lang="en_US">Oxygen will periodically check for any new events and will display them in this dialog.</val>
+      </comment>
+      <val lang="zh_CN">Oxygen 会定期检查所有新事件，并将它们显示在此对话框中</val>
+   </key>
+   <key value="Generic_event">
+      <comment>Event type</comment>
+      <comment>
+         <val lang="en_US">Generic event</val>
+      </comment>
+      <val lang="zh_CN">普通事件</val>
+   </key>
+   <key value="Blog_post">
+      <comment>Event type</comment>
+      <comment>
+         <val lang="en_US">Blog post</val>
+      </comment>
+      <val lang="zh_CN">博客文章</val>
+   </key>
+   <key value="Conference">
+      <comment>Event type</comment>
+      <comment>
+         <val lang="en_US">Conference</val>
+      </comment>
+      <val lang="zh_CN">会议</val>
+   </key>
+   <key value="Oxygen_release">
+      <comment>Event type</comment>
+      <comment>
+         <val lang="en_US">Oxygen release</val>
+      </comment>
+      <val lang="zh_CN">Oxygen 软件发布</val>
+   </key>
+   <key value="User_meetup">
+      <comment>Event type</comment>
+      <comment>
+         <val lang="en_US">User meetup</val>
+      </comment>
+      <val lang="zh_CN">用户交流会</val>
+   </key>
+   <key value="Video_demonstration">
+      <comment>Event type</comment>
+      <comment>
+         <val lang="en_US">Video demonstration</val>
+      </comment>
+      <val lang="zh_CN">视频演示</val>
+   </key>
+   <key value="Webinar">
+      <comment>Event type</comment>
+      <comment>
+         <val lang="en_US">Webinar</val>
+      </comment>
+      <val lang="zh_CN">网络研讨会</val>
+   </key>
+   <key value="Cannot_check_for_new_version">
+      <comment>Message presented when application cannot check for new version.</comment>
+      <comment>
+         <val lang="en_US">Cannot check for new versions.</val>
+      </comment>
+      <val lang="zh_CN">无法检查新版本</val>
+   </key>
+   <key value="Addons_signature_hint">
+      <comment>Part of the description of the Addons Wizard page. It is a hint about what the user that it must
+            inspect the signature in this page.</comment>
+      <comment>
+         <val lang="en_US">Please note that the installation of third-party add-ons allows them to access 
+        	and use data stored on your device or local network. This presents a risk when using add-ons 
+        	from untrusted or unknown sources. We strongly recommend thoroughly researching the publisher of any third-party 
+       	 	add-on before installation and only installing add-ons from reputable sources.</val>
+      </comment>
+      <val lang="zh_CN">请注意，您安装的第三方插件包有权访问存储在您的设备或本地网络中的数据。也就是说，安装来源不明或未受信任的插件包会带来安全风险。我们强烈建议您，在安装第三方插件包前全面了解发布者信息，只安装那些来源可信的插件包。</val>
+   </key>
+   <key value="Show_only_keys_with_closest_relative_keyscope">
+      <comment>Filtering action in DITA Reusable Components</comment>
+      <comment>
+         <val lang="en_US">Show only keys with closest relative key scope</val>
+      </comment>
+      <val lang="zh_CN">仅显示最近作用域中的键</val>
+   </key>
+   <key value="Show_only_dita_maps">
+      <comment>Filtering action in the Choose context dialog</comment>
+      <comment>
+         <val lang="en_US">Show only DITA maps</val>
+      </comment>
+      <val lang="zh_CN">仅显示 DITA 导图</val>
+   </key>
+   <key value="Show_only_dita_ot_project_contexts">
+      <comment>Filtering action in the Choose context dialog</comment>
+      <comment>
+         <val lang="en_US">Show only DITA-OT project contexts</val>
+      </comment>
+      <val lang="zh_CN">仅显示 DITA-OT 项目的上下文</val>
+   </key>
+   <key distribution="common" value="Choose_context_root_map">
+      <comment>The title of the dialog used to choose the context root map.</comment>
+      <comment>
+         <val lang="en_US">Choose context root map</val>
+      </comment>
+      <val lang="zh_CN">选择上下文根导图</val>
+   </key>
+   <key value="Choose_context_from_main_files">
+      <comment>Action for choosing a context from main files</comment>
+      <comment>
+         <val lang="en_US">Choose context from main files</val>
+      </comment>
+      <val lang="zh_CN">从主文件中选择上下文</val>
+   </key>
+   <key value="Choose_context_from_main_files_tooltip">
+      <comment>Tooltip for the action that chooses a context from main files</comment>
+      <comment>
+         <val lang="en_US">Choose a context from the DITA maps and the DITA-OT projects set as main files</val>
+      </comment>
+      <val lang="zh_CN">从主文件中选择一张 DITA 导图或者一个 DITA-OT 项目作为上下文</val>
+   </key>
+   <key value="Display_referred_content">
+      <comment>Author option page label.</comment>
+      <comment>
+         <val lang="en_US">Display referenced content (e.g.: external entities, XInclude, DITA conref, etc.)</val>
+      </comment>
+      <val lang="zh_CN">显示引用的内容（例如外部实体、XInclude、DITA conref 等）</val>
+   </key>
+   <key value="Oxygen_recommends_mathml_editor">
+      <comment>Message recommending MathML editor for editing.</comment>
+      <comment>
+         <val lang="en_US">Note that Oxygen also provides support for editing MathML equations using the Wiris MathType or an external MathML editor.
+         \nFor information about installing MathType in Oxygen and configuring it, see:</val>
+      </comment>
+      <val lang="zh_CN">请注意，Oxygen 也支持编辑 MathML 公式，使用 Wiris MathType 或其他外部 MathML 公式编辑器均可。\n关于如何在 Oxygen 中安装和配置 MathType ，请参见：</val>
+   </key>
+   <key value="Prefer_adding_keyrefs_to_already_referenced_resources">
+      <comment>Option check box for prefering adding key references to already referenced resources.</comment>
+      <comment>
+         <val lang="en_US">Prefer adding key references to already referenced resources</val>
+      </comment>
+      <val lang="zh_CN">优先为已引用的资源添加键引用</val>
+   </key>
+   <key value="Format_not_set_on_topicref">
+      <comment>Message presented when the "format" attribute must be set on an element.</comment>
+      <comment>
+         <val lang="en_US">The "format" attribute is not set on the topic reference element.</val>
+      </comment>
+      <val lang="zh_CN">主题引用元素上没有设置 &quot;format&quot; 属性</val>
+   </key>
+   <key value="Key_scopes_context">
+      <comment>Label used to present the context of the key scopes.</comment>
+      <comment>
+         <val lang="en_US">Key scopes context</val>
+      </comment>
+      <val lang="zh_CN">键值对作用域的上下文</val>
+   </key>
+   <key value="Present_only_items_related_to_opened_maps">
+      <comment>Options for filtering items into the Context combobox by presenting only the items related to the opened maps.</comment>
+      <comment>
+         <val lang="en_US">Only display items related to currently open maps in the Context drop-down list</val>
+      </comment>
+      <val lang="zh_CN">仅在上下文下拉列表中显示与当前打开的导图相关的项目</val>
+   </key>
+   <key value="Cancel_Import_Addons_Question_Button_Text">
+      <comment>The cancel button for import addons dialog.</comment>
+      <comment>
+         <val lang="en_US">Don't import anything</val>
+      </comment>
+      <val lang="zh_CN">不要导入任何东西</val>
+   </key>
+   <key value="Confirm_Import_Addons_Question_Button_Text">
+      <comment>The confirmation button for import addons dialog.</comment>
+      <comment>
+         <val lang="en_US">Review and import</val>
+      </comment>
+      <val lang="zh_CN">审阅并导入</val>
+   </key>
+   <key value="Confirm_Import_Addons_Question">
+      <comment>Asking the user to confirm the import of addons.</comment>
+      <comment>
+         <val lang="en_US">Addons were detected in the previous version. Do you want to preview them and choose which ones to import? If you install a new addon at any point, you will no longer be able to import them.</val>
+      </comment>
+      <val lang="zh_CN">在上一版本中检测到了插件包。是否要预览并选择哪些需要导入？一旦您安装了任何新插件包，就无法再导入这些旧插件包了。</val>
+   </key>
+   <key value="Email">
+      <comment>Email</comment>
+      <comment>
+         <val lang="en_US">Email</val>
+      </comment>
+      <val lang="zh_CN">邮箱</val>
+   </key>
+   <key value="Feature_not_available">
+      <comment>Dynamic help: inform user that Dynamic Help is not available.</comment>
+      <comment>
+         <val lang="en_US">Dynamic Help feature not available.</val>
+      </comment>
+      <val lang="zh_CN">动态帮助功能不可用。</val>
+   </key>
+   <key value="Download_user_manual">
+      <comment>Name of an action in Help menu.</comment>
+      <comment>
+         <val lang="en_US">Download User Manual</val>
+      </comment>
+      <val lang="zh_CN">下载用户手册</val>
+   </key>
+   <key value="Unresolved_reference">
+      <comment>Message associated with an error that might occur during 'Flatten JSON Schema' operation.</comment>
+      <comment>
+         <val lang="en_US">Unresolved reference</val>
+      </comment>
+      <val lang="zh_CN">无法解析的引用</val>
+   </key>
+   <key value="Show_json_property_name">
+      <comment>Show property names in JSON editor after the closing brackets.</comment>
+      <comment>
+         <val lang="en_US">Show property name after ending bracket</val>
+      </comment>
+      <val lang="zh_CN">在右括号后面显示属性名称</val>
+   </key>
+   <key value="Addon_status_disabled_enabled_after_update">
+      <comment>Description of an disabled add-on that informs the user that the add-on will be enabled after update.</comment>
+      <comment>
+         <val lang="en_US">The add-on will automatically be enabled after updating.</val>
+      </comment>
+      <val lang="zh_CN">该插件在更新后会自动启用。</val>
+   </key>
+   <key distribution="common" value="Illegal_character_in_attribute_value">
+      <comment>Warning that value of an attribute should not contain any spaces.</comment>
+      <comment>
+         <val lang="en_US">Illegal character in attribute value: {0}.</val>
+      </comment>
+      <val lang="zh_CN">属性值中存在非法字符：{0}</val>
+   </key>
+   <key distribution="common" value="Specified_attribute_value_is_already_added">
+      <comment>Warning that value of the attribute is already added.</comment>
+      <comment>
+         <val lang="en_US">Specified attribute value is already added.</val>
+      </comment>
+      <val lang="zh_CN">指定的属性值已存在。</val>
+   </key>
+   <key distribution="common" value="You_must_specify_attribute_value">
+      <comment>Warning that value must be specified for an attribute.</comment>
+      <comment>
+         <val lang="en_US">You must specify an attribute value.</val>
+      </comment>
+      <val lang="zh_CN">您必须指定一个属性值。</val>
+   </key>
+   <key distribution="common" value="Extract_the_selected_definition_to">
+      <comment>Messages shown in the dialog displayed when extracting a definition from a schema to another.</comment>
+      <comment>
+         <val lang="en_US">Extract the selected definition to file</val>
+      </comment>
+      <val lang="zh_CN">将选中的定义提取为文件</val>
+   </key>
+   <key value="Automatically_save_local_dita_maps_after_modification_message">
+      <comment>Information message regarding the behaviour of Autosave after modification in DITA Maps Manager.</comment>
+      <comment>
+         <val lang="en_US">This option is ignored if the "{0}" option in the "{1} / {2}" options page is also selected.</val>
+      </comment>
+      <val lang="zh_CN">如果 “{1}/{2}” 选项卡中的 “{0}” 选项也被选中，此选项就会被忽略。</val>
+   </key>
+   <key value="Save_Autosave_enabled">
+      <comment>Tooltip message for Save action associated to DITA Maps Manager save action 
+        when the 'Automatically save DITA maps after each modification' option is enabled.</comment>
+      <comment>
+         <val lang="en_US">Save (Autosave enabled)</val>
+      </comment>
+      <val lang="zh_CN">保存（已启用自动保存）</val>
+   </key>
+   <key value="Addon_status_disabled_tooltip">
+      <comment>Tooltip for the status of an add-on that informs the user that the add-on is installed but disabled.</comment>
+      <comment>
+         <val lang="en_US">The add-on is disabled. You can enable it in Options &gt; Preferences &gt; Plugins.</val>
+      </comment>
+      <val lang="zh_CN">该插件包已禁用。您可以在 “选项” &gt; “首选项” &gt; “插件” 中启用该插件。</val>
+   </key>
+   <key distribution="common" value="Choose_another_schema">
+      <comment>Messages shown in the dialog displayed when extracting a definition from a schema to another.</comment>
+      <comment>
+         <val lang="en_US">The chosen schema is the same one with the current schema. Please select another schema.</val>
+      </comment>
+      <val lang="zh_CN">您选择的模式与当前模式是同一个模式。请选择其他模式。</val>
+   </key>
+   <key value="Destination_schema_is_modified">
+      <comment>Message shown when extracting a definition to other file and the destination schema is modified.</comment>
+      <comment>
+         <val lang="en_US">The destination schema "{0}" is already opened and modified in the editor.\nTo continue,
+            the file must be saved.</val>
+      </comment>
+      <val lang="zh_CN">目标模式 “{0}” 已在编辑窗口中打开并修改。\n如果要继续操作，必须先保存该文件。</val>
+   </key>
+   <key distribution="common" value="Extract_definition_in_current_file">
+      <comment>JSON Diagram Contextual menu action name</comment>
+      <comment>
+         <val lang="en_US">Extract definition in current file</val>
+      </comment>
+      <val lang="zh_CN">提取当前文件中的定义</val>
+   </key>
+   <key distribution="common" value="Extract_definition_in_another_file">
+      <comment>JSON Diagram Contextual menu action name</comment>
+      <comment>
+         <val lang="en_US">Extract definition in another file</val>
+      </comment>
+      <val lang="zh_CN">提取另一个文件中的定义</val>
+   </key>
+   <key value="Selected_documents_are_identical">
+      <comment>Diff: Selected documents are identical</comment>
+      <comment>
+         <val lang="en_US">Selected documents are identical.</val>
+      </comment>
+      <val lang="zh_CN">您选择的文档完全相同。</val>
+   </key>
+   <key value="Found_differences">
+      <comment>Diff: Found X differences</comment>
+      <comment>
+         <val lang="en_US">Found {0} differences.</val>
+      </comment>
+      <val lang="zh_CN">发现了{0} 处差异。</val>
+   </key>
+   <key value="Used_algorithm">
+      <comment>Diff: Used algorithm</comment>
+      <comment>
+         <val lang="en_US">Used algorithm:</val>
+      </comment>
+      <val lang="zh_CN">使用的算法：</val>
+   </key>
+   <key distribution="common" value="Convert_JSON_Schema">
+      <comment>The JSON Tools action for converting JSON Schema to a newer version.</comment>
+      <comment>
+         <val lang="en_US">Convert JSON Schema</val>
+      </comment>
+      <val lang="zh_CN">转换 JSON Schema</val>
+   </key>
+   <key value="Automatically_save_local_dita_maps_after_modification">
+      <comment>Option that enables automatically save of DITAMaps opened in DITA Maps Manager after each change.</comment>
+      <comment>
+         <val lang="en_US">Automatically save local DITA maps after each modification</val>
+      </comment>
+      <val lang="zh_CN">每次修改后自动保存本地的 DITA 导图</val>
+   </key>
+   <key distribution="common" value="Edit_dependencies">
+      <comment>Action/dialog name for editing dependencies in JSON Diagram.</comment>
+      <comment>
+         <val lang="en_US">Edit Dependencies</val>
+      </comment>
+      <val lang="zh_CN">编辑依赖项</val>
+   </key>
+   <key value="Cannot_move_rename_resources_out_of_date">
+      <comment>Error message displayed when try to rename/move a resource and one or more resources are out of
+            date.</comment>
+      <comment>
+         <val lang="en_US">The move/rename operation cannot be performed because one or more resources are out of date.
+            \nPlease refresh the 'Referenced/Dependent Resource' view and try again.</val>
+      </comment>
+      <val lang="zh_CN">无法移动/重命名资源，因为一个或多个资源已过期。\n请刷新 “引用/依赖的资源” 视图，然后再试一次。</val>
+   </key>
+   <key distribution="common" value="Resource_hierarchy_dependencies">
+      <comment>Dependencies or hierarchy view</comment>
+      <comment>
+         <val lang="en_US">Referenced/Dependent Resources</val>
+      </comment>
+      <val lang="zh_CN">引用/依赖的资源</val>
+   </key>
+   <key value="Hierarchy_info_message">
+      <comment>Hierarchy/dependencies view information message</comment>
+      <comment>
+         <val lang="en_US">To display the referenced resources for a particular resource, use the "{0}" action from the contextual menu in the Project view, or to display the dependent resources for a particular resource, use the "{1}" action.</val>
+      </comment>
+      <val lang="zh_CN">要显示特定资源引用的资源，请在 “项目” 视图中选择右键菜单中的 “{0}”；要显示特定资源依赖的资源，请选择 “{1}”。</val>
+   </key>
+   <key value="Dependencies_refresh_info_message">
+      <comment>Hierarchy/dependencies view, computing dependencies information message</comment>
+      <comment>
+         <val lang="en_US">Use the "{0}" action from toolbar to recompute the dependencies for last resource "{1}".</val>
+      </comment>
+      <val lang="zh_CN">使用工具栏中的 “{0}” 按钮重新计算上一个资源 “{1}” 的依赖关系。</val>
+   </key>
+   <key value="Hierarchy_refresh_info_message">
+      <comment>Hierarchy/dependencies view, computing hierarchy information message</comment>
+      <comment>
+         <val lang="en_US">Use the "{0}" action from toolbar to recompute the hierarchy for last resource "{1}".</val>
+      </comment>
+      <val lang="zh_CN">使用工具栏中的 “{0}” 按钮重新计算上一个资源 “{1}” 的层次结构。</val>
+   </key>
+   <key value="Show_referenced_resources">
+      <comment>Show file referenced hierarchy.</comment>
+      <comment>
+         <val lang="en_US">Show referenced resources</val>
+      </comment>
+      <val lang="zh_CN">显示引用的资源</val>
+   </key>
+   <key value="Show_dependent_resources">
+      <comment>Show file dependencies.</comment>
+      <comment>
+         <val lang="en_US">Show dependent resources</val>
+      </comment>
+      <val lang="zh_CN">显示依赖的资源</val>
+   </key>
+   <key value="Ignore_these_files">
+      <comment>A text field. The user specifies the file patterns, like *.tmp of the files that are excepted from
+            indexing and searching.</comment>
+      <comment>
+         <val lang="en_US">Ignore these files</val>
+      </comment>
+      <val lang="zh_CN">要忽略的文件</val>
+   </key>
+   <key value="Remove_from_main_files">
+      <comment>Remove files from main files action tag</comment>
+      <comment>
+         <val lang="en_US">Remove from Main Files</val>
+      </comment>
+      <val lang="zh_CN">从主文件中删除</val>
+   </key>
+   <key value="Table_no_rows">
+      <comment>Error message when validating a table.</comment>
+      <comment>
+         <val lang="en_US">No rows are present in the element "{0}".</val>
+      </comment>
+      <val lang="zh_CN">元素 “{0}” 中没有表格行。</val>
+   </key>
+   <key value="changes_in_selected_file">
+      <comment>Part of an explanatory message shown when previewing changes to be performed in a group of files.</comment>
+      <comment>
+         <val lang="en_US">changes in the selected file</val>
+      </comment>
+      <val lang="zh_CN">所选文件中的更改</val>
+   </key>
+   <key value="json_keyword_unevaluated_properties_tooltip">
+      <comment>Tooltip for unevaluatedProperties keyword.</comment>
+      <comment>
+         <val lang="en_US">The "unevaluatedProperties" keyword is similar to "additionalProperties" except that it can recognize properties declared in subschemas.</val>
+      </comment>
+      <val lang="zh_CN">关键字 “unevalutionProperties” 与 “additionalProperties” 类似，唯一不同的是它可以识别子模式中声明的属性。</val>
+   </key>
+   <key value="json_keyword_unevaluated_items_tooltip">
+      <comment>Tooltip for unevaluatedItems keyword.</comment>
+      <comment>
+         <val lang="en_US">The value must be a valid JSON Schema, which will be applied to all array items that were not evaluated by other keywords for items (prefixItems, items, contains).</val>
+      </comment>
+      <val lang="zh_CN">该值必须是一个有效的 JSON Schema。所有未被其他关键字（“prefixItems”、“items” 和 “contains”）校验过的数组项都将由这个 JSON Schema 校验。</val>
+   </key>
+   <key value="json_keyword_min_contains_tooltip">
+      <comment>Tooltip for minContains keyword.</comment>
+      <comment>
+         <val lang="en_US">Specifies minimum times a schema should match the "contains" constraint.</val>
+      </comment>
+      <val lang="zh_CN">使用一个模式校验数组时，数组中匹配 “contains” 子模式的匹配项数量下限。</val>
+   </key>
+   <key value="json_keyword_max_contains_tooltip">
+      <comment>Tooltip for maxContains keyword.</comment>
+      <comment>
+         <val lang="en_US">Specifies maximum times a schema should match the "contains" constraint.</val>
+      </comment>
+      <val lang="zh_CN">使用一个模式校验数组时，数组中匹配 “contains” 子模式的匹配项数量上限。</val>
+   </key>
+   <key value="json_keyword_deprecated_tooltip">
+      <comment>Tooltip for deprecated keyword.</comment>
+      <comment>
+         <val lang="en_US">Indicates that the instance value is deprecated and should not be used since it may be removed in the future.</val>
+      </comment>
+      <val lang="zh_CN">表明实例值已被废弃，不要再使用了，因为它将来可能会被删除。</val>
+   </key>
+   <key value="Cache_content_similar_http_req">
+      <comment>Name of checkbox in the HTTP preferences page.</comment>
+      <comment>
+         <val lang="en_US">Cache content for similar HTTP requests when opening and validating documents</val>
+      </comment>
+      <val lang="zh_CN">打开和验证文档时，为相似的 HTTP 请求缓存内容</val>
+   </key>
+   <key value="Insert_as_Figure">
+      <comment>Name of the action that inserts an image as 'figure' element.</comment>
+      <comment>
+         <val lang="en_US">Insert as Figure</val>
+      </comment>
+      <val lang="zh_CN">插入为插图</val>
+   </key>
+   <key value="Expand_reference">
+      <comment>Tooltip used on a button which expands references to content located some place else.</comment>
+      <comment>
+         <val lang="en_US">Expand reference</val>
+      </comment>
+      <val lang="zh_CN">展开引用</val>
+   </key>
+   <key value="Error_extra_libs_uninstall">
+      <comment>Please close the application and remove the additional jar libraries from the application "lib" folder.
+          Alternatively, you can uninstall the application, remove the application folder, if it still exists after the uninstall, and then re-install.</comment>
+      <comment>
+         <val lang="en_US">Please close the application and remove the additional jar libraries from the application's "lib" folder.\nAlternatively, you can uninstall the application, remove the application folder (if it still exists after the uninstall process), and then re-install it.</val>
+      </comment>
+      <val lang="zh_CN">请关闭本应用程序，然后从安装目录的 “lib” 文件夹中删除额外的 JAR 文件。\ n或者，您也可以卸载本应用程序，并删除安装目录（如果卸载后安装目录未被删除的话），然后重新安装。</val>
+   </key>
+   <key value="Error_extra_libs_in_lib_folder">
+      <comment>Error shown by the application when additional libraries are found in the libraries folder.</comment>
+      <comment>
+         <val lang="en_US">There are additional libraries present in the application's libraries folder:</val>
+      </comment>
+      <val lang="zh_CN">本应用程序的 &quot;lib&quot; 文件夹中有额外的 JAR 文件：</val>
+   </key>
+   <key value="Specify_the_new_name">
+      <comment>SVN Rename dialog, 'Specify the new name:' label</comment>
+      <comment>
+         <val lang="en_US">Specify the new name:</val>
+      </comment>
+      <val lang="zh_CN">输入新名称：</val>
+   </key>
+   <key value="Convert_type_to_any_type">
+      <comment>JSON Diagram Contextual menu action name.</comment>
+      <comment>
+         <val lang="en_US">Convert type to 'any' type</val>
+      </comment>
+      <val lang="zh_CN">将 “type” 转换为“any type”</val>
+   </key>
+   <key value="Convert_any_type_to_standard_type">
+      <comment>JSON Diagram Contextual menu action name.</comment>
+      <comment>
+         <val lang="en_US">Convert 'any' type to standard type</val>
+      </comment>
+      <val lang="zh_CN">将 “any type” 转换为“type”</val>
+   </key>
+   <key value="Keys_not_gathered_no_ditamap">
+      <comment>Warning message when we don't have a DITA Map from which to collect keys.</comment>
+      <comment>
+         <val lang="en_US">There is no map opened in the DITA Maps Manager view and no context map specified.</val>
+      </comment>
+      <val lang="zh_CN">DITA 导图管理器中没有打开的导图，也没有指定上下文导图。</val>
+   </key>
+   <key value="Rename_resource_root_map">
+      <comment>Label message shown in the Rename resource dialog to inform the user about the current map context.</comment>
+      <comment>
+         <val lang="en_US">Rename resource in the context of the DITA map(s)</val>
+      </comment>
+      <val lang="zh_CN">要重命名的资源所在的上下文导图</val>
+   </key>
+   <key value="Move_resource_root_map">
+      <comment>Label message shown in the Move resource dialog to inform the user about the current map context.</comment>
+      <comment>
+         <val lang="en_US">Move resource in the context of the DITA map(s)</val>
+      </comment>
+      <val lang="zh_CN">要移动的资源所在的上下文导图</val>
+   </key>
+   <key value="Generate_metrics_report">
+      <comment>Name of the action for generating metrics report</comment>
+      <comment>
+         <val lang="en_US">Generate Metrics Report</val>
+      </comment>
+      <val lang="zh_CN">生成统计报告</val>
+   </key>
+   <key distribution="webauthor" value="CONCURRENT_SESSION_CLOSED_UNEX">
+      <comment>Description for an error shown when the concurrent editing session closed unexpectedly.</comment>
+      <comment>
+         <val lang="en_US">Concurrent editing session closed unexpectedly.</val>
+      </comment>
+      <val lang="zh_CN">协同编辑会话异常关闭。</val>
+   </key>
+   <key value="Review_settings">
+      <comment>Name of the action for opening the prefferences for Review Settings</comment>
+      <comment>
+         <val lang="en_US">Review Settings</val>
+      </comment>
+      <val lang="zh_CN">审阅设置</val>
+   </key>
+   <key value="Initial_display_mode">
+      <comment>The track changes view changes/comments combo label</comment>
+      <comment>
+         <val lang="en_US">Initial display mode</val>
+      </comment>
+      <val lang="zh_CN">初始显示模式</val>
+   </key>
+   <key value="Make_all_properties_required">
+      <comment>JSON Schema Generator option to mark all properties as required.</comment>
+      <comment>
+         <val lang="en_US">Make all properties required</val>
+      </comment>
+      <val lang="zh_CN">将所有属性设置为必需</val>
+   </key>
+   <key value="Include_content_of_these_binary_files">
+      <comment>A text field. The user specifies the file patterns, like *.pdf of the binary files that are included in
+            content indexing and searching.</comment>
+      <comment>
+         <val lang="en_US">Include the contents of these binary files:</val>
+      </comment>
+      <val lang="zh_CN">要包含的二进制文件：</val>
+   </key>
+   <key value="Binary_files_are_ignored">
+      <comment>Message stating that the binary files are ignored from searching. The patterns for binary files are
+            defined in another section in the preferences dialog. (See translation key: File_types)</comment>
+      <comment>
+         <val lang="en_US">All other binary files are ignored. See </val>
+      </comment>
+      <val lang="zh_CN">忽略了其他所有的二进制文件。请参见 </val>
+   </key>
+   <key value="Component_with_same_name">
+      <comment>Label in the JSON schema diagram displayed when a component with the same name is inserted.</comment>
+      <comment>
+         <val lang="en_US">There is already a component with the same name, set a different name.</val>
+      </comment>
+      <val lang="zh_CN">和已有组件重名，请使用其他名称。</val>
+   </key>
+   <key value="duplicate_name">
+      <comment>JSON Diagram duplicate component dialog.</comment>
+      <comment>
+         <val lang="en_US">Duplicate name</val>
+      </comment>
+      <val lang="zh_CN">重复的名称</val>
+   </key>
+   <key value="Extract_definition">
+      <comment>JSON Diagram Contextual menu action name.</comment>
+      <comment>
+         <val lang="en_US">Extract definition</val>
+      </comment>
+      <val lang="zh_CN">提取定义</val>
+   </key>
+   <key value="Perform_rename_on_local_references">
+      <comment>Warning message shown when DITA Map Rename action is invoked on remote resources.</comment>
+      <comment>
+         <val lang="en_US">The rename can be performed only on local referenced resources.</val>
+      </comment>
+      <val lang="zh_CN">只能重命名已引用的本地资源。</val>
+   </key>
+   <key value="Perform_move_on_local_references">
+      <comment>Warning message shown when DITA Map Move action is invoked on remote resources.</comment>
+      <comment>
+         <val lang="en_US">The move can be performed only on local referenced resources.</val>
+      </comment>
+      <val lang="zh_CN">只能移动已引用的本地资源。</val>
+   </key>
+   <key value="Image_Map">
+      <comment>JSON Schema Documentation Generator option.</comment>
+      <comment>
+         <val lang="en_US">Image Map</val>
+      </comment>
+      <val lang="zh_CN">图像地图</val>
+   </key>
+   <key distribution="webauthor" value="unexpected-state-please-reload">
+      <comment>Message to be presented to the end-user when server ran into an unexpected state and user is requested to reload the page.</comment>
+      <comment>
+         <val lang="en_US">Server ran into an unexpected state. Please reload the page.</val>
+      </comment>
+      <val lang="zh_CN">服务器进入异常状态。请重新加载页面。</val>
+   </key>
+   <key value="Convert_empty_elements_to">
+      <comment>Label for XML to JSON conversion option.</comment>
+      <comment>
+         <val lang="en_US">Convert empty elements to structures of type</val>
+      </comment>
+      <val lang="zh_CN">将空元素转换为以下类型的结构</val>
+   </key>
+   <key skipTranslation="true" value="array">
+      <comment>JSON array data structure.</comment>
+      <comment>
+         <val lang="en_US">array</val>
+      </comment>
+      <val lang="zh_CN">array</val>
+   </key>
+   <key skipTranslation="true" value="object">
+      <comment>JSON object data structure.</comment>
+      <comment>
+         <val lang="en_US">object</val>
+      </comment>
+      <val lang="zh_CN">object</val>
+   </key>
+   <key skipTranslation="true" value="string">
+      <comment>JSON array data structure.</comment>
+      <comment>
+         <val lang="en_US">string</val>
+      </comment>
+      <val lang="zh_CN">string</val>
+   </key>
+   <key value="Default_namespace_for_unprefixed_element_names_tooltip">
+      <comment>Tooltip presented when hover over a combo-box in "Compile XSLT" dialog box.</comment>
+      <comment>
+         <val lang="en_US">Specify a URI or choose a predefined value from the list.</val>
+      </comment>
+      <val lang="zh_CN">输入 URI 或从列表中选择一个预定义的值。</val>
+   </key>
+   <key value="Default_namespace_for_unprefixed_element_names">
+      <comment>Name of an option in "Compile XSLT" dialog box.</comment>
+      <comment>
+         <val lang="en_US">Set the default namespace for unprefixed element names</val>
+      </comment>
+      <val lang="zh_CN">为不带前缀的元素名称设置默认命名空间</val>
+   </key>
+   <key value="Make_Optional">
+      <comment>JSON Diagram action name.</comment>
+      <comment>
+         <val lang="en_US">Make optional</val>
+      </comment>
+      <val lang="zh_CN">设为可选</val>
+   </key>
+   <key value="Make_Required">
+      <comment>JSON Diagram action name.</comment>
+      <comment>
+         <val lang="en_US">Make required</val>
+      </comment>
+      <val lang="zh_CN">设为必需</val>
+   </key>
+   <key value="Schema_composition">
+      <comment>Name of a section in JSON Schema Palette View.</comment>
+      <comment>
+         <val lang="en_US">Schema composition</val>
+      </comment>
+      <val lang="zh_CN">模式组合</val>
+   </key>
+   <key value="Conditionals">
+      <comment>Name of a section in JSON Schema Palette View.</comment>
+      <comment>
+         <val lang="en_US">Conditionals</val>
+      </comment>
+      <val lang="zh_CN">条件逻辑</val>
+   </key>
+   <key value="Json_palette_group_tooltip">
+      <comment>Tooltip for groups used in JSON Schema Palette View. The parameter is one of the following String constructs: properties, pattern properties, definitions, items, items array.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to create a new "{0}" group</val>
+      </comment>
+      <val lang="zh_CN">拖放到 “设计” 页面以创建一个新的 “{0}” 分组</val>
+   </key>
+   <key value="Json_palette_component_tooltip">
+      <comment>Tooltip for components used in JSON Schema Palette View. The parameter is one of the following String constructs: property, pattern property, definition, additional properties, additional items.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to create a new "{0}" component</val>
+      </comment>
+      <val lang="zh_CN">拖放到 “设计” 页面以创建一个新的 “{0}” 组</val>
+   </key>
+   <key value="Json_palette_schema_composition_tooltip">
+      <comment>Tooltip for schema composition used in JSON Schema Palette View. The parameter is one of the following String constructs: anyOf, oneOf, allOf, not.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to add a schema composition of type "{0}"</val>
+      </comment>
+      <val lang="zh_CN">拖放到”设计“页面以添加一个 “{0}” 类型的模式组合</val>
+   </key>
+   <key value="Json_palette_conditional_tooltip">
+      <comment>Tooltip for conditionals used in JSON Schema Palette View. The parameter is one of the following String constructs: if, then, else.</comment>
+      <comment>
+         <val lang="en_US">Drag and drop into Design page to add a conditional of type "{0}"</val>
+      </comment>
+      <val lang="zh_CN">拖放到 “设计” 页面以添加一个 “{0}” 类型的条件逻辑</val>
+   </key>
+   <key value="json_keyword_examples_tooltip">
+      <comment>Tooltip for examples keyword.</comment>
+      <comment>
+         <val lang="en_US">The "examples" keyword provides an array of examples that validate against the schema.</val>
+      </comment>
+      <val lang="zh_CN">关键字 “examples” 可以为模式验证提供一组示例。</val>
+   </key>
+   <key value="json_keyword_default_tooltip">
+      <comment>Tooltip for default keyword.</comment>
+      <comment>
+         <val lang="en_US">The "default" keyword specifies a default value.</val>
+      </comment>
+      <val lang="zh_CN">关键字 “default” 可以指定一个默认值。</val>
+   </key>
+   <key value="json_keyword_description_tooltip">
+      <comment>Tooltip for description keyword.</comment>
+      <comment>
+         <val lang="en_US">The "description" annotation keyword is descriptive only.</val>
+      </comment>
+      <val lang="zh_CN">注释关键字 “description” 仅用于描述。</val>
+   </key>
+   <key value="json_keyword_title_tooltip">
+      <comment>Tooltip for title keyword.</comment>
+      <comment>
+         <val lang="en_US">The "title" annotation keyword is descriptive only.</val>
+      </comment>
+      <val lang="zh_CN">注释关键字 “title” 仅用于描述。</val>
+   </key>
+   <key value="json_keyword_items_tooltip">
+      <comment>Tooltip for items keyword.</comment>
+      <comment>
+         <val lang="en_US">An array is valid against this keyword if all its items are valid against the corresponding schemas provided by the keyword value.</val>
+      </comment>
+      <val lang="zh_CN">只有当所有数组项都通过了关键字值所定义的模式校验时，该数组才能通过关键字的模式校验。</val>
+   </key>
+   <key value="json_keyword_contains_tooltip">
+      <comment>Tooltip for contains keyword.</comment>
+      <comment>
+         <val lang="en_US">An array is valid against this keyword if at least one of its items is valid against the schema defined by the keyword value.</val>
+      </comment>
+      <val lang="zh_CN">至少有一个数组项通过了关键字值所定义的模式校验时，该数组才能通过关键字的模式校验。</val>
+   </key>
+   <key value="json_keyword_content_encoding_tooltip">
+      <comment>Tooltip for contentEncoding keyword.</comment>
+      <comment>
+         <val lang="en_US">A string is valid against this keyword if it is encoded using the method indicated by the keyword value. The value must be a string.</val>
+      </comment>
+      <val lang="zh_CN">只有采用了关键字值所指定的编码方式，该字符串才能通过关键字的模式校验。关键字值必须是字符串。</val>
+   </key>
+   <key value="json_keyword_id_tooltip">
+      <comment>Tooltip for $id keyword.</comment>
+      <comment>
+         <val lang="en_US">Specifies a unique ID for a document or a document sub-schema. The value must be a string representing a URI.</val>
+      </comment>
+      <val lang="zh_CN">为文档或文档子模式指定唯一标识符（ID）。关键字值必须是 URI 字符串。</val>
+   </key>
+   <key value="json_keyword_content_media_type_tooltip">
+      <comment>Tooltip for contentMediaType keyword.</comment>
+      <comment>
+         <val lang="en_US">A string is valid against this keyword if its content has the media type (MIME type) indicated by the keyword value. If the "contentEncoding" keyword is also specified, the decoded content must have the indicated media type.</val>
+      </comment>
+      <val lang="zh_CN">只有当字符串内容的媒体类型与关键字值所指定的媒体类型（MIME 类型）一致时，该字符串才能通过关键字的模式校验。如果同时指定了关键字 “contentEncoding”，解码后的内容也必须是同一媒体类型的。</val>
+   </key>
+   <key value="json_keyword_format_tooltip">
+      <comment>Tooltip for format keyword.</comment>
+      <comment>
+         <val lang="en_US">Performs a semantic validation on data. The value must be a string that represents a format.</val>
+      </comment>
+      <val lang="zh_CN">对数据进行语义校验。关键字值必须是表示某种格式的字符串。</val>
+   </key>
+   <key value="json_keyword_property_names_tooltip">
+      <comment>Tooltip for propertyNames keyword.</comment>
+      <comment>
+         <val lang="en_US">An object is valid against this keyword if every property name (key) is valid against the keyword value.</val>
+      </comment>
+      <val lang="zh_CN">只有当每一个属性名称（键）都通过了关键字值所定义的模式校验时，该对象才能通过关键字的模式校验。</val>
+   </key>
+   <key value="json_keyword_schema_tooltip">
+      <comment>Tooltip for $schema keyword.</comment>
+      <comment>
+         <val lang="en_US">This keyword is used to specify the desired schema version.</val>
+      </comment>
+      <val lang="zh_CN">该关键字用于指定模式版本。</val>
+   </key>
+   <key value="json_keyword_comment_tooltip">
+      <comment>Tooltip for $comment keyword.</comment>
+      <comment>
+         <val lang="en_US">Contains an observation about the schema. The value must be a string.</val>
+      </comment>
+      <val lang="zh_CN">为模式添加注释。关键字值必须是字符串。</val>
+   </key>
+   <key value="json_keyword_write_only_tooltip">
+      <comment>Tooltip for writeOnly keyword.</comment>
+      <comment>
+         <val lang="en_US">Used to mark specific properties as write-only.</val>
+      </comment>
+      <val lang="zh_CN">将属性标记为只写。</val>
+   </key>
+   <key value="json_keyword_read_only_tooltip">
+      <comment>Tooltip for readOnly keyword.</comment>
+      <comment>
+         <val lang="en_US">Used to mark specific properties as read-only.</val>
+      </comment>
+      <val lang="zh_CN">将属性标记为只读。</val>
+   </key>
+   <key value="json_keyword_const_tooltip">
+      <comment>Tooltip for const keyword.</comment>
+      <comment>
+         <val lang="en_US">An instance validates against this keyword if its value equals the value of this keyword. The value can be anything.</val>
+      </comment>
+      <val lang="zh_CN">只有当实例值等于关键字值时，该实例才能通过关键字的模式校验。关键字值可以是任意类型。</val>
+   </key>
+   <key value="json_keyword_enum_tooltip">
+      <comment>Tooltip for enum keyword.</comment>
+      <comment>
+         <val lang="en_US">An instance validates against this keyword if its value can be found in the items defined by the keyword value. The value must be an array that contains anything (an empty array is not allowed).</val>
+      </comment>
+      <val lang="zh_CN">只有当实例值等于关键字值数组中的某一项时，该实例才能通过关键字的模式校验。关键字值必须是非空数组，数组元素可以是任意类型。</val>
+   </key>
+   <key value="json_keyword_required_tooltip">
+      <comment>Tooltip for required keyword.</comment>
+      <comment>
+         <val lang="en_US">An object is valid against this keyword if it contains all property names (keys) specified by the keyword value. The value must be a non-empty array of strings that represent property names.</val>
+      </comment>
+      <val lang="zh_CN">只有包含了关键字值指定的所有属性名称（键），该对象才能通过关键字的模式校验。关键字值必须是非空数组，且数组元素必须是表示属性名称的字符串。</val>
+   </key>
+   <key value="json_keyword_pattern_tooltip">
+      <comment>Tooltip for pattern keyword.</comment>
+      <comment>
+         <val lang="en_US">A string is valid against this keyword if it matches the regular expression specified by the keyword value. The value must be a string that represents a valid regular expression.</val>
+      </comment>
+      <val lang="zh_CN">只有与关键字值指定的正则表达式匹配，该字符串才能通过关键字的模式校验。关键字值必须是有效的正则表达式。</val>
+   </key>
+   <key value="json_keyword_max_length_tooltip">
+      <comment>Tooltip for maxLength keyword.</comment>
+      <comment>
+         <val lang="en_US">A string is valid against this keyword if its length is lower than or equal to the keyword value. The value must be a non-negative integer.</val>
+      </comment>
+      <val lang="zh_CN">只有当字符串的长度小于或等于关键字值时，该字符串才能通过关键字的模式校验。关键字值必须是非负整数。</val>
+   </key>
+   <key value="json_keyword_min_length_tooltip">
+      <comment>Tooltip for minLength keyword.</comment>
+      <comment>
+         <val lang="en_US">A string is valid against this keyword if its length is greater than or equal to the keyword value. The value must be a non-negative integer.</val>
+      </comment>
+      <val lang="zh_CN">只有当字符串的长度大于或等于关键字值时，该字符串才能通过关键字的模式校验。关键字值必须是非负整数。</val>
+   </key>
+   <key value="json_keyword_type_tooltip">
+      <comment>Tooltip for type keyword.</comment>
+      <comment>
+         <val lang="en_US">Specifies the type of data that the schema is expecting to validate. This keyword is not mandatory and the value must be a string representing a valid data type, or an array of strings representing a valid list of data types.</val>
+      </comment>
+      <val lang="zh_CN">指定模式用于校验的数据类型。该关键字不是必需的，且关键字值必须是有效的数据类型或数据类型列表。</val>
+   </key>
+   <key value="json_keyword_ref_tooltip">
+      <comment>Tooltip for $ref keyword.</comment>
+      <comment>
+         <val lang="en_US">An instance is valid against this keyword if it is valid against the schema that points to the location indicated by the keyword value. The value must be a string representing a URI, URI reference, URI template, or JSON pointer.</val>
+      </comment>
+      <val lang="zh_CN">只要通过了关键字值指示位置的模式校验，该实例就通过了关键字的模式校验。该关键字值必须是URI、URI 引用、URI 模板或 JSON 指针字符串。</val>
+   </key>
+   <key value="json_keyword_min_items_tooltip">
+      <comment>Tooltip for minItems keyword.</comment>
+      <comment>
+         <val lang="en_US">An array is valid against this keyword if the number of items it contains is greater than or equal to the keyword value. The value must be a non-negative integer.</val>
+      </comment>
+      <val lang="zh_CN">只有当数组项的个数大于或等于关键字值时，该数组才能通过关键字的模式校验。关键字值必须是非负整数。</val>
+   </key>
+   <key value="json_keyword_max_items_tooltip">
+      <comment>Tooltip for maxItems keyword.</comment>
+      <comment>
+         <val lang="en_US">An array is valid against this keyword if the number of items it contains is lower than or equal to the keyword value. The value must be a non-negative integer.</val>
+      </comment>
+      <val lang="zh_CN">只有当数组项的个数小于或等于关键字值时，该数组才能通过关键字的模式校验。关键字值必须是非负整数。</val>
+   </key>
+   <key value="json_keyword_unique_items_tooltip">
+      <comment>Tooltip for uniqueItems keyword.</comment>
+      <comment>
+         <val lang="en_US">An array is valid against this keyword if an item cannot be found more than once in the array. The value must be boolean. If set to false, the keyword validation will be ignored.</val>
+      </comment>
+      <val lang="zh_CN">只要数组中没有重复的数组项，该数组就能通过关键字的模式校验。关键字值必须是布尔值。如果关键字的值为 “false”，关键字的模式校验将会被忽略。</val>
+   </key>
+   <key value="json_keyword_additional_items_tooltip">
+      <comment>Tooltip for additionalItems keyword.</comment>
+      <comment>
+         <val lang="en_US">An array is valid against this keyword if all its unchecked items are valid against the schema defined by the keyword value.</val>
+      </comment>
+      <val lang="zh_CN">只有当数组中所有未被校验的数组项都通过了关键字值定义的模式校验时，该数组才能通过关键字的模式校验。</val>
+   </key>
+   <key value="json_keyword_min_properties_tooltip">
+      <comment>Tooltip for minProperties keyword.</comment>
+      <comment>
+         <val lang="en_US">An object is valid against this keyword if the number of properties it contains is greater than or equal to the keyword value. The value of this keyword must be a non-negative integer. Using 0 as a value has no effect.</val>
+      </comment>
+      <val lang="zh_CN">只有当对象包含的属性个数大于或等于关键字值时，该对象才能通过关键字的模式校验。关键字值必须是非负整数。如果关键字值等于 0，该校验不发挥任何作用。</val>
+   </key>
+   <key value="json_keyword_max_properties_tooltip">
+      <comment>Tooltip for maxProperties keyword.</comment>
+      <comment>
+         <val lang="en_US">An object is valid against this keyword if the number of properties it contains is lower than or equal to the keyword value. The value must be a non-negative integer. Using 0 as a value means that the object must be empty (no properties).</val>
+      </comment>
+      <val lang="zh_CN">只有当对象包含的属性个数小于或等于关键字值时，该对象才能通过关键字的模式校验。关键字值必须是非负整数。如果关键字值等于 0，则该对象必须为空（即不包含任何属性）。</val>
+   </key>
+   <key value="json_keyword_additional_properties_tooltip">
+      <comment>Tooltip for additionalProperties keyword.</comment>
+      <comment>
+         <val lang="en_US">An object is valid against this keyword if all its unchecked properties are valid against the schema defined by the keyword value. Unchecked properties are the properties not checked by the "properties" and "patternProperties" keywords.</val>
+      </comment>
+      <val lang="zh_CN">只有当所有未被校验的属性都通过了关键字值定义的模式校验时，该对象才能通过关键字的模式校验。未被校验的属性是指未被关键字 “properties” 和 “patternProperties” 校验的属性。</val>
+   </key>
+   <key value="json_keyword_pattern_properties_tooltip">
+      <comment>Tooltip for patternProperties keyword.</comment>
+      <comment>
+         <val lang="en_US">An object is valid against this keyword if every property where a property name (key) matches a regular expression from its value and is also valid against the corresponding schema.</val>
+      </comment>
+      <val lang="zh_CN">只要属性名称（键）与关键字值中的正则表达式匹配，其属性必须得通过对应的模式校验，该对象才能通过关键字的模式校验。</val>
+   </key>
+   <key value="json_keyword_minimum_tooltip">
+      <comment>Tooltip for minimum keyword.</comment>
+      <comment>
+         <val lang="en_US">A number is valid against this keyword if it is greater than or equal to the keyword value. The value must be a number (integer or float).</val>
+      </comment>
+      <val lang="zh_CN">只有大于或等于关键字值的数值，才能通过关键字的模式校验。关键字值必须是数值（整数或浮点数）。</val>
+   </key>
+   <key value="json_keyword_maximum_tooltip">
+      <comment>Tooltip for maximum keyword.</comment>
+      <comment>
+         <val lang="en_US">A number is valid against this keyword if it is lower than or equal to the keyword value. The value must be a number (integer or float).</val>
+      </comment>
+      <val lang="zh_CN">只有小于或等于关键字值的数值，才能通过关键字的模式校验。关键字值必须是数值（整数或浮点数）。</val>
+   </key>
+   <key value="json_keyword_exclusive_minimum_tooltip">
+      <comment>Tooltip for exclusiveMinimum keyword.</comment>
+      <comment>
+         <val lang="en_US">A number is valid against this keyword if it is strictly greater than the keyword value. The value must be a number (integer or float) or boolean.</val>
+      </comment>
+      <val lang="zh_CN">只有严格大于关键字值的数值，才能通过关键字的模式校验。关键字值必须是数值（整数或浮点数）或布尔值。</val>
+   </key>
+   <key value="json_keyword_exclusive_maximum_tooltip">
+      <comment>Tooltip for exclusiveMaximum keyword.</comment>
+      <comment>
+         <val lang="en_US">A number is valid against this keyword if it is strictly lower than the keyword value. The value must be a number (integer or float) or boolean.</val>
+      </comment>
+      <val lang="zh_CN">只有严格小于关键字值的数值，才能通过关键字的模式校验。关键字值必须是数值（整数或浮点数）或布尔值。</val>
+   </key>
+   <key value="json_keyword_multiple_of_tooltip">
+      <comment>Tooltip for multipleOf keyword.</comment>
+      <comment>
+         <val lang="en_US">A number is valid against this keyword if the division between the number and its value results in an integer. The value must be a strictly positive number (zero is not allowed).</val>
+      </comment>
+      <val lang="zh_CN">只有可以被关键字值整除的数值，才能通过关键字的模式校验。关键字值必须是正数（不能是零）。</val>
+   </key>
+   <key value="Additional_ant_args">
+      <comment>Label for the text field specifying additional DITA Open Toolkit Ant command line arguments</comment>
+      <comment>
+         <val lang="en_US">Additional Ant arguments</val>
+      </comment>
+      <val lang="zh_CN">额外的 Ant 参数</val>
+   </key>
+   <key value="Check_if_entitled_to_receive_new_version_license_key">
+      <comment>Message in the Version Checker dialog.</comment>
+      <comment>
+         <val lang="en_US">You can check if you are entitled to receive a license key for the new version here</val>
+      </comment>
+      <val lang="zh_CN">您可以在这里检查您是否有权接收新版本的许可证密钥</val>
+   </key>
+   <key value="Current_license_key_will_not_work_with_new_version">
+      <comment>Message in the Version Checker dialog.</comment>
+      <comment>
+         <val lang="en_US">Your current license key might not work with the new version.</val>
+      </comment>
+      <val lang="zh_CN">您当前的许可证密钥可能不适用于新版本。</val>
+   </key>
+   <key skipTranslation="true" value="OpenAPI_Documentation">
+      <comment>Name of Generate Documentation -&gt; OpenAPI Documentation action.</comment>
+      <comment>
+         <val lang="en_US">OpenAPI Documentation</val>
+      </comment>
+      <val lang="zh_CN">OpenAPI Documentation</val>
+   </key>
+   <key skipTranslation="true" value="OpenAPI_Tester">
+      <comment>Name of JSON Tools -&gt; OpenAPI Tester action.</comment>
+      <comment>
+         <val lang="en_US">OpenAPI Tester</val>
+      </comment>
+      <val lang="zh_CN">OpenAPI Tester</val>
+   </key>
+   <key value="Content_cannot_be_inserted">
+      <comment>Title for an error message that appears after typing or pasting content</comment>
+      <comment>
+         <val lang="en_US">Content cannot be inserted</val>
+      </comment>
+      <val lang="zh_CN">无法插入内容</val>
+   </key>
+   <key value="Server_url_does_not_match_with_activation">
+      <comment>Rejection message if the URL at which the License Server is reached at does not match the one
+         used to activate the license key.</comment>
+      <comment>
+         <val lang="en_US">The configured License Server URL does not match the server URL the license key was activated for.</val>
+      </comment>
+      <val lang="zh_CN">您配置的许可证服务器 URL 与 激活许可证密钥的服务器 URL 不匹配。</val>
+   </key>
+   <key value="Pattern">
+      <comment>JSON Schema keyword</comment>
+      <comment>
+         <val lang="en_US">Pattern</val>
+      </comment>
+      <val lang="zh_CN">模式</val>
+   </key>
+   <key value="Definitions">
+      <comment>JSON Schema keyword</comment>
+      <comment>
+         <val lang="en_US">Definitions</val>
+      </comment>
+      <val lang="zh_CN">定义</val>
+   </key>
+   <key value="Duplicate_property">
+      <comment>Warning message in JSON Diagram</comment>
+      <comment>
+         <val lang="en_US">Duplicate property</val>
+      </comment>
+      <val lang="zh_CN">重复的属性</val>
+   </key>
+   <key value="Conditional">
+      <comment>Name of an actions menu in JSON Diagram</comment>
+      <comment>
+         <val lang="en_US">Conditional</val>
+      </comment>
+      <val lang="zh_CN">条件逻辑</val>
+   </key>
+   <key value="Wrong_license_category_error_message">
+      <comment>Error message when the license category doesn't match the required ones.</comment>
+      <comment>
+         <val lang="en_US">A license is required with one of the following categories: {0}.\nThe current license category is: {1}.</val>
+      </comment>
+      <val lang="zh_CN">您需要的许可证必须属于以下类别之一：{0}。\n当前许可证的类别是：{1}。</val>
+   </key>
+   <key distribution="common" value="Property_with_same_name">
+      <comment>Label in the JSON schema diagram displayed when a property with the same name is inserted.</comment>
+      <comment>
+         <val lang="en_US">A property with the same name already exists. Set a different name.</val>
+      </comment>
+      <val lang="zh_CN">和已有属性重名，请使用其他名称。</val>
+   </key>
+   <key value="Update_reference_to_image">
+      <comment>Option for updating reference to the image</comment>
+      <comment>
+         <val lang="en_US">Update the reference to the image</val>
+      </comment>
+      <val lang="zh_CN">更新图片引用</val>
+   </key>
+   <key value="Save_image_as">
+      <comment>Name of an action used to save image as</comment>
+      <comment>
+         <val lang="en_US">Save image as</val>
+      </comment>
+      <val lang="zh_CN">将图片另存为</val>
+   </key>
+   <key value="Built_in_dita_ot_4x">
+      <comment>Option for the built-in DITA-OT 4.x directory</comment>
+      <comment>
+         <val lang="en_US">Built-in Oxygen Publishing Engine (based on DITA-OT 4.x)</val>
+      </comment>
+      <val lang="zh_CN">内置的 Oxygen Publishing Engine（基于 DITA-OT 4.x）</val>
+   </key>
+   <key value="Discard_changes_and_refresh">
+      <comment>Sharepoint online tenant URL tooltip</comment>
+      <comment>
+         <val lang="en_US">Discard changes and refresh</val>
+      </comment>
+      <val lang="zh_CN">放弃更改并刷新</val>
+   </key>
+   <key value="Tenant_URL_tooltip">
+      <comment>Sharepoint online tenant URL tooltip</comment>
+      <comment>
+         <val lang="en_US">The SharePoint Online URL or site e.g. https://tenant.sharepoint.com, https://tenant.sharepoint.com/sites/siteName</val>
+      </comment>
+      <val lang="zh_CN">您的 SharePoint URL 或网站，例如 “https://tenant.sharepoint.com”、“https://tenant.sharepoint.com/sites/siteName”</val>
+   </key>
+   <key value="Composition">
+      <comment>JSON Schema Documentation option label.</comment>
+      <comment>
+         <val lang="en_US">Composition</val>
+      </comment>
+      <val lang="zh_CN">组合</val>
+   </key>
+   <key value="Could_not_connect_to_server_Access_Denied_or_Invalid_URL">
+      <comment>Error presented to user when the SharePoint connection to server could not be performed.</comment>
+      <comment>
+         <val lang="en_US">Could not connect to server. Access Denied or Invalid URL.</val>
+      </comment>
+      <val lang="zh_CN">无法连接到服务器：访问被拒绝或 URL 无效。</val>
+   </key>
+   <key value="Imported_scenarios_are_already_contained">
+      <comment>Message received when importing global scenarios</comment>
+      <comment>
+         <val lang="en_US">Selected scenario(s) already imported.</val>
+      </comment>
+      <val lang="zh_CN">您选择的场景已经导入过了。</val>
+   </key>
+   <key value="json_schema_properties">
+      <comment>Name of a preference page</comment>
+      <comment>
+         <val lang="en_US">JSON Schema Properties</val>
+      </comment>
+      <val lang="zh_CN">JSON Schema 属性</val>
+   </key>
+   <key value="xsd_properties">
+      <comment>Name of a preference page</comment>
+      <comment>
+         <val lang="en_US">XSD Properties</val>
+      </comment>
+      <val lang="zh_CN">XSD 属性</val>
+   </key>
+   <key value="Block_tags_without_element_names">
+      <comment>Display mode for tags that shows block tags elements without text in tag.</comment>
+      <comment>
+         <val lang="en_US">Block Tags without Element Names</val>
+      </comment>
+      <val lang="zh_CN">显示块元素的简易标签</val>
+   </key>
+   <key value="Required_addons_not_found_question">
+      <comment>Message present inside the dialog that recommends installing required add-ons.</comment>
+      <comment>
+         <val lang="en_US">Do you want to review the information about the add-ons and the corresponding update sites?</val>
+      </comment>
+      <val lang="zh_CN">是否要查看该插件包及其更新源的相关信息？</val>
+   </key>
+   <key value="Required_addons_install_hint">
+      <comment>Message present inside the dialog that recommends installing required add-ons.</comment>
+      <comment>
+         <val lang="en_US">The installation of the following add-ons is configured in the Add-ons preferences page:\n{0}</val>
+      </comment>
+      <val lang="zh_CN">“首选项” &gt; “插件包”选项卡中配置了以下插件包的安装方式：\n{0}</val>
+   </key>
+   <key value="Validation_engine_not_compatible_with_document_type">
+      <comment>Error message presented when the validation engine is not compatible with the current document.</comment>
+      <comment>
+         <val lang="en_US">The "{0}" validation engine is not compatible with the current document type.</val>
+      </comment>
+      <val lang="zh_CN">验证引擎 “{0}” 与当前的文档类型不兼容。</val>
+   </key>
+   <key value="Prefer_using_dita_command">
+      <comment>Checkbox used to indicate that an executable command line script named "dita" (name which must not be translated) should be used for publishing.</comment>
+      <comment>
+         <val lang="en_US">Prefer using the "dita" command</val>
+      </comment>
+      <val lang="zh_CN">优先使用 “dita” 命令</val>
+   </key>
+   <key value="Key_ref_value_missing">
+      <comment>Message shown when a key reference value is missing/empty.</comment>
+      <comment>
+         <val lang="en_US">Key reference value is missing.</val>
+      </comment>
+      <val lang="zh_CN">键引用的属性值缺失。</val>
+   </key>
+   <key value="Required_addons_not_found_install_hint">
+      <comment>Message present inside the dialog that recommends installing required add-ons. These add-ons ids 
+            are not found in the configured update sites.</comment>
+      <comment>
+         <val lang="en_US">One or more add-ons are configured for automatic installation in the Add-ons preferences page, but the following add-on(s) could not be found in the configured update sites:\n{0}</val>
+      </comment>
+      <val lang="zh_CN">“首选项” &gt; “插件包”选项卡中有一个或多个插件包启用了自动安装，但在已配置的更新源中找不到以下插件包：\n{0}</val>
+   </key>
+   <key value="Update_sites_urls">
+      <comment>Add-ons update sites URLs column title from add-ons option pane. It represents a location where an
+            add-ons descriptor is found. This descriptor contains the information required to install add-ons.</comment>
+      <comment>
+         <val lang="en_US">Add-on Update Site URLs</val>
+      </comment>
+      <val lang="zh_CN">插件包的更新源（URL）</val>
+   </key>
+   <key value="Automatically_install_addons">
+      <comment>Label presented before a list of add-ons that will be installed automatically.</comment>
+      <comment>
+         <val lang="en_US">Automatically install add-ons</val>
+      </comment>
+      <val lang="zh_CN">自动安装插件包</val>
+   </key>
+</translation>
